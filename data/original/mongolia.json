@@ -1,0 +1,434 @@
+[
+ {
+  "id": "original-mongolia-bansh-mongolian-small-boiled-dumplings",
+  "title": "Bansh (Mongolian small boiled dumplings)",
+  "country": "Mongolia",
+  "category": "Beef",
+  "tags": [
+   "Mongolian",
+   "dumplings",
+   "boiled"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "150 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "400 g",
+    "name": "minced beef or mutton"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt (for filling)"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water or stock"
+   }
+  ],
+  "steps": [
+   "Mix the flour, water and salt into a smooth dough, knead for 5 minutes and rest for 30 minutes.",
+   "Mix the meat, onion, garlic, salt, pepper and stock until the filling is sticky.",
+   "Roll out the dough thinly and cut into circles about 7 cm wide.",
+   "Put a small spoonful of filling in each and pinch closed into half-moons.",
+   "Boil in lightly salted water for 8 to 10 minutes until they float and the filling is cooked.",
+   "Serve with some of the cooking broth, or fry the boiled dumplings briefly for crisp edges."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bansh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-mongolia-boortsog-mongolian-fried-dough-biscuits",
+  "title": "Boortsog (Mongolian fried dough biscuits)",
+  "country": "Mongolia",
+  "category": "Dessert",
+  "tags": [
+   "Mongolian",
+   "fried",
+   "Tsagaan Sar"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "200 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "1 L",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "sugar",
+    "name": "for dusting (optional)"
+   }
+  ],
+  "steps": [
+   "Mix the flour, sugar, baking powder and salt in a bowl.",
+   "Stir in the melted butter, egg and enough milk to make a soft, pliable dough.",
+   "Knead briefly, cover and rest for 20 minutes.",
+   "Roll the dough out to about 1 cm thick and cut into diamonds, rectangles or knots.",
+   "Fry in oil heated to 160°C until golden brown all over, about 3 to 4 minutes.",
+   "Drain and serve with milk tea, dusting with sugar if you wish."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Boortsog",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-mongolia-khorkhog-mongolian-lamb-and-potatoes-cooked-with-hot-stones-stove-top-version",
+  "title": "Khorkhog (Mongolian lamb and potatoes cooked with hot stones, stove-top version)",
+  "country": "Mongolia",
+  "category": "Lamb",
+  "tags": [
+   "Mongolian",
+   "festive",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.2 kg",
+    "name": "bone-in lamb or mutton, in large pieces"
+   },
+   {
+    "measure": "600 g",
+    "name": "potatoes, peeled and halved"
+   },
+   {
+    "measure": "300 g",
+    "name": "carrots, cut into chunks"
+   },
+   {
+    "measure": "1",
+    "name": "small cabbage, in wedges"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, quartered"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   }
+  ],
+  "steps": [
+   "Rinse the meat and place it in a large heavy pot with the onion, garlic, salt, pepper and the water.",
+   "Bring to a boil, cover tightly and cook on low heat for 1 hour.",
+   "Add the carrots and potatoes, cover and cook another 30 minutes.",
+   "Add the cabbage on top and cook for 15 minutes more until everything is soft and the meat comes away from the bone.",
+   "Serve the meat and vegetables in a heap, with the broth in cups on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khorkhog",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-mongolia-khuushuur-mongolian-fried-meat-pies",
+  "title": "Khuushuur (Mongolian fried meat pies)",
+  "country": "Mongolia",
+  "category": "Beef",
+  "tags": [
+   "Mongolian",
+   "fried",
+   "Naadam"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "500 g",
+    "name": "minced mutton or beef, with some fat"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, very finely chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "100 ml",
+    "name": "cold water or stock"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt (for filling)"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "1 L",
+    "name": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Mix the flour, salt and warm water into a firm dough, knead briefly, cover and rest for 30 minutes.",
+   "Mix the meat, onion, garlic, salt, pepper and cold water or stock by hand until the filling is sticky and juicy.",
+   "Divide the dough into 12 pieces and roll each into a thin circle about 15 cm wide.",
+   "Spread a thick layer of filling over half of each circle, fold over and press and crimp the edges firmly to seal.",
+   "Heat the oil to about 170°C and fry the pies for 3 to 4 minutes per side until deep golden and the meat is cooked.",
+   "Drain on paper and serve hot."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khuushuur",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-mongolia-suutei-tsai-mongolian-salted-milk-tea",
+  "title": "Suutei tsai (Mongolian salted milk tea)",
+  "country": "Mongolia",
+  "category": "Miscellaneous",
+  "tags": [
+   "Mongolian",
+   "tea",
+   "drink"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 tbsp",
+    "name": "loose-leaf black or brick tea"
+   },
+   {
+    "measure": "1 L",
+    "name": "water"
+   },
+   {
+    "measure": "500 ml",
+    "name": "whole milk"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter (optional)"
+   },
+   {
+    "measure": "1 handful",
+    "name": "toasted millet or rice (optional)"
+   }
+  ],
+  "steps": [
+   "Boil the water in a pot and add the tea, simmering for 5 minutes until dark and strong.",
+   "Pour in the milk and bring back to a gentle boil.",
+   "Ladle the tea up and pour it back from a height several times to cool and froth it.",
+   "Season with the salt and stir in the butter if using.",
+   "Strain into bowls and serve hot, optionally with a spoonful of toasted millet."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Suutei_tsai",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-mongolia-tsuivan-mongolian-steamed-noodles-with-meat-and-vegetables",
+  "title": "Tsuivan (Mongolian steamed noodles with meat and vegetables)",
+  "country": "Mongolia",
+  "category": "Pasta",
+  "tags": [
+   "Mongolian",
+   "noodles",
+   "stir-fry"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "200 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "400 g",
+    "name": "beef or mutton, sliced thinly"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, cut into matchsticks"
+   },
+   {
+    "measure": "200 g",
+    "name": "cabbage, shredded"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "soy sauce"
+   },
+   {
+    "measure": "salt and pepper",
+    "name": "to taste"
+   }
+  ],
+  "steps": [
+   "Mix the flour, water and salt into a firm dough, knead well and rest for 30 minutes.",
+   "Roll the dough out thin, cut into noodles about 5 mm wide, and spread them out to dry slightly.",
+   "Brown the meat in the oil, then add the onion, garlic and carrots and stir-fry for 5 minutes.",
+   "Lay the noodles on top of the meat and vegetables, add the soy sauce and a few tablespoons of water, cover and steam on low heat for 12 to 15 minutes.",
+   "Add the cabbage, cover, and cook 5 more minutes, then toss everything together and season to taste."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tsuivan",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-mongolia-ul-boov-mongolian-tsagaan-sar-layered-biscuit",
+  "title": "Ul boov (Mongolian Tsagaan Sar layered biscuit)",
+  "country": "Mongolia",
+  "category": "Dessert",
+  "tags": [
+   "Mongolian",
+   "New Year",
+   "baking"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "150 g",
+    "name": "butter or rendered fat, melted"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "about 200 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "aaruul or dried curd and raisins",
+    "name": "to decorate"
+   }
+  ],
+  "steps": [
+   "Mix the flour, sugar and salt, then work in the melted fat and add warm water until you have a stiff dough.",
+   "Rest the dough for 30 minutes, then roll it out to about 1 cm thick.",
+   "Cut it into rectangles about 10 by 5 cm and press a pattern on top using a stamp or the back of a fork.",
+   "Bake at 180°C for 25 to 30 minutes until golden and firm.",
+   "Cool completely, then stack the biscuits in an odd number of layers and top with dried curds and raisins."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ul_boov",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

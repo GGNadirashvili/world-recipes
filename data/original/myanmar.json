@@ -1,0 +1,1462 @@
+[
+ {
+  "id": "original-myanmar-burmese-fried-rice-htamin-gyaw",
+  "title": "Burmese fried rice (htamin gyaw)",
+  "country": "Myanmar",
+  "category": "Side",
+  "tags": [
+   "Burmese",
+   "rice",
+   "fried rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "cooked, cold rice"
+   },
+   {
+    "measure": "200 g",
+    "name": "chicken or pork, diced"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "peas"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "soy sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "white pepper"
+   },
+   {
+    "measure": "fried onions",
+    "name": "to top"
+   }
+  ],
+  "steps": [
+   "Scramble the eggs in a little oil in a hot wok and set aside.",
+   "Fry the garlic and onion, then add the chicken and cook through.",
+   "Add the rice and break up the lumps, stir-frying for 3 minutes.",
+   "Add the peas, soy sauce, fish sauce and pepper and toss.",
+   "Return the eggs and mix gently, then serve topped with fried onions."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Burmese_fried_rice",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-burmese-fritters-a-kyaw-vegetable-fritters-in-chickpea-batter",
+  "title": "Burmese fritters (a-kyaw, vegetable fritters in chickpea batter)",
+  "country": "Myanmar",
+  "category": "Starter",
+  "tags": [
+   "Burmese",
+   "fried",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "150 g",
+    "name": "chickpea flour"
+   },
+   {
+    "measure": "50 g",
+    "name": "rice flour"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "200 g",
+    "name": "gourd or pumpkin, cut into thin strips"
+   },
+   {
+    "measure": "100 g",
+    "name": "bean sprouts"
+   },
+   {
+    "measure": "1 L",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "tamarind and chili sauce",
+    "name": "to dip"
+   }
+  ],
+  "steps": [
+   "Whisk the flours, turmeric, salt and water into a thick batter.",
+   "Fold in the onion, gourd and bean sprouts.",
+   "Heat the oil to about 180°C.",
+   "Drop spoonfuls of batter into the oil and fry for 3 to 4 minutes until crisp and golden.",
+   "Drain on paper and serve hot with tamarind chili sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Burmese_fritters",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-burmese-milk-tea-laphet-yay",
+  "title": "Burmese milk tea (laphet yay)",
+  "country": "Myanmar",
+  "category": "Miscellaneous",
+  "tags": [
+   "Burmese",
+   "tea",
+   "drink"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4 tbsp",
+    "name": "strong black tea leaves"
+   },
+   {
+    "measure": "1 L",
+    "name": "water"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "6 tbsp",
+    "name": "condensed milk"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "evaporated milk"
+   }
+  ],
+  "steps": [
+   "Boil the water with the tea and salt and simmer for 15 minutes until very dark.",
+   "Strain the tea into a pot or jug.",
+   "Put condensed milk and evaporated milk into the cups, adjusting amounts to taste.",
+   "Pour in the hot tea.",
+   "Pour the tea back and forth between two cups or jugs from a height to cool and froth it, then serve."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Burmese_milk_tea",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-burmese-tofu-chickpea-tofu",
+  "title": "Burmese tofu (chickpea tofu)",
+  "country": "Myanmar",
+  "category": "Vegetarian",
+  "tags": [
+   "Burmese",
+   "Shan",
+   "chickpea"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "chickpea flour"
+   },
+   {
+    "measure": "800 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "lime juice"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "soy sauce"
+   },
+   {
+    "measure": "1 clove",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 handful",
+    "name": "coriander"
+   }
+  ],
+  "steps": [
+   "Whisk the chickpea flour with 300 ml of cold water until smooth.",
+   "Bring the remaining water to a boil with the turmeric and salt.",
+   "Pour the batter into the boiling water slowly, whisking constantly.",
+   "Cook on low for 8 to 10 minutes, stirring, until the mixture is thick and glossy.",
+   "Pour into an oiled tray and let it set and cool for an hour.",
+   "Cut into cubes and dress with oil, lime, soy sauce, garlic and coriander."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Burmese_tofu",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-burmese-tofu-fritters-to-hpu-gyaw",
+  "title": "Burmese tofu fritters (to hpu gyaw)",
+  "country": "Myanmar",
+  "category": "Vegetarian",
+  "tags": [
+   "Burmese",
+   "fried",
+   "chickpea"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 batch",
+    "name": "set Burmese chickpea tofu (about 200 g flour cooked as above), cooled and cut into pieces"
+   },
+   {
+    "measure": "1 L",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tamarind paste"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "chili flakes"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "water"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Cut the set tofu into thick fingers or triangles and pat dry.",
+   "Heat the oil to 180°C.",
+   "Fry the tofu in batches for 4 to 5 minutes until crisp outside and soft inside.",
+   "Drain well on paper.",
+   "Mix the tamarind, sugar, chili flakes, water and salt for a dipping sauce.",
+   "Serve hot with the sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Burmese_tofu",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-hsi-htamin-burmese-turmeric-sticky-rice",
+  "title": "Hsi htamin (Burmese turmeric sticky rice)",
+  "country": "Myanmar",
+  "category": "Breakfast",
+  "tags": [
+   "Burmese",
+   "sticky rice",
+   "snack"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "glutinous rice, soaked 4 hours"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, thinly sliced and fried"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "toasted sesame seeds"
+   },
+   {
+    "measure": "200 g",
+    "name": "boiled peas or chickpeas (optional)"
+   }
+  ],
+  "steps": [
+   "Drain the soaked rice and mix with turmeric, salt and a spoonful of oil.",
+   "Steam the rice over boiling water for 30 to 35 minutes until tender and sticky.",
+   "Heat the rest of the oil in a pan and fry the onion until golden.",
+   "Turn the hot rice out and fluff gently, folding in half of the fried onion.",
+   "Serve topped with sesame seeds, the remaining onion and peas on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hsi_htamin",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-kat-kyi-kaik-burmese-stir-fried-flat-noodles-with-seafood",
+  "title": "Kat kyi kaik (Burmese stir-fried flat noodles with seafood)",
+  "country": "Myanmar",
+  "category": "Pasta",
+  "tags": [
+   "Burmese",
+   "noodles",
+   "seafood",
+   "stir-fry"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "wide flat rice noodles"
+   },
+   {
+    "measure": "200 g",
+    "name": "squid, cleaned and sliced"
+   },
+   {
+    "measure": "200 g",
+    "name": "prawns, peeled"
+   },
+   {
+    "measure": "100 g",
+    "name": "bean sprouts"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "cooked peas"
+   },
+   {
+    "measure": "3",
+    "name": "spring onions, cut in lengths"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "dark soy sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "light soy sauce"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "white pepper"
+   }
+  ],
+  "steps": [
+   "Soak the noodles in warm water until pliable and drain.",
+   "Heat the oil in a wok over high heat and stir-fry the garlic for 10 seconds.",
+   "Add the squid and prawns and stir-fry 2 minutes until just done.",
+   "Add the noodles and both soy sauces, tossing quickly. Use kitchen scissors to cut the noodles into shorter pieces as they cook.",
+   "Add the peas, bean sprouts and spring onions and toss for another minute.",
+   "Season with pepper and serve right away."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kat_kyi_kaik",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-khanon-htok-burmese-rolled-omelette-snack-with-chicken",
+  "title": "Khanon htok (Burmese rolled omelette snack with chicken)",
+  "country": "Myanmar",
+  "category": "Starter",
+  "tags": [
+   "Burmese",
+   "snack",
+   "egg"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "plain flour"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water"
+   },
+   {
+    "measure": "200 g",
+    "name": "chicken breast, finely chopped"
+   },
+   {
+    "measure": "100 g",
+    "name": "shrimp, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "white pepper"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Fry the onion and garlic in a tablespoon of oil, add the chicken and shrimp and cook through, then season with fish sauce and pepper.",
+   "Whisk the eggs, flour and water into a thin batter.",
+   "Pour a thin layer into an oiled non-stick pan and swirl to make a wide crepe-like omelette.",
+   "Spoon filling along one side and roll up, then tuck in the ends.",
+   "Cook until golden, and slice into pieces to serve."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khanon_htok",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-khauk-swe-thoke-burmese-wheat-noodle-salad",
+  "title": "Khauk swè thoke (Burmese wheat noodle salad)",
+  "country": "Myanmar",
+  "category": "Pasta",
+  "tags": [
+   "Burmese",
+   "noodles",
+   "salad"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "thin wheat noodles"
+   },
+   {
+    "measure": "200 g",
+    "name": "cooked chicken or pork, shredded"
+   },
+   {
+    "measure": "1",
+    "name": "small cabbage wedge, shredded"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, shredded"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chickpea flour, toasted in a dry pan"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "fried onions and their oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "dried shrimp, ground"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "lime juice"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "soy sauce"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "chili flakes"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, fried"
+   },
+   {
+    "measure": "1 handful",
+    "name": "coriander"
+   }
+  ],
+  "steps": [
+   "Cook the noodles in boiling water until tender, rinse in cold water and drain well.",
+   "Mix the toasted chickpea flour with the lime juice, soy sauce, chili flakes, ground dried shrimp and some fried-onion oil to make a thick dressing.",
+   "Toss the noodles with the dressing until each strand is coated.",
+   "Add the shredded chicken, cabbage and carrot and mix again.",
+   "Top with fried onions, fried garlic and coriander, adding more lime or chili to taste, and serve at room temperature."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khauk_swè_thoke",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-kya-zan-hinga-burmese-glass-noodle-soup",
+  "title": "Kya zan hinga (Burmese glass noodle soup)",
+  "country": "Myanmar",
+  "category": "Starter",
+  "tags": [
+   "Burmese",
+   "soup",
+   "noodles"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "100 g",
+    "name": "dried glass noodles, soaked"
+   },
+   {
+    "measure": "1.2 L",
+    "name": "chicken stock"
+   },
+   {
+    "measure": "4",
+    "name": "dried shiitake mushrooms, soaked and sliced"
+   },
+   {
+    "measure": "1 handful",
+    "name": "dried lily buds (optional)"
+   },
+   {
+    "measure": "1 sheet",
+    "name": "dried bean curd skin, soaked"
+   },
+   {
+    "measure": "100 g",
+    "name": "shrimp, peeled"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "white pepper"
+   },
+   {
+    "measure": "coriander, fried shallots, lime",
+    "name": "to serve"
+   }
+  ],
+  "steps": [
+   "Heat the stock with the garlic, mushrooms and lily buds and simmer for 10 minutes.",
+   "Add the bean curd skin, shrimp and fish sauce and cook for 3 to 4 minutes.",
+   "Add the soaked glass noodles and heat through.",
+   "Season with pepper and more fish sauce to taste.",
+   "Serve garnished with coriander, shallots and a squeeze of lime."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kya_zan_hinga",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-kyay-oh-burmese-pork-and-vermicelli-noodle-soup",
+  "title": "Kyay oh (Burmese pork and vermicelli noodle soup)",
+  "country": "Myanmar",
+  "category": "Pasta",
+  "tags": [
+   "Burmese",
+   "noodles",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "thin rice vermicelli"
+   },
+   {
+    "measure": "400 g",
+    "name": "pork shoulder, sliced"
+   },
+   {
+    "measure": "150 g",
+    "name": "pork liver, sliced (optional)"
+   },
+   {
+    "measure": "150 g",
+    "name": "minced pork, shaped into small balls"
+   },
+   {
+    "measure": "1.5 L",
+    "name": "pork or chicken stock"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "white pepper"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "bok choy or mustard greens"
+   },
+   {
+    "measure": "fried garlic, coriander, chili flakes",
+    "name": "to serve"
+   }
+  ],
+  "steps": [
+   "Fry the garlic in the oil until golden, then add the sliced pork and stir for 3 minutes.",
+   "Add the stock, fish sauce and pepper and simmer for 20 minutes.",
+   "Drop in the pork balls, then the liver, and cook for 5 minutes more.",
+   "Beat the eggs and drizzle into the simmering soup so they form threads.",
+   "Soak the vermicelli in hot water until soft and blanch the greens.",
+   "Put noodles and greens in bowls, ladle the soup over and top with fried garlic, coriander and chili."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kyay_oh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-lahpet-thoke-burmese-pickled-tea-leaf-salad",
+  "title": "Lahpet thoke (Burmese pickled tea leaf salad)",
+  "country": "Myanmar",
+  "category": "Side",
+  "tags": [
+   "Burmese",
+   "salad",
+   "tea leaf"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4 tbsp",
+    "name": "lahpet (Burmese pickled tea leaves, from a jar)"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lime juice"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "peanut or sesame oil"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, thinly sliced and fried"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "roasted peanuts"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "fried broad beans or yellow split peas"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "toasted sesame seeds"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "dried shrimp, toasted (optional)"
+   },
+   {
+    "measure": "1",
+    "name": "tomato, finely chopped"
+   },
+   {
+    "measure": "1 cup",
+    "name": "shredded cabbage"
+   },
+   {
+    "measure": "1",
+    "name": "green chili, sliced"
+   },
+   {
+    "measure": "fish sauce",
+    "name": "to taste"
+   }
+  ],
+  "steps": [
+   "Squeeze the lahpet lightly and mix with the lime juice and oil to loosen it.",
+   "Place the cabbage and tomato in the middle of a plate or bowl.",
+   "Arrange the peanuts, fried beans, sesame seeds, fried garlic and dried shrimp in separate small piles around it, with the dressed tea leaves in a mound.",
+   "Scatter over the sliced chili and add fish sauce to taste.",
+   "At the table, toss everything together so every bite carries crunch, sour tea and fresh vegetables."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lahpet",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-mont-lone-yay-baw-burmese-water-ball-rice-dumplings-with-jaggery",
+  "title": "Mont lone yay baw (Burmese water-ball rice dumplings with jaggery)",
+  "country": "Myanmar",
+  "category": "Dessert",
+  "tags": [
+   "Burmese",
+   "Thingyan",
+   "rice flour"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "glutinous rice flour"
+   },
+   {
+    "measure": "50 g",
+    "name": "rice flour"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "150 g",
+    "name": "palm sugar or jaggery, chopped"
+   },
+   {
+    "measure": "100 g",
+    "name": "freshly grated or desiccated coconut"
+   },
+   {
+    "measure": "pinch",
+    "name": "salt (for coconut)"
+   }
+  ],
+  "steps": [
+   "Mix both flours with the salt and enough warm water to make a smooth dough that does not crack.",
+   "Roll the dough into balls about 2.5 cm wide.",
+   "Flatten each ball, press a piece of jaggery into the centre and seal it completely.",
+   "Boil the dumplings in plenty of water until they all float, 3 to 5 minutes.",
+   "Lift them out and drain, then roll in coconut mixed with a pinch of salt.",
+   "Serve warm or at room temperature."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mont_lone_yay_baw",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-nan-gyi-thoke-burmese-thick-rice-noodle-salad-with-chicken",
+  "title": "Nan gyi thoke (Burmese thick rice noodle salad with chicken)",
+  "country": "Myanmar",
+  "category": "Pasta",
+  "tags": [
+   "Burmese",
+   "noodles",
+   "salad",
+   "Mandalay"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "thick round rice noodles (nan gyi)"
+   },
+   {
+    "measure": "300 g",
+    "name": "chicken thighs"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "chickpea flour"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, thinly sliced"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "turmeric"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "2",
+    "name": "hard-boiled eggs, sliced"
+   },
+   {
+    "measure": "1 handful",
+    "name": "coriander"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "dried chili flakes in oil"
+   },
+   {
+    "measure": "1",
+    "name": "lime, in wedges"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken with a pinch of salt until cooked, then shred it, reserving a little broth.",
+   "Toast the chickpea flour in a dry pan until pale golden and fragrant, then stir in a little hot broth to make a smooth, thick paste.",
+   "Heat the oil and fry the garlic and onion with the turmeric until soft, add the chicken and the fish sauce and cook 3 minutes.",
+   "Cook the noodles until tender and drain.",
+   "Toss the noodles with the chicken mixture and chickpea paste.",
+   "Serve topped with egg, coriander and chili oil, with lime wedges on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nan_gyi_thoke",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-ngapyaw-baung-burmese-banana-pudding-in-coconut-milk",
+  "title": "Ngapyaw baung (Burmese banana pudding in coconut milk)",
+  "country": "Myanmar",
+  "category": "Dessert",
+  "tags": [
+   "Burmese",
+   "banana",
+   "pudding"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "6",
+    "name": "ripe bananas, sliced"
+   },
+   {
+    "measure": "400 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "200 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "80 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "toasted sesame seeds"
+   }
+  ],
+  "steps": [
+   "Pour the coconut milk and milk into a pan and add the sugar and salt.",
+   "Heat gently until the sugar dissolves.",
+   "Add the bananas and simmer for 8 to 10 minutes, without stirring too much so they keep their shape, until soft.",
+   "Spoon into bowls and sprinkle with toasted sesame seeds.",
+   "Serve warm or chilled."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ngapyaw_baung",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-ohn-no-khao-swe-burmese-coconut-chicken-noodle-soup",
+  "title": "Ohn no khao swè (Burmese coconut chicken noodle soup)",
+  "country": "Myanmar",
+  "category": "Pasta",
+  "tags": [
+   "Burmese",
+   "noodles",
+   "coconut",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "chicken thighs, cut into pieces"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, finely chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ginger, grated"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "paprika"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "500 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "500 ml",
+    "name": "chicken stock"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "chickpea flour, mixed with 100 ml water"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "400 g",
+    "name": "egg noodles"
+   },
+   {
+    "measure": "4",
+    "name": "hard-boiled eggs"
+   },
+   {
+    "measure": "fried onions, coriander, chili flakes, lime",
+    "name": "to serve"
+   }
+  ],
+  "steps": [
+   "Fry the onion in the oil until soft and golden, add the garlic, ginger, turmeric and paprika and stir for a minute.",
+   "Add the chicken and cook until lightly browned.",
+   "Pour in the stock, coconut milk and fish sauce and simmer for 20 minutes.",
+   "Stir in the chickpea flour mixture and simmer until the soup thickens to a creamy consistency.",
+   "Cook the noodles separately and drain.",
+   "Place noodles in bowls, ladle the soup over and serve with eggs, fried onions, coriander, chili flakes and lime."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ohn_no_khao_swè",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-pathein-halawa-burmese-sticky-rice-flour-sweet",
+  "title": "Pathein halawa (Burmese sticky rice flour sweet)",
+  "country": "Myanmar",
+  "category": "Dessert",
+  "tags": [
+   "Burmese",
+   "sweet",
+   "Pathein"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "glutinous rice flour"
+   },
+   {
+    "measure": "50 g",
+    "name": "rice flour"
+   },
+   {
+    "measure": "300 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "200 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "200 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "80 g",
+    "name": "butter"
+   },
+   {
+    "measure": "100 g",
+    "name": "desiccated coconut"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "poppy seeds"
+   }
+  ],
+  "steps": [
+   "Mix both flours with the coconut milk and milk into a smooth batter, then add the sugar.",
+   "Melt the butter in a heavy pan and add the batter.",
+   "Cook over medium-low heat, stirring constantly, until the mixture thickens into a sticky mass that pulls away from the pan.",
+   "Stir in the coconut and cook 5 minutes more.",
+   "Turn into a greased tray, scatter with poppy seeds and let it set.",
+   "Cut into squares when cool."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pathein_halawa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-pe-htaw-bhut-htamin-burmese-buttered-lentil-rice",
+  "title": "Pe htaw bhut htamin (Burmese buttered lentil rice)",
+  "country": "Myanmar",
+  "category": "Side",
+  "tags": [
+   "Burmese",
+   "rice",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "basmati rice"
+   },
+   {
+    "measure": "50 g",
+    "name": "butter or ghee"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "split yellow lentils or dried chickpeas, soaked"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "4",
+    "name": "cardamom pods"
+   },
+   {
+    "measure": "60 g",
+    "name": "cashews and raisins"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced and fried"
+   },
+   {
+    "measure": "450 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Wash the rice and drain.",
+   "Melt the butter in a pot, add the spices and the soaked lentils and fry for a minute.",
+   "Add the rice and fry until glossy and coated.",
+   "Pour in the water, add salt and bring to a boil.",
+   "Cover tightly and cook on the lowest heat for 15 minutes, then rest for 10 minutes.",
+   "Fluff with a fork and scatter with cashews, raisins and fried onions."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pe_htaw_bhut_htamin",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-sanwin-makin-burmese-semolina-cake",
+  "title": "Sanwin makin (Burmese semolina cake)",
+  "country": "Myanmar",
+  "category": "Dessert",
+  "tags": [
+   "Burmese",
+   "cake",
+   "semolina"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "semolina"
+   },
+   {
+    "measure": "400 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "200 ml",
+    "name": "water"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "80 g",
+    "name": "butter"
+   },
+   {
+    "measure": "3",
+    "name": "eggs"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "raisins"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped cashew nuts"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "poppy seeds"
+   }
+  ],
+  "steps": [
+   "Heat the coconut milk, water, sugar and butter until the sugar dissolves.",
+   "Stir in the semolina and cook, stirring constantly, until it thickens to a heavy porridge.",
+   "Cool for 10 minutes, then beat in the eggs one at a time and fold in the raisins and cashews.",
+   "Pour into a greased baking dish and sprinkle with poppy seeds.",
+   "Bake at 180°C for 35 to 40 minutes until set and golden on top.",
+   "Cool before cutting into diamonds."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sanwin_makin",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-shan-meeshay-burmese-shan-rice-noodles-with-pork-sauce",
+  "title": "Shan meeshay (Burmese Shan rice noodles with pork sauce)",
+  "country": "Myanmar",
+  "category": "Pasta",
+  "tags": [
+   "Burmese",
+   "Shan",
+   "noodles"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "thin round rice noodles"
+   },
+   {
+    "measure": "250 g",
+    "name": "minced pork"
+   },
+   {
+    "measure": "3",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "soy sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "fermented soybean paste or miso"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "chili flakes"
+   },
+   {
+    "measure": "100 g",
+    "name": "pickled mustard greens, chopped"
+   },
+   {
+    "measure": "fried garlic and coriander",
+    "name": "to serve"
+   },
+   {
+    "measure": "200 ml",
+    "name": "water"
+   }
+  ],
+  "steps": [
+   "Heat the oil and fry the garlic, then add the pork and brown it.",
+   "Stir in the tomatoes, soy sauce, soybean paste and chili flakes and cook for 10 minutes.",
+   "Add the water and simmer for 10 minutes more until thick and saucy.",
+   "Boil the noodles until soft and drain.",
+   "Divide into bowls, top with the sauce and pickled mustard greens, and sprinkle with fried garlic and coriander."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Meeshay",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-shwe-yin-aye-burmese-cool-coconut-milk-dessert",
+  "title": "Shwe yin aye (Burmese cool coconut milk dessert)",
+  "country": "Myanmar",
+  "category": "Dessert",
+  "tags": [
+   "Burmese",
+   "cold",
+   "coconut"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "500 ml",
+    "name": "water"
+   },
+   {
+    "measure": "100 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "80 g",
+    "name": "cooked sticky rice"
+   },
+   {
+    "measure": "60 g",
+    "name": "sago pearls, cooked"
+   },
+   {
+    "measure": "100 g",
+    "name": "cendol or green jelly noodles"
+   },
+   {
+    "measure": "100 g",
+    "name": "cubed agar jelly"
+   },
+   {
+    "measure": "4",
+    "name": "slices of white bread, cubed"
+   },
+   {
+    "measure": "ice",
+    "name": "to serve"
+   }
+  ],
+  "steps": [
+   "Warm the coconut milk, water, sugar and salt in a pan until the sugar dissolves, then chill thoroughly.",
+   "Prepare the sago, jelly and rice and let them cool.",
+   "Place spoonfuls of each in tall glasses with the bread cubes.",
+   "Pour the chilled coconut milk over.",
+   "Add ice and serve cold."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shwe_yin_aye",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-myanmar-talabaw-karen-bamboo-shoot-soup",
+  "title": "Talabaw (Karen bamboo shoot soup)",
+  "country": "Myanmar",
+  "category": "Starter",
+  "tags": [
+   "Burmese",
+   "Karen",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "bamboo shoots (canned, rinsed, or fresh and boiled)"
+   },
+   {
+    "measure": "300 g",
+    "name": "firm white fish fillet or pork"
+   },
+   {
+    "measure": "1 stalk",
+    "name": "lemongrass, bruised"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "rice, ground or rice flour"
+   },
+   {
+    "measure": "1 L",
+    "name": "water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1 handful",
+    "name": "basil leaves"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "white pepper"
+   },
+   {
+    "measure": "1",
+    "name": "green chili, sliced"
+   }
+  ],
+  "steps": [
+   "Boil the bamboo shoots in water for 10 minutes and drain, to remove any bitterness.",
+   "Bring the water to a boil with the lemongrass and onion, then add the bamboo shoots and simmer 10 minutes.",
+   "Add the fish or pork and cook until done.",
+   "Stir in the ground rice and simmer until the soup thickens slightly.",
+   "Season with fish sauce and pepper.",
+   "Finish with basil and chili, and serve with a little steamed rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talabaw",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
