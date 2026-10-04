@@ -1,0 +1,432 @@
+[
+ {
+  "id": "original-saudi-arabia-harees-slow-cooked-wheat-and-meat-porridge",
+  "title": "Harees (slow-cooked wheat and meat porridge)",
+  "country": "Saudi Arabia",
+  "category": "Lamb",
+  "tags": [
+   "Saudi",
+   "Ramadan",
+   "porridge"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "cracked wheat (or pearled wheat berries), soaked overnight"
+   },
+   {
+    "measure": "500 g",
+    "name": "lamb or chicken on the bone"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "onion, halved"
+   },
+   {
+    "measure": "3",
+    "name": "cardamom pods"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "ghee, melted, for serving"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cinnamon, for garnish"
+   }
+  ],
+  "steps": [
+   "Drain the soaked wheat and rinse it well.",
+   "Put the meat, onion, cardamom, cinnamon stick and water in a large pot, bring to a boil and skim off the foam.",
+   "Add the wheat and salt, then cover and simmer on very low heat for 2 to 3 hours, stirring from time to time, until the meat is falling off the bone and the wheat is very soft.",
+   "Remove the bones, cinnamon stick and onion and shred the meat back into the pot.",
+   "Beat the mixture vigorously with a wooden spoon or a masher for several minutes until it turns into a thick, smooth, sticky porridge. Add hot water if it is too stiff.",
+   "Spread the harees in a shallow bowl, make a hollow in the middle, pour in the hot ghee and dust with ground cinnamon."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Harees",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-saudi-arabia-hininy-najdi-date-and-bread-dessert",
+  "title": "Hininy (Najdi date and bread dessert)",
+  "country": "Saudi Arabia",
+  "category": "Dessert",
+  "tags": [
+   "Saudi",
+   "Najd",
+   "dates"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "soft pitted dates"
+   },
+   {
+    "measure": "150 g",
+    "name": "brown or whole-wheat bread, crumbled (or toasted whole-wheat flour)"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "ghee or butter"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "saffron threads soaked in 1 tbsp warm water"
+   },
+   {
+    "measure": "60 ml",
+    "name": "warm water"
+   }
+  ],
+  "steps": [
+   "Toast the crumbled bread in a dry pan over medium heat, stirring, for about 5 minutes until it is dry and lightly golden, then set aside.",
+   "Mash the dates with the warm water into a thick paste, using a fork or a food processor.",
+   "Melt the ghee in a pan, add the date paste and stir over low heat for about 5 minutes until it softens and loosens.",
+   "Stir in the toasted bread, the cardamom and the saffron with its soaking water. Keep stirring until everything forms a thick, sticky, evenly mixed mass.",
+   "Press it into a shallow dish and smooth the top, or serve it warm, heaped into small bowls. It is traditionally eaten in cold weather with Arabic coffee."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hininy",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-saudi-arabia-khabees-eastern-arabian-saffron-and-cardamom-flour-pudding",
+  "title": "Khabees (Eastern Arabian saffron-and-cardamom flour pudding)",
+  "country": "Saudi Arabia",
+  "category": "Dessert",
+  "tags": [
+   "Saudi",
+   "Gulf",
+   "saffron"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "100 ml",
+    "name": "vegetable oil or ghee"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "500 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "saffron threads"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "rose water"
+   }
+  ],
+  "steps": [
+   "Heat the water with the sugar, cardamom and saffron until the sugar dissolves, then keep it warm.",
+   "In a heavy pan, stir the flour over medium-low heat for about 5 minutes until it darkens slightly and smells toasty.",
+   "Pour in the oil or ghee and keep stirring for another few minutes.",
+   "Gradually add the warm syrup, stirring constantly so no lumps form, until the mixture thickens and comes together into a smooth, glossy paste.",
+   "Stir in the rose water, spread the khabees on a plate and serve warm, traditionally for breakfast around Eid, often with dates or Arabic coffee."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khabees",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-saudi-arabia-khaliat-nahl-honeycomb-cheese-filled-bread-rolls",
+  "title": "Khaliat Nahl (honeycomb cheese-filled bread rolls)",
+  "country": "Saudi Arabia",
+  "category": "Dessert",
+  "tags": [
+   "Saudi",
+   "Arab",
+   "bread"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant dried yeast"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "250 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "60 ml",
+    "name": "vegetable oil or melted butter"
+   },
+   {
+    "measure": "250 g",
+    "name": "cream cheese or soft white cheese mixed with a little mozzarella"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten, for brushing"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "nigella seeds or sesame seeds"
+   },
+   {
+    "measure": "100 g",
+    "name": "honey"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "orange juice or orange blossom water"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt, then add the warm milk and oil and knead for 8 to 10 minutes into a soft, slightly sticky dough. Cover and leave to double in size, about 1 hour.",
+   "Divide the dough into 20 to 24 small balls. Flatten each ball a little, put a teaspoon of cheese in the middle and pinch it closed.",
+   "Place the filled rolls seam-side down, tightly packed together, in a greased round baking tin so they will touch as they rise. Leave to rise for 30 minutes.",
+   "Heat the oven to 180 C (350 F). Brush the rolls with beaten egg and sprinkle on the seeds.",
+   "Bake for 25 to 30 minutes until deep golden brown.",
+   "Warm the honey with the orange juice or blossom water until it is runny and brush it generously over the hot rolls. Serve warm so the cheese is still soft."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khaliat_nahl",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-saudi-arabia-saleeg-hejazi-creamy-chicken-and-rice",
+  "title": "Saleeg (Hejazi creamy chicken and rice)",
+  "country": "Saudi Arabia",
+  "category": "Chicken",
+  "tags": [
+   "Saudi",
+   "Hejaz",
+   "rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "chicken pieces, bone-in"
+   },
+   {
+    "measure": "300 g",
+    "name": "short or medium-grain rice, rinsed"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "500 ml",
+    "name": "whole milk"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "butter or ghee"
+   },
+   {
+    "measure": "4",
+    "name": "cardamom pods, lightly crushed"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Melt half of the butter in a wide heavy pot and soften the onion over medium heat without letting it brown.",
+   "Add the chicken, cardamom, cinnamon, bay leaves and salt, then pour in the water. Bring to a boil, skim off the foam, cover and simmer for about 35 minutes until the chicken is tender.",
+   "Lift the chicken out onto a plate and keep it warm. Strain the broth if you want it clear, and measure out roughly 700 ml back into the pot.",
+   "Add the rice and bring to a boil, then lower the heat and cook, stirring often, until the rice has swallowed most of the liquid.",
+   "Pour in the milk a little at a time, stirring, and keep cooking on low heat until the rice is soft and creamy, somewhat like a loose risotto. Add a splash of hot water if it tightens up too much.",
+   "Stir in the remaining butter, taste for salt and spoon the rice onto a large platter.",
+   "Brown the chicken pieces briefly under a hot grill or in a pan, lay them on top and serve with a spicy tomato salad if you like."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Saleeg",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-saudi-arabia-talbina-arabian-barley-milk-and-honey-porridge",
+  "title": "Talbina (Arabian barley, milk and honey porridge)",
+  "country": "Saudi Arabia",
+  "category": "Breakfast",
+  "tags": [
+   "Saudi",
+   "barley",
+   "porridge"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4 tbsp",
+    "name": "fine barley flour (or finely ground rolled barley)"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "250 ml",
+    "name": "whole milk"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "honey, plus extra to serve"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Whisk the barley flour with the water in a small saucepan until it is smooth and free of lumps.",
+   "Cook over medium heat, stirring constantly, until it bubbles and begins to thicken, about 5 minutes.",
+   "Pour in the milk, lower the heat and simmer gently for 10 to 15 minutes, stirring often, until it is a creamy porridge.",
+   "Stir in the salt and honey and cook for one more minute.",
+   "Serve warm in bowls with an extra drizzle of honey."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talbina",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-saudi-arabia-tharid-meccan-bread-and-lamb-stew",
+  "title": "Tharid (Meccan bread-and-lamb stew)",
+  "country": "Saudi Arabia",
+  "category": "Lamb",
+  "tags": [
+   "Saudi",
+   "Mecca",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "700 g",
+    "name": "lamb shoulder, cut into chunks"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, cut into chunks"
+   },
+   {
+    "measure": "2",
+    "name": "zucchini (courgettes), cut into chunks"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "olive oil or ghee"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground coriander"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "4",
+    "name": "pieces of thin flatbread (pita works), torn into pieces"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a large pot and brown the lamb on all sides, then add the onion and cook until soft and golden.",
+   "Stir in the coriander, cumin, salt and pepper for a minute, then add the tomatoes and cook until they break down.",
+   "Pour in the water, bring to a boil and skim. Cover and simmer for about 1 hour until the lamb is nearly tender.",
+   "Add the carrots and zucchini and simmer for another 20 to 25 minutes until the vegetables are soft and the broth has deepened in flavour.",
+   "Toast or dry out the torn bread in a low oven for 10 minutes so it holds together better, then spread it over the bottom of a deep serving dish.",
+   "Ladle the hot broth over the bread until it is well soaked, then pile the lamb and vegetables on top and serve straight away."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tharid",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

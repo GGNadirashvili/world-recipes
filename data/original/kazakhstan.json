@@ -1,0 +1,813 @@
+[
+ {
+  "id": "original-kazakhstan-baursak-kazakh-fried-dough-puffs",
+  "title": "Baursak (Kazakh fried dough puffs)",
+  "country": "Kazakhstan",
+  "category": "Side",
+  "tags": [
+   "Kazakh",
+   "fried dough",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "250 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "1 litre",
+    "name": "oil, for deep frying"
+   }
+  ],
+  "steps": [
+   "Mix the yeast and sugar with the warm milk and leave for 5 minutes.",
+   "Stir in the egg, melted butter and salt, then add the flour and knead into a soft, elastic dough.",
+   "Cover and leave in a warm place for about 1 hour until doubled.",
+   "Roll the dough out 1 cm thick and cut into diamonds or squares of about 4 cm.",
+   "Heat the oil to about 170 C (340 F) and fry the pieces in small batches for 2 to 3 minutes, turning, until they puff up and turn golden brown.",
+   "Drain on paper towels. Serve warm with tea, honey or sour cream, or alongside soups and stews."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Boortsog",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-beshbarmak-boiled-meat-with-broad-noodles-and-onion-broth",
+  "title": "Beshbarmak (boiled meat with broad noodles and onion broth)",
+  "country": "Kazakhstan",
+  "category": "Beef",
+  "tags": [
+   "Kazakh",
+   "national dish",
+   "noodles"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "beef or lamb on the bone (shank, brisket or ribs)"
+   },
+   {
+    "measure": "3 litres",
+    "name": "water"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "6",
+    "name": "black peppercorns"
+   },
+   {
+    "measure": "4",
+    "name": "onions, 2 left whole and 2 sliced into thin half rings"
+   },
+   {
+    "measure": "400 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water, for the dough"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "parsley or dill, chopped"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Put the meat in a large pot with the 3 litres of water, bring slowly to a boil and skim off the foam. Add the bay leaves, peppercorns, whole onions and salt, then cover and simmer for 2 to 2.5 hours until the meat is very tender.",
+   "Meanwhile make the dough: mix the flour, eggs, 100 ml of water and a pinch of salt into a firm dough, knead until smooth, and rest it under a cloth for 30 minutes.",
+   "Roll the dough out very thin and cut it into large rough squares or diamonds, about 7 cm wide.",
+   "Lift the meat out of the broth, strain the broth and keep it hot. Cut the meat into slices or bite-size pieces, discarding the bones.",
+   "Pour the sliced onions into a ladleful of hot broth and simmer for 5 minutes until soft but not mushy.",
+   "Boil the noodle squares in the strained broth for 5 to 7 minutes until tender, then lift them out and spread them on a large platter.",
+   "Pile the meat over the noodles, top with the stewed onions and herbs, and serve with bowls of the hot broth for sipping."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Beshbarmak",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-kazakh-laghman-beef-noodle-stew-with-peppers",
+  "title": "Kazakh laghman (beef noodle stew with peppers)",
+  "country": "Kazakhstan",
+  "category": "Beef",
+  "tags": [
+   "Kazakh",
+   "noodles",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "beef, cut into thin strips"
+   },
+   {
+    "measure": "400 g",
+    "name": "fresh or dried wheat noodles (thick spaghetti works)"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, cut into strips"
+   },
+   {
+    "measure": "2",
+    "name": "bell peppers, cut into strips"
+   },
+   {
+    "measure": "3",
+    "name": "tomatoes, chopped, or 2 tbsp tomato paste"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "500 ml",
+    "name": "beef stock or water"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "",
+    "name": "salt, black pepper and fresh cilantro, to taste"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a deep pan and fry the beef in batches over high heat until well browned.",
+   "Add the onions, carrots and peppers and cook for 5 minutes, then stir in the garlic, cumin and tomatoes or tomato paste.",
+   "Pour in the stock, season, cover and simmer for 40 to 50 minutes until the meat is tender and the sauce is thick.",
+   "Cook the noodles in plenty of boiling salted water until just tender, then drain.",
+   "Divide the noodles among bowls and ladle the meat and vegetable sauce on top. Scatter with cilantro and black pepper."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Laghman_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-kazakh-manti-large-steamed-meat-dumplings",
+  "title": "Kazakh manti (large steamed meat dumplings)",
+  "country": "Kazakhstan",
+  "category": "Beef",
+  "tags": [
+   "Kazakh",
+   "dumplings",
+   "steamed"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "600 g",
+    "name": "beef or lamb, hand-chopped or coarsely minced"
+   },
+   {
+    "measure": "3",
+    "name": "large onions, finely chopped"
+   },
+   {
+    "measure": "80 g",
+    "name": "beef or lamb fat, finely diced (or butter)"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground black pepper"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter, to grease the steamer"
+   },
+   {
+    "measure": "",
+    "name": "sour cream or yogurt, to serve"
+   }
+  ],
+  "steps": [
+   "Knead the flour, water and salt into a firm dough, cover and rest for 30 minutes.",
+   "Mix the meat, onions, fat, pepper and salt well. The raw onion gives the filling its juice.",
+   "Roll the dough thin and cut into 10 cm squares.",
+   "Put a heaped spoonful of filling in the middle of each square, bring the four corners to the centre and pinch together, or fold into a half-moon shape.",
+   "Grease the tiers of a steamer and arrange the manti with space between them.",
+   "Steam over boiling water for 40 to 45 minutes until the dough is translucent and the filling is cooked.",
+   "Serve hot with sour cream or yogurt."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Manti_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-kazakh-palau-beef-and-carrot-pilaf",
+  "title": "Kazakh palau (beef and carrot pilaf)",
+  "country": "Kazakhstan",
+  "category": "Beef",
+  "tags": [
+   "Kazakh",
+   "rice",
+   "pilaf"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "beef or lamb, cut into chunks"
+   },
+   {
+    "measure": "400 g",
+    "name": "long-grain rice, rinsed"
+   },
+   {
+    "measure": "500 g",
+    "name": "carrots, cut into thick strips"
+   },
+   {
+    "measure": "2",
+    "name": "large onions, sliced"
+   },
+   {
+    "measure": "100 ml",
+    "name": "oil"
+   },
+   {
+    "measure": "1 head",
+    "name": "garlic, whole, outer papery layers removed"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "600 ml",
+    "name": "hot water"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a heavy pot until it shimmers and brown the meat on all sides.",
+   "Add the onions and fry until deep golden, then add the carrots and cook for 5 more minutes, stirring.",
+   "Pour in the hot water, add the cumin and salt, and simmer, covered, for 30 to 40 minutes until the meat is nearly tender.",
+   "Spread the rice evenly over the meat and vegetables without stirring. Press the whole garlic head into the middle.",
+   "Add just enough hot water to cover the rice by about 1 cm, bring to a boil, then lower the heat, cover and cook for 20 minutes until the rice is tender and the liquid is gone.",
+   "Stir gently, pile onto a platter and serve with the meat and garlic on top."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pilaf",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-kazakh-samsa-baked-beef-and-onion-pastries",
+  "title": "Kazakh samsa (baked beef and onion pastries)",
+  "country": "Kazakhstan",
+  "category": "Beef",
+  "tags": [
+   "Kazakh",
+   "pastry",
+   "baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "100 g",
+    "name": "butter, softened"
+   },
+   {
+    "measure": "500 g",
+    "name": "beef (or lamb), cut into very small cubes"
+   },
+   {
+    "measure": "3",
+    "name": "large onions, finely chopped"
+   },
+   {
+    "measure": "60 g",
+    "name": "lamb fat or butter, diced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sesame seeds"
+   }
+  ],
+  "steps": [
+   "Knead the flour, water and salt into a firm dough. Roll it out into a rectangle, spread with the softened butter, fold up like an envelope, then roll again. Repeat twice, then chill for 30 minutes.",
+   "Mix the beef, onions, fat, cumin, salt and black pepper to make a juicy filling.",
+   "Roll out the dough thinly and cut into 12 cm squares.",
+   "Place a generous spoonful of filling in the centre of each, fold the corners to the middle to make a square or triangular parcel, and pinch the seams firmly.",
+   "Place seam-side down on a lined tray, brush with egg yolk and scatter with sesame seeds.",
+   "Bake at 200 C (400 F) for 15 minutes, then lower to 180 C (350 F) for another 25 minutes until golden and the meat is cooked through."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Samsa_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-kespe-kazakh-hand-cut-noodle-soup",
+  "title": "Kespe (Kazakh hand-cut noodle soup)",
+  "country": "Kazakhstan",
+  "category": "Starter",
+  "tags": [
+   "Kazakh",
+   "noodles",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "400 g",
+    "name": "lamb or beef on the bone"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, cubed"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, diced"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "dill or parsley, chopped"
+   }
+  ],
+  "steps": [
+   "Simmer the meat in the water for 1 hour with salt, skimming, until tender. Remove the meat, cut it up and return it to the broth.",
+   "Mix the flour, eggs, salt and about 3 tablespoons of cold water into a stiff dough. Knead and rest it for 20 minutes.",
+   "Roll the dough out very thin, dust it with flour, fold it and cut it into fine noodles, or into small squares.",
+   "Add the onion, potatoes and carrot to the broth and simmer for 15 minutes.",
+   "Drop in the noodles and cook for 5 to 7 minutes until tender.",
+   "Serve in bowls with plenty of dill and a spoonful of sour cream if you like."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kesme",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-kuurdak-kazakh-pan-fried-meat-and-offal",
+  "title": "Kuurdak (Kazakh pan-fried meat and offal)",
+  "country": "Kazakhstan",
+  "category": "Beef",
+  "tags": [
+   "Kazakh",
+   "pan-fried",
+   "offal"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "beef or lamb, with some fat, cut into small cubes"
+   },
+   {
+    "measure": "200 g",
+    "name": "beef or lamb liver and heart, cubed (optional but traditional)"
+   },
+   {
+    "measure": "3",
+    "name": "onions, sliced into half rings"
+   },
+   {
+    "measure": "3",
+    "name": "potatoes, cut into cubes"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil or rendered fat"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground black pepper"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "fresh dill or cilantro, chopped"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Heat the oil or fat in a deep skillet or cast-iron pot until hot, then brown the cubes of meat for 10 to 15 minutes until golden and the fat has rendered.",
+   "Add the heart and cook for 5 minutes, then add the liver and cook just until it loses its raw colour, about 3 more minutes.",
+   "Add the onions and fry until soft and lightly browned, then season with salt and pepper.",
+   "In a separate pan, fry the potatoes in a little oil until golden and cooked through, then add them to the meat. (Some cooks stir the raw potatoes in and cover the pot for 15 minutes instead.)",
+   "Stir everything together over medium heat for a few more minutes so the flavours meld, then scatter with fresh herbs.",
+   "Serve hot, straight from the pan, with flatbread and pickled vegetables."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kuurdak",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-naryn-kazakh-sliced-boiled-meat-and-hand-cut-noodles-with-onion",
+  "title": "Naryn (Kazakh sliced boiled meat and hand-cut noodles with onion)",
+  "country": "Kazakhstan",
+  "category": "Beef",
+  "tags": [
+   "Kazakh",
+   "noodles",
+   "boiled meat"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "700 g",
+    "name": "beef or lamb on the bone"
+   },
+   {
+    "measure": "2.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, thinly sliced"
+   },
+   {
+    "measure": "300 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "80 ml",
+    "name": "water, for the dough"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground black pepper"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "parsley or dill, chopped"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Simmer the meat in the water with a little salt for 2 hours until tender, skimming off the foam.",
+   "Make a firm dough from the flour, egg, water and a pinch of salt, rest for 20 minutes, then roll it out thin.",
+   "Cut the dough into long thin noodles and boil them in salted water until tender, about 3 to 4 minutes. Drain and let them dry slightly.",
+   "Remove the meat from the broth and shred or cut it into thin strips.",
+   "Mix the meat, noodles and onion in a bowl, season generously with pepper and add a few ladles of the hot broth to moisten.",
+   "Top with herbs and serve with a bowl of the broth on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Naryn_(dish)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-nauryz-kozhe-kazakh-spring-grain-and-meat-soup-for-nauryz",
+  "title": "Nauryz kozhe (Kazakh spring grain and meat soup for Nauryz)",
+  "country": "Kazakhstan",
+  "category": "Starter",
+  "tags": [
+   "Kazakh",
+   "Nauryz",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "beef or lamb, in chunks"
+   },
+   {
+    "measure": "2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "50 g",
+    "name": "wheat grains or pearl barley"
+   },
+   {
+    "measure": "50 g",
+    "name": "millet"
+   },
+   {
+    "measure": "50 g",
+    "name": "rice"
+   },
+   {
+    "measure": "250 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, diced"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Bring the meat and water to a boil in a large pot, skim, add the onion and simmer for 1 hour.",
+   "Add the wheat or barley and carrot and simmer for another 30 minutes.",
+   "Stir in the millet and rice and cook for 20 to 25 minutes until all grains are soft and the soup is thick.",
+   "Lift out the meat, cut it into small pieces and return it to the pot.",
+   "Pour in the milk, season with salt and heat gently for 5 minutes without boiling hard.",
+   "Serve hot in bowls. Traditionally this soup is made with seven ingredients to mark the new year."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nauryz_kozhe",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-qattama-kazakh-layered-fried-flatbread",
+  "title": "Qattama (Kazakh layered fried flatbread)",
+  "country": "Kazakhstan",
+  "category": "Side",
+  "tags": [
+   "Kazakh",
+   "flatbread",
+   "layered"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "250 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "melted butter or ghee"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil, for the pan"
+   }
+  ],
+  "steps": [
+   "Knead the flour, water and salt into a soft dough and rest it for 30 minutes.",
+   "Divide into 6 pieces and roll each as thinly as you can into a long strip.",
+   "Brush each strip with melted butter, then roll it up into a tight coil like a snail and let it rest for 10 minutes.",
+   "Flatten each coil gently with the palm and roll into a round about 18 cm wide.",
+   "Cook in a lightly oiled heavy pan over medium heat for 3 to 4 minutes per side until golden and flaky.",
+   "Pinch it between your hands as it comes off the pan to loosen the layers, and serve warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qatlama",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-shelpek-kazakh-fried-flatbreads",
+  "title": "Shelpek (Kazakh fried flatbreads)",
+  "country": "Kazakhstan",
+  "category": "Side",
+  "tags": [
+   "Kazakh",
+   "bread",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm milk or water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "500 ml",
+    "name": "sunflower or vegetable oil, for shallow frying"
+   }
+  ],
+  "steps": [
+   "Stir the yeast, sugar and salt into the warm milk and leave for 5 minutes until it foams a little.",
+   "Add the flour and knead into a soft dough, then cover and let it rest for 30 to 40 minutes.",
+   "Divide into 10 to 12 pieces and roll each into a thin round about 15 cm wide. Prick them all over with a fork so they do not puff up too much.",
+   "Heat about 2 cm of oil in a wide pan over medium-high heat. Fry each flatbread for about 1 minute per side until golden and blistered.",
+   "Drain on paper towels and serve warm with tea, jam or soup."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shelpek",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kazakhstan-sorpa-kazakh-meat-broth-with-herbs",
+  "title": "Sorpa (Kazakh meat broth with herbs)",
+  "country": "Kazakhstan",
+  "category": "Starter",
+  "tags": [
+   "Kazakh",
+   "soup",
+   "broth"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "lamb or beef on the bone"
+   },
+   {
+    "measure": "2.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "2",
+    "name": "onions, 1 left whole and 1 sliced"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, cut into chunks"
+   },
+   {
+    "measure": "3",
+    "name": "potatoes, quartered"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "bell pepper, sliced"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "fresh dill and cilantro, chopped"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Put the meat in a large pot with the water and a pinch of salt. Bring to a boil, skim and simmer for 1.5 hours.",
+   "Add the whole onion and carrots and cook for another 20 minutes.",
+   "Add the potatoes, tomatoes, pepper and sliced onion and simmer for 25 minutes more until everything is soft.",
+   "Taste and season with salt and pepper.",
+   "Serve in deep bowls with the meat on the bone, a scattering of herbs and flatbread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chorba",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
