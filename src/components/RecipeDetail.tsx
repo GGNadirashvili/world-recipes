@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import type { Recipe } from '../types'
+import { RecipeImage } from './RecipeImage'
 
 export function RecipeDetail({ recipe }: { recipe: Recipe }) {
   const [have, setHave] = useState<Set<number>>(new Set())
@@ -13,7 +14,7 @@ export function RecipeDetail({ recipe }: { recipe: Recipe }) {
 
   return (
     <article className="detail">
-      <img className="detail-hero" src={recipe.image} alt={recipe.title} />
+      <RecipeImage recipe={recipe} className="detail-hero" />
       <h2>{recipe.title}</h2>
       <p className="meta">
         {recipe.country} · {recipe.category}
@@ -52,6 +53,19 @@ export function RecipeDetail({ recipe }: { recipe: Recipe }) {
           Source: {recipe.source.name}
         </a>
       </p>
+      {recipe.source.license && (
+        <p className="credit">
+          Text by{' '}
+          <a href={recipe.source.historyUrl} target="_blank" rel="noreferrer">
+            {recipe.source.name} contributors
+          </a>
+          , licensed{' '}
+          <a href={recipe.source.licenseUrl} target="_blank" rel="noreferrer">
+            {recipe.source.license}
+          </a>
+          .
+        </p>
+      )}
     </article>
   )
 }

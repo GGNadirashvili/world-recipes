@@ -2,6 +2,7 @@ import { coursesFor, type Country } from '../lib/recipes'
 import { courseById } from '../lib/courses'
 import type { Route } from '../lib/route'
 import { RecipeDetail } from './RecipeDetail'
+import { RecipeImage } from './RecipeImage'
 
 interface Props {
   country: Country
@@ -63,7 +64,7 @@ export function CountryPanel({ country, route, navigate }: Props) {
               {listed.map((r) => (
                 <li key={r.id}>
                   <button type="button" onClick={() => navigate({ ...here, course: route.course, recipe: r.id })}>
-                    <img src={r.image} alt="" loading="lazy" />
+                    <RecipeImage recipe={r} className="recipe-thumb" />
                     <span className="recipe-title">{r.title}</span>
                     <span className="recipe-meta">
                       {r.ingredients.length} ingredients · {r.category}

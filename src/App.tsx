@@ -57,7 +57,8 @@ export default function App() {
       </main>
 
       <footer className="footer">
-        Recipes from <a href="https://www.themealdb.com">TheMealDB</a> · Map data from{' '}
+        Recipes from <a href="https://www.themealdb.com">TheMealDB</a> and{' '}
+        <a href="https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents">Wikibooks Cookbook</a> (CC BY-SA 4.0) · Map data from{' '}
         <a href="https://www.naturalearthdata.com">Natural Earth</a>
       </footer>
     </div>
