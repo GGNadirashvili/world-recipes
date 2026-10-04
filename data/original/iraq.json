@@ -1,0 +1,511 @@
+[
+ {
+  "id": "original-iraq-chelfray-iraqi-lamb-potato-and-pepper-stew",
+  "title": "Chelfray (Iraqi lamb, potato and pepper stew)",
+  "country": "Iraq",
+  "category": "Lamb",
+  "tags": [
+   "Iraqi",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "lamb shoulder, cut into cubes"
+   },
+   {
+    "measure": "3",
+    "name": "potatoes, cut into chunks"
+   },
+   {
+    "measure": "3",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "green bell pepper, diced"
+   },
+   {
+    "measure": "1 to 2",
+    "name": "hot green peppers, sliced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baharat (or allspice and cumin)"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a heavy pot and brown the lamb cubes on all sides.",
+   "Add the onion and cook for a few minutes until softened.",
+   "Stir in the baharat, salt and black pepper, then add the tomatoes, bell pepper and hot peppers.",
+   "Add the potatoes and just enough water to come halfway up the ingredients.",
+   "Cover and cook on low heat for 1 to 1.5 hours until the lamb is tender and the sauce is thick.",
+   "Serve with rice or fresh bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chelfray",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-iraq-kahi-iraqi-flaky-pastry-with-cream-and-syrup",
+  "title": "Kahi (Iraqi flaky pastry with cream and syrup)",
+  "country": "Iraq",
+  "category": "Breakfast",
+  "tags": [
+   "Iraqi",
+   "pastry",
+   "breakfast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "150 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "6 tbsp",
+    "name": "vegetable oil, plus more for frying"
+   },
+   {
+    "measure": "200 g",
+    "name": "thick cream (kaymak/geymar, clotted cream or mascarpone)"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "date syrup or honey"
+   }
+  ],
+  "steps": [
+   "Knead the flour, salt, water and 2 tablespoons of oil into a soft dough, cover, and rest for 30 minutes.",
+   "Divide into 6 balls and roll each as thinly as you can, brushing generously with oil.",
+   "Fold each sheet into a square, brushing oil between the layers so they separate as they fry.",
+   "Fry the squares in a shallow layer of hot oil for 1 to 2 minutes per side until puffed, golden and crisp.",
+   "Drain on paper towels and serve warm with a spoonful of cream and a drizzle of date syrup or honey."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kahi_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-iraq-kleicha-iraqi-date-filled-cookies",
+  "title": "Kleicha (Iraqi date-filled cookies)",
+  "country": "Iraq",
+  "category": "Dessert",
+  "tags": [
+   "Iraqi",
+   "cookies",
+   "dates",
+   "Eid"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "450 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "150 g",
+    "name": "butter or ghee, melted"
+   },
+   {
+    "measure": "150 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "250 g",
+    "name": "date paste (or pitted dates, mashed)"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter, for the filling"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk beaten with a little milk, for glaze"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar, half the cardamom and salt. Add the melted butter and rub it into the flour.",
+   "Add the warm milk and bring the mixture into a soft dough, kneading briefly, then cover and rest for 1 hour.",
+   "Mash the date paste with the tablespoon of butter and the rest of the cardamom until smooth.",
+   "Divide the dough into walnut-sized pieces, flatten each into a disc, put a teaspoon of date filling in the centre, and close the dough around it.",
+   "Press each ball into a flat round and mark the top with a fork or small tongs.",
+   "Brush with the egg glaze and bake at 180 C for 20 to 25 minutes until golden. Cool on a rack."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kleicha",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-iraq-kubba-halab-iraqi-fried-rice-dumplings-with-spiced-meat",
+  "title": "Kubba halab (Iraqi fried rice dumplings with spiced meat)",
+  "country": "Iraq",
+  "category": "Beef",
+  "tags": [
+   "Iraqi",
+   "fried",
+   "rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "short-grain rice"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "300 g",
+    "name": "ground beef or lamb"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "30 g",
+    "name": "slivered almonds"
+   },
+   {
+    "measure": "1/2 bunch",
+    "name": "fresh parsley, chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baharat (or allspice and cinnamon)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil, plus oil for deep frying"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Boil the rice in plenty of water until very soft and slightly overcooked, then drain and mash it while hot with the flour, turmeric and a pinch of salt until it forms a sticky paste. Chill for 30 minutes.",
+   "Brown the onion in 2 tablespoons of oil, add the meat and cook until it loses its raw colour, then stir in the almonds, baharat, parsley, salt and pepper. Cool the filling.",
+   "With wet hands, take a ball of rice paste, flatten it in your palm, put a spoonful of filling in the middle, and close it into an oval, sealing the seam well.",
+   "Heat oil for deep frying to about 175 C and fry the dumplings in small batches for 4 to 5 minutes until deep golden and crisp.",
+   "Drain on paper towels and serve hot with lemon or amba."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kibbeh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-iraq-masgouf-iraqi-grilled-whole-fish",
+  "title": "Masgouf (Iraqi grilled whole fish)",
+  "country": "Iraq",
+  "category": "Seafood",
+  "tags": [
+   "Iraqi",
+   "grilled",
+   "fish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.5 kg",
+    "name": "whole carp, sea bass or sea bream, cleaned and split open along the belly or back (butterflied)"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tamarind paste (or 3 tbsp lemon juice)"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced into rings, for serving"
+   },
+   {
+    "measure": "3",
+    "name": "tomatoes, sliced, for serving"
+   },
+   {
+    "measure": "2",
+    "name": "lemons, cut in wedges"
+   },
+   {
+    "measure": "4",
+    "name": "flatbreads or samoon rolls"
+   }
+  ],
+  "steps": [
+   "Open the fish flat so it lies like a book and pat it dry. Make a few shallow cuts in the thick part of the flesh.",
+   "Mix the olive oil, tamarind paste, turmeric and salt and rub it over both sides of the fish. Leave it for 30 minutes.",
+   "Heat a charcoal grill or a very hot oven grill. Place the fish flesh-side towards the heat first and cook for 10 to 12 minutes.",
+   "Turn the fish and cook the skin side for another 10 to 15 minutes until the skin is crisp and the thickest part flakes easily.",
+   "Move the fish to a board, drizzle with a little more oil, and serve at once with onion rings, tomato, lemon wedges and bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Masgouf",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-iraq-quzi-iraqi-slow-cooked-lamb-on-spiced-rice",
+  "title": "Quzi (Iraqi slow-cooked lamb on spiced rice)",
+  "country": "Iraq",
+  "category": "Lamb",
+  "tags": [
+   "Iraqi",
+   "festive",
+   "rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.2 kg",
+    "name": "lamb shoulder or leg, on the bone, in large pieces"
+   },
+   {
+    "measure": "2",
+    "name": "onions, halved"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "4",
+    "name": "cardamom pods"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "baharat (or a mix of allspice, cinnamon and black pepper)"
+   },
+   {
+    "measure": "400 g",
+    "name": "basmati rice, rinsed"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, diced"
+   },
+   {
+    "measure": "100 g",
+    "name": "green peas"
+   },
+   {
+    "measure": "50 g",
+    "name": "blanched almonds"
+   },
+   {
+    "measure": "50 g",
+    "name": "raisins"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "ghee or butter"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Put the lamb, onions, cinnamon, cardamom and a good pinch of salt in a heavy pot with water to cover and bring to the boil, skimming off the foam.",
+   "Reduce the heat, cover, and simmer very gently for 2 to 2.5 hours until the meat is falling off the bone. Strain and keep the broth.",
+   "Fry the almonds and raisins briefly in half the ghee until golden and plump, and set aside.",
+   "Fry the carrots in the remaining ghee for a few minutes, add the baharat and the rice and stir for a minute.",
+   "Pour in about 700 ml of the hot lamb broth, add the peas and salt, bring to a boil, cover, and cook on the lowest heat for 15 to 18 minutes. Rest for 10 minutes off the heat.",
+   "Pile the rice on a large platter, lay the lamb on top, and scatter with the fried almonds and raisins."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quzi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-iraq-samoon-iraqi-diamond-shaped-bread",
+  "title": "Samoon (Iraqi diamond-shaped bread)",
+  "country": "Iraq",
+  "category": "Side",
+  "tags": [
+   "Iraqi",
+   "bread",
+   "baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "bread flour"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "320 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "olive oil or vegetable oil"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt, then add the water and oil and knead for about 10 minutes until smooth and elastic.",
+   "Cover and let the dough rise in a warm place until doubled, about 1.5 hours.",
+   "Divide into 6 pieces, shape each into a ball, rest for 10 minutes, then roll or stretch into an oval about 15 cm long and pinch the two ends into points to make a diamond shape.",
+   "Place on a floured tray and let them rise again for 20 minutes.",
+   "Put a tray of hot water in the bottom of the oven for steam and bake the bread at 240 C for 12 to 15 minutes until golden with a crisp crust.",
+   "Eat warm with kebabs, hummus or stews."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Samoon",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-iraq-tepsi-baytinijan-iraqi-baked-aubergine-and-tomato-casserole",
+  "title": "Tepsi baytinijan (Iraqi baked aubergine and tomato casserole)",
+  "country": "Iraq",
+  "category": "Vegetarian",
+  "tags": [
+   "Iraqi",
+   "aubergine",
+   "baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "3",
+    "name": "large aubergines (eggplants), sliced 1 cm thick"
+   },
+   {
+    "measure": "3",
+    "name": "potatoes, sliced 5 mm thick"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced"
+   },
+   {
+    "measure": "4",
+    "name": "tomatoes, sliced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baharat or ground allspice"
+   },
+   {
+    "measure": "150 ml",
+    "name": "vegetable oil for frying"
+   },
+   {
+    "measure": "250 ml",
+    "name": "hot water"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Salt the aubergine slices and leave them for 20 minutes, then rinse and pat dry.",
+   "Fry the aubergine and potato slices in batches in oil until golden on both sides and drain them on paper towels.",
+   "Soften the onions in a little oil, add the garlic and cook for a minute. If you like, brown 300 g minced lamb with them at this stage.",
+   "Dissolve the tomato paste and baharat in the hot water with salt and pepper to make a loose sauce.",
+   "Layer the potatoes, aubergine, onion mixture and tomato slices in a deep baking dish, finishing with tomatoes, and pour the sauce over.",
+   "Bake at 190 C for 35 to 40 minutes until bubbling and the vegetables are tender, then serve with rice or flatbread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tepsi_baytinijan",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

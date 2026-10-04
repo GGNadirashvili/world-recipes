@@ -1,0 +1,708 @@
+[
+ {
+  "id": "original-israel-bourekas-israeli-puff-pastry-pies-with-potato-or-cheese",
+  "title": "Bourekas (Israeli puff pastry pies with potato or cheese)",
+  "country": "Israel",
+  "category": "Starter",
+  "tags": [
+   "Israeli",
+   "pastry",
+   "baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 sheets",
+    "name": "ready-rolled puff pastry (about 500 g in total)"
+   },
+   {
+    "measure": "400 g",
+    "name": "potatoes, boiled and mashed"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped and fried until golden"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk, for the filling"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten, for the glaze"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sesame seeds"
+   },
+   {
+    "measure": "1",
+    "name": "pinch of nutmeg"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Mash the potatoes with the fried onion, egg yolk, nutmeg, salt and pepper until smooth, and let the filling cool. For a cheese version, mix 250 g feta, 100 g ricotta and 1 egg instead.",
+   "Cut each puff pastry sheet into 4 squares, giving 8 in total.",
+   "Put a heaped spoonful of filling in the middle of each square and fold the pastry over diagonally into a triangle, pressing the edges together with a fork.",
+   "Brush the tops with the beaten egg and sprinkle with sesame seeds.",
+   "Bake at 200 C for 22 to 25 minutes until puffed and deep golden.",
+   "Serve hot or warm with hard-boiled egg, pickles and grated tomato."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bourekas",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-israeli-breakfast-kibbutz-style-eggs-salad-cheese-and-bread",
+  "title": "Israeli breakfast (kibbutz-style eggs, salad, cheese and bread)",
+  "country": "Israel",
+  "category": "Breakfast",
+  "tags": [
+   "Israeli",
+   "kibbutz",
+   "breakfast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "3",
+    "name": "tomatoes, diced"
+   },
+   {
+    "measure": "3",
+    "name": "small cucumbers, diced"
+   },
+   {
+    "measure": "1",
+    "name": "small red onion or 3 spring onions, finely chopped"
+   },
+   {
+    "measure": "150 g",
+    "name": "cottage cheese, labneh or white cheese"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "tahini"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "1 handful",
+    "name": "olives"
+   },
+   {
+    "measure": "4 slices",
+    "name": "fresh bread or pita"
+   },
+   {
+    "measure": "",
+    "name": "salt, pepper and za'atar, to taste"
+   }
+  ],
+  "steps": [
+   "Chop the tomatoes, cucumbers and onion into small, even dice, dress with 1 tablespoon of the olive oil, lemon juice, salt and pepper, and set aside.",
+   "Thin the tahini with a little water and lemon juice until pourable, and season with salt.",
+   "Fry or soft-scramble the eggs in the remaining olive oil.",
+   "Arrange the eggs, chopped salad, cheese, tahini and olives on plates, with the bread alongside.",
+   "Drizzle the cheese with a little olive oil and sprinkle with za'atar, then serve with fresh bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Israeli_breakfast",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-jachnun-yemenite-jewish-overnight-baked-rolled-pastry",
+  "title": "Jachnun (Yemenite Jewish overnight-baked rolled pastry)",
+  "country": "Israel",
+  "category": "Breakfast",
+  "tags": [
+   "Israeli",
+   "Yemenite",
+   "Shabbat"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "150 g",
+    "name": "margarine, ghee or butter, melted"
+   },
+   {
+    "measure": "4",
+    "name": "ripe tomatoes, grated, for serving"
+   },
+   {
+    "measure": "4",
+    "name": "hard-boiled eggs, for serving"
+   },
+   {
+    "measure": "",
+    "name": "spicy zhug or schug, for serving"
+   }
+  ],
+  "steps": [
+   "Mix the flour, salt, sugar and water into a soft dough, knead for 5 minutes, then cover and rest for 30 minutes.",
+   "Divide into 5 or 6 balls and rest them for another 30 minutes, covered.",
+   "Roll one ball on an oiled surface as thinly as possible into a large rectangle, brush it generously with melted fat, and roll it up from the long edge into a tight log.",
+   "Place the rolls snugly in a heavy lidded pot or covered baking dish greased with fat, brush the tops with more fat, and cover tightly with a lid or foil.",
+   "Bake in a very low oven at 100 to 120 C for 8 to 12 hours, as for a Friday night Shabbat meal, until the rolls turn deep golden brown and tender.",
+   "Serve hot with grated tomato, a hard-boiled egg and hot sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jachnun",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-jerusalem-bagel-sesame-crusted-oblong-bread-ring",
+  "title": "Jerusalem bagel (sesame-crusted oblong bread ring)",
+  "country": "Israel",
+  "category": "Breakfast",
+  "tags": [
+   "Israeli",
+   "Jerusalem",
+   "bread"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain or bread flour"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "280 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "100 g",
+    "name": "sesame seeds"
+   },
+   {
+    "measure": "",
+    "name": "za'atar and hard-boiled eggs, for serving"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt, add the warm water and oil, and knead for 10 minutes to a soft, elastic dough.",
+   "Cover and let it rise for 1 hour until doubled.",
+   "Divide into 4 pieces and roll each into a rope about 50 cm long, then bring the ends together and overlap them to form a long oval ring, about 30 cm in length.",
+   "Brush the rings with water and press them into the sesame seeds so they are fully coated, then place on a lined tray.",
+   "Let rise for 30 minutes, then bake at 230 C for 18 to 22 minutes until golden and crusty.",
+   "Serve warm with za'atar, olive oil and a hard-boiled egg, as it is sold on the streets of Jerusalem."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jerusalem_bagel",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-jerusalem-mixed-grill-me-orav-yerushalmi-spiced-chicken-hearts-liver-and-thigh",
+  "title": "Jerusalem mixed grill (Me'orav Yerushalmi, spiced chicken hearts, liver and thigh)",
+  "country": "Israel",
+  "category": "Chicken",
+  "tags": [
+   "Israeli",
+   "Jerusalem",
+   "grilled"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "chicken hearts, trimmed"
+   },
+   {
+    "measure": "200 g",
+    "name": "chicken livers, trimmed"
+   },
+   {
+    "measure": "300 g",
+    "name": "boneless chicken thighs, sliced into strips"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, thinly sliced"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground coriander"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "paprika"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "4",
+    "name": "pitas or laffa breads, for serving"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Heat a large flat griddle or heavy frying pan over high heat with the oil.",
+   "Fry the onion for 3 minutes until it starts to colour, then push it to the side and add the hearts, which need the longest cooking.",
+   "After 5 minutes, add the thigh strips and cook for another 5 minutes, turning, until browned.",
+   "Add the livers and garlic and cook for 3 to 4 minutes more. Make sure all the meat is cooked through with no pink.",
+   "Sprinkle in the cumin, turmeric, coriander, paprika, salt and pepper and toss everything together for a minute.",
+   "Stuff into pita or laffa and serve at once with amba, tahini and a chopped salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jerusalem_mixed_grill",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-kubaneh-yemenite-jewish-slow-baked-pull-apart-bread",
+  "title": "Kubaneh (Yemenite Jewish slow-baked pull-apart bread)",
+  "country": "Israel",
+  "category": "Breakfast",
+  "tags": [
+   "Israeli",
+   "Yemenite",
+   "bread"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "300 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "150 g",
+    "name": "butter, ghee or margarine, melted"
+   },
+   {
+    "measure": "3",
+    "name": "ripe tomatoes, grated, for serving"
+   },
+   {
+    "measure": "4",
+    "name": "hard-boiled eggs, for serving"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt, add the warm water and knead for 8 minutes into a soft, slightly sticky dough. Cover and let rise for 1 hour.",
+   "Brush a deep, heavy pot with a lid generously with melted fat.",
+   "Divide the dough into 7 to 8 balls and roll each in melted fat. Arrange them snugly in the pot, with 1 ball in the centre.",
+   "Brush the tops with more fat, cover with the lid, and leave to rise for 30 minutes.",
+   "Bake at 100 to 120 C for about 8 hours or overnight, until the bread is deep golden brown with a soft interior and a crisp bottom.",
+   "Turn out and pull the rolls apart. Serve hot with grated tomato, hard-boiled eggs and hot sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kubaneh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-macaroni-hamin-jerusalem-sephardic-chicken-and-macaroni-shabbat-stew",
+  "title": "Macaroni hamin (Jerusalem Sephardic chicken and macaroni Shabbat stew)",
+  "country": "Israel",
+  "category": "Chicken",
+  "tags": [
+   "Israeli",
+   "Jerusalem",
+   "Shabbat"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "chicken thighs and drumsticks, bone-in"
+   },
+   {
+    "measure": "300 g",
+    "name": "short macaroni"
+   },
+   {
+    "measure": "3",
+    "name": "potatoes, cut into chunks"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "paprika"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "4",
+    "name": "eggs in their shells, scrubbed (optional)"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Fry the onions in the oil in a heavy pot until golden, then add the spices, salt and pepper.",
+   "Add the chicken and brown it lightly on all sides.",
+   "Boil the macaroni for 5 minutes only, so it is half cooked, and drain.",
+   "Layer the potatoes and chicken in the pot, cover with the macaroni, and add hot water until it just reaches the level of the pasta. Tuck the whole eggs in if using.",
+   "Cover tightly and cook in a 150 C oven for about 3 hours, or at the lowest setting overnight as tradition has it, until the pasta is soft and all the liquid is absorbed.",
+   "Serve the stew hot, with the browned crust on the base for those who like it."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Macaroni_Hamin",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-malawach-yemenite-jewish-layered-flatbread",
+  "title": "Malawach (Yemenite Jewish layered flatbread)",
+  "country": "Israel",
+  "category": "Breakfast",
+  "tags": [
+   "Israeli",
+   "Yemenite",
+   "flatbread"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil, for the dough"
+   },
+   {
+    "measure": "100 g",
+    "name": "butter or ghee, melted, for layering"
+   },
+   {
+    "measure": "3",
+    "name": "ripe tomatoes, grated, for serving"
+   },
+   {
+    "measure": "4",
+    "name": "hard-boiled eggs, for serving"
+   }
+  ],
+  "steps": [
+   "Knead the flour, salt, sugar, warm water and oil into a soft dough for 5 minutes, then cover and rest for 30 minutes.",
+   "Divide into 6 balls. Roll each one very thin on an oiled surface into a large round.",
+   "Brush generously with melted butter, roll up the dough sheet like a rope, then coil it into a snail shape and tuck the end underneath.",
+   "Rest the coils for 15 minutes, then roll each out again into a thin round about 20 cm across.",
+   "Fry in a hot, lightly oiled frying pan for 2 to 3 minutes per side until golden brown and flaky, and crush it slightly with your hands to open the layers.",
+   "Serve hot with grated tomato, hard-boiled eggs and a spicy sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Malawach",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-orez-shu-it-jerusalem-white-beans-in-tomato-sauce-on-rice",
+  "title": "Orez shu'it (Jerusalem white beans in tomato sauce on rice)",
+  "country": "Israel",
+  "category": "Vegetarian",
+  "tags": [
+   "Israeli",
+   "Jerusalem",
+   "beans"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "dried white beans, soaked overnight (or 2 cans, drained)"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "paprika"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "300 g",
+    "name": "long-grain rice"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Simmer the soaked beans in fresh water for 1 to 1.5 hours until nearly tender, then drain, keeping 250 ml of the cooking water. (If using canned beans, skip this.)",
+   "Fry the onion in the oil until soft and golden, add the tomato paste, paprika and cumin and cook for 2 minutes.",
+   "Add the beans, the reserved cooking water (or plain water), sugar, salt and pepper.",
+   "Simmer gently for 30 to 40 minutes until the beans are very tender and the sauce is thick and glossy.",
+   "Cook the rice separately in salted water until fluffy.",
+   "Serve the beans over the rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Orez_Shu%27it",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-ptitim-israeli-couscous-with-onion-and-garlic",
+  "title": "Ptitim (Israeli couscous with onion and garlic)",
+  "country": "Israel",
+  "category": "Side",
+  "tags": [
+   "Israeli",
+   "pasta",
+   "side"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "ptitim (Israeli couscous)"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "500 ml",
+    "name": "hot vegetable or chicken stock"
+   },
+   {
+    "measure": "1 handful",
+    "name": "fresh parsley, chopped"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Heat the olive oil in a saucepan and soften the onion for 5 minutes.",
+   "Add the garlic and the ptitim and stir for 2 to 3 minutes until the pasta turns lightly golden and smells toasted.",
+   "Pour in the hot stock, add salt and pepper, and bring to the boil.",
+   "Cover, reduce the heat to low, and simmer for 10 to 12 minutes until the liquid is absorbed and the pearls are tender.",
+   "Fluff with a fork, stir in the parsley, and serve as a side dish."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Israeli_couscous",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-israel-sufganiyot-israeli-hanukkah-jam-filled-doughnuts",
+  "title": "Sufganiyot (Israeli Hanukkah jam-filled doughnuts)",
+  "country": "Israel",
+  "category": "Dessert",
+  "tags": [
+   "Israeli",
+   "Hanukkah",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "60 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "60 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "1",
+    "name": "lemon, zest only"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "vegetable oil for deep frying"
+   },
+   {
+    "measure": "200 g",
+    "name": "strawberry or apricot jam"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "icing sugar"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar, salt and lemon zest, add the eggs, warm milk and butter, and knead for 8 to 10 minutes into a soft, smooth dough.",
+   "Cover and let it rise for 1 to 1.5 hours until doubled.",
+   "Roll the dough out to about 1.5 cm thick, cut into 7 cm rounds, and let them rise on a floured tray for 30 minutes.",
+   "Heat the oil to 170 C and fry the doughnuts a few at a time for about 1.5 minutes per side until deep golden brown, keeping the oil temperature steady.",
+   "Drain on paper towels and let them cool a little.",
+   "Fill a piping bag with jam, push the nozzle into the side of each doughnut and squeeze in a spoonful, then dust with icing sugar."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sufganiyah",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

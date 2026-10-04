@@ -1,0 +1,953 @@
+[
+ {
+  "id": "original-syria-barazek-damascus-sesame-and-pistachio-cookies",
+  "title": "Barazek (Damascus sesame and pistachio cookies)",
+  "country": "Syria",
+  "category": "Dessert",
+  "tags": [
+   "Syrian",
+   "cookies",
+   "sesame"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "125 g",
+    "name": "butter, softened"
+   },
+   {
+    "measure": "80 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "milk"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "orange blossom water"
+   },
+   {
+    "measure": "150 g",
+    "name": "sesame seeds, raw"
+   },
+   {
+    "measure": "100 g",
+    "name": "sugar, for the syrup"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water, for the syrup"
+   },
+   {
+    "measure": "40 g",
+    "name": "pistachios, halved"
+   }
+  ],
+  "steps": [
+   "Make a light syrup by simmering the 100 g sugar and water for 5 minutes, then cool it completely.",
+   "Cream the butter and sugar until pale, then add the milk and orange blossom water, followed by the flour and baking powder, mixing to a soft dough.",
+   "Shape the dough into small balls the size of a walnut and flatten them into thin ovals.",
+   "Spread the sesame seeds on a plate, dip one side of each cookie in the cool syrup, then press that side into the sesame so it is fully coated.",
+   "Place the cookies sesame-side up on a lined tray and press a few pistachio halves on top.",
+   "Bake at 180 C for 15 to 18 minutes until pale golden and the sesame is toasted. Cool on the tray."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Barazek",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-cherry-kebab-aleppo-meatballs-in-sour-cherry-sauce",
+  "title": "Cherry kebab (Aleppo meatballs in sour cherry sauce)",
+  "country": "Syria",
+  "category": "Lamb",
+  "tags": [
+   "Syrian",
+   "Aleppo",
+   "cherry"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "ground lamb"
+   },
+   {
+    "measure": "1",
+    "name": "onion, grated"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "allspice or baharat"
+   },
+   {
+    "measure": "500 g",
+    "name": "pitted sour cherries (fresh, or jarred and drained)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "pomegranate molasses"
+   },
+   {
+    "measure": "250 ml",
+    "name": "stock or water"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "30 g",
+    "name": "pine nuts, toasted"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Mix the lamb with the grated onion, allspice, salt and pepper and knead well. Shape into walnut-sized balls.",
+   "Brown the meatballs in the oil in a wide pan in batches and set aside.",
+   "Add the cherries, sugar and stock to the pan and simmer for 10 minutes until the cherries release their juice and turn the sauce deep magenta.",
+   "Return the meatballs, add the pomegranate molasses, and simmer for 15 to 20 minutes until the sauce thickens and the meat is cooked through.",
+   "Taste and balance sweet against sour with more sugar or molasses.",
+   "Serve over flatbread or rice and scatter with pine nuts."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cherry_kebab",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-fatayer-syrian-spinach-and-sumac-pies",
+  "title": "Fatayer (Syrian spinach and sumac pies)",
+  "country": "Syria",
+  "category": "Vegetarian",
+  "tags": [
+   "Syrian",
+   "pastry",
+   "spinach"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "220 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "400 g",
+    "name": "fresh spinach, chopped (or 250 g frozen, squeezed dry)"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sumac"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "olive oil, for the filling"
+   }
+  ],
+  "steps": [
+   "Knead the flour, yeast, sugar, salt, oil and warm water into a soft dough for 8 minutes, cover, and let it rise for 1 hour.",
+   "Mix the chopped spinach with the onion, sumac, lemon juice, olive oil and a pinch of salt, and squeeze out excess liquid.",
+   "Roll the dough out thinly and cut it into circles 10 cm across.",
+   "Put a spoonful of filling in the centre of each circle and pinch the edges together in three places to form a triangle, sealing the seams well.",
+   "Place on a lined tray and bake at 200 C for 18 to 20 minutes until golden.",
+   "Serve warm or at room temperature."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fatayer",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-fatteh-syrian-chickpea-toasted-bread-and-yogurt-platter",
+  "title": "Fatteh (Syrian chickpea, toasted bread and yogurt platter)",
+  "country": "Syria",
+  "category": "Vegetarian",
+  "tags": [
+   "Syrian",
+   "chickpeas",
+   "yogurt",
+   "breakfast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 large",
+    "name": "pita breads, torn into pieces"
+   },
+   {
+    "measure": "400 g",
+    "name": "cooked chickpeas, warm"
+   },
+   {
+    "measure": "400 g",
+    "name": "plain yogurt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tahini"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "butter or ghee"
+   },
+   {
+    "measure": "40 g",
+    "name": "pine nuts"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "paprika"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "chopped parsley"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Toast the torn pita in the oven at 200 C for 8 to 10 minutes, or fry it in oil, until crisp and golden.",
+   "Whisk the yogurt with the tahini, garlic, lemon juice and a little salt until smooth and pourable.",
+   "Warm the chickpeas in a little of their cooking liquid with the cumin and salt.",
+   "Spread the crisp bread on a deep platter, moisten with a few spoonfuls of the chickpea liquid, then layer the chickpeas and the yogurt sauce on top.",
+   "Melt the butter in a small pan, fry the pine nuts until golden, stir in the paprika, and pour the sizzling butter over the platter.",
+   "Scatter with parsley and serve immediately, before the bread softens completely."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fatteh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-halawet-el-jibn-syrian-sweet-cheese-rolls-with-cream",
+  "title": "Halawet el jibn (Syrian sweet cheese rolls with cream)",
+  "country": "Syria",
+  "category": "Dessert",
+  "tags": [
+   "Syrian",
+   "Hama",
+   "cheese",
+   "dessert"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "120 g",
+    "name": "fine semolina"
+   },
+   {
+    "measure": "350 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "300 g",
+    "name": "low-moisture mozzarella (or akkawi, soaked and drained), shredded"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "orange blossom water"
+   },
+   {
+    "measure": "250 g",
+    "name": "thick cream (ashta, clotted cream or mascarpone), sweetened to taste"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar, for the syrup"
+   },
+   {
+    "measure": "150 ml",
+    "name": "water, for the syrup"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "rose water"
+   },
+   {
+    "measure": "30 g",
+    "name": "ground pistachios"
+   }
+  ],
+  "steps": [
+   "Make the syrup by simmering the 150 g sugar with its water for 8 minutes, stirring in the rose water at the end, and let it cool.",
+   "Bring the 350 ml water and the tablespoon of sugar to the boil and stir in the semolina, cooking for a few minutes until thick.",
+   "Add the shredded cheese and orange blossom water and stir over low heat until the cheese melts and the mix forms a smooth, stretchy dough.",
+   "Turn the warm dough onto a surface dusted with sugar or lightly oiled, and roll or press it into a thin rectangle about 3 mm thick.",
+   "Spread the cream over it, roll up tightly like a log, and cut into thick slices.",
+   "Chill the slices for an hour, drizzle with the cool syrup, and finish with ground pistachios."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Halawet_el_jibn",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-kibbeh-syrian-fried-bulgur-and-lamb-torpedoes",
+  "title": "Kibbeh (Syrian fried bulgur and lamb torpedoes)",
+  "country": "Syria",
+  "category": "Lamb",
+  "tags": [
+   "Syrian",
+   "fried",
+   "bulgur"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "fine bulgur (#1), rinsed and drained"
+   },
+   {
+    "measure": "300 g",
+    "name": "lean lamb, trimmed and minced twice (or beef)"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, grated"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "allspice"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cinnamon"
+   },
+   {
+    "measure": "250 g",
+    "name": "ground lamb, for the filling"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "40 g",
+    "name": "pine nuts"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "pomegranate molasses"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil, plus oil for deep frying"
+   }
+  ],
+  "steps": [
+   "Make the filling first. Fry the chopped onion in 3 tablespoons of oil until golden, add the ground lamb and cook until browned, then add the pine nuts, a teaspoon of allspice, salt, pepper and pomegranate molasses. Cool completely.",
+   "Work the soaked bulgur, minced lamb, grated onion, salt, allspice and cinnamon together in a food processor with a few splashes of iced water until it forms a smooth, pliable paste.",
+   "With wet hands take a golf-ball-sized piece, poke a hole in it with your finger and work it into a thin-walled cup.",
+   "Fill the cup with a spoonful of the cooled filling and pinch the opening closed, shaping into a torpedo with pointed ends.",
+   "Heat the frying oil to about 175 C and fry the kibbeh in batches for 4 to 5 minutes until dark golden and crisp.",
+   "Drain on paper towels and serve hot with yogurt and a salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kibbeh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-kibbeh-safarjaliyeh-aleppo-quince-and-kibbeh-stew",
+  "title": "Kibbeh safarjaliyeh (Aleppo quince and kibbeh stew)",
+  "country": "Syria",
+  "category": "Lamb",
+  "tags": [
+   "Syrian",
+   "Aleppo",
+   "stew",
+   "quince"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "lamb or beef, cut into chunks"
+   },
+   {
+    "measure": "2 large",
+    "name": "quinces, peeled, cored and cut into wedges"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "250 ml",
+    "name": "pomegranate juice"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "pomegranate molasses"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "100 g",
+    "name": "fine bulgur"
+   },
+   {
+    "measure": "150 g",
+    "name": "lean minced lamb, for the kibbeh"
+   },
+   {
+    "measure": "100 g",
+    "name": "ground lamb, cooked with onion and spices, for filling"
+   },
+   {
+    "measure": "",
+    "name": "salt, pepper and allspice to taste"
+   }
+  ],
+  "steps": [
+   "Brown the lamb chunks with the chopped onion in the oil, then cover with about 750 ml of water, add salt and pepper, and simmer for 1 hour.",
+   "Fry the quince wedges in a little oil until golden, then add them to the pot with the pomegranate juice, molasses and sugar.",
+   "Make small kibbeh balls: knead the bulgur with the lean minced lamb, salt and allspice into a paste, shape into walnut-sized cups, fill each with a little cooked spiced mince, and seal.",
+   "Simmer the stew for another 30 minutes until the quince is tender but not collapsed and the broth is slightly sweet and sour.",
+   "Drop the kibbeh balls into the simmering broth and cook for 10 minutes until firm.",
+   "Adjust the sweet and sour balance and serve in bowls with rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kibbeh_safarjaliyeh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-maarouk-syrian-sweet-ramadan-bread",
+  "title": "Maarouk (Syrian sweet Ramadan bread)",
+  "country": "Syria",
+  "category": "Side",
+  "tags": [
+   "Syrian",
+   "bread",
+   "Ramadan"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "60 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground aniseed (or mahleb, optional)"
+   },
+   {
+    "measure": "100 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "250 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk beaten with a little milk, for glaze"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sesame seeds and nigella seeds"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar, salt and aniseed in a large bowl and add the butter and warm milk.",
+   "Knead for 10 minutes until smooth and soft, then cover and let it rise in a warm place for 1 hour until doubled.",
+   "Divide into 2 pieces, shape each into a long loaf or oval, and place on a lined tray.",
+   "Let rise again for 30 minutes, then brush with the egg glaze and sprinkle with the seeds.",
+   "Bake at 190 C for 25 to 30 minutes until golden brown.",
+   "Cool slightly and serve sliced, with cheese, jam or sweet cream for the Ramadan meal."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maarouk",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-muhammara-aleppo-red-pepper-and-walnut-dip",
+  "title": "Muhammara (Aleppo red pepper and walnut dip)",
+  "country": "Syria",
+  "category": "Starter",
+  "tags": [
+   "Syrian",
+   "dip",
+   "Aleppo"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "3",
+    "name": "large red bell peppers, roasted and peeled (or 250 g jarred roasted red peppers)"
+   },
+   {
+    "measure": "100 g",
+    "name": "walnuts, toasted"
+   },
+   {
+    "measure": "50 g",
+    "name": "breadcrumbs"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "pomegranate molasses"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "Aleppo pepper (or chilli flakes plus a little paprika)"
+   },
+   {
+    "measure": "1 clove",
+    "name": "garlic"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Roast the peppers over a flame or under a grill until blackened, put them in a covered bowl to steam, then peel and deseed them.",
+   "Pulse the walnuts with the breadcrumbs, garlic, cumin and chilli to a coarse crumb.",
+   "Add the peppers, pomegranate molasses and lemon juice and blend to a thick, slightly textured paste.",
+   "With the machine running, drizzle in the olive oil and season with salt.",
+   "Spoon into a bowl, drizzle with more olive oil, and serve with warm flatbread and raw vegetables."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Muhammara",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-qamar-al-din-syrian-apricot-drink",
+  "title": "Qamar al-din (Syrian apricot drink)",
+  "country": "Syria",
+  "category": "Miscellaneous",
+  "tags": [
+   "Syrian",
+   "drink",
+   "Ramadan"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "qamar al-din apricot sheets (or soft apricot fruit leather)"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "sugar, or to taste"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "orange blossom water (optional)"
+   }
+  ],
+  "steps": [
+   "Tear the apricot sheets into pieces and soak them in the water for at least 4 hours, ideally overnight.",
+   "Blend the soaked apricot and its water until completely smooth.",
+   "Strain the drink through a sieve to remove any fibre.",
+   "Stir in the sugar and orange blossom water until dissolved, adding more water if the drink is too thick.",
+   "Chill thoroughly and serve cold in tall glasses, traditionally at the end of the fast during Ramadan."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qamar_al-din",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-qatayef-syrian-stuffed-pancakes-with-walnuts-and-syrup",
+  "title": "Qatayef (Syrian stuffed pancakes with walnuts and syrup)",
+  "country": "Syria",
+  "category": "Dessert",
+  "tags": [
+   "Syrian",
+   "Ramadan",
+   "pancakes"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "400 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "150 g",
+    "name": "walnuts, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar, for the filling"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cinnamon"
+   },
+   {
+    "measure": "200 g",
+    "name": "sugar, for the syrup"
+   },
+   {
+    "measure": "150 ml",
+    "name": "water, for the syrup"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "rose water or orange blossom water"
+   }
+  ],
+  "steps": [
+   "Make the syrup by simmering the 200 g sugar, water and lemon juice for 10 minutes, then stirring in the rose water and cooling.",
+   "Whisk the flour, yeast, sugar, baking powder, salt and warm water into a smooth, thin batter and leave it for 30 minutes.",
+   "Cook small spoonfuls of batter in a lightly greased non-stick pan over medium heat, one side only, until the surface is covered with bubbles and set. Do not flip them.",
+   "Mix the walnuts with the filling sugar and cinnamon.",
+   "Put a spoonful of filling on the cooked side of each pancake, fold it into a half-moon and pinch the edges to seal.",
+   "Fry the stuffed pancakes in oil until golden (or brush with butter and bake at 200 C for 12 minutes), then dip them in the cool syrup and serve."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qatayef",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-shaifura-syrian-shanklish-tomato-and-onion-salad",
+  "title": "Shaifura (Syrian shanklish, tomato and onion salad)",
+  "country": "Syria",
+  "category": "Starter",
+  "tags": [
+   "Syrian",
+   "salad",
+   "cheese"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "150 g",
+    "name": "shanklish (or crumbled feta mixed with a little dried thyme)"
+   },
+   {
+    "measure": "3",
+    "name": "ripe tomatoes, finely diced"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "1/2",
+    "name": "green pepper, finely diced"
+   },
+   {
+    "measure": "1 handful",
+    "name": "fresh parsley, chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "dried mint or Aleppo pepper"
+   }
+  ],
+  "steps": [
+   "Crumble the cheese into a bowl with your fingers.",
+   "Add the tomatoes, onion, green pepper and parsley.",
+   "Pour in the olive oil and toss everything together gently.",
+   "Sprinkle with mint or Aleppo pepper and serve with flatbread for scooping."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sh%CA%BFifurah",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-shakriyeh-syrian-lamb-in-warm-yogurt-sauce",
+  "title": "Shakriyeh (Syrian lamb in warm yogurt sauce)",
+  "country": "Syria",
+  "category": "Lamb",
+  "tags": [
+   "Syrian",
+   "yogurt",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "700 g",
+    "name": "lamb shoulder or leg, in chunks (bone-in if possible)"
+   },
+   {
+    "measure": "1",
+    "name": "onion, halved"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "3",
+    "name": "cardamom pods"
+   },
+   {
+    "measure": "750 g",
+    "name": "full-fat plain yogurt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "cornflour (cornstarch), mixed with 2 tbsp cold water"
+   },
+   {
+    "measure": "1",
+    "name": "egg white"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "ghee or butter"
+   },
+   {
+    "measure": "40 g",
+    "name": "pine nuts, toasted"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Put the lamb, onion, cinnamon and cardamom in a pot with water to cover and a good pinch of salt. Simmer gently for 1.5 hours until very tender, skimming the surface.",
+   "Drain the meat and keep about 250 ml of the broth.",
+   "In a separate pot, whisk the yogurt, cornflour mixture and egg white until perfectly smooth.",
+   "Heat the yogurt over medium-low heat, stirring constantly in one direction, until it comes to a gentle simmer. Keep stirring to prevent it from splitting and cook for 5 minutes.",
+   "Add the lamb and enough of the reserved broth to loosen the sauce, and simmer very gently for 15 to 20 minutes, adding salt to taste.",
+   "Serve over rice with ghee-toasted pine nuts on top."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shakriyeh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-syria-sheikh-al-mahshi-syrian-stuffed-courgettes-in-yogurt-sauce",
+  "title": "Sheikh al-mahshi (Syrian stuffed courgettes in yogurt sauce)",
+  "country": "Syria",
+  "category": "Lamb",
+  "tags": [
+   "Syrian",
+   "stuffed",
+   "yogurt"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "8",
+    "name": "small courgettes (zucchini), about 15 cm long"
+   },
+   {
+    "measure": "400 g",
+    "name": "minced lamb"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "40 g",
+    "name": "pine nuts"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "allspice"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cinnamon"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "500 g",
+    "name": "plain yogurt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "cornflour (cornstarch)"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "dried mint"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Trim the courgettes and hollow out each with a corer, leaving a thin wall and keeping the end intact.",
+   "Fry the onion in the oil until golden, add the lamb and brown it, then stir in the pine nuts, allspice, cinnamon, salt and pepper and cook for 5 minutes.",
+   "Stuff the courgettes loosely with the filling and brown them lightly in a pan.",
+   "Whisk the yogurt with the cornflour and a little water, bring it to a gentle simmer over low heat stirring constantly in one direction, and add salt.",
+   "Lay the courgettes in the yogurt sauce, cover, and simmer on low for 25 to 30 minutes until tender.",
+   "Fry the garlic and dried mint briefly in a little oil and pour over the dish before serving with rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sheikh_al-mahshi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
