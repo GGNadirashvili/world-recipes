@@ -1,0 +1,188 @@
+[
+ {
+  "id": "original-kenya-chapati-kenyan-layered-flatbread",
+  "title": "Chapati (Kenyan layered flatbread)",
+  "country": "Kenya",
+  "category": "Side",
+  "tags": [
+   "Kenyan",
+   "bread",
+   "East African"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "vegetable oil, plus more for rolling and cooking"
+   },
+   {
+    "measure": "280 ml",
+    "name": "warm water"
+   }
+  ],
+  "steps": [
+   "Mix the flour, salt and sugar in a bowl, add 2 tablespoons of oil and rub it in.",
+   "Gradually add the warm water and knead for 10 minutes into a smooth, soft dough. Cover and rest for 30 minutes.",
+   "Divide the dough into 8 balls. Roll each into a thin circle, brush with oil and roll it up into a rope.",
+   "Coil each rope into a snail shape, tuck the end underneath and let rest for 10 minutes. Roll each coil out again into a round about 20 cm wide.",
+   "Cook on a hot dry pan for about 1 minute until it begins to bubble, then flip, brush with oil and cook for another minute or two until golden spots appear on both sides.",
+   "Stack the chapatis in a clean cloth to keep them soft and serve warm with stew or beans."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chapati",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kenya-kachumbari-kenyan-fresh-tomato-and-onion-salad",
+  "title": "Kachumbari (Kenyan fresh tomato and onion salad)",
+  "country": "Kenya",
+  "category": "Vegan",
+  "tags": [
+   "Kenyan",
+   "salad",
+   "fresh"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "firm ripe tomatoes, diced"
+   },
+   {
+    "measure": "1",
+    "name": "red onion, thinly sliced"
+   },
+   {
+    "measure": "1",
+    "name": "hot green chilli, finely chopped (or 1/2 scotch bonnet)"
+   },
+   {
+    "measure": "1 handful",
+    "name": "fresh coriander, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lime or lemon juice"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Soak the sliced onion in cold salted water for 10 minutes, then drain well. This softens its sharpness.",
+   "Combine the tomatoes, drained onion, chilli and coriander in a bowl.",
+   "Add the lime juice and salt, toss gently and taste for seasoning.",
+   "Leave for 10 minutes so the flavours meld, then serve cold with nyama choma, pilau, ugali or any grilled meat."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kachumbari",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-kenya-pilau-kenyan-coastal-spiced-rice-with-beef-and-potatoes",
+  "title": "Pilau (Kenyan coastal spiced rice with beef and potatoes)",
+  "country": "Kenya",
+  "category": "Beef",
+  "tags": [
+   "Kenyan",
+   "Swahili",
+   "rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "beef stewing meat, in small cubes"
+   },
+   {
+    "measure": "400 g",
+    "name": "basmati or long-grain rice, rinsed"
+   },
+   {
+    "measure": "2",
+    "name": "large onions, thinly sliced"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "3 cm",
+    "name": "fresh ginger, grated"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, peeled and cut into chunks"
+   },
+   {
+    "measure": "1",
+    "name": "tomato, chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "cumin seeds"
+   },
+   {
+    "measure": "5",
+    "name": "whole cloves"
+   },
+   {
+    "measure": "5",
+    "name": "cardamom pods"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "black peppercorns"
+   },
+   {
+    "measure": "800 ml",
+    "name": "beef stock or water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Toast the cumin seeds, cloves, cardamom, cinnamon and peppercorns in a dry pan for 1 minute, then crush them roughly. This is your pilau masala.",
+   "Heat the oil in a heavy pot and fry the onions slowly for 15 to 20 minutes until deep brown, since this gives the rice its colour.",
+   "Add the garlic, ginger and ground spices and fry for a minute, then add the beef and brown it. Stir in the tomato and cook for 5 minutes.",
+   "Pour in the stock, add the salt, cover and simmer for 40 to 50 minutes until the beef is nearly tender.",
+   "Add the potatoes and the rice, bring back to a boil, then reduce the heat to the lowest setting.",
+   "Cover tightly and cook for 20 minutes without lifting the lid, until the rice is tender and has absorbed the liquid. Rest for 5 minutes, fluff and serve with kachumbari."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pilaf",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
