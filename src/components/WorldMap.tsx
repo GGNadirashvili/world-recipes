@@ -60,6 +60,14 @@ const clamp = (v: View): View => ({
   y: Math.min(0, Math.max(H - H * v.k, v.y)),
 })
 
+function flyTo(recipeName: string | undefined): View {
+  const shape = shapes.find((s) => s.recipeName === recipeName)
+  if (!shape) return HOME
+  const [[x0, y0], [x1, y1]] = shape.bounds
+  const k = Math.min(MAX_ZOOM, 0.6 / Math.max((x1 - x0) / W, (y1 - y0) / H, 0.001))
+  return clamp({ k, x: W / 2 - (k * (x0 + x1)) / 2, y: H / 2 - (k * (y0 + y1)) / 2 })
+}
+
 interface Props {
   countries: Map<string, Country>
   selected?: string
@@ -69,7 +77,7 @@ interface Props {
 export function WorldMap({ countries, selected, onSelect }: Props) {
   const wrapRef = useRef<HTMLDivElement>(null)
   const svgRef = useRef<SVGSVGElement>(null)
-  const [view, setView] = useState<View>(HOME)
+  const [view, setView] = useState<View>(() => flyTo(selected))
   const [dragging, setDragging] = useState(false)
   const [tip, setTip] = useState<{ name: string; count: number; x: number; y: number } | null>(null)
   const drag = useRef<{ x: number; y: number; moved: boolean } | null>(null)
@@ -79,17 +87,13 @@ export function WorldMap({ countries, selected, onSelect }: Props) {
     [countries],
   )
 
-  // Fly to the selected country, or back out when the panel closes.
-  useEffect(() => {
-    const shape = shapes.find((s) => s.recipeName === selected)
-    if (!shape) {
-      setView(HOME)
-      return
-    }
-    const [[x0, y0], [x1, y1]] = shape.bounds
-    const k = Math.min(MAX_ZOOM, 0.6 / Math.max((x1 - x0) / W, (y1 - y0) / H, 0.001))
-    setView(clamp({ k, x: W / 2 - (k * (x0 + x1)) / 2, y: H / 2 - (k * (y0 + y1)) / 2 }))
-  }, [selected])
+  // Fly to the selected country, or back out when the panel closes. Adjusting
+  // state during render (rather than in an effect) avoids a second paint.
+  const [flownTo, setFlownTo] = useState(selected)
+  if (flownTo !== selected) {
+    setFlownTo(selected)
+    setView(flyTo(selected))
+  }
 
   const zoomAt = (factor: number, px = W / 2, py = H / 2) =>
     setView((v) => {
