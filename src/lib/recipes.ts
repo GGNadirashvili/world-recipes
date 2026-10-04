@@ -17,8 +17,18 @@ export const slugify = (name: string) =>
 
 /** The recipe data is a separate chunk so the map can paint before it arrives. */
 export async function loadRecipes(): Promise<Recipe[]> {
-  const mod = await import('../../data/themealdb.json')
-  return mod.default as Recipe[]
+  const [mealdb, wikibooks] = await Promise.all([
+    import('../../data/themealdb.json'),
+    import('../../data/wikibooks.json'),
+  ])
+  // The same dish can appear in both sources; the first one listed wins.
+  const seen = new Set<string>()
+  return [...(mealdb.default as Recipe[]), ...(wikibooks.default as Recipe[])].filter((r) => {
+    const key = `${r.country}|${r.title.toLowerCase()}`
+    if (seen.has(key)) return false
+    seen.add(key)
+    return true
+  })
 }
 
 export function groupByCountry(recipes: Recipe[]): Map<string, Country> {
