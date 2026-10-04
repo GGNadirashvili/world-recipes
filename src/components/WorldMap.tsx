@@ -16,6 +16,20 @@ const ATLAS_TO_RECIPE_NAME: Record<string, string> = {
   'Antigua and Barb.': 'Antigua and Barbuda',
   'Dominican Rep.': 'Dominican Republic',
   Congo: 'Republic of the Congo',
+  'Dem. Rep. Congo': 'Democratic Republic of the Congo',
+  'Marshall Is.': 'Marshall Islands',
+  'Solomon Is.': 'Solomon Islands',
+  'St. Vin. and Gren.': 'Saint Vincent and the Grenadines',
+  'St. Kitts and Nevis': 'Saint Kitts and Nevis',
+  'Bosnia and Herz.': 'Bosnia and Herzegovina',
+  'Central African Rep.': 'Central African Republic',
+  'Eq. Guinea': 'Equatorial Guinea',
+  eSwatini: 'Eswatini',
+  'S. Sudan': 'South Sudan',
+  Macedonia: 'North Macedonia',
+  'Cabo Verde': 'Cape Verde',
+  'São Tomé and Principe': 'São Tomé and Príncipe',
+  "Côte d'Ivoire": 'Ivory Coast',
 }
 
 const topology = atlas as unknown as Topology<{ countries: GeometryCollection<{ name: string }> }>
