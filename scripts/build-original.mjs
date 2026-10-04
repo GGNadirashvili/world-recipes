@@ -3,7 +3,7 @@
 //   --dry validates and reports without writing; --only restricts to one draft file (e.g. georgia).
 //
 // A draft file is { "country": "Georgia", "recipes": [ { title, category, tags, ingredients:[{measure,name}],
-// steps:[...], about: "https://en.wikipedia.org/wiki/..." } ] }. Every recipe must link a Wikipedia article
+// steps:[...], about: "https://en.wikipedia.org/wiki/...[#Section]" } ] }. Every recipe must link a Wikipedia article
 // about the dish, and the article must exist: that is what keeps invented dishes out. Duplicates of anything
 // already in the library (same country) are dropped.
 import { readdir, readFile, writeFile } from 'node:fs/promises'
@@ -48,7 +48,8 @@ for (const file of ['data/themealdb.json', 'data/wikibooks.json', ...originalFil
 
 // Wikipedia existence check, batched.
 async function missingArticles(urls) {
-  const titleOf = (u) => decodeURIComponent(u.replace('https://en.wikipedia.org/wiki/', '')).replaceAll('_', ' ')
+  // A #section anchor only affects where the link lands, not whether the article exists.
+  const titleOf = (u) => decodeURIComponent(u.replace('https://en.wikipedia.org/wiki/', '').split('#')[0]).replaceAll('_', ' ')
   const missing = new Set()
   const list = [...new Set(urls)]
   for (let i = 0; i < list.length; i += 40) {
@@ -89,13 +90,17 @@ for (const d of drafts) {
   const slug = slugify(d.country)
   const outFile = join(originalDir, `${slug}.json`)
   const kept = await readJson(outFile)
-  const taken = [...(existing.get(d.country) ?? [])] // titles already in the library for this country
+  const keptTitles = new Set(kept.map((k) => k.title))
+  const taken = (existing.get(d.country) ?? []).filter((t) => !keptTitles.has(t)) // titles already in the library for this country
+  for (const k of kept) taken.push(k.title)
   const seenAbout = new Set(kept.map((r) => r.source?.url))
   const accepted = []
   const dropped = []
   const warned = []
 
+  let unchanged = 0
   for (const r of d.recipes) {
+    if (r.title && kept.some((k) => k.id === `original-${slug}-${slugify(r.title)}`)) { unchanged++; continue }
     const why = []
     if (!r.title || typeof r.title !== 'string') why.push('no title')
     if (!CATEGORIES.has(r.category)) why.push(`bad category "${r.category}"`)
@@ -103,9 +108,9 @@ for (const d of drafts) {
     if (ing.length < 3 || ing.some((i) => !i.name?.trim())) why.push('needs at least 3 ingredients, each with a name')
     const steps = r.steps ?? []
     if (steps.length < 3 || steps.some((s) => typeof s !== 'string' || s.trim().length < 15)) why.push('needs at least 3 real steps')
-    if (!/^https:\/\/en\.wikipedia\.org\/wiki\/[^#?\s]+$/.test(r.about ?? '')) why.push('about must be an en.wikipedia.org/wiki/ URL')
+    if (!/^https:\/\/en\.wikipedia\.org\/wiki\/[^#?\s]+(#[^\s]+)?$/.test(r.about ?? '')) why.push('about must be an en.wikipedia.org/wiki/ URL')
     else if (missing.has(r.about)) why.push('Wikipedia article does not exist')
-    else if (seenAbout.has(r.about)) why.push('same Wikipedia article as another recipe')
+    else if (seenAbout.has(r.about) && !r.variant) why.push('same Wikipedia article as another recipe (set "variant": true for a regional variant)')
     if (r.title) {
       const n = norm(r.title)
       if (!n) why.push('empty title after normalising')
@@ -139,7 +144,7 @@ for (const d of drafts) {
   }
   totalAccepted += accepted.length
   totalDropped += dropped.length
-  console.log(`${d.country}: ${accepted.length} added, ${dropped.length} dropped, ${warned.length} similar-title warnings`)
+  console.log(`${d.country}: ${accepted.length} added, ${unchanged} unchanged, ${dropped.length} dropped, ${warned.length} similar-title warnings`)
   for (const x of dropped) console.log(`   dropped  ${x}`)
   for (const x of warned) console.log(`   similar  ${x}`)
 }
