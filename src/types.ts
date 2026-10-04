@@ -23,5 +23,9 @@ export interface Recipe {
     licenseUrl?: string
     /** Page listing the authors, linked to satisfy attribution. */
     historyUrl?: string
+    /** Overrides the default "Source: <name>" link text. */
+    linkLabel?: string
+    /** A line shown under the recipe, e.g. how the text was produced. */
+    note?: string
   }
 }

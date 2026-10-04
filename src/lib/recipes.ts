@@ -15,15 +15,20 @@ export const slugify = (name: string) =>
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '')
 
+/** One file per country of recipes written for this project (see scripts/build-original.mjs). */
+const originalFiles = import.meta.glob<Recipe[]>('../../data/original/*.json', { import: 'default' })
+
 /** The recipe data is a separate chunk so the map can paint before it arrives. */
 export async function loadRecipes(): Promise<Recipe[]> {
-  const [mealdb, wikibooks] = await Promise.all([
+  const [mealdb, wikibooks, ...originals] = await Promise.all([
     import('../../data/themealdb.json'),
     import('../../data/wikibooks.json'),
+    ...Object.values(originalFiles).map((load) => load()),
   ])
-  // The same dish can appear in both sources; the first one listed wins.
+  // The same dish can appear in several sources; the first one listed wins.
+  const all = [mealdb.default, wikibooks.default, ...originals].flat() as Recipe[]
   const seen = new Set<string>()
-  return [...(mealdb.default as Recipe[]), ...(wikibooks.default as Recipe[])].filter((r) => {
+  return all.filter((r) => {
     const key = `${r.country}|${r.title.toLowerCase()}`
     if (seen.has(key)) return false
     seen.add(key)

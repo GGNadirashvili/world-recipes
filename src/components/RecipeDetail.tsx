@@ -50,9 +50,10 @@ export function RecipeDetail({ recipe }: { recipe: Recipe }) {
           </a>
         )}
         <a href={recipe.source.url} target="_blank" rel="noreferrer">
-          Source: {recipe.source.name}
+          {recipe.source.linkLabel ?? `Source: ${recipe.source.name}`}
         </a>
       </p>
+      {recipe.source.note && <p className="credit">{recipe.source.note}</p>}
       {recipe.source.license && (
         <p className="credit">
           Text by{' '}
