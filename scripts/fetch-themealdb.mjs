@@ -19,8 +19,9 @@ function normalise(m) {
   }
   const steps = (m.strInstructions ?? '')
     .split(/\r?\n+/)
-    .map((s) => s.trim())
-    .filter(Boolean)
+    .map((s) => s.trim().replace(/^\d+[.)]\s+/, ''))
+    // Drop bare "step 1" headings and stray "1" lines; the app numbers steps itself.
+    .filter((s) => s.length > 3 && !/^step\s*\d+$/i.test(s))
   return {
     id: `themealdb-${m.idMeal}`,
     title: m.strMeal.trim(),
