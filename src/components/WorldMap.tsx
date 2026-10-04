@@ -14,6 +14,8 @@ const ATLAS_TO_RECIPE_NAME: Record<string, string> = {
   'United States of America': 'United States',
   'Cayman Is.': 'Cayman Islands',
   'Antigua and Barb.': 'Antigua and Barbuda',
+  'Dominican Rep.': 'Dominican Republic',
+  Congo: 'Republic of the Congo',
 }
 
 const topology = atlas as unknown as Topology<{ countries: GeometryCollection<{ name: string }> }>
