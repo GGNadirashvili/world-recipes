@@ -1,0 +1,1195 @@
+[
+ {
+  "id": "original-ecuador-canelazo-ecuadorian-hot-cinnamon-and-naranjilla-punch-with-aguardiente",
+  "title": "Canelazo (Ecuadorian hot cinnamon and naranjilla punch with aguardiente)",
+  "country": "Ecuador",
+  "category": "Miscellaneous",
+  "tags": [
+   "Ecuadorian",
+   "hot drink",
+   "Andean"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "4",
+    "name": "cinnamon sticks"
+   },
+   {
+    "measure": "150 g",
+    "name": "panela or brown sugar"
+   },
+   {
+    "measure": "250 ml",
+    "name": "naranjilla juice or orange juice"
+   },
+   {
+    "measure": "100 ml",
+    "name": "aguardiente or white rum"
+   },
+   {
+    "measure": "2",
+    "name": "cloves"
+   },
+   {
+    "measure": "1",
+    "name": "lime, juiced"
+   }
+  ],
+  "steps": [
+   "Bring the water, cinnamon sticks, cloves and panela to a boil and simmer for 10 minutes until the sugar has dissolved and the liquid is fragrant.",
+   "Add the naranjilla juice and lime juice and heat through for 2 minutes.",
+   "Remove from the heat and stir in the aguardiente. Omit it for a children's version.",
+   "Serve piping hot in mugs with a cinnamon stick."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Canelazo",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-chifles-ecuadorian-crisp-fried-green-plantain-chips",
+  "title": "Chifles (Ecuadorian crisp fried green plantain chips)",
+  "country": "Ecuador",
+  "category": "Side",
+  "tags": [
+   "Ecuadorian",
+   "snack",
+   "plantain"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "large green plantains"
+   },
+   {
+    "measure": "1 litre",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "fine salt, dissolved in 100 ml warm water"
+   },
+   {
+    "measure": "1",
+    "name": "lime, juiced (optional)"
+   }
+  ],
+  "steps": [
+   "Peel the plantains and slice them paper-thin along their length or into rounds using a mandoline.",
+   "Soak the slices briefly in the salted water, then drain and pat very dry.",
+   "Heat the oil to 170 C and fry the slices in small batches for 2 to 3 minutes until pale golden and crisp.",
+   "Drain on paper towels and sprinkle with a little extra salt and lime juice.",
+   "Serve as a snack or with encebollado."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chifle",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-chugchucaras-latacunga-s-mixed-fried-pork-platter-with-hominy",
+  "title": "Chugchucaras (Latacunga's mixed fried pork platter with hominy)",
+  "country": "Ecuador",
+  "category": "Pork",
+  "tags": [
+   "Ecuadorian",
+   "Latacunga",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "pork belly or shoulder, cut in chunks"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "500 g",
+    "name": "mote (cooked hominy)"
+   },
+   {
+    "measure": "4",
+    "name": "ripe plantains, sliced"
+   },
+   {
+    "measure": "4",
+    "name": "small potatoes, boiled"
+   },
+   {
+    "measure": "8",
+    "name": "small empanadas or corn pastries (optional)"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "oil or lard for frying"
+   },
+   {
+    "measure": "",
+    "name": "fresh tomato, onion and chilli ají to serve"
+   }
+  ],
+  "steps": [
+   "Rub the pork with the salt, cumin and garlic and let it sit for at least 1 hour.",
+   "Put it in a pot with the water and simmer for about 45 minutes until tender and the water has largely evaporated, leaving the pork frying in its own fat.",
+   "Raise the heat, add a little extra lard if needed, and fry the pork for 10 to 15 minutes until deeply browned and crisp at the edges.",
+   "Heat the hominy in a pan with a spoonful of the pork fat. Fry the plantain slices separately until golden.",
+   "Arrange the pork on plates with the hominy, plantain and potatoes. Serve with a fresh ají of chopped tomato, onion, coriander and chilli."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chugchucaras",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-colada-morada-ecuadorian-spiced-purple-corn-and-fruit-drink-for-day-of-the-dead",
+  "title": "Colada morada (Ecuadorian spiced purple corn and fruit drink for Day of the Dead)",
+  "country": "Ecuador",
+  "category": "Vegan",
+  "tags": [
+   "Ecuadorian",
+   "drink",
+   "Day of the Dead"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "purple corn flour (harina de maíz morado), or 200 g blackberries blended"
+   },
+   {
+    "measure": "2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "5",
+    "name": "cloves"
+   },
+   {
+    "measure": "4",
+    "name": "allspice berries"
+   },
+   {
+    "measure": "1",
+    "name": "pineapple, peel and trimmings plus 200 g diced"
+   },
+   {
+    "measure": "300 g",
+    "name": "blackberries or blueberries"
+   },
+   {
+    "measure": "200 g",
+    "name": "strawberries, chopped"
+   },
+   {
+    "measure": "200 g",
+    "name": "sugar or panela"
+   },
+   {
+    "measure": "1 handful",
+    "name": "fresh lemon verbena or lemon balm and orange leaves, optional"
+   },
+   {
+    "measure": "1",
+    "name": "orange, peel strip and juice"
+   }
+  ],
+  "steps": [
+   "Bring the water to a boil with the cinnamon, cloves, allspice, pineapple peel and orange peel and simmer for 15 minutes. Strain.",
+   "Stir a little cold water into the corn flour to make a smooth paste and whisk it into the hot spiced liquid.",
+   "Add half the blackberries and sugar and simmer for 15 to 20 minutes, stirring until thickened.",
+   "Blend the remaining berries and strain, then add to the pot with the strawberries and diced pineapple. Cook for 5 minutes.",
+   "Finish with orange juice and serve warm in mugs, traditionally with guaguas de pan."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Colada_morada",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-encebollado-ecuadorian-tuna-yuca-and-pickled-onion-soup",
+  "title": "Encebollado (Ecuadorian tuna, yuca and pickled onion soup)",
+  "country": "Ecuador",
+  "category": "Seafood",
+  "tags": [
+   "Ecuadorian",
+   "coastal",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "fresh albacore or skipjack tuna, in chunks"
+   },
+   {
+    "measure": "600 g",
+    "name": "yuca (cassava), peeled and cut in chunks"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "achiote or paprika oil"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "red onion, thinly sliced"
+   },
+   {
+    "measure": "3",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "coriander, chopped"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "chifles, popcorn or toasted corn to serve"
+   }
+  ],
+  "steps": [
+   "Toss the sliced red onion with the juice of 2 limes, a pinch of salt and some coriander and set aside to pickle.",
+   "Fry the chopped onion, garlic, tomatoes and cumin in the achiote oil until soft.",
+   "Add the water, yuca and a good pinch of salt and bring to a boil. Cook for 15 minutes until the yuca is starting to soften.",
+   "Add the tuna chunks and simmer for 8 to 10 minutes until cooked through. Lift out the tuna, flake it and keep it warm.",
+   "Return the flaked tuna to the broth, stir in the remaining lime juice and half the coriander and adjust the seasoning.",
+   "Ladle into bowls, top with the pickled onion and serve with chifles or popcorn and hot sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Encebollado",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-espumilla-ecuadorian-guava-meringue-foam",
+  "title": "Espumilla (Ecuadorian guava meringue foam)",
+  "country": "Ecuador",
+  "category": "Dessert",
+  "tags": [
+   "Ecuadorian",
+   "meringue",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "ripe guavas, or 200 g guava pulp"
+   },
+   {
+    "measure": "3",
+    "name": "egg whites"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "",
+    "name": "ice cream cones or small glasses to serve"
+   }
+  ],
+  "steps": [
+   "Peel the guavas if tough, cut and simmer in a little water for 10 minutes until soft. Blend and sieve to remove seeds, giving about 150 ml of smooth pulp, then cool.",
+   "Put the egg whites and lemon juice in a clean bowl and beat until soft peaks form.",
+   "Add the sugar a tablespoon at a time, beating well until glossy and stiff.",
+   "Gradually fold in the cooled guava pulp until you have a thick, pale pink foam.",
+   "Pile into cones or glasses and serve immediately."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Espumilla",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-fanesca-ecuadorian-easter-soup-of-beans-grains-and-salt-cod",
+  "title": "Fanesca (Ecuadorian Easter soup of beans, grains and salt cod)",
+  "country": "Ecuador",
+  "category": "Starter",
+  "tags": [
+   "Ecuadorian",
+   "Easter",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "salt cod, soaked 24 hours with several water changes"
+   },
+   {
+    "measure": "250 g",
+    "name": "fresh or frozen lima beans (habas)"
+   },
+   {
+    "measure": "200 g",
+    "name": "fresh or frozen green peas"
+   },
+   {
+    "measure": "150 g",
+    "name": "fresh or frozen corn kernels"
+   },
+   {
+    "measure": "150 g",
+    "name": "cooked white beans or cannellini"
+   },
+   {
+    "measure": "150 g",
+    "name": "cooked lentils"
+   },
+   {
+    "measure": "150 g",
+    "name": "cooked chickpeas"
+   },
+   {
+    "measure": "300 g",
+    "name": "winter squash, peeled and diced"
+   },
+   {
+    "measure": "200 g",
+    "name": "zapallo or pumpkin, grated (or extra squash)"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 litre",
+    "name": "milk"
+   },
+   {
+    "measure": "100 g",
+    "name": "peanut butter, unsweetened"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter or oil"
+   },
+   {
+    "measure": "100 g",
+    "name": "rice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground achiote or paprika"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   },
+   {
+    "measure": "",
+    "name": "hard-boiled eggs, fried plantain pieces, queso fresco and parsley to garnish"
+   }
+  ],
+  "steps": [
+   "Flake the soaked salt cod, discarding skin and bones, and poach it gently in a little water for 10 minutes. Reserve the cod and the poaching water.",
+   "Fry the onion and garlic in the butter with cumin and achiote until soft in a large pot.",
+   "Add the squash, rice, lima beans, peas and corn with the poaching water and enough extra water to cover. Simmer for about 25 minutes until the squash and rice are very tender and the soup is thick.",
+   "Mash the squash lightly against the pot to thicken the soup. Add the white beans, lentils and chickpeas.",
+   "Stir the peanut butter into the milk until smooth and add it to the pot with the flaked cod. Simmer gently for 10 minutes without boiling hard.",
+   "Taste and salt carefully since the cod is salty. Serve hot topped with halved eggs, fried plantain, cheese and parsley."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fanesca",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-fritada-ecuadorian-braised-then-fried-pork",
+  "title": "Fritada (Ecuadorian braised then fried pork)",
+  "country": "Ecuador",
+  "category": "Pork",
+  "tags": [
+   "Ecuadorian",
+   "Andean",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "pork shoulder or belly, cut in 4 cm cubes"
+   },
+   {
+    "measure": "1",
+    "name": "onion, quartered"
+   },
+   {
+    "measure": "6 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "2",
+    "name": "oranges, juiced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "750 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil or lard"
+   },
+   {
+    "measure": "",
+    "name": "mote (cooked hominy), fried ripe plantain, boiled potatoes and curtido onion salad to serve"
+   }
+  ],
+  "steps": [
+   "Put the pork in a wide heavy pot with the onion, garlic, cumin, orange juice, salt and water.",
+   "Bring to a boil, then simmer uncovered for about 45 to 60 minutes, stirring now and then, until the pork is tender and almost all the liquid has evaporated.",
+   "Add the tablespoon of oil, raise the heat to medium and fry the pork in its own fat, turning, for 10 minutes until golden on the edges.",
+   "Serve hot on a plate with hominy, fried plantain, potatoes and a tomato and onion salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fritada",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-guatita-ecuadorian-tripe-and-potato-stew-in-peanut-sauce",
+  "title": "Guatita (Ecuadorian tripe and potato stew in peanut sauce)",
+  "country": "Ecuador",
+  "category": "Beef",
+  "tags": [
+   "Ecuadorian",
+   "stew",
+   "peanut"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "beef tripe, cleaned and blanched"
+   },
+   {
+    "measure": "1",
+    "name": "lime or 2 tbsp vinegar, for cleaning"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "achiote oil"
+   },
+   {
+    "measure": "500 g",
+    "name": "potatoes, cubed"
+   },
+   {
+    "measure": "150 g",
+    "name": "smooth peanut butter"
+   },
+   {
+    "measure": "250 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "coriander, chopped"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "white rice, avocado and pickled onion to serve"
+   }
+  ],
+  "steps": [
+   "Scrub the tripe with lime or vinegar and salt, rinse and boil it in fresh salted water for 1 hour to soften and remove odour. Drain and cut into small squares.",
+   "Return the tripe to a clean pot with fresh water and half of the onion, cumin and salt and simmer for 1 to 1.5 hours until tender.",
+   "Boil the potatoes in a separate pan until nearly done.",
+   "For the sauce, fry the remaining onion and garlic in the achiote oil, stir in the peanut butter and the milk and simmer for about 8 minutes until creamy.",
+   "Drain the tripe and add it and the potatoes to the sauce. Simmer for 10 minutes and finish with coriander.",
+   "Serve over rice with avocado and pickled onion."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Guatita",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-helado-de-paila-ecuadorian-hand-churned-fruit-ice-in-a-copper-basin",
+  "title": "Helado de paila (Ecuadorian hand-churned fruit ice in a copper basin)",
+  "country": "Ecuador",
+  "category": "Dessert",
+  "tags": [
+   "Ecuadorian",
+   "Ibarra",
+   "frozen"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "ripe fruit such as blackberries or soursop pulp"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon or lime juice"
+   },
+   {
+    "measure": "1",
+    "name": "egg white, lightly whisked"
+   },
+   {
+    "measure": "200 ml",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "ice and coarse salt for the churning bath"
+   }
+  ],
+  "steps": [
+   "Purée the fruit with the sugar, lemon juice and water, then sieve to remove seeds and chill thoroughly.",
+   "Fill a large, wide metal bowl with crushed ice mixed with plenty of coarse salt, and nest a smaller metal bowl on top to hold the mixture.",
+   "Pour the chilled fruit mixture into the inner bowl and stir constantly with a wooden spoon, scraping the sides as it freezes.",
+   "When it starts to firm, after about 20 minutes, whisk in the egg white to lighten it and continue turning for 10 more minutes.",
+   "Serve immediately in scoops or transfer to the freezer for up to an hour to firm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Helado_de_paila",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-hornado-ecuadorian-slow-roasted-pork-leg-with-garlic-and-cumin",
+  "title": "Hornado (Ecuadorian slow-roasted pork leg with garlic and cumin)",
+  "country": "Ecuador",
+  "category": "Pork",
+  "tags": [
+   "Ecuadorian",
+   "roast",
+   "Andean"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 kg",
+    "name": "bone-in pork leg or shoulder"
+   },
+   {
+    "measure": "8 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "250 ml",
+    "name": "dark beer (optional)"
+   },
+   {
+    "measure": "3",
+    "name": "oranges, juiced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "achiote oil or paprika mixed with oil"
+   },
+   {
+    "measure": "",
+    "name": "boiled potatoes, mote (hominy) and pickled onion salad to serve"
+   }
+  ],
+  "steps": [
+   "Score the skin of the pork lightly. Blend the garlic, cumin, salt, pepper, achiote oil and half the orange juice into a paste and rub it deeply into the meat. Marinate for 12 to 24 hours in the fridge.",
+   "Heat the oven to 150 C. Put the pork in a roasting tin with the beer and remaining orange juice and cover tightly with foil.",
+   "Roast for about 3 hours, basting every 45 minutes, until the meat is tender and nearly falling off the bone.",
+   "Uncover, raise the heat to 220 C and roast for another 20 to 30 minutes until the skin is deeply golden and crisp.",
+   "Rest for 15 minutes, carve into slices and spoon the pan juices over. Serve with boiled potatoes, hominy and an onion and tomato salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hornado",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-llapingachos-ecuadorian-cheese-stuffed-potato-patties-with-peanut-sauce",
+  "title": "Llapingachos (Ecuadorian cheese-stuffed potato patties with peanut sauce)",
+  "country": "Ecuador",
+  "category": "Vegetarian",
+  "tags": [
+   "Ecuadorian",
+   "Andean",
+   "potato"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "floury potatoes, peeled"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "achiote or paprika"
+   },
+   {
+    "measure": "150 g",
+    "name": "queso fresco or mozzarella, grated"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "50 g",
+    "name": "smooth peanut butter"
+   },
+   {
+    "measure": "250 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "1",
+    "name": "small tomato, chopped"
+   },
+   {
+    "measure": "",
+    "name": "fried eggs and sliced avocado to serve"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in salted water until very soft, drain thoroughly and mash while hot.",
+   "Soften half the onion in the butter with the achiote and mix into the potatoes with the salt. Let the mash cool until easy to handle.",
+   "For the sauce, cook the remaining onion and tomato in a little oil until soft, add the peanut butter and milk and simmer for 5 minutes, stirring, until smooth and creamy. Season.",
+   "Take a golf-ball portion of mash, flatten it, put a spoonful of cheese in the middle and fold the potato over, then press into a flat patty.",
+   "Heat a lightly oiled skillet over medium heat and cook the patties for 4 to 5 minutes per side until golden and crisp.",
+   "Serve topped with a fried egg and sauce, with avocado and salad on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Llapingacho",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-mote-pillo-cuenca-style-hominy-scrambled-with-eggs-onion-and-cheese",
+  "title": "Mote pillo (Cuenca-style hominy scrambled with eggs, onion and cheese)",
+  "country": "Ecuador",
+  "category": "Breakfast",
+  "tags": [
+   "Ecuadorian",
+   "Cuenca",
+   "hominy"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "cooked mote (hominy), canned works"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "butter or oil"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "spring onions, sliced"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "achiote or paprika"
+   },
+   {
+    "measure": "100 g",
+    "name": "queso fresco, crumbled"
+   },
+   {
+    "measure": "50 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped coriander"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Drain and rinse the hominy. Heat the butter in a wide pan and cook the onion, spring onion and garlic with the achiote until soft.",
+   "Add the hominy and fry it for 5 minutes so it takes on the flavour.",
+   "Whisk the eggs with the milk, salt and pepper and pour over the hominy.",
+   "Stir gently over low heat until the eggs are softly set and cooked through.",
+   "Fold in the cheese and coriander and serve hot, with toasted bread or a slice of avocado."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mote_pillo",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-muchines-de-yuca-ecuadorian-cassava-and-cheese-fritters",
+  "title": "Muchines de yuca (Ecuadorian cassava and cheese fritters)",
+  "country": "Ecuador",
+  "category": "Starter",
+  "tags": [
+   "Ecuadorian",
+   "cassava",
+   "fritters"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "yuca (cassava), peeled and chopped"
+   },
+   {
+    "measure": "200 g",
+    "name": "queso fresco or mozzarella, grated"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar (optional)"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "",
+    "name": "ají or tomato salsa to serve"
+   }
+  ],
+  "steps": [
+   "Boil the yuca in salted water for 25 to 30 minutes until very tender. Drain, remove any tough central fibres and mash while hot until smooth.",
+   "Mix the mash with the butter, egg yolk, salt and sugar if using, then let it cool.",
+   "Divide into walnut-sized pieces, flatten each in your palm, add a spoonful of grated cheese and fold the dough around it, forming small rounds or ovals.",
+   "Heat about 3 cm of oil in a pan to 175 C and fry the muchines in batches for 3 to 4 minutes until golden on all sides.",
+   "Drain on paper towels and serve warm with ají or a tomato salsa."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Muchines_de_yuca",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-pan-de-yuca-cassava-and-cheese-rolls-from-western-ecuador",
+  "title": "Pan de yuca (cassava and cheese rolls from western Ecuador)",
+  "country": "Ecuador",
+  "category": "Side",
+  "tags": [
+   "Ecuadorian",
+   "bread",
+   "gluten-free"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "cassava starch (tapioca starch)"
+   },
+   {
+    "measure": "250 g",
+    "name": "queso fresco or mozzarella, finely grated"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "60 g",
+    "name": "butter, softened"
+   },
+   {
+    "measure": "50 ml",
+    "name": "milk, as needed"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 C and line a baking tray.",
+   "In a bowl rub together the cassava starch, cheese, baking powder, salt and sugar until crumbly.",
+   "Add the egg and soft butter and knead, adding milk a spoonful at a time until a smooth, soft dough forms.",
+   "Shape into small balls about the size of a golf ball and place them on the tray, spaced apart.",
+   "Bake for 15 to 20 minutes until puffed and lightly golden on the base, and eat while still warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pan_de_yuca",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-salprieta-ecuadorian-toasted-corn-and-peanut-seasoning-from-manabi",
+  "title": "Salprieta (Ecuadorian toasted corn and peanut seasoning from Manabí)",
+  "country": "Ecuador",
+  "category": "Side",
+  "tags": [
+   "Ecuadorian",
+   "Manabí",
+   "condiment"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "100 g",
+    "name": "toasted corn kernels (corn nuts)"
+   },
+   {
+    "measure": "100 g",
+    "name": "roasted unsalted peanuts"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "coriander leaves, finely chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1",
+    "name": "small red chilli, minced (optional)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lime juice, for serving"
+   }
+  ],
+  "steps": [
+   "Toast the corn kernels and peanuts briefly in a dry pan until fragrant, then cool.",
+   "Grind both together in a food processor or mortar to a coarse, sandy powder.",
+   "Mix in the oregano, cumin and salt, then stir in the coriander and optional chilli.",
+   "Serve it as a table condiment sprinkled over fish, boiled plantain or rice, adding a squeeze of lime just before eating.",
+   "Store dry in an airtight jar, adding the fresh herbs only on the day."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Salprieta",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-seco-de-chivo-ecuadorian-goat-stew-in-beer-and-naranjilla-juice",
+  "title": "Seco de chivo (Ecuadorian goat stew in beer and naranjilla juice)",
+  "country": "Ecuador",
+  "category": "Goat",
+  "tags": [
+   "Ecuadorian",
+   "stew",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "goat meat or lamb shoulder, cubed"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "250 ml",
+    "name": "dark beer"
+   },
+   {
+    "measure": "250 ml",
+    "name": "naranjilla or orange juice"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "red bell pepper, diced"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "coriander, chopped"
+   },
+   {
+    "measure": "500 ml",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "white rice, fried ripe plantain and avocado to serve"
+   }
+  ],
+  "steps": [
+   "Marinate the meat overnight with half the garlic, cumin, oregano, salt, pepper, the beer and the fruit juice.",
+   "Remove the meat from the marinade and pat dry, keeping the marinade. Brown it in batches in hot oil in a heavy pot.",
+   "Cook the onion, pepper, remaining garlic and tomatoes in the same pot for about 8 minutes until soft.",
+   "Return the meat, add the marinade and water and bring to a simmer. Cover and cook gently for 1.5 to 2 hours until very tender; goat takes longer than lamb.",
+   "Uncover and reduce for 10 minutes until the sauce is thick, then stir in the coriander.",
+   "Serve over rice with fried plantain and avocado."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Seco_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ecuador-tanta-wawas-ecuadorian-bread-babies-for-all-souls-day",
+  "title": "Tanta wawas (Ecuadorian bread babies for All Souls' Day)",
+  "country": "Ecuador",
+  "category": "Side",
+  "tags": [
+   "Ecuadorian",
+   "bread",
+   "Day of the Dead"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "80 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2",
+    "name": "eggs, plus 1 for brushing"
+   },
+   {
+    "measure": "80 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "aniseed or cinnamon"
+   },
+   {
+    "measure": "100 g",
+    "name": "fruit jam or guava paste for filling (optional)"
+   },
+   {
+    "measure": "",
+    "name": "icing and food colouring or sprinkles to decorate"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar, salt and aniseed in a large bowl. Add the eggs, butter and warm milk and knead for 10 minutes until smooth and elastic.",
+   "Cover and let rise until doubled, about 1 hour.",
+   "Divide the dough into 8 pieces. Shape each into an oval body with a ball for the head and thin rolls for arms, tucking the arms across the chest and pressing a bit of jam in the middle if desired.",
+   "Place on a tray, let rise for 30 minutes and brush with beaten egg.",
+   "Bake at 180 C for 20 to 25 minutes until golden. Cool and decorate with icing to make a face and clothes."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/T'anta_wawa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

@@ -1,0 +1,655 @@
+[
+ {
+  "id": "original-bolivia-chairo-paceno-bolivian-beef-chuno-and-vegetable-soup",
+  "title": "Chairo paceño (Bolivian beef, chuño and vegetable soup)",
+  "country": "Bolivia",
+  "category": "Beef",
+  "tags": [
+   "Bolivian",
+   "La Paz",
+   "Aymara"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "beef, stewing cuts"
+   },
+   {
+    "measure": "2",
+    "name": "chuño (freeze-dried potato) soaked overnight, or 2 small potatoes as substitute"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, cubed"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, diced"
+   },
+   {
+    "measure": "150 g",
+    "name": "white corn kernels or cooked hominy"
+   },
+   {
+    "measure": "100 g",
+    "name": "green peas"
+   },
+   {
+    "measure": "100 g",
+    "name": "fava or broad beans"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "wheat berries or pearl barley"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "chopped parsley and mint, with a pinch of oregano"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Soak the wheat berries or barley for 2 hours. Brown the beef lightly in the oil with the onion and garlic.",
+   "Add the water and soaked grain, bring to a boil and simmer for 45 minutes until the beef begins to soften.",
+   "Add the chuño or substitute potato, corn and carrot and cook for 15 minutes.",
+   "Add the potatoes, peas and fava beans and cook another 15 minutes until everything is tender.",
+   "Season with salt and pepper, and sprinkle with parsley and mint before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chairo_(stew)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bolivia-fricase-paceno-la-paz-style-pork-and-hominy-soup",
+  "title": "Fricasé paceño (La Paz-style pork and hominy soup)",
+  "country": "Bolivia",
+  "category": "Pork",
+  "tags": [
+   "Bolivian",
+   "La Paz",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "pork ribs or pork shoulder, in pieces"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ají amarillo paste"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "300 g",
+    "name": "cooked hominy (mote), canned works"
+   },
+   {
+    "measure": "4",
+    "name": "small potatoes, or 4 chuño soaked overnight"
+   },
+   {
+    "measure": "1 slice",
+    "name": "day-old bread, crumbled"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "chopped parsley"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Season the pork with salt and pepper. Heat the oil in a large pot and brown the pork lightly.",
+   "Add the onion and garlic and cook until soft, then stir in the ají paste, cumin and oregano.",
+   "Pour in the water, bring to a boil and simmer, covered, for 45 to 60 minutes until the pork is tender.",
+   "Add the crumbled bread to thicken the broth and stir. Add the hominy and potatoes and cook for 20 more minutes.",
+   "Taste and adjust seasoning. Serve in deep bowls sprinkled with parsley, with bread on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fricas%C3%A9",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bolivia-llajua-bolivian-fresh-hot-tomato-and-locoto-sauce",
+  "title": "Llajua (Bolivian fresh hot tomato and locoto sauce)",
+  "country": "Bolivia",
+  "category": "Side",
+  "tags": [
+   "Bolivian",
+   "sauce",
+   "table sauce"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "ripe tomatoes, halved"
+   },
+   {
+    "measure": "2",
+    "name": "fresh hot red peppers (locotos), or 2 jalapeños or small red chillies"
+   },
+   {
+    "measure": "1 handful",
+    "name": "quilquiña or coriander leaves"
+   },
+   {
+    "measure": "1 clove",
+    "name": "garlic (optional)"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "water"
+   }
+  ],
+  "steps": [
+   "Place the tomatoes and chillies in a small pan with a splash of water and cook gently for 5 minutes until just soft; this step is optional, as traditional llajua is often raw.",
+   "Remove the seeds from the chillies for a milder sauce, then crush them together with the tomatoes using a mortar and pestle or a short blitz in a blender.",
+   "Add the coriander, garlic if using, salt and water, and mix to a coarse, juicy purée.",
+   "Taste and add more salt or chilli. Serve at once with grilled meat, salteñas, potatoes or empanadas."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Llajua",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bolivia-mocochinchi-bolivian-dried-peach-and-cinnamon-drink",
+  "title": "Mocochinchi (Bolivian dried peach and cinnamon drink)",
+  "country": "Bolivia",
+  "category": "Miscellaneous",
+  "tags": [
+   "Bolivian",
+   "drink",
+   "peach"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "dried peaches (mocochinchi), or dried apricots as substitute"
+   },
+   {
+    "measure": "2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "3",
+    "name": "cinnamon sticks"
+   },
+   {
+    "measure": "4",
+    "name": "cloves"
+   },
+   {
+    "measure": "1 strip",
+    "name": "orange peel"
+   }
+  ],
+  "steps": [
+   "Rinse the dried peaches and soak them in the water overnight until plump.",
+   "Pour the fruit and its water into a pot, add the cinnamon, cloves and orange peel and bring to a boil.",
+   "Add the sugar and simmer for 30 minutes until the liquid is amber and the fruit is soft.",
+   "Cool and chill thoroughly. Serve cold in glasses with a peach in each glass."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mocochinchi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bolivia-pique-macho-bolivian-beef-sausage-and-fries-party-platter",
+  "title": "Pique macho (Bolivian beef, sausage and fries party platter)",
+  "country": "Bolivia",
+  "category": "Beef",
+  "tags": [
+   "Bolivian",
+   "Cochabamba",
+   "sharing"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "beef sirloin, cut into strips"
+   },
+   {
+    "measure": "3",
+    "name": "frankfurter or sausage links, sliced"
+   },
+   {
+    "measure": "800 g",
+    "name": "potatoes, cut into chips"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced in wedges"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, in wedges"
+   },
+   {
+    "measure": "1",
+    "name": "green bell pepper, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "hot yellow chillies (locotos or ají amarillo), sliced"
+   },
+   {
+    "measure": "4",
+    "name": "hard-boiled eggs, halved"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil, plus oil for frying"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "",
+    "name": "mustard, mayonnaise and ketchup to serve"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Season the beef with cumin, salt and pepper. Fry the chips in hot oil until golden and crisp and keep them warm in the oven.",
+   "Sear the beef strips in a hot pan with oil for 4 to 5 minutes until browned, then remove.",
+   "In the same pan, fry the sausage slices until browned.",
+   "Add the onion, tomato, pepper and chillies and stir-fry for 3 to 4 minutes, still keeping some bite.",
+   "Pile the chips on a large platter and top with the beef, sausage and vegetables. Add the halved eggs and drizzle over the mustard, mayonnaise and ketchup.",
+   "Serve with plenty of napkins, to share with beer or cold drinks."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pique_macho",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bolivia-saltenas-bolivian-juicy-baked-beef-and-potato-pasties",
+  "title": "Salteñas (Bolivian juicy baked beef and potato pasties)",
+  "country": "Bolivia",
+  "category": "Beef",
+  "tags": [
+   "Bolivian",
+   "pastry",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "100 g",
+    "name": "butter or lard, melted"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2",
+    "name": "egg yolks"
+   },
+   {
+    "measure": "150 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ají amarillo paste, or 2 tsp mild chilli paste"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "500 g",
+    "name": "beef, cooked and finely diced"
+   },
+   {
+    "measure": "2",
+    "name": "onions, finely chopped"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, boiled and diced"
+   },
+   {
+    "measure": "80 g",
+    "name": "green peas"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "powdered gelatine, dissolved in 4 tbsp hot water"
+   },
+   {
+    "measure": "350 ml",
+    "name": "beef stock"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten, for brushing"
+   }
+  ],
+  "steps": [
+   "Make the filling one day ahead: cook the onion in a little oil with the ají paste, cumin, oregano and salt until soft.",
+   "Add the stock and simmer for 5 minutes, then stir in the dissolved gelatine and fold in the beef, potatoes and peas. Chill overnight so the filling sets into a firm jelly.",
+   "Mix the flour, sugar, salt, melted butter, egg yolks and warm water into a smooth, firm dough; rest it for 30 minutes.",
+   "Roll the dough thin and cut 12 cm circles. Place a heaped spoonful of cold filling in each, fold over into a half-moon and seal the edge by pinching and folding a decorative rope.",
+   "Brush with beaten egg and bake at 220 C for 15 to 18 minutes until golden. Rest 5 minutes and eat carefully, as the juice inside is hot."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Salte%C3%B1a",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bolivia-sandwich-de-chola-la-paz-pulled-roast-pork-sandwich",
+  "title": "Sándwich de chola (La Paz pulled roast pork sandwich)",
+  "country": "Bolivia",
+  "category": "Pork",
+  "tags": [
+   "Bolivian",
+   "La Paz",
+   "sandwich"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.5 kg",
+    "name": "pork leg or shoulder (pernil)"
+   },
+   {
+    "measure": "6 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "salt"
+   },
+   {
+    "measure": "250 ml",
+    "name": "dark beer or water"
+   },
+   {
+    "measure": "8",
+    "name": "crusty bread rolls"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, grated"
+   },
+   {
+    "measure": "1",
+    "name": "onion, thinly sliced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "white vinegar"
+   },
+   {
+    "measure": "1",
+    "name": "hot pepper, sliced"
+   },
+   {
+    "measure": "",
+    "name": "llajua to serve"
+   }
+  ],
+  "steps": [
+   "Rub the pork with garlic, cumin, oil and salt and leave it for 2 hours or overnight.",
+   "Roast at 160 C in a covered pan with the beer for about 3 hours until the meat is tender, then uncover and brown for 20 minutes. Rest and slice or shred.",
+   "Mix the carrot, onion, vinegar, hot pepper and a pinch of salt and leave for 15 minutes to quick-pickle.",
+   "Split the rolls and fill them generously with warm pork and its juices.",
+   "Top with the pickled vegetables and serve with llajua."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chola_sandwich",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bolivia-silpancho-cochabamba-style-breaded-beef-over-rice-and-potatoes-with-fried-egg",
+  "title": "Silpancho (Cochabamba-style breaded beef over rice and potatoes with fried egg)",
+  "country": "Bolivia",
+  "category": "Beef",
+  "tags": [
+   "Bolivian",
+   "Cochabamba",
+   "hearty"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "thin beef steaks (about 100 g each), pounded very thin"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "300 g",
+    "name": "white rice, cooked"
+   },
+   {
+    "measure": "800 g",
+    "name": "potatoes, boiled and sliced"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, finely chopped"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "parsley, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "beetroot, boiled and diced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "vinegar"
+   },
+   {
+    "measure": "2",
+    "name": "eggs, beaten, for the coating"
+   },
+   {
+    "measure": "100 g",
+    "name": "breadcrumbs"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "",
+    "name": "salt, pepper and garlic powder"
+   }
+  ],
+  "steps": [
+   "Season the pounded beef with salt, pepper and garlic powder. Dip each steak in beaten egg, then coat in breadcrumbs.",
+   "Fry the steaks in hot oil for about 2 minutes per side until crisp and cooked through. Drain.",
+   "Make the salad by mixing tomato, onion, beetroot, parsley, vinegar and a pinch of salt.",
+   "On each plate, spread a layer of rice, then a layer of sliced potatoes, then lay a steak on top.",
+   "Fry the 4 eggs and place one on each steak, then spoon the salad over the top. Serve with llajua if you like."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Silpancho",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bolivia-trancapecho-cochabamba-rice-breaded-beef-and-egg-in-a-bread-roll",
+  "title": "Trancapecho (Cochabamba rice, breaded beef and egg in a bread roll)",
+  "country": "Bolivia",
+  "category": "Beef",
+  "tags": [
+   "Bolivian",
+   "Cochabamba",
+   "sandwich"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "bread rolls or flat bread tortillas"
+   },
+   {
+    "measure": "4",
+    "name": "thin beef steaks, pounded flat"
+   },
+   {
+    "measure": "2",
+    "name": "eggs, beaten"
+   },
+   {
+    "measure": "80 g",
+    "name": "breadcrumbs"
+   },
+   {
+    "measure": "200 g",
+    "name": "cooked white rice"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, sliced and fried"
+   },
+   {
+    "measure": "4",
+    "name": "eggs, fried"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, thinly sliced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, thinly sliced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "vinegar"
+   },
+   {
+    "measure": "",
+    "name": "llajua and oil for frying, salt and pepper"
+   }
+  ],
+  "steps": [
+   "Season the steaks, dip in beaten egg, coat in breadcrumbs and shallow-fry for about 2 minutes per side until crisp and golden.",
+   "Mix the tomato and onion with vinegar and a pinch of salt for a quick salad.",
+   "Split the rolls or warm the flat breads and layer in rice, fried potato slices, a breaded steak, a fried egg and salad.",
+   "Close the sandwiches and serve immediately with llajua on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Trancapecho",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

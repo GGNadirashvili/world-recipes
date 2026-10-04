@@ -1,0 +1,1421 @@
+[
+ {
+  "id": "original-peru-aguadito-de-pollo-peruvian-chicken-and-coriander-rice-soup",
+  "title": "Aguadito de pollo (Peruvian chicken and coriander rice soup)",
+  "country": "Peru",
+  "category": "Chicken",
+  "tags": [
+   "Peruvian",
+   "soup",
+   "coriander"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "chicken thighs, bone-in"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ají amarillo paste"
+   },
+   {
+    "measure": "1 big bunch (100 g)",
+    "name": "coriander leaves and stems"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water or chicken stock"
+   },
+   {
+    "measure": "200 g",
+    "name": "long-grain rice"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, diced"
+   },
+   {
+    "measure": "150 g",
+    "name": "green peas"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, diced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "lime wedges to serve"
+   }
+  ],
+  "steps": [
+   "Season the chicken and brown it lightly in the oil in a big pot. Take it out.",
+   "Cook the onion, garlic, ají paste and cumin in the same pot for 5 minutes until soft and fragrant.",
+   "Blend the coriander with about 200 ml of the water until smooth and add it to the pot, cooking for 2 minutes.",
+   "Return the chicken, add the rest of the water and simmer for 20 minutes.",
+   "Stir in the rice, potatoes, carrot and peas and simmer for 20 more minutes until rice and vegetables are tender and the soup is slightly thick.",
+   "Shred or leave the chicken in pieces, check the seasoning and serve with lime wedges."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aguadito_de_pollo",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-arroz-chaufa-peruvian-chifa-chicken-fried-rice",
+  "title": "Arroz chaufa (Peruvian chifa chicken fried rice)",
+  "country": "Peru",
+  "category": "Chicken",
+  "tags": [
+   "Peruvian",
+   "chifa",
+   "fried rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "cooked day-old long-grain rice"
+   },
+   {
+    "measure": "250 g",
+    "name": "chicken breast, diced"
+   },
+   {
+    "measure": "3",
+    "name": "eggs, beaten"
+   },
+   {
+    "measure": "4",
+    "name": "spring onions, sliced"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "fresh ginger, grated"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "soy sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oyster sauce"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sesame oil"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 handful",
+    "name": "bean sprouts (optional)"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken for 10 minutes in a spoonful of the soy sauce and a pinch of pepper.",
+   "Scramble the eggs in a hot wok with a little oil until just set, break into pieces and remove.",
+   "Add more oil, then stir-fry the chicken over high heat until golden and cooked through. Take it out.",
+   "Fry the garlic, ginger and the white parts of the spring onions for 30 seconds.",
+   "Add the rice and stir-fry hard for 3 to 4 minutes, pressing out lumps and letting some grains sizzle against the wok.",
+   "Return the chicken and egg, add the remaining soy, oyster sauce and sesame oil, toss for a minute, then fold in the green onion tops and bean sprouts and serve."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Arroz_chaufa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-arroz-zambito-peruvian-rice-pudding-with-chancaca-and-raisins",
+  "title": "Arroz zambito (Peruvian rice pudding with chancaca and raisins)",
+  "country": "Peru",
+  "category": "Dessert",
+  "tags": [
+   "Peruvian",
+   "rice pudding",
+   "Lima"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "short-grain rice"
+   },
+   {
+    "measure": "1.2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "4",
+    "name": "cloves"
+   },
+   {
+    "measure": "200 g",
+    "name": "chancaca or dark brown sugar"
+   },
+   {
+    "measure": "100 g",
+    "name": "raisins"
+   },
+   {
+    "measure": "60 g",
+    "name": "shredded coconut"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Boil the rice with the water, cinnamon, cloves and salt for about 20 minutes until the grains are soft.",
+   "Add the chancaca or brown sugar and stir until it dissolves.",
+   "Add the raisins, coconut and butter and keep cooking gently over low heat for 15 to 20 minutes, stirring often, until thick and creamy and dark brown.",
+   "Remove the cinnamon stick and cloves.",
+   "Serve warm or chilled in small bowls with a dusting of cinnamon."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Arroz_zambito",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-butifarra-peruvian-ham-sandwich-with-salsa-criolla",
+  "title": "Butifarra (Peruvian ham sandwich with salsa criolla)",
+  "country": "Peru",
+  "category": "Pork",
+  "tags": [
+   "Peruvian",
+   "sandwich",
+   "Lima"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "crusty white rolls (pan francés)"
+   },
+   {
+    "measure": "400 g",
+    "name": "roast pork leg or good cooked ham, thinly sliced"
+   },
+   {
+    "measure": "1",
+    "name": "red onion, thinly sliced"
+   },
+   {
+    "measure": "2",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "1",
+    "name": "ají amarillo or red chilli, finely chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped coriander"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "",
+    "name": "lettuce leaves"
+   },
+   {
+    "measure": "",
+    "name": "mayonnaise or mustard to serve"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Soak the sliced onion in cold water for 10 minutes, drain, and mix with lime juice, chilli, coriander, oil and salt to make salsa criolla.",
+   "If using fresh pork leg, roast a seasoned joint with garlic, cumin and salt until cooked through, rest, and slice thinly; leftovers also work well.",
+   "Split the rolls and warm them briefly in a hot oven for a crisp crust.",
+   "Pile the meat generously in each roll, add lettuce and a spoon of salsa criolla, and spread mayonnaise or mustard to taste.",
+   "Serve immediately with extra salsa on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Butifarra_(sandwich)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-carapulcra-peruvian-pork-and-dried-potato-stew-with-peanuts",
+  "title": "Carapulcra (Peruvian pork and dried potato stew with peanuts)",
+  "country": "Peru",
+  "category": "Pork",
+  "tags": [
+   "Peruvian",
+   "Andean",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "papa seca (dried potato), or 400 g waxy potatoes, diced, added later"
+   },
+   {
+    "measure": "600 g",
+    "name": "pork shoulder, cubed"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "ají panca paste"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ají amarillo paste"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "400 ml",
+    "name": "chicken stock or water"
+   },
+   {
+    "measure": "60 g",
+    "name": "roasted peanuts, ground"
+   },
+   {
+    "measure": "1 small piece",
+    "name": "dark chocolate (10 g)"
+   },
+   {
+    "measure": "1",
+    "name": "clove, and 1 small cinnamon stick"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "If using papa seca, toast it dry in a pan for 3 minutes, then soak in hot water for about 30 minutes until softened; drain.",
+   "Brown the pork in the oil in a heavy pot, then remove it.",
+   "In the same pot cook the onion and garlic until soft, then add the chilli pastes, cumin and oregano and fry for 3 to 4 minutes.",
+   "Return the pork, add the stock, clove and cinnamon and simmer, covered, for 40 minutes.",
+   "Add the soaked papa seca and simmer for 25 minutes more, stirring often so it does not stick. If using fresh potatoes instead, add them 20 minutes before the end.",
+   "Stir in the peanuts and chocolate and cook for a further 10 minutes until the stew is thick. Season and serve with white rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carapulcra",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-chicha-morada-peruvian-purple-corn-and-fruit-drink",
+  "title": "Chicha morada (Peruvian purple corn and fruit drink)",
+  "country": "Peru",
+  "category": "Vegan",
+  "tags": [
+   "Peruvian",
+   "drink",
+   "non-alcoholic"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "dried purple corn (maíz morado), on the cob or kernels; or 250 g blueberries and blackcurrants as a substitute"
+   },
+   {
+    "measure": "2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "4",
+    "name": "cloves"
+   },
+   {
+    "measure": "1",
+    "name": "pineapple skin and core, plus a handful of chunks"
+   },
+   {
+    "measure": "2",
+    "name": "apples, peeled and chopped"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar, or to taste"
+   },
+   {
+    "measure": "3",
+    "name": "limes, juiced"
+   }
+  ],
+  "steps": [
+   "Rinse the corn and put it in a large pot with the water, cinnamon, cloves, pineapple peel and core and the chopped apple.",
+   "Bring to a boil, then simmer gently for about 45 minutes, until the liquid is a deep purple and the corn is soft.",
+   "Strain, discarding the solids. Stir the sugar into the warm liquid until it dissolves.",
+   "Cool completely, then stir in the lime juice and taste, adjusting sweetness.",
+   "Chill well and serve over ice with finely chopped apple and pineapple."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chicha_morada",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-jalea-peruvian-fried-fish-and-seafood-platter-with-salsa-criolla",
+  "title": "Jalea (Peruvian fried fish and seafood platter with salsa criolla)",
+  "country": "Peru",
+  "category": "Seafood",
+  "tags": [
+   "Peruvian",
+   "fried",
+   "coastal"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "firm white fish fillets, cut into chunks"
+   },
+   {
+    "measure": "250 g",
+    "name": "squid rings"
+   },
+   {
+    "measure": "250 g",
+    "name": "peeled shrimp"
+   },
+   {
+    "measure": "100 g",
+    "name": "cornflour"
+   },
+   {
+    "measure": "50 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "garlic powder"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ají panca or paprika"
+   },
+   {
+    "measure": "",
+    "name": "oil for deep frying"
+   },
+   {
+    "measure": "2",
+    "name": "yuca (cassava) roots, peeled and cut in sticks"
+   },
+   {
+    "measure": "1",
+    "name": "red onion, thinly sliced"
+   },
+   {
+    "measure": "2",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "1",
+    "name": "ají limo or red chilli, finely chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "coriander leaves"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Season the fish, squid and shrimp with salt, pepper, garlic powder, cumin and paprika.",
+   "Boil the yuca sticks in salted water for 10 to 15 minutes until just tender, drain well and dry.",
+   "For the salsa criolla, toss the onion with lime juice, chilli, coriander and a pinch of salt; leave it for 10 minutes.",
+   "Mix the cornflour and plain flour and coat the seafood well, shaking off excess.",
+   "Heat oil to 180 C and fry the seafood in batches for 2 to 4 minutes until crisp and golden. Fry the yuca until golden.",
+   "Pile the seafood and yuca on a platter and top with the salsa criolla. Serve with tartar sauce or a spicy mayonnaise."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jalea",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-juane-peruvian-jungle-rice-and-chicken-in-bijao-leaves",
+  "title": "Juane (Peruvian jungle rice and chicken in bijao leaves)",
+  "country": "Peru",
+  "category": "Chicken",
+  "tags": [
+   "Peruvian",
+   "Amazonian",
+   "wrapped"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "chicken thighs, cut into 8 pieces"
+   },
+   {
+    "measure": "400 g",
+    "name": "long-grain rice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "4",
+    "name": "hard-boiled eggs, halved"
+   },
+   {
+    "measure": "8",
+    "name": "black olives"
+   },
+   {
+    "measure": "3",
+    "name": "eggs, beaten"
+   },
+   {
+    "measure": "",
+    "name": "banana leaves or foil, cut in 20 cm squares"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in lightly salted water for 20 to 25 minutes until cooked, keeping the broth. Cook the rice in 700 ml of the broth with the turmeric and salt until tender.",
+   "Fry the onion and garlic in the oil with the cumin and oregano until soft; fold into the rice, then mix in the raw beaten eggs.",
+   "Soften the banana leaves briefly over a flame or in hot water so they do not tear.",
+   "On each leaf put 3 to 4 tablespoons of rice, then a piece of chicken, half an egg and an olive, and cover with a bit more rice.",
+   "Fold the leaf over to form a tight parcel and tie with kitchen string.",
+   "Steam for about 45 minutes in a steamer or boil in a covered pot with water. Unwrap and eat while warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Juane",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-king-kong-peruvian-layered-shortbread-cookie-and-manjar-blanco-bars",
+  "title": "King Kong (Peruvian layered shortbread cookie and manjar blanco bars)",
+  "country": "Peru",
+  "category": "Dessert",
+  "tags": [
+   "Peruvian",
+   "Lambayeque",
+   "layered"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "150 g",
+    "name": "butter, softened"
+   },
+   {
+    "measure": "80 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk, plus 1 whole egg"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "400 g",
+    "name": "dulce de leche (manjar blanco)"
+   },
+   {
+    "measure": "100 g",
+    "name": "pineapple jam or sweet candied pineapple"
+   },
+   {
+    "measure": "50 g",
+    "name": "roasted peanuts, chopped"
+   }
+  ],
+  "steps": [
+   "Cream the butter and sugar until pale, then beat in the egg, yolk and vanilla.",
+   "Mix in flour, baking powder and salt to form a soft dough, and chill for 30 minutes.",
+   "Heat the oven to 180 C. Divide the dough into 4 equal pieces, roll each into a rectangle about 3 mm thick and bake on parchment for 10 to 12 minutes until lightly golden. Cool completely.",
+   "Layer the biscuit sheets with dulce de leche, a thin spread of pineapple jam and a scatter of peanuts between each.",
+   "Finish the top layer with dulce de leche and peanuts, chill for 1 hour and cut into bars."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/King_Kong_(dessert)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-ocopa-peruvian-huacatay-and-peanut-sauce-over-potatoes",
+  "title": "Ocopa (Peruvian huacatay and peanut sauce over potatoes)",
+  "country": "Peru",
+  "category": "Side",
+  "tags": [
+   "Peruvian",
+   "Arequipa",
+   "sauce"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "yellow potatoes"
+   },
+   {
+    "measure": "3",
+    "name": "ají amarillo chillies, deseeded, or 2 tbsp ají amarillo paste"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "fresh huacatay (black mint) leaves, or a mix of mint, basil and coriander"
+   },
+   {
+    "measure": "50 g",
+    "name": "roasted unsalted peanuts"
+   },
+   {
+    "measure": "50 g",
+    "name": "walnuts"
+   },
+   {
+    "measure": "3 crackers",
+    "name": "soda crackers"
+   },
+   {
+    "measure": "100 g",
+    "name": "queso fresco"
+   },
+   {
+    "measure": "150 ml",
+    "name": "evaporated milk"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 clove",
+    "name": "garlic"
+   },
+   {
+    "measure": "3",
+    "name": "hard-boiled eggs, halved"
+   },
+   {
+    "measure": "8",
+    "name": "black olives"
+   },
+   {
+    "measure": "",
+    "name": "lettuce leaves for serving"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in salted water until tender, then drain, peel if you like and slice thickly.",
+   "If using fresh chillies, soak them in hot water for 10 minutes, then drain.",
+   "Heat the oil and gently cook the garlic and chillies for a minute.",
+   "Blend the chillies, huacatay, peanuts, walnuts, crackers, cheese and evaporated milk to a smooth sauce about the thickness of double cream. Add more milk if needed, then season.",
+   "Arrange lettuce leaves on a platter, lay the potatoes on top and spoon the green sauce over them.",
+   "Garnish with egg halves and olives and serve at room temperature."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ocopa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-olluquito-con-carne-peruvian-ulluco-and-beef-stew",
+  "title": "Olluquito con carne (Peruvian ulluco and beef stew)",
+  "country": "Peru",
+  "category": "Beef",
+  "tags": [
+   "Peruvian",
+   "Andean",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "ulluco (olluco), or small waxy new potatoes and a little beetroot as a substitute"
+   },
+   {
+    "measure": "400 g",
+    "name": "beef sirloin, cut into thin strips"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "ají amarillo paste"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "200 ml",
+    "name": "beef stock"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "chopped parsley"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Wash the ulluco and cut into thin matchsticks, or slice substitute potatoes into thin batons.",
+   "Season the beef with salt, pepper and cumin and brown it quickly in the hot oil in a wide pot. Set aside.",
+   "Cook the onion and garlic until soft, then add the ají paste and oregano and fry for 2 minutes.",
+   "Add the ulluco and stock, cover and simmer for about 15 minutes until just tender.",
+   "Return the beef and cook for another 5 minutes. Stir in parsley and adjust the seasoning. Serve with white rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Olluquito",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-pachamanca-andean-oven-baked-meat-and-tubers-home-oven-version",
+  "title": "Pachamanca (Andean oven-baked meat and tubers, home-oven version)",
+  "country": "Peru",
+  "category": "Chicken",
+  "tags": [
+   "Peruvian",
+   "Andean",
+   "oven-baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "chicken thighs, or 400 g chicken and 400 g pork shoulder"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "ají panca paste, or mild red chilli paste"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ají amarillo paste"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "huacatay (Peruvian black mint) paste, or a mix of mint, coriander and parsley"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vinegar or lime juice"
+   },
+   {
+    "measure": "600 g",
+    "name": "small potatoes"
+   },
+   {
+    "measure": "2",
+    "name": "sweet potatoes, halved"
+   },
+   {
+    "measure": "2",
+    "name": "corn on the cob, cut in chunks"
+   },
+   {
+    "measure": "200 g",
+    "name": "fresh fava beans, or broad beans"
+   },
+   {
+    "measure": "",
+    "name": "large banana leaves or foil"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Mix the chilli pastes, huacatay, garlic, cumin, vinegar and salt, rub it all over the meat and marinate for at least 2 hours, ideally overnight.",
+   "Heat the oven to 180 C. Line a deep roasting tin with banana leaves, or heavy foil, leaving plenty overhanging.",
+   "Lay the meat on the leaves, then add the potatoes, sweet potatoes, corn and beans around it. Pour over any leftover marinade and sprinkle with salt.",
+   "Fold the leaves or foil over to enclose everything tightly, then cover the tin with more foil.",
+   "Bake for about 1 hour 15 minutes, until the meat is tender and the potatoes are soft; pork shoulder may need 30 minutes more.",
+   "Open the package at the table and serve with a green chilli sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pachamanca",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-picarones-peruvian-sweet-potato-and-squash-doughnuts-in-spiced-syrup",
+  "title": "Picarones (Peruvian sweet potato and squash doughnuts in spiced syrup)",
+  "country": "Peru",
+  "category": "Dessert",
+  "tags": [
+   "Peruvian",
+   "fried",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "sweet potato"
+   },
+   {
+    "measure": "300 g",
+    "name": "pumpkin or butternut squash"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "aniseed"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "350 g",
+    "name": "plain flour, plus more if needed"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "",
+    "name": "oil for deep frying"
+   },
+   {
+    "measure": "250 g",
+    "name": "dark brown sugar or panela"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "3",
+    "name": "cloves"
+   },
+   {
+    "measure": "1 strip",
+    "name": "orange peel"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lime juice"
+   }
+  ],
+  "steps": [
+   "Peel and cook the sweet potato and squash in lightly sweetened water with the aniseed until very soft. Drain, keeping 150 ml of the cooking water, and mash to a smooth purée.",
+   "Warm the reserved water until lukewarm, stir in the sugar and yeast and leave for 10 minutes until foamy.",
+   "Mix the purée, yeast mixture, salt and flour into a soft, sticky dough that holds its shape; cover and leave for 1 to 2 hours until puffy.",
+   "Meanwhile make the syrup by simmering the brown sugar, water, cinnamon, cloves, orange peel and lime juice for 15 minutes until slightly thickened. Strain.",
+   "Heat oil to about 175 C. With wet hands, take a handful of dough, make a hole in the centre to form a ring and drop it carefully into the oil.",
+   "Fry the rings for about 3 minutes per side until golden. Drain and serve warm drizzled with the syrup."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Picarones",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-pollo-a-la-brasa-peruvian-charcoal-style-roast-chicken-with-green-sauce",
+  "title": "Pollo a la brasa (Peruvian charcoal-style roast chicken with green sauce)",
+  "country": "Peru",
+  "category": "Chicken",
+  "tags": [
+   "Peruvian",
+   "roast",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 (about 1.6 kg)",
+    "name": "whole chicken"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "soy sauce"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "white vinegar"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ají panca paste"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "paprika"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt, plus black pepper"
+   },
+   {
+    "measure": "50 g",
+    "name": "coriander leaves"
+   },
+   {
+    "measure": "1",
+    "name": "jalapeño or ají amarillo, deseeded"
+   },
+   {
+    "measure": "100 g",
+    "name": "mayonnaise"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lime juice"
+   }
+  ],
+  "steps": [
+   "Mix the garlic, soy sauce, vinegar, ají panca paste, cumin, oregano, paprika, oil, salt and pepper into a paste.",
+   "Rub the paste over and under the skin of the chicken and marinate in the fridge for at least 6 hours or overnight.",
+   "Heat the oven to 220 C. Place the chicken on a rack in a roasting tin, breast side up.",
+   "Roast for 20 minutes, then reduce to 190 C and roast for another 50 to 60 minutes until the skin is dark and crisp and the juices run clear.",
+   "Rest the chicken for 10 minutes before carving.",
+   "Blend the coriander, chilli, mayonnaise and lime juice into a green sauce. Serve with fries and salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pollo_a_la_brasa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-queso-helado-arequipa-style-frozen-milk-dessert-with-cinnamon",
+  "title": "Queso helado (Arequipa-style frozen milk dessert with cinnamon)",
+  "country": "Peru",
+  "category": "Dessert",
+  "tags": [
+   "Peruvian",
+   "Arequipa",
+   "frozen"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 ml",
+    "name": "whole milk"
+   },
+   {
+    "measure": "400 g",
+    "name": "evaporated milk"
+   },
+   {
+    "measure": "300 g",
+    "name": "sweetened condensed milk"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "cornstarch"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "ground cinnamon, for serving"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the whole milk, evaporated milk and cinnamon stick in a saucepan until steaming, but not boiling.",
+   "Mix the cornstarch with a few spoonfuls of the condensed milk until smooth and stir into the pan along with the rest of the condensed milk and salt.",
+   "Cook over low heat for 5 to 8 minutes, stirring, until the mixture lightly coats a spoon. Remove the cinnamon stick and add vanilla.",
+   "Cool, then pour into a shallow freezer-safe container and freeze for 2 hours.",
+   "Stir or beat vigorously every hour for 3 to 4 hours so it freezes smooth and creamy.",
+   "Scoop into glasses and dust with ground cinnamon."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Queso_helado",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-rocoto-relleno-arequipa-style-stuffed-hot-peppers",
+  "title": "Rocoto relleno (Arequipa-style stuffed hot peppers)",
+  "country": "Peru",
+  "category": "Beef",
+  "tags": [
+   "Peruvian",
+   "Arequipa",
+   "stuffed"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "8",
+    "name": "red bell peppers, or 4 mild chillies and 4 small bell peppers (traditionally rocoto peppers)"
+   },
+   {
+    "measure": "400 g",
+    "name": "minced beef"
+   },
+   {
+    "measure": "2",
+    "name": "onions, finely chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "50 g",
+    "name": "raisins"
+   },
+   {
+    "measure": "50 g",
+    "name": "roasted peanuts, chopped"
+   },
+   {
+    "measure": "3",
+    "name": "hard-boiled eggs, chopped"
+   },
+   {
+    "measure": "12",
+    "name": "black olives, chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "150 g",
+    "name": "queso fresco or mozzarella, sliced"
+   },
+   {
+    "measure": "250 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Cut the tops off the peppers, scoop out seeds and white membranes, then blanch the peppers in boiling water for 3 minutes. Drain upside down.",
+   "Heat the oil and cook the onion and garlic until soft. Add the beef and brown it, breaking it up.",
+   "Stir in the tomato paste, oregano, cumin, salt and pepper and cook for 5 minutes. Fold in raisins, peanuts, boiled eggs and olives, then let it cool slightly.",
+   "Heat the oven to 180 C. Fill each pepper with the beef mixture and arrange them in a baking dish.",
+   "Whisk the milk with the eggs and a pinch of salt and pour it into the dish around the peppers.",
+   "Top the peppers with cheese slices and bake for 25 to 30 minutes until the cheese is golden and the custard is just set. Serve with boiled potatoes."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rocoto_relleno",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-suspiro-a-la-limena-peruvian-dulce-de-leche-custard-with-meringue",
+  "title": "Suspiro a la limeña (Peruvian dulce de leche custard with meringue)",
+  "country": "Peru",
+  "category": "Dessert",
+  "tags": [
+   "Peruvian",
+   "Lima",
+   "custard"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "sweetened condensed milk (1 can)"
+   },
+   {
+    "measure": "400 ml",
+    "name": "evaporated milk"
+   },
+   {
+    "measure": "5",
+    "name": "egg yolks"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "3",
+    "name": "egg whites"
+   },
+   {
+    "measure": "200 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "80 ml",
+    "name": "port wine or sweet red wine"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "ground cinnamon, for dusting"
+   }
+  ],
+  "steps": [
+   "Combine the condensed and evaporated milk in a heavy saucepan and cook over low heat, stirring constantly, for about 25 to 30 minutes until it thickens and turns pale caramel.",
+   "Whisk the egg yolks in a bowl, then slowly stir in a ladleful of the hot milk mixture to temper them. Pour everything back into the pan.",
+   "Cook for 5 more minutes, stirring, until thick enough to see the base of the pan. Stir in vanilla.",
+   "Pour into 4 to 6 glasses and chill for at least 2 hours.",
+   "For the meringue, simmer the sugar and wine for about 5 minutes until syrupy and reaching soft-ball stage, 115 C if you have a thermometer.",
+   "Whisk the egg whites to soft peaks, then pour in the hot syrup in a thin stream while whisking, until stiff and glossy.",
+   "Spoon the meringue over the chilled custard and dust with cinnamon."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Suspiro_de_lime%C3%B1a",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-tacu-tacu-peruvian-fried-rice-and-bean-cake",
+  "title": "Tacu-tacu (Peruvian fried rice and bean cake)",
+  "country": "Peru",
+  "category": "Vegetarian",
+  "tags": [
+   "Peruvian",
+   "beans",
+   "rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "cooked canary or pinto beans, with a little cooking liquid"
+   },
+   {
+    "measure": "300 g",
+    "name": "cooked white rice, preferably day-old"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ají amarillo paste, or 1 tsp mild chilli paste"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "4",
+    "name": "eggs, to serve"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "chopped parsley to serve"
+   }
+  ],
+  "steps": [
+   "Mash the beans roughly with a fork, keeping some texture, and add a splash of their liquid if dry.",
+   "Heat 1 tbsp oil in a pan and cook the onion and garlic until soft. Stir in the ají paste, cumin, salt and pepper.",
+   "Add the beans and the rice and mix well so the mixture holds together when pressed; it should be moist but firm.",
+   "Heat another tablespoon of oil in a large non-stick skillet. Press the mixture into the pan in a thick oval or round cake and cook over medium heat for about 5 minutes until the underside forms a golden crust.",
+   "Slide it onto a plate, add a little oil to the pan and slide the cake back crust-side up to brown the other side.",
+   "Fry the eggs in the last of the oil. Serve wedges of tacu-tacu topped with a fried egg and parsley, with salsa criolla if you like."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tacu-tacu",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-peru-tiradito-peruvian-sashimi-style-fish-in-spicy-yellow-chilli-sauce",
+  "title": "Tiradito (Peruvian sashimi-style fish in spicy yellow chilli sauce)",
+  "country": "Peru",
+  "category": "Seafood",
+  "tags": [
+   "Peruvian",
+   "Nikkei",
+   "cold"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "very fresh sushi-grade white fish fillet (sea bass or sole), skin removed"
+   },
+   {
+    "measure": "4",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "ají amarillo paste"
+   },
+   {
+    "measure": "1 clove",
+    "name": "garlic"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "coriander leaves"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "olive oil or neutral oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "red onion, very thinly sliced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "ice cubes"
+   },
+   {
+    "measure": "",
+    "name": "pinch of toasted corn kernels or sweet potato slices for serving"
+   }
+  ],
+  "steps": [
+   "Chill the fish well. Slice it against the grain into thin, flat strips about 3 mm thick, like sashimi.",
+   "Make the sauce by blending the ají amarillo paste, garlic, coriander, a pinch of salt, the oil and half the lime juice with a few ice cubes until smooth.",
+   "Arrange the fish slices in a single layer on a cold plate.",
+   "Pour the remaining lime juice over the fish just before serving and sprinkle with the salt.",
+   "Spoon the yellow sauce over or around the fish, scatter the red onion on top and serve immediately with corn or sweet potato."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tiradito",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

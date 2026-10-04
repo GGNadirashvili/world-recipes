@@ -1,0 +1,614 @@
+[
+ {
+  "id": "original-colombia-aborrajados-colombian-cheese-stuffed-fried-ripe-plantain",
+  "title": "Aborrajados (Colombian cheese-stuffed fried ripe plantain)",
+  "country": "Colombia",
+  "category": "Starter",
+  "tags": [
+   "Colombian",
+   "Cali",
+   "plantain"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "very ripe plantains, with yellow-black skins"
+   },
+   {
+    "measure": "200 g",
+    "name": "mozzarella or queso blanco, cut into 8 sticks"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "guava paste, in small pieces (optional)"
+   },
+   {
+    "measure": "100 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Peel the plantains and cut each in half lengthways, cutting almost through to make a pocket, or slice into thick lengthways pieces.",
+   "Fry them in a little oil until golden, then drain and flatten lightly.",
+   "Place a stick of cheese, and a bit of guava paste if using, inside each plantain half and fold or pinch together to enclose.",
+   "Whisk the flour, egg, water, baking powder and salt to a smooth batter the thickness of cream.",
+   "Dip each stuffed plantain in the batter to coat well, and fry in oil at 175 C for 3 to 4 minutes per side until deep golden and crisp.",
+   "Drain on paper towels and serve warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aborrajados_de_pl%C3%A1tano_maduro",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-colombia-arroz-atollado-valle-del-cauca-soupy-rice-with-pork-chicken-and-potato",
+  "title": "Arroz atollado (Valle del Cauca soupy rice with pork, chicken and potato)",
+  "country": "Colombia",
+  "category": "Pork",
+  "tags": [
+   "Colombian",
+   "Cali",
+   "rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "pork ribs or pork shoulder, in pieces"
+   },
+   {
+    "measure": "300 g",
+    "name": "chicken thighs"
+   },
+   {
+    "measure": "100 g",
+    "name": "chorizo, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "achiote or paprika"
+   },
+   {
+    "measure": "400 g",
+    "name": "long-grain rice"
+   },
+   {
+    "measure": "500 g",
+    "name": "potatoes, in chunks"
+   },
+   {
+    "measure": "1 litre",
+    "name": "chicken stock"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped coriander and spring onion"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Season the pork and chicken with salt, pepper and cumin. Brown them in the oil in a wide, heavy pot, then remove.",
+   "Fry the chorizo, onion, garlic and tomatoes with the achiote for 6 to 8 minutes.",
+   "Return the pork and cover with stock; simmer for 30 minutes.",
+   "Add the potatoes, rice and chicken, bring to a simmer and cook gently, covered, for about 25 minutes. The rice should stay moist and soupy, almost like a risotto.",
+   "Add a little more stock if it gets dry, stir in coriander and spring onion and serve."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Arroz_atollado",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-colombia-bandeja-paisa-antioquian-platter-of-beans-rice-pork-and-plantain",
+  "title": "Bandeja paisa (Antioquian platter of beans, rice, pork and plantain)",
+  "country": "Colombia",
+  "category": "Pork",
+  "tags": [
+   "Colombian",
+   "Antioquia",
+   "platter"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "dried red beans, soaked overnight"
+   },
+   {
+    "measure": "400 g",
+    "name": "pork belly in one piece, with skin if available"
+   },
+   {
+    "measure": "300 g",
+    "name": "rice, cooked"
+   },
+   {
+    "measure": "400 g",
+    "name": "ground beef or thin beef steak"
+   },
+   {
+    "measure": "4",
+    "name": "eggs, fried"
+   },
+   {
+    "measure": "2",
+    "name": "ripe plantains, sliced and fried"
+   },
+   {
+    "measure": "2",
+    "name": "arepas"
+   },
+   {
+    "measure": "2",
+    "name": "chorizo sausages"
+   },
+   {
+    "measure": "2",
+    "name": "avocados, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, diced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "hogao (tomato and spring onion sauce) to serve"
+   }
+  ],
+  "steps": [
+   "Cook the soaked beans with the carrot, half the onion, garlic and a piece of pork belly for about 1.5 hours until soft, salting near the end; the beans should be thick and tender.",
+   "Cut the remaining pork belly into strips, season, and fry slowly in its own fat until crisp and golden. Drain.",
+   "Season the ground beef with salt and pepper and fry or grill it until browned; or grill the steak.",
+   "Fry or grill the chorizos until cooked through, and fry the plantain slices until golden brown.",
+   "Fry the eggs sunny side up.",
+   "Serve everything on one large plate: rice, beans, pork, beef, chorizo, plantain, egg, avocado and an arepa, with hogao spooned over the beans and rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bandeja_paisa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-colombia-caldo-de-costilla-colombian-beef-rib-broth-with-potato",
+  "title": "Caldo de costilla (Colombian beef rib broth with potato)",
+  "country": "Colombia",
+  "category": "Beef",
+  "tags": [
+   "Colombian",
+   "Andean",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "beef short ribs, cut in pieces"
+   },
+   {
+    "measure": "2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "4",
+    "name": "small potatoes, halved"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "4",
+    "name": "spring onions, chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "fresh coriander, chopped"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "arepas or bread, to serve"
+   }
+  ],
+  "steps": [
+   "Put the ribs in a large pot with the water, onion, garlic and cumin and bring to a boil, skimming off the foam.",
+   "Simmer, partially covered, for 1.5 hours until the ribs are tender.",
+   "Add the potatoes and spring onion and cook for 20 minutes until the potatoes are soft and the broth is rich.",
+   "Season with salt and pepper and stir in half the coriander.",
+   "Ladle into bowls with a rib in each and the rest of the coriander. Serve with arepas or bread, traditionally as a morning meal."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Caldo_de_costilla",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-colombia-carimanolas-caribbean-coast-colombian-cassava-turnovers-filled-with-meat",
+  "title": "Carimañolas (Caribbean-coast Colombian cassava turnovers filled with meat)",
+  "country": "Colombia",
+  "category": "Starter",
+  "tags": [
+   "Colombian",
+   "Caribbean coast",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "yuca (cassava), peeled"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "250 g",
+    "name": "minced beef"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "tomato, chopped"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "chopped coriander"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Boil the yuca in salted water for 20 to 25 minutes until tender. Drain, remove the fibrous core, and mash with the butter and salt until you have a smooth dough.",
+   "Cook the onion and garlic in a little oil, then add the beef, cumin, tomato and salt and cook for 10 minutes until dry. Stir in coriander and cool.",
+   "Take a handful of cassava dough, flatten into a disc in your palm, add a spoonful of filling and fold the edges over to form a torpedo shape, sealing well.",
+   "Heat oil to 175 C and deep-fry the carimañolas for 5 to 6 minutes until golden and crisp.",
+   "Drain on paper towels and serve warm with hogao or a lime and coriander dip."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carima%C3%B1ola",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-colombia-changua-bogota-milk-and-egg-breakfast-soup",
+  "title": "Changua (Bogotá milk and egg breakfast soup)",
+  "country": "Colombia",
+  "category": "Breakfast",
+  "tags": [
+   "Colombian",
+   "Bogotá",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 ml",
+    "name": "water"
+   },
+   {
+    "measure": "500 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "4",
+    "name": "spring onions, finely chopped"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2",
+    "name": "stale bread rolls or 4 slices bread, in pieces"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped coriander"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "butter"
+   }
+  ],
+  "steps": [
+   "Bring the water to a boil with the white parts of the spring onions and the salt, and simmer for 5 minutes.",
+   "Add the milk and heat gently until it just comes to a simmer; do not let it boil hard.",
+   "Gently crack an egg into the broth for each serving and poach for 3 to 4 minutes until the white is set but the yolk is still soft.",
+   "Toast or butter the bread pieces and divide them among 4 bowls.",
+   "Ladle the soup with an egg into each bowl and top with the green spring onion and coriander."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Changua",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-colombia-enyucado-caribbean-colombian-coconut-and-cassava-cake",
+  "title": "Enyucado (Caribbean Colombian coconut and cassava cake)",
+  "country": "Colombia",
+  "category": "Dessert",
+  "tags": [
+   "Colombian",
+   "coconut",
+   "cassava"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "yuca (cassava), peeled and finely grated"
+   },
+   {
+    "measure": "100 g",
+    "name": "coconut, grated"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "100 g",
+    "name": "queso costeño or mild feta, crumbled"
+   },
+   {
+    "measure": "60 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground aniseed"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "50 g",
+    "name": "guava paste or jam (optional)"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 C and grease a loaf tin.",
+   "Mix the grated cassava with the coconut, sugar, cheese, melted butter, egg, aniseed, vanilla and salt until evenly combined.",
+   "Spoon half the mixture into the tin; add a layer of guava paste if using; then top with the remaining mixture.",
+   "Bake for 50 to 60 minutes until golden on top and firm in the middle.",
+   "Cool for at least 30 minutes before slicing; it is also good cold."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Enyucado",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-colombia-hogao-colombian-tomato-and-spring-onion-cooking-sauce",
+  "title": "Hogao (Colombian tomato and spring onion cooking sauce)",
+  "country": "Colombia",
+  "category": "Side",
+  "tags": [
+   "Colombian",
+   "sauce",
+   "sofrito"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "6",
+    "name": "spring onions (white and light green), finely chopped"
+   },
+   {
+    "measure": "3",
+    "name": "ripe tomatoes, peeled and finely chopped"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt and pepper"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "chopped coriander"
+   }
+  ],
+  "steps": [
+   "Heat the oil over medium heat and add the spring onions, cooking for 3 minutes until soft.",
+   "Add the garlic and cumin and cook for 30 seconds.",
+   "Stir in the tomatoes with salt and pepper and cook for about 10 minutes, mashing slightly, until the mixture is jammy and thick.",
+   "Stir in the coriander off the heat. Use as a base for stews and rice, or as a sauce for potatoes, beans and arepas."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hogao",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-colombia-pandebono-colombian-cheese-and-cassava-starch-rolls",
+  "title": "Pandebono (Colombian cheese and cassava starch rolls)",
+  "country": "Colombia",
+  "category": "Side",
+  "tags": [
+   "Colombian",
+   "bread",
+   "cheese"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "cassava starch (tapioca starch)"
+   },
+   {
+    "measure": "100 g",
+    "name": "fine cornmeal"
+   },
+   {
+    "measure": "250 g",
+    "name": "queso fresco or cuajada, finely grated"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "60 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter, melted"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 C and line a baking tray.",
+   "Mix the cassava starch, cornmeal, sugar, baking powder and salt in a bowl.",
+   "Add the cheese and mix with your hands until crumbly, then add the egg, butter and milk, kneading until you have a smooth, soft dough.",
+   "Shape into small balls or rings, about 5 cm wide, and place them on the tray.",
+   "Bake for 15 to 20 minutes until puffed and golden. Serve warm with coffee or hot chocolate."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pandebono",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
