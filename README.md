@@ -27,12 +27,20 @@ The app ships static snapshots in [`data/`](data/), so it needs no backend or AP
 | --- | --- | --- | --- |
 | `data/themealdb.json` | [TheMealDB](https://www.themealdb.com) free API | see their terms | `node scripts/fetch-themealdb.mjs` |
 | `data/wikibooks.json` | [Wikibooks Cookbook](https://en.wikibooks.org/wiki/Cookbook:Table_of_Contents) | CC BY-SA 4.0 | `node scripts/fetch-wikibooks.mjs` |
+| `data/original/<country>.json` | Written for this project from research (no copied text), one file per country | this repo | `node scripts/build-original.mjs <draftsDir>` |
 
 Both normalise into the shape in [`src/types.ts`](src/types.ts) and are merged (duplicate dishes
 removed) in [`src/lib/recipes.ts`](src/lib/recipes.ts). To add a source, write a script that outputs
 the same shape and import it there. The Wikibooks importer maps its "Albanian recipes"-style
 categories to countries, queries the API politely (sequential, cached in `.cache/`) and records each
 recipe's licence and authors link, which the app shows on the recipe.
+
+**Original write-ups.** For countries the open sources barely cover, recipes are written in original
+wording from research and linked to a Wikipedia article about the dish. [`scripts/build-original.mjs`](scripts/build-original.mjs)
+turns drafts into data and enforces the rules: the Wikipedia article must exist (so invented dishes are
+rejected), at least 3 ingredients and 3 steps, a valid course, and no duplicate of anything already in
+that country. Cured, raw-blood and long-fermentation dishes are left out on purpose. Each such recipe says
+it is an original write-up, and quantities are approximate: they have not been kitchen-tested.
 
 **Licensing.** Wikibooks text is CC BY-SA 4.0, so `data/wikibooks.json` and anything derived from it
 must stay under the same licence and credit the contributors (the app links the page history). Check
