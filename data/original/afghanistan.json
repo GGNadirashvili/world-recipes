@@ -1,0 +1,849 @@
+[
+ {
+  "id": "original-afghanistan-afghan-bread-naan-e-afghani-oval-flatbread",
+  "title": "Afghan Bread (Naan-e Afghani, oval flatbread)",
+  "country": "Afghanistan",
+  "category": "Side",
+  "tags": [
+   "Afghan",
+   "bread",
+   "flatbread"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "3 cups",
+    "name": "wholemeal or plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 1/4 cups",
+    "name": "warm water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "nigella seeds (optional)"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, salt and sugar and add the water and oil to form a soft dough.",
+   "Knead for 8 to 10 minutes and let it rise covered for about 1 hour.",
+   "Divide into 4 portions, stretch each into a long oval about 1 cm thick and press lines lengthwise with your fingertips or a comb.",
+   "Sprinkle with nigella seeds and bake on a very hot tray or stone at 250 C for 8 to 10 minutes until golden and puffed, then serve warm.",
+   "Tear the bread into pieces to eat alongside curries, kebabs and soups."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Afghan_bread",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-afghan-burger-kabul-street-sandwich-with-chutney-and-fries",
+  "title": "Afghan Burger (Kabul street sandwich with chutney and fries)",
+  "country": "Afghanistan",
+  "category": "Beef",
+  "tags": [
+   "Afghan",
+   "street food",
+   "sandwich"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "minced beef"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, grated"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground coriander"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   },
+   {
+    "measure": "4",
+    "name": "flatbreads or buns"
+   },
+   {
+    "measure": "1 cup",
+    "name": "cabbage, shredded"
+   },
+   {
+    "measure": "1",
+    "name": "tomato, sliced"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "mint-coriander chutney"
+   },
+   {
+    "measure": "1 cup",
+    "name": "french fries"
+   }
+  ],
+  "steps": [
+   "Mix the mince with the onion, garlic, coriander, cumin, pepper and salt and form 4 flat patties.",
+   "Fry or grill the patties for 4 to 5 minutes per side until cooked through.",
+   "Warm the flatbreads on a griddle.",
+   "Spread chutney inside each bread, add the patty, cabbage, tomato and a handful of fries.",
+   "Fold or close and serve hot."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Afghan_burger",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-afghan-salad-tomato-cucumber-and-mint-salad",
+  "title": "Afghan Salad (tomato, cucumber and mint salad)",
+  "country": "Afghanistan",
+  "category": "Starter",
+  "tags": [
+   "Afghan",
+   "salad",
+   "fresh"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "3",
+    "name": "ripe tomatoes, diced"
+   },
+   {
+    "measure": "2",
+    "name": "cucumbers, diced"
+   },
+   {
+    "measure": "1",
+    "name": "red onion, finely chopped"
+   },
+   {
+    "measure": "2",
+    "name": "green chillies, finely chopped"
+   },
+   {
+    "measure": "1 handful",
+    "name": "fresh coriander and mint, chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "lemon or lime juice"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Put the tomatoes, cucumbers and onion in a large bowl.",
+   "Add the chillies and the chopped herbs.",
+   "Whisk the lemon juice, oil, salt and pepper together and pour over the salad.",
+   "Toss gently, chill for 15 minutes and serve with kebabs or rice dishes."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Afghan_salad",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-afghan-torshi-spiced-vegetable-pickle",
+  "title": "Afghan Torshi (spiced vegetable pickle)",
+  "country": "Afghanistan",
+  "category": "Side",
+  "tags": [
+   "Afghan",
+   "pickle",
+   "condiment"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2",
+    "name": "carrots, sliced"
+   },
+   {
+    "measure": "1/2 head",
+    "name": "cauliflower, in small florets"
+   },
+   {
+    "measure": "2",
+    "name": "small cucumbers, sliced"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, sliced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "nigella or cumin seeds"
+   },
+   {
+    "measure": "2 cups",
+    "name": "white vinegar"
+   },
+   {
+    "measure": "1 cup",
+    "name": "water"
+   }
+  ],
+  "steps": [
+   "Bring the vinegar, water, salt, sugar and turmeric to a boil and stir until dissolved.",
+   "Pack the vegetables, garlic and seeds into clean jars.",
+   "Pour the hot brine over the vegetables to cover them completely.",
+   "Cool, close the jars and refrigerate for at least 3 days before eating.",
+   "Keep refrigerated and serve as a sharp accompaniment to rice dishes and kebabs."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Torshi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-aush-afghan-noodle-and-bean-soup",
+  "title": "Aush (Afghan noodle and bean soup)",
+  "country": "Afghanistan",
+  "category": "Starter",
+  "tags": [
+   "Afghan",
+   "soup",
+   "noodles"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "200 g",
+    "name": "minced lamb or beef"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "red chilli flakes"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water or stock"
+   },
+   {
+    "measure": "1 can",
+    "name": "kidney beans or chickpeas, drained (400 g)"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "red lentils"
+   },
+   {
+    "measure": "200 g",
+    "name": "spaghetti or thin wheat noodles, broken"
+   },
+   {
+    "measure": "200 g",
+    "name": "spinach, chopped"
+   },
+   {
+    "measure": "1 cup",
+    "name": "plain yoghurt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "dried mint"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Fry the onion in the oil until golden, add half the garlic and the mince and cook until browned.",
+   "Stir in the turmeric, chilli flakes and salt, then add the water, beans and lentils and simmer for 25 minutes until the lentils are soft.",
+   "Add the noodles and spinach and cook until the noodles are tender, about 8 to 10 minutes.",
+   "Mix the yoghurt with the remaining garlic and a pinch of salt.",
+   "Heat a little oil with the dried mint for 20 seconds until fragrant.",
+   "Ladle the soup into bowls, top with the garlic yoghurt and drizzle with the mint oil."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aush",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-aushak-afghan-leek-dumplings-with-yoghurt-and-meat-sauce",
+  "title": "Aushak (Afghan leek dumplings with yoghurt and meat sauce)",
+  "country": "Afghanistan",
+  "category": "Starter",
+  "tags": [
+   "Afghan",
+   "dumplings",
+   "yoghurt"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "about 3/4 cup",
+    "name": "water"
+   },
+   {
+    "measure": "4",
+    "name": "leeks or 2 bunches of scallions (green onions), finely chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "red chilli flakes"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt (for filling)"
+   },
+   {
+    "measure": "300 g",
+    "name": "minced beef"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "1 cup",
+    "name": "water for the sauce"
+   },
+   {
+    "measure": "2 cups",
+    "name": "plain yoghurt"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "dried mint"
+   }
+  ],
+  "steps": [
+   "Mix the flour, salt and water into a firm dough, knead until smooth and rest it for 30 minutes.",
+   "Cook the chopped leeks in the oil with the chilli flakes and salt until soft and dry, then cool.",
+   "Roll the dough very thin and cut into 8 cm squares or circles, fill each with a spoonful of leeks, fold over and press the edges firmly closed.",
+   "Brown the onion and mince in oil, add the tomato paste and water and simmer for 20 minutes until thick.",
+   "Mix the yoghurt with the garlic and a pinch of salt.",
+   "Boil the dumplings in salted water for 5 to 7 minutes until they float and the dough is tender, then drain.",
+   "Spread the garlic yoghurt on a plate, arrange the dumplings on top, spoon the meat sauce over and sprinkle with dried mint."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aushak",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-gosh-e-feel-afghan-elephant-ear-fried-pastry",
+  "title": "Gosh-e Feel (Afghan elephant-ear fried pastry)",
+  "country": "Afghanistan",
+  "category": "Dessert",
+  "tags": [
+   "Afghan",
+   "fried pastry",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "plain yoghurt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "oil",
+    "name": "for deep-frying"
+   },
+   {
+    "measure": "1 cup",
+    "name": "icing sugar"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "ground pistachios"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cardamom"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder, cardamom and salt, then add the yoghurt, sugar and egg and knead to a soft, smooth dough.",
+   "Cover and rest it for 30 minutes.",
+   "Roll the dough very thin and cut it into rectangles, pinch each at the centre to make a bow or ear shape, and press the edges closed.",
+   "Fry in medium-hot oil, turning once, until golden and crisp, and drain on paper.",
+   "Mix the icing sugar, pistachios and cardamom and dust it generously over the cooled pastries."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gosh_Feel",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-kabuli-palaw-afghan-lamb-rice-with-carrots-and-raisins",
+  "title": "Kabuli Palaw (Afghan lamb rice with carrots and raisins)",
+  "country": "Afghanistan",
+  "category": "Lamb",
+  "tags": [
+   "Afghan",
+   "rice",
+   "national dish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "lamb shoulder or shanks, on the bone"
+   },
+   {
+    "measure": "2 cups",
+    "name": "long-grain basmati rice, washed and soaked 30 minutes"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "oil"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced"
+   },
+   {
+    "measure": "4",
+    "name": "carrots, cut into thin matchsticks"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "raisins"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "sliced almonds and pistachios"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cinnamon"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin seeds for the rice"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   },
+   {
+    "measure": "3 cups",
+    "name": "water or stock"
+   }
+  ],
+  "steps": [
+   "Fry the onions in half the oil until deep golden brown, add the lamb and brown it on all sides.",
+   "Add 3 cups of water or stock and the salt, cover and simmer for about 1 hour until the lamb is tender; drain, reserving the meat and 2 cups of the broth.",
+   "Boil the rice in plenty of salted water until just tender but still firm, then drain.",
+   "Return the lamb to the pot, spoon the rice over it, add 1 cup of the reserved broth and the cumin, then cover and steam on low heat for 30 minutes.",
+   "Meanwhile fry the carrot matchsticks in a little oil with the sugar until glazed and soft, then add the raisins and the spices and cook for 2 minutes more.",
+   "Mound the rice on a platter with the lamb on top or underneath, scatter the carrots, raisins and nuts over it and serve."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kabuli_palaw",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-koloocheh-afghan-nowruz-cookies",
+  "title": "Koloocheh (Afghan Nowruz cookies)",
+  "country": "Afghanistan",
+  "category": "Dessert",
+  "tags": [
+   "Afghan",
+   "cookies",
+   "Nowruz"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 cup",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "oil or melted butter"
+   },
+   {
+    "measure": "3",
+    "name": "egg yolks"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "chopped walnuts or pistachios"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "rose water"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 160 C and line a baking tray.",
+   "Beat the sugar, oil and egg yolks together until pale, then stir in the cardamom and rose water.",
+   "Mix in the flour, baking powder and salt to form a soft dough.",
+   "Roll into small balls, press a nut into the top of each and arrange them on the tray.",
+   "Bake for 15 to 20 minutes until set and lightly golden underneath, then cool on the tray."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Koloocheh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-nargesi-kebab-afghan-egg-in-meat-kebab",
+  "title": "Nargesi Kebab (Afghan egg-in-meat kebab)",
+  "country": "Afghanistan",
+  "category": "Beef",
+  "tags": [
+   "Afghan",
+   "kebab",
+   "eggs"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "minced beef or lamb"
+   },
+   {
+    "measure": "4",
+    "name": "hard-boiled eggs, peeled"
+   },
+   {
+    "measure": "1",
+    "name": "onion, grated and squeezed dry"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground coriander"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "breadcrumbs"
+   },
+   {
+    "measure": "1",
+    "name": "raw egg"
+   },
+   {
+    "measure": "oil",
+    "name": "for frying or baking"
+   }
+  ],
+  "steps": [
+   "Knead the mince with the onion, garlic, spices, salt, breadcrumbs and raw egg until sticky and smooth.",
+   "Divide into 4 portions and flatten each in your palm.",
+   "Place a boiled egg in the centre of each portion and wrap the meat completely around it, sealing well.",
+   "Heat a little oil in a pan and brown the kebabs on all sides, then cover and cook gently for 10 to 12 minutes (or bake at 180 C for 25 minutes).",
+   "Rest for 5 minutes, slice in half to reveal the egg and serve with naan and chutney."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nargesi_kebab",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-shir-berenj-afghan-creamy-rice-and-milk-pudding",
+  "title": "Shir Berenj (Afghan creamy rice and milk pudding)",
+  "country": "Afghanistan",
+  "category": "Dessert",
+  "tags": [
+   "Afghan",
+   "rice pudding",
+   "milk"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1/2 cup",
+    "name": "short-grain rice"
+   },
+   {
+    "measure": "1 litre",
+    "name": "full-fat milk"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "rose water"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "chopped pistachios or almonds"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Rinse the rice, then simmer it in 1 cup of water for 10 minutes until it has absorbed most of the water.",
+   "Add the milk and salt and cook over low heat for about 30 minutes, stirring often, until the rice is very soft and the mixture creamy.",
+   "Stir in the sugar and cardamom and cook for 5 more minutes.",
+   "Remove from the heat, stir in the rose water and pour into small bowls.",
+   "Chill and top with crushed nuts before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shir_Berenj",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-afghanistan-shorba-afghan-lamb-and-vegetable-soup",
+  "title": "Shorba (Afghan lamb and vegetable soup)",
+  "country": "Afghanistan",
+  "category": "Starter",
+  "tags": [
+   "Afghan",
+   "soup",
+   "lamb"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "lamb on the bone"
+   },
+   {
+    "measure": "1",
+    "name": "onion, diced"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, cubed"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "chickpeas, cooked"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground coriander"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   },
+   {
+    "measure": "",
+    "name": "fresh coriander or mint to serve"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a pot and brown the lamb with the onion until golden.",
+   "Add the turmeric, coriander, pepper and salt and stir for 1 minute.",
+   "Pour in the water, bring to a boil, cover and simmer for 1 hour until the lamb is almost tender.",
+   "Add the potatoes, carrots, tomatoes and chickpeas and cook for 25 to 30 minutes until the vegetables are soft.",
+   "Serve hot with fresh herbs and naan."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shorba",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

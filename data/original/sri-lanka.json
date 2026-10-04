@@ -1,0 +1,1270 @@
+[
+ {
+  "id": "original-sri-lanka-aluwa-sri-lankan-rice-flour-fudge",
+  "title": "Aluwa (Sri Lankan rice-flour fudge)",
+  "country": "Sri Lanka",
+  "category": "Dessert",
+  "tags": [
+   "Sri Lankan",
+   "sweet",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "roasted rice flour"
+   },
+   {
+    "measure": "1 cup",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "cashews, chopped"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ghee or oil for greasing"
+   }
+  ],
+  "steps": [
+   "Dissolve the sugar in the water over medium heat and cook until it forms a thick syrup that holds a thread between two fingers.",
+   "Stir in the rice flour, cashews and cardamom quickly and keep stirring until the mixture is a thick, stiff dough.",
+   "Pour onto a greased tray and press flat to about 1.5 cm thick.",
+   "Cool for a few minutes, then cut into diamond shapes with a greased knife.",
+   "Let them set completely before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Aluwa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-athirasa-sri-lankan-jaggery-rice-flour-fried-cakes",
+  "title": "Athirasa (Sri Lankan jaggery rice-flour fried cakes)",
+  "country": "Sri Lanka",
+  "category": "Dessert",
+  "tags": [
+   "Sri Lankan",
+   "fried",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "rice flour"
+   },
+   {
+    "measure": "1 cup",
+    "name": "grated jaggery"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "water"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "grated coconut or coconut milk"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "oil",
+    "name": "for deep-frying"
+   }
+  ],
+  "steps": [
+   "Dissolve the jaggery in the water over low heat and bring to a gentle boil until it thickens a little.",
+   "Gradually stir in the rice flour, coconut, cardamom and salt, forming a thick, sticky dough.",
+   "Cool the dough until you can handle it, then shape into flat discs about 6 cm wide.",
+   "Fry in medium-hot oil until deep brown on both sides.",
+   "Drain on paper and cool before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Athirasa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-bibikkan-sri-lankan-coconut-jaggery-cake",
+  "title": "Bibikkan (Sri Lankan coconut jaggery cake)",
+  "country": "Sri Lanka",
+  "category": "Dessert",
+  "tags": [
+   "Sri Lankan",
+   "cake",
+   "coconut"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "grated coconut"
+   },
+   {
+    "measure": "1 cup",
+    "name": "jaggery or dark brown sugar"
+   },
+   {
+    "measure": "1 cup",
+    "name": "semolina"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "ghee or butter"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "ground cinnamon"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "ground cloves"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "3",
+    "name": "eggs"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "cashews, chopped"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 160 C and grease a baking tin.",
+   "Cream the ghee with the jaggery, then beat in the eggs one at a time.",
+   "Mix in the coconut, semolina, flour, spices, salt and cashews.",
+   "Spread the batter in the tin and bake for 45 to 50 minutes until firm and a deep brown.",
+   "Cool in the tin and cut into squares."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bibikkan",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-idiyappam-sri-lankan-string-hoppers",
+  "title": "Idiyappam (Sri Lankan string hoppers)",
+  "country": "Sri Lanka",
+  "category": "Breakfast",
+  "tags": [
+   "Sri Lankan",
+   "steamed",
+   "rice noodles"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "rice flour (roasted if available)"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 1/2 cups",
+    "name": "boiling water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "",
+    "name": "coconut sambol and dhal curry to serve"
+   }
+  ],
+  "steps": [
+   "Mix the rice flour and salt in a bowl and stir in the boiling water and oil until a soft, smooth dough forms; cool slightly.",
+   "Knead it while still warm until pliable.",
+   "Fill an idiyappam press (or a piping bag with a star nozzle) with some dough.",
+   "Press the dough in small spirals onto oiled idli moulds or small squares of banana leaf.",
+   "Steam for 6 to 8 minutes until they are cooked and no longer sticky.",
+   "Serve warm with pol sambol, dhal curry or fish curry."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Idiyappam",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-jaffna-crab-curry-sri-lankan-roasted-spice-crab-curry",
+  "title": "Jaffna Crab Curry (Sri Lankan roasted-spice crab curry)",
+  "country": "Sri Lanka",
+  "category": "Seafood",
+  "tags": [
+   "Sri Lankan",
+   "Jaffna",
+   "crab"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "whole crabs, cleaned and cut into pieces"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "2 cm",
+    "name": "ginger, grated"
+   },
+   {
+    "measure": "1 sprig",
+    "name": "curry leaves"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "Jaffna curry powder (roasted curry powder)"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "red chilli powder"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground black pepper"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tamarind pulp"
+   },
+   {
+    "measure": "1 cup",
+    "name": "thick coconut milk"
+   },
+   {
+    "measure": "1 cup",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a wide pot and fry the onion, garlic, ginger and curry leaves until golden.",
+   "Stir in the curry powder, chilli powder, turmeric and pepper and cook for 1 minute until fragrant.",
+   "Add the crab pieces and toss to coat in the spices.",
+   "Pour in the water, tamarind and salt, cover and simmer for 12 to 15 minutes until the shells turn bright red and the crab is cooked.",
+   "Add the coconut milk and simmer uncovered for 5 more minutes until the gravy thickens.",
+   "Serve with rice, pittu or bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jaffna_crab_curry",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-kalu-dodol-sri-lankan-black-coconut-jaggery-toffee",
+  "title": "Kalu Dodol (Sri Lankan black coconut-jaggery toffee)",
+  "country": "Sri Lanka",
+  "category": "Dessert",
+  "tags": [
+   "Sri Lankan",
+   "sweet",
+   "Beruwala"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 cup",
+    "name": "rice flour"
+   },
+   {
+    "measure": "3 cups",
+    "name": "thick coconut milk"
+   },
+   {
+    "measure": "1 1/2 cups",
+    "name": "kithul or palm jaggery (or dark jaggery), grated"
+   },
+   {
+    "measure": "3/4 cup",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "cashews, chopped"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ghee for greasing"
+   }
+  ],
+  "steps": [
+   "Whisk the rice flour with a little of the coconut milk until smooth, then mix in the rest of the coconut milk.",
+   "Add the jaggery, sugar and salt and stir until dissolved.",
+   "Cook over low heat, stirring constantly, for about 1 to 1.5 hours until the mixture turns dark, glossy and very thick and pulls away from the pan.",
+   "Stir in the cashews and cardamom and pour into a greased tray.",
+   "Let it cool completely, then cut into small squares."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kalu_dodol",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-kevum-sri-lankan-oil-cake",
+  "title": "Kevum (Sri Lankan oil cake)",
+  "country": "Sri Lanka",
+  "category": "Dessert",
+  "tags": [
+   "Sri Lankan",
+   "festive",
+   "New Year"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "rice flour"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "grated jaggery or treacle"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "thick coconut milk"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "oil",
+    "name": "for deep-frying"
+   }
+  ],
+  "steps": [
+   "Melt the jaggery in the water over low heat, strain to remove impurities and cool until warm.",
+   "Mix the rice flour and salt with the jaggery syrup and coconut milk to a thick batter.",
+   "Let the batter rest for 30 minutes.",
+   "Heat oil in a deep pan to medium-hot.",
+   "Drop a ladle of batter into the oil, letting it spread and form a ring shape with a raised centre, and fry until deep golden.",
+   "Drain on paper and serve at room temperature."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kevum",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-kiri-aluwa-sri-lankan-milk-toffee",
+  "title": "Kiri Aluwa (Sri Lankan milk toffee)",
+  "country": "Sri Lanka",
+  "category": "Dessert",
+  "tags": [
+   "Sri Lankan",
+   "sweet",
+   "milk"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "sweetened condensed milk"
+   },
+   {
+    "measure": "1 cup",
+    "name": "full-fat milk powder"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "cashews, chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter, for greasing"
+   }
+  ],
+  "steps": [
+   "Mix the sugar and water in a pan and boil until it forms a light syrup.",
+   "Stir in the condensed milk and cook over low heat, stirring constantly, until thick.",
+   "Add the milk powder, cardamom and cashews and mix until a stiff paste forms.",
+   "Pour into a buttered tray and level the surface.",
+   "Cool for 20 minutes and cut into diamonds or squares."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kiri_aluwa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-kiribath-sri-lankan-milk-rice",
+  "title": "Kiribath (Sri Lankan milk rice)",
+  "country": "Sri Lanka",
+  "category": "Breakfast",
+  "tags": [
+   "Sri Lankan",
+   "rice",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "short-grain or white rice, rinsed"
+   },
+   {
+    "measure": "3 cups",
+    "name": "water"
+   },
+   {
+    "measure": "1 1/2 cups",
+    "name": "thick coconut milk"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "lunu miris or seeni sambol, to serve"
+   }
+  ],
+  "steps": [
+   "Cook the rice in the water with the salt until it is very soft and the water is absorbed, about 20 minutes.",
+   "Stir in the coconut milk and cook over low heat for another 10 minutes, stirring, until the rice is creamy and sticky.",
+   "Spread the rice in a greased tray or plate and press it flat to a thickness of about 2.5 cm.",
+   "Cool for 10 minutes, then cut into diamonds or squares.",
+   "Serve warm with lunu miris, seeni sambol or banana."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kiribath",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-kokis-sri-lankan-crispy-rice-flour-and-coconut-milk-cookies",
+  "title": "Kokis (Sri Lankan crispy rice-flour and coconut milk cookies)",
+  "country": "Sri Lanka",
+  "category": "Dessert",
+  "tags": [
+   "Sri Lankan",
+   "fried",
+   "New Year"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "rice flour"
+   },
+   {
+    "measure": "1 cup",
+    "name": "thick coconut milk"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "turmeric (optional)"
+   },
+   {
+    "measure": "oil",
+    "name": "for deep-frying"
+   }
+  ],
+  "steps": [
+   "Whisk the rice flour, coconut milk, egg, salt and sugar into a smooth thick batter and rest for 30 minutes.",
+   "Heat oil in a deep pan to medium-hot and warm the kokis mould in the oil.",
+   "Dip the hot mould in the batter without covering the top of the mould.",
+   "Lower it into the oil and shake until the batter shape slides off, then fry until golden.",
+   "Drain on paper and cool; they crisp as they cool."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kokis",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-kola-kanda-sri-lankan-green-leaf-rice-porridge",
+  "title": "Kola Kanda (Sri Lankan green leaf rice porridge)",
+  "country": "Sri Lanka",
+  "category": "Breakfast",
+  "tags": [
+   "Sri Lankan",
+   "porridge",
+   "greens"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1/2 cup",
+    "name": "raw red or white rice"
+   },
+   {
+    "measure": "3 cups",
+    "name": "water"
+   },
+   {
+    "measure": "2 cups",
+    "name": "gotu kola or spinach leaves, blended with 1/2 cup water and strained"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "grated coconut"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 small",
+    "name": "garlic clove, crushed"
+   }
+  ],
+  "steps": [
+   "Rinse the rice and simmer it in the water with the garlic until very soft and broken down, about 30 minutes.",
+   "Stir in the strained green leaf juice and cook for 5 minutes.",
+   "Add the coconut milk and salt and simmer gently for another 5 minutes without letting it boil hard.",
+   "Serve warm in bowls, topped with a spoon of grated coconut and a piece of jaggery on the side if you like."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kola_kanda",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-kottu-roti-sri-lankan-chopped-flatbread-stir-fry",
+  "title": "Kottu Roti (Sri Lankan chopped flatbread stir-fry)",
+  "country": "Sri Lanka",
+  "category": "Chicken",
+  "tags": [
+   "Sri Lankan",
+   "street food",
+   "stir-fry"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "roti or parathas, shredded into strips (or 4 flour tortillas)"
+   },
+   {
+    "measure": "300 g",
+    "name": "chicken breast, small cubes"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ginger, grated"
+   },
+   {
+    "measure": "2",
+    "name": "green chillies, sliced"
+   },
+   {
+    "measure": "1 sprig",
+    "name": "curry leaves"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, shredded"
+   },
+   {
+    "measure": "1 cup",
+    "name": "cabbage or leeks, shredded"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "curry powder"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "chilli powder"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "turmeric"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Heat 1 tablespoon of oil, fry the chicken with the curry powder and salt until cooked through, then set aside.",
+   "In the same pan heat the remaining oil and fry the onion, garlic, ginger, chillies and curry leaves until fragrant.",
+   "Add the carrot and cabbage and stir-fry for 2 minutes, then push everything aside and scramble the eggs in the clear space.",
+   "Add the chicken, shredded roti, chilli powder, turmeric and a splash of water or gravy.",
+   "Stir-fry on high heat while chopping the roti with two metal spatulas until it is mixed with everything and slightly crisp at the edges.",
+   "Serve immediately with a spicy curry sauce on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kottu",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-lamprais-dutch-burgher-rice-and-curry-parcel",
+  "title": "Lamprais (Dutch-Burgher rice and curry parcel)",
+  "country": "Sri Lanka",
+  "category": "Chicken",
+  "tags": [
+   "Sri Lankan",
+   "Burgher",
+   "baked in banana leaf"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "basmati rice"
+   },
+   {
+    "measure": "3 cups",
+    "name": "chicken or beef stock"
+   },
+   {
+    "measure": "300 g",
+    "name": "chicken pieces"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "curry powder"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "cinnamon"
+   },
+   {
+    "measure": "3",
+    "name": "boiled eggs, halved"
+   },
+   {
+    "measure": "1",
+    "name": "aubergine, sliced and fried"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "seeni sambol or onion sambol"
+   },
+   {
+    "measure": "4",
+    "name": "banana leaves, wilted over a flame"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Cook the rice in the stock with the salt and a pinch of cinnamon until tender and the stock is absorbed.",
+   "Fry the onion in the oil, add the chicken, curry powder and salt, add a little water and simmer until the chicken is cooked and the sauce is thick.",
+   "Fry the aubergine slices until golden and prepare the sambol.",
+   "Place a portion of rice on each banana leaf, then add some chicken curry, an egg half, aubergine and a spoon of sambol.",
+   "Fold the leaf into a parcel and tie it with kitchen string.",
+   "Bake at 180 C for 20 minutes until the leaf has darkened and the flavours have melded; open at the table."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lamprais",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-lunu-miris-sri-lankan-chilli-and-onion-paste",
+  "title": "Lunu Miris (Sri Lankan chilli and onion paste)",
+  "country": "Sri Lanka",
+  "category": "Side",
+  "tags": [
+   "Sri Lankan",
+   "condiment",
+   "spicy"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1",
+    "name": "large red onion, finely chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "red chilli flakes or powder"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lime juice"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "Maldive fish flakes (optional)"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   }
+  ],
+  "steps": [
+   "Mash the chilli, salt and Maldive fish together in a mortar until well mixed.",
+   "Add the chopped onion and crush it lightly so it releases some juice.",
+   "Stir in the lime juice and oil and let the paste rest for 10 minutes.",
+   "Serve with kiribath, pol roti or rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lunu_miris",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-mallung-sri-lankan-greens-with-coconut",
+  "title": "Mallung (Sri Lankan greens with coconut)",
+  "country": "Sri Lanka",
+  "category": "Vegetarian",
+  "tags": [
+   "Sri Lankan",
+   "greens",
+   "side"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "kale, spinach or gotu kola, very finely shredded"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "grated coconut"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "2",
+    "name": "green chillies, chopped"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "mustard seeds"
+   },
+   {
+    "measure": "1 sprig",
+    "name": "curry leaves"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lime juice"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a pan and splutter the mustard seeds with the curry leaves.",
+   "Add the onion and chillies and cook until soft.",
+   "Stir in the turmeric and greens and cook for 2 to 3 minutes until just wilted.",
+   "Add the coconut and salt and toss for another 2 minutes, then finish with lime juice.",
+   "Serve warm as a side to rice and curry."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mallung",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-parippu-sri-lankan-red-lentil-curry-with-coconut-milk",
+  "title": "Parippu (Sri Lankan red lentil curry with coconut milk)",
+  "country": "Sri Lanka",
+  "category": "Vegetarian",
+  "tags": [
+   "Sri Lankan",
+   "dhal",
+   "everyday"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 cup",
+    "name": "red lentils, rinsed"
+   },
+   {
+    "measure": "2 cups",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "turmeric"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "green chillies, slit"
+   },
+   {
+    "measure": "1 sprig",
+    "name": "curry leaves"
+   },
+   {
+    "measure": "1 piece",
+    "name": "pandan leaf"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "3/4 cup",
+    "name": "thick coconut milk"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "mustard seeds"
+   },
+   {
+    "measure": "1",
+    "name": "dried red chilli"
+   }
+  ],
+  "steps": [
+   "Put the lentils, water, turmeric, half the onion, chillies, curry leaves and pandan in a pot and boil.",
+   "Simmer for 15 to 20 minutes until the lentils are very soft, stirring now and then.",
+   "Add the salt and coconut milk and stir over low heat for 5 minutes without boiling hard.",
+   "Heat the oil in a small pan, fry the mustard seeds, remaining onion and dried chilli until browned.",
+   "Pour the tempering over the dhal and serve with rice or roti."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Parippu",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-pittu-sri-lankan-steamed-rice-flour-and-coconut-cylinders",
+  "title": "Pittu (Sri Lankan steamed rice flour and coconut cylinders)",
+  "country": "Sri Lanka",
+  "category": "Breakfast",
+  "tags": [
+   "Sri Lankan",
+   "steamed",
+   "coconut"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 cups",
+    "name": "roasted rice flour"
+   },
+   {
+    "measure": "1 cup",
+    "name": "freshly grated or desiccated coconut"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1/2 cup",
+    "name": "warm water, as needed"
+   },
+   {
+    "measure": "",
+    "name": "coconut milk and sambol or curry to serve"
+   }
+  ],
+  "steps": [
+   "Mix the rice flour and salt in a bowl and sprinkle in warm water a little at a time, rubbing it with your fingertips until the flour holds together in crumbs when squeezed.",
+   "Rub the crumbs through a coarse sieve for an even, loose texture.",
+   "Layer the flour and coconut alternately in a pittu steamer or a tall steamer basket, starting and ending with coconut.",
+   "Steam for 8 to 10 minutes until steam comes through the top layer.",
+   "Push out the cylinder and serve warm with coconut milk, sambol or a curry."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pittu",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-pol-sambol-sri-lankan-coconut-sambal",
+  "title": "Pol Sambol (Sri Lankan coconut sambal)",
+  "country": "Sri Lanka",
+  "category": "Side",
+  "tags": [
+   "Sri Lankan",
+   "condiment",
+   "coconut"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 1/2 cups",
+    "name": "freshly grated coconut (or defrosted frozen)"
+   },
+   {
+    "measure": "1",
+    "name": "small red onion, finely chopped"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "red chilli powder (or 3 fresh red chillies)"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground black pepper"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lime juice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "Maldive fish flakes (optional)"
+   }
+  ],
+  "steps": [
+   "Pound or mash the onion with the chilli powder, salt and Maldive fish with a mortar or the back of a spoon until it forms a rough paste.",
+   "Add the grated coconut and pepper and work together with your fingers until the coconut turns pale red.",
+   "Stir in the lime juice and adjust salt and heat.",
+   "Serve fresh with hoppers, bread, kiribath or rice and curry."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pol_sambol",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-seeni-sambol-sri-lankan-caramelised-onion-relish",
+  "title": "Seeni Sambol (Sri Lankan caramelised onion relish)",
+  "country": "Sri Lanka",
+  "category": "Side",
+  "tags": [
+   "Sri Lankan",
+   "condiment",
+   "sweet-spicy"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "large onions, thinly sliced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 sprig",
+    "name": "curry leaves"
+   },
+   {
+    "measure": "1 stalk",
+    "name": "lemongrass, bruised (optional)"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cinnamon"
+   },
+   {
+    "measure": "3",
+    "name": "cloves"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "red chilli powder"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tamarind pulp"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "Maldive fish flakes (optional)"
+   }
+  ],
+  "steps": [
+   "Fry the onions in the oil on medium heat with the curry leaves, lemongrass, cinnamon and cloves until soft and starting to brown, about 15 minutes.",
+   "Add the chilli powder, salt, sugar and tamarind pulp and keep cooking on low heat for another 15 to 20 minutes, stirring, until the onions are dark and jammy.",
+   "Stir in the Maldive fish if using and cook for 2 more minutes.",
+   "Serve at room temperature with bread, kiribath or rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Seeni_sambol",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-thala-guli-sri-lankan-sesame-and-jaggery-balls",
+  "title": "Thala Guli (Sri Lankan sesame and jaggery balls)",
+  "country": "Sri Lanka",
+  "category": "Dessert",
+  "tags": [
+   "Sri Lankan",
+   "sweet",
+   "sesame"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 cup",
+    "name": "white or black sesame seeds, toasted"
+   },
+   {
+    "measure": "1 cup",
+    "name": "jaggery, grated"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "grated coconut (optional)"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ghee for greasing hands"
+   }
+  ],
+  "steps": [
+   "Boil the jaggery with the water until it forms a thick syrup, about 5 minutes.",
+   "Add the toasted sesame seeds, cardamom and coconut, if using, and stir for 2 to 3 minutes.",
+   "Remove from the heat and, while the mixture is still warm, take small portions with greased hands.",
+   "Press and roll each into a ball and set on a plate.",
+   "Let them harden for 30 minutes before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thala_guli",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sri-lanka-watalappam-sri-lankan-coconut-custard-pudding",
+  "title": "Watalappam (Sri Lankan coconut custard pudding)",
+  "country": "Sri Lanka",
+  "category": "Dessert",
+  "tags": [
+   "Sri Lankan",
+   "Malay",
+   "custard"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 cup",
+    "name": "jaggery, grated"
+   },
+   {
+    "measure": "1 cup",
+    "name": "thick coconut milk"
+   },
+   {
+    "measure": "5",
+    "name": "eggs"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "ground nutmeg"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "ground cloves"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "1/4 cup",
+    "name": "cashews, chopped"
+   }
+  ],
+  "steps": [
+   "Dissolve the jaggery in the coconut milk over low heat, then cool slightly.",
+   "Beat the eggs lightly with the spices and salt and mix in the coconut milk mixture.",
+   "Strain the custard into a heatproof dish, scatter the cashews on top and cover tightly with foil.",
+   "Steam over simmering water, or bake in a water bath at 160 C, for 35 to 40 minutes until set.",
+   "Cool and chill before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Watalappam",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
