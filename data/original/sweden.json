@@ -1,0 +1,1084 @@
+[
+ {
+  "id": "original-sweden-biff-a-la-lindstrom-swedish-beef-and-beetroot-patties",
+  "title": "Biff a la Lindstrom (Swedish beef and beetroot patties)",
+  "country": "Sweden",
+  "category": "Beef",
+  "tags": [
+   "Swedish",
+   "patties",
+   "beetroot"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "minced beef"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "1",
+    "name": "boiled potato, cooled and grated"
+   },
+   {
+    "measure": "100 g",
+    "name": "pickled beetroot, finely diced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "capers, chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "black pepper to taste"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "butter for frying"
+   },
+   {
+    "measure": "",
+    "name": "mashed potatoes and lingonberry jam to serve"
+   }
+  ],
+  "steps": [
+   "Combine the beef, egg, onion, grated potato, beetroot, capers, salt and pepper in a bowl.",
+   "Mix gently but thoroughly with your hands until the mixture binds, then chill for 15 minutes.",
+   "Shape into 8 flat, round patties with wet hands.",
+   "Melt the butter in a large frying pan over medium heat.",
+   "Fry the patties for 4 to 5 minutes on each side until browned and cooked through.",
+   "Serve with mashed potatoes and lingonberry jam or a fried egg on top."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Biff_%C3%A0_la_Lindstr%C3%B6m",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-blabarssoppa-swedish-bilberry-soup",
+  "title": "Blabarssoppa (Swedish bilberry soup)",
+  "country": "Sweden",
+  "category": "Dessert",
+  "tags": [
+   "Swedish",
+   "fruit soup",
+   "berries"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "fresh or frozen bilberries or blueberries"
+   },
+   {
+    "measure": "750 ml",
+    "name": "water"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "sugar, or to taste"
+   },
+   {
+    "measure": "1 1/2 tbsp",
+    "name": "potato starch (or cornflour)"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "cold water for the starch"
+   },
+   {
+    "measure": "",
+    "name": "whipped cream, vanilla ice cream or milk to serve"
+   }
+  ],
+  "steps": [
+   "Put the berries, water and sugar into a saucepan and bring to a gentle simmer for about 10 minutes.",
+   "Mash or blend a part of the berries to make the soup smoother, if you like.",
+   "Dissolve the potato starch in the cold water, then stir it into the soup.",
+   "Simmer for another minute or two, stirring, until lightly thickened.",
+   "Taste and add sugar if needed.",
+   "Serve warm or chilled, topped with cream or ice cream or with milk poured over."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bl%C3%A5b%C3%A4rssoppa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-flaskpannkaka-swedish-oven-pancake-with-bacon",
+  "title": "Flaskpannkaka (Swedish oven pancake with bacon)",
+  "country": "Sweden",
+  "category": "Pork",
+  "tags": [
+   "Swedish",
+   "oven-baked",
+   "bacon"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "thick-cut bacon or salt pork, cut into small strips"
+   },
+   {
+    "measure": "150 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "600 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "",
+    "name": "lingonberry jam to serve"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 225 C (435 F).",
+   "Fry the bacon strips in an ovenproof frying pan or roasting tin until they are cooked and have rendered fat, but are not yet crisp.",
+   "Whisk the flour with the salt and half of the milk until smooth, then whisk in the eggs and the rest of the milk to a thin batter.",
+   "Pour the batter over the bacon in the hot pan.",
+   "Bake for 25 to 30 minutes until puffed up and golden brown at the edges and set in the middle.",
+   "Cut into squares and serve warm with lingonberry jam."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fl%C3%A4skpannkaka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-flygande-jacob-flying-jacob-swedish-chicken-bacon-and-banana-casserole",
+  "title": "Flygande Jacob (Flying Jacob, Swedish chicken, bacon and banana casserole)",
+  "country": "Sweden",
+  "category": "Chicken",
+  "tags": [
+   "Swedish",
+   "casserole",
+   "baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "cooked chicken, shredded or diced"
+   },
+   {
+    "measure": "200 g",
+    "name": "bacon, diced"
+   },
+   {
+    "measure": "2",
+    "name": "ripe bananas, sliced"
+   },
+   {
+    "measure": "250 ml",
+    "name": "double cream"
+   },
+   {
+    "measure": "150 ml",
+    "name": "chilli sauce or ketchup mixed with a pinch of chilli"
+   },
+   {
+    "measure": "75 g",
+    "name": "salted roasted peanuts"
+   },
+   {
+    "measure": "",
+    "name": "cooked rice and a green salad to serve"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 C (400 F).",
+   "Fry the bacon in a dry pan until crisp and drain it on paper towels.",
+   "Whip the cream until it just holds soft peaks and fold in the chilli sauce.",
+   "Spread the chicken in a baking dish and scatter the bacon and banana slices over it.",
+   "Spoon the cream mixture over the top and bake for about 20 minutes until bubbling and lightly golden.",
+   "Sprinkle the peanuts over and serve with rice and a green salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flying_Jacob",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-hasselbackspotatis-hasselback-potatoes-fan-sliced-roast-potatoes",
+  "title": "Hasselbackspotatis (Hasselback potatoes, fan-sliced roast potatoes)",
+  "country": "Sweden",
+  "category": "Side",
+  "tags": [
+   "Swedish",
+   "potatoes",
+   "roasted"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "8",
+    "name": "medium oval potatoes, scrubbed"
+   },
+   {
+    "measure": "50 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "fine dry breadcrumbs"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "grated hard cheese or chopped herbs to finish (optional)"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 220 C (425 F).",
+   "Lay each potato between the handles of two wooden spoons, or chopsticks, so that the blade cannot cut all the way through.",
+   "Cut thin slices of about 3 mm across each potato, stopping at the spoons so the slices stay joined at the base.",
+   "Rinse the potatoes briefly, pat them dry and place them in a baking dish.",
+   "Brush them with the melted butter and oil and sprinkle with salt.",
+   "Roast for 30 minutes, then brush again with the fat, sprinkle on the breadcrumbs and roast for another 20 to 25 minutes until crisp and golden at the edges.",
+   "Finish with cheese or herbs if using, and serve hot."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hasselback_potatoes",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-janssons-frestelse-jansson-s-temptation-potato-and-sprat-gratin",
+  "title": "Janssons frestelse (Jansson's temptation, potato and sprat gratin)",
+  "country": "Sweden",
+  "category": "Seafood",
+  "tags": [
+   "Swedish",
+   "gratin",
+   "Christmas"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "potatoes, peeled and cut into thin matchsticks"
+   },
+   {
+    "measure": "2",
+    "name": "onions, thinly sliced"
+   },
+   {
+    "measure": "1 tin (about 120 g)",
+    "name": "sprats or anchovy fillets in spiced brine (Swedish ansjovis), brine reserved"
+   },
+   {
+    "measure": "300 ml",
+    "name": "double cream"
+   },
+   {
+    "measure": "50 g",
+    "name": "butter"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "fine dry breadcrumbs"
+   },
+   {
+    "measure": "",
+    "name": "white pepper to taste"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 C (400 F) and butter a medium baking dish.",
+   "Melt half of the butter in a pan and cook the sliced onions gently for about 10 minutes until soft but not coloured.",
+   "Layer half of the potatoes in the dish, then the onions and the fish fillets, and finish with the remaining potatoes.",
+   "Mix the cream with 2 tablespoons of the reserved fish brine and a little pepper and pour half of it over the potatoes.",
+   "Sprinkle with the breadcrumbs and dot with the remaining butter.",
+   "Bake for 20 minutes, then pour over the rest of the cream and bake for another 25 to 30 minutes until the potatoes are tender and the top is golden.",
+   "Rest for 5 minutes and serve hot as part of a smorgasbord or with a green salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jansson%27s_temptation",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-kladdkaka-swedish-sticky-chocolate-cake",
+  "title": "Kladdkaka (Swedish sticky chocolate cake)",
+  "country": "Sweden",
+  "category": "Dessert",
+  "tags": [
+   "Swedish",
+   "chocolate",
+   "cake"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "100 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "200 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "75 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "cocoa powder"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "vanilla sugar or vanilla extract"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "whipped cream or ice cream and berries to serve"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 175 C (350 F) and grease a 20 cm springform tin; dust the greased tin with breadcrumbs or cocoa.",
+   "Whisk the eggs and sugar together briefly, just until combined; do not whip until fluffy.",
+   "Add the melted butter, flour, cocoa, vanilla and salt and stir until smooth.",
+   "Pour the batter into the tin and bake for 15 to 20 minutes; the surface should be set while the middle is still soft and sticky.",
+   "Leave to cool in the tin for at least 15 minutes before releasing it.",
+   "Serve with whipped cream, ice cream or berries."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kladdkaka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-knack-swedish-christmas-toffee",
+  "title": "Knack (Swedish Christmas toffee)",
+  "country": "Sweden",
+  "category": "Dessert",
+  "tags": [
+   "Swedish",
+   "Christmas",
+   "sweets"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 ml",
+    "name": "double cream"
+   },
+   {
+    "measure": "200 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "100 ml",
+    "name": "golden syrup or light corn syrup"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "50 g",
+    "name": "chopped almonds (optional)"
+   },
+   {
+    "measure": "",
+    "name": "small paper sweet cases"
+   }
+  ],
+  "steps": [
+   "Place the cream, sugar and syrup in a heavy-based pan with high sides, as the mixture bubbles up.",
+   "Bring to a boil over medium heat, stirring until the sugar dissolves, then cook without stirring too much until a spoonful dropped into a glass of cold water forms a firm ball, about 125 C (257 F) on a thermometer.",
+   "Remove from the heat, stir in the butter and the almonds if using.",
+   "Pour or ladle the toffee into paper cases and let it set for several hours at room temperature.",
+   "Take great care at every stage, as hot sugar causes serious burns.",
+   "Store in an airtight container, between sheets of baking paper."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kn%C3%A4ck",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-korv-stroganoff-swedish-sausage-stroganoff-with-rice",
+  "title": "Korv stroganoff (Swedish sausage stroganoff with rice)",
+  "country": "Sweden",
+  "category": "Pork",
+  "tags": [
+   "Swedish",
+   "weeknight",
+   "sausage"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "falukorv, or other mild smoked cooking sausage, cut into strips"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "250 ml",
+    "name": "cream"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water or chicken stock"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ketchup"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "paprika"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "300 g",
+    "name": "long-grain rice, cooked, to serve"
+   }
+  ],
+  "steps": [
+   "Melt the butter in a large pan and fry the sausage strips over medium-high heat until lightly browned.",
+   "Add the onion and cook for 3 to 4 minutes until soft.",
+   "Stir in the tomato paste, ketchup and paprika and cook for a minute.",
+   "Pour in the stock and cream and simmer gently for 8 to 10 minutes until the sauce thickens a little.",
+   "Season with salt and pepper to taste.",
+   "Serve over the cooked rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Korv_stroganoff",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-kottsoppa-swedish-beef-and-root-vegetable-soup",
+  "title": "Kottsoppa (Swedish beef and root vegetable soup)",
+  "country": "Sweden",
+  "category": "Beef",
+  "tags": [
+   "Swedish",
+   "soup",
+   "beef"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "beef chuck or brisket, in a piece"
+   },
+   {
+    "measure": "2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, diced"
+   },
+   {
+    "measure": "1",
+    "name": "leek, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "swede (rutabaga) or turnip, diced"
+   },
+   {
+    "measure": "3",
+    "name": "potatoes, diced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, halved"
+   },
+   {
+    "measure": "5",
+    "name": "allspice berries"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "chopped parsley and mustard to serve"
+   }
+  ],
+  "steps": [
+   "Put the beef in a large pot with the water, onion, allspice, bay leaves and salt and bring slowly to a boil, skimming off any foam.",
+   "Simmer gently, partly covered, for 1.5 to 2 hours until the beef is tender.",
+   "Lift out the beef, strain the broth if you want it clear and return it to the pot.",
+   "Add the carrots, leek, swede and potatoes and simmer for 15 to 20 minutes until the vegetables are tender.",
+   "Cut the beef into bite-sized pieces and return it to the soup.",
+   "Taste for salt and serve hot, sprinkled with parsley, with mustard on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/K%C3%B6ttsoppa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-lingonberry-jam-swedish-lingonsylt-for-meatballs-and-pancakes",
+  "title": "Lingonberry jam (Swedish lingonsylt for meatballs and pancakes)",
+  "country": "Sweden",
+  "category": "Side",
+  "tags": [
+   "Swedish",
+   "preserves",
+   "lingonberries"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "lingonberries (fresh or frozen; cranberries may be used instead)"
+   },
+   {
+    "measure": "300 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water"
+   }
+  ],
+  "steps": [
+   "Rinse the berries and discard any soft ones or stalks.",
+   "Put the berries, sugar and water in a wide saucepan and bring to the boil, stirring until the sugar dissolves.",
+   "Simmer on medium-low heat for 10 to 15 minutes, skimming off any foam, until the berries have burst and the jam is lightly thickened.",
+   "Let it cool slightly, then spoon into clean, sterilised jars.",
+   "Keep it refrigerated and use within 2 to 3 weeks, or freeze for longer storage.",
+   "Serve with meatballs, potato pancakes, pancakes or porridge."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lingonberry_jam",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-nyponsoppa-swedish-rose-hip-soup",
+  "title": "Nyponsoppa (Swedish rose hip soup)",
+  "country": "Sweden",
+  "category": "Dessert",
+  "tags": [
+   "Swedish",
+   "fruit soup",
+   "rose hips"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "100 g",
+    "name": "dried rose hips"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "sugar, or to taste"
+   },
+   {
+    "measure": "1 1/2 tbsp",
+    "name": "potato starch (or cornflour)"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "cold water for the starch"
+   },
+   {
+    "measure": "",
+    "name": "whipped cream, vanilla ice cream or almond biscuits to serve"
+   }
+  ],
+  "steps": [
+   "Rinse the rose hips and soak them in the water for a few hours or overnight.",
+   "Simmer the rose hips in the same water for about 30 minutes until very soft.",
+   "Blend or mash them and press everything through a fine sieve to remove the seeds and hairs.",
+   "Return the strained liquid to the pan and add the sugar.",
+   "Dissolve the potato starch in the cold water and stir it into the pan; bring to a simmer, stirring, until slightly thickened.",
+   "Serve warm or chilled with whipped cream, a scoop of vanilla ice cream or almond biscuits."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rose_hip_soup",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-prinsesstarta-swedish-princess-cake-with-green-marzipan",
+  "title": "Prinsesstarta (Swedish princess cake with green marzipan)",
+  "country": "Sweden",
+  "category": "Dessert",
+  "tags": [
+   "Swedish",
+   "cake",
+   "marzipan"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "125 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "125 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "3",
+    "name": "egg yolks (for the cream)"
+   },
+   {
+    "measure": "50 g",
+    "name": "sugar (for the cream)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "cornflour"
+   },
+   {
+    "measure": "400 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "6 tbsp",
+    "name": "raspberry jam"
+   },
+   {
+    "measure": "600 ml",
+    "name": "double cream, whipped"
+   },
+   {
+    "measure": "400 g",
+    "name": "green marzipan"
+   },
+   {
+    "measure": "",
+    "name": "icing sugar and a pink marzipan rose to decorate"
+   }
+  ],
+  "steps": [
+   "Whisk the eggs and sugar until pale and thick, about 5 minutes, then fold in the flour and baking powder.",
+   "Bake in a lined 22 cm springform tin at 175 C (350 F) for 25 to 30 minutes; cool, then slice into three layers.",
+   "For the pastry cream, whisk the yolks, sugar and cornflour with a little milk, heat the rest of the milk with the vanilla, whisk into the yolk mixture and return to the pan; cook, stirring, until thick, then cool with film touching the surface.",
+   "Spread the bottom layer with jam and a layer of pastry cream.",
+   "Add the middle layer, then spread with whipped cream, and top with the last layer.",
+   "Pile the rest of the whipped cream on top in a high dome, smoothing it to cover the sides.",
+   "Roll out the marzipan thinly, drape it over the cake and trim the edges around the base.",
+   "Dust with icing sugar and decorate with a marzipan rose; chill for several hours before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Princess_cake",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-pytt-i-panna-swedish-potato-meat-and-onion-hash-with-fried-egg",
+  "title": "Pytt i panna (Swedish potato, meat and onion hash with fried egg)",
+  "country": "Sweden",
+  "category": "Pork",
+  "tags": [
+   "Swedish",
+   "hash",
+   "leftovers"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "firm potatoes, cut into small cubes"
+   },
+   {
+    "measure": "300 g",
+    "name": "leftover cooked meat or sausage, diced (beef, ham, pork or falukorv)"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "butter or oil"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "pickled beetroot slices and Worcestershire sauce to serve"
+   }
+  ],
+  "steps": [
+   "Boil the potato cubes in salted water for 5 to 6 minutes until barely tender, then drain well and dry them in the colander.",
+   "Heat half of the butter in a large frying pan over medium-high heat and fry the potatoes until golden and crisp on all sides; remove and set aside.",
+   "Add more fat to the pan and fry the onion for 3 minutes, then add the meat and fry until browned.",
+   "Return the potatoes to the pan, season and toss everything together for 2 to 3 minutes.",
+   "Fry the eggs in a separate pan in the remaining butter, sunny side up.",
+   "Divide the hash between plates, top each with a fried egg and serve with pickled beetroot and a few drops of Worcestershire sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pyttipanna",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-semla-swedish-cardamom-bun-with-almond-paste-and-cream",
+  "title": "Semla (Swedish cardamom bun with almond paste and cream)",
+  "country": "Sweden",
+  "category": "Dessert",
+  "tags": [
+   "Swedish",
+   "Lent",
+   "bun"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant dry yeast"
+   },
+   {
+    "measure": "250 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "70 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "100 g",
+    "name": "soft butter"
+   },
+   {
+    "measure": "1",
+    "name": "egg, plus 1 for glazing"
+   },
+   {
+    "measure": "200 g",
+    "name": "almond paste (marzipan with a high almond content)"
+   },
+   {
+    "measure": "100 ml",
+    "name": "milk for the filling"
+   },
+   {
+    "measure": "300 ml",
+    "name": "double cream, whipped"
+   },
+   {
+    "measure": "",
+    "name": "icing sugar to dust"
+   }
+  ],
+  "steps": [
+   "Mix the yeast with the warm milk, then combine it with the flour, sugar, cardamom, salt, butter and egg and knead for 10 minutes to a soft dough; rise for an hour until doubled.",
+   "Divide into 12 balls, place them on a lined tray, cover and prove for 30 minutes.",
+   "Brush with beaten egg and bake at 225 C (435 F) for 10 to 12 minutes until golden, then cool on a rack.",
+   "Slice off the top of each bun as a lid and scoop out some of the crumb from the inside.",
+   "Mash the scooped crumb with the almond paste and the milk to a thick smooth paste.",
+   "Spoon the almond paste into each bun, pipe or spoon a big swirl of whipped cream on top and set the lid on.",
+   "Dust with icing sugar and eat straight away, traditionally on Shrove Tuesday."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Semla",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-toast-skagen-swedish-prawn-salad-on-toast",
+  "title": "Toast Skagen (Swedish prawn salad on toast)",
+  "country": "Sweden",
+  "category": "Seafood",
+  "tags": [
+   "Swedish",
+   "starter",
+   "prawns"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "cooked peeled small prawns, patted dry"
+   },
+   {
+    "measure": "100 ml",
+    "name": "mayonnaise"
+   },
+   {
+    "measure": "100 ml",
+    "name": "creme fraiche or sour cream"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "finely chopped fresh dill, plus sprigs to garnish"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "Dijon mustard (optional)"
+   },
+   {
+    "measure": "4 slices",
+    "name": "white bread or brioche"
+   },
+   {
+    "measure": "30 g",
+    "name": "butter"
+   },
+   {
+    "measure": "50 g",
+    "name": "whitefish or lumpfish roe (optional)"
+   },
+   {
+    "measure": "",
+    "name": "salt and white pepper to taste"
+   }
+  ],
+  "steps": [
+   "Mix the mayonnaise, creme fraiche, dill, lemon juice and mustard, if using, in a bowl.",
+   "Gently fold in the prawns and season with salt and pepper; chill for 15 minutes.",
+   "Melt the butter in a frying pan and fry the bread slices until golden on both sides, or toast them and butter them.",
+   "Trim the crusts if you like and cut each slice in half.",
+   "Spoon the prawn salad generously onto each toast.",
+   "Top with roe, dill sprigs and a lemon wedge on the side and serve straight away."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Toast_Skagen",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-tunnbrod-swedish-soft-thin-flatbread",
+  "title": "Tunnbrod (Swedish soft thin flatbread)",
+  "country": "Sweden",
+  "category": "Side",
+  "tags": [
+   "Swedish",
+   "flatbread",
+   "northern"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "rye flour"
+   },
+   {
+    "measure": "250 g",
+    "name": "plain or bread flour"
+   },
+   {
+    "measure": "300 ml",
+    "name": "warm water or milk"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant dry yeast"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sunflower oil or melted butter"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "syrup or sugar (optional)"
+   }
+  ],
+  "steps": [
+   "Stir the yeast into the warm water or milk and mix with the oil, syrup, rye flour and about half of the plain flour.",
+   "Add the salt and enough plain flour to make a soft dough; knead for 8 to 10 minutes and let it rise for an hour.",
+   "Divide the dough into 8 pieces and let them rest, covered, for 10 minutes.",
+   "Roll each piece out very thin into rounds about 25 cm wide, pricking them all over with a fork.",
+   "Cook them one at a time in a hot, dry frying pan or on a griddle for about 1 minute on each side until spotted brown and cooked through.",
+   "Stack the breads under a clean cloth to keep them soft and serve with butter, cheese or cold cuts, or use as wraps."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tunnbr%C3%B6d",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sweden-wallenbergare-swedish-veal-patties-with-cream",
+  "title": "Wallenbergare (Swedish veal patties with cream)",
+  "country": "Sweden",
+  "category": "Beef",
+  "tags": [
+   "Swedish",
+   "patties",
+   "veal"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "minced veal (or minced chicken or pork as a substitute)"
+   },
+   {
+    "measure": "4",
+    "name": "egg yolks"
+   },
+   {
+    "measure": "250 ml",
+    "name": "double cream, very cold"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "white pepper to taste"
+   },
+   {
+    "measure": "100 g",
+    "name": "fine dry breadcrumbs"
+   },
+   {
+    "measure": "50 g",
+    "name": "butter for frying"
+   },
+   {
+    "measure": "",
+    "name": "mashed potatoes, peas and lingonberry jam to serve"
+   }
+  ],
+  "steps": [
+   "Chill the veal and the bowl thoroughly; the mixture works best when cold.",
+   "Work the veal with the salt and pepper in a food processor, or beat by hand, until sticky.",
+   "Add the egg yolks one at a time, then pour in the cold cream gradually and mix just until smooth and creamy.",
+   "With wet hands shape into 4 thick patties and coat all sides gently in the breadcrumbs, pressing so they stick.",
+   "Melt the butter in a frying pan over medium heat until foaming.",
+   "Fry the patties for 5 to 6 minutes on each side until golden and cooked through, handling them carefully as they are soft.",
+   "Serve with mashed potatoes, peas, browned butter and lingonberry jam."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wallenbergare",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

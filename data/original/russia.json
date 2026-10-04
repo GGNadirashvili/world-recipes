@@ -1,0 +1,856 @@
+[
+ {
+  "id": "original-russia-coulibiac-russian-salmon-pie",
+  "title": "Coulibiac (Russian salmon pie)",
+  "country": "Russia",
+  "category": "Seafood",
+  "tags": [
+   "Russian",
+   "pie",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 sheets",
+    "name": "ready-made puff pastry (about 500 g in total)"
+   },
+   {
+    "measure": "500 g",
+    "name": "salmon fillet, skinned"
+   },
+   {
+    "measure": "150 g",
+    "name": "long-grain rice, cooked and cooled"
+   },
+   {
+    "measure": "250 g",
+    "name": "mushrooms, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, chopped"
+   },
+   {
+    "measure": "3",
+    "name": "eggs, hard-boiled and sliced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "chopped fresh dill"
+   },
+   {
+    "measure": "40 g",
+    "name": "butter"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten, for glazing"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Melt the butter in a pan and cook the onion until soft, then add the mushrooms and fry until all their liquid has evaporated; season and let cool.",
+   "Mix the cooked rice with the dill, season and fold in the cooled mushroom mixture.",
+   "Poach the salmon gently in barely simmering salted water for 6 to 8 minutes, then cool and flake it into large pieces.",
+   "Heat the oven to 200 C (400 F). Roll out one pastry sheet on a lined tray.",
+   "Spread half of the rice mixture down the middle, leaving a border, then layer with the salmon, sliced eggs and the remaining rice.",
+   "Brush the border with beaten egg, lay the second pastry sheet over the top and press the edges together firmly to seal.",
+   "Cut a small steam hole in the top, decorate with pastry trimmings if you like, and brush with beaten egg.",
+   "Bake for 35 to 40 minutes until puffed and deep golden, then rest for 10 minutes before slicing."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coulibiac",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-kasha-russian-buckwheat-porridge",
+  "title": "Kasha (Russian buckwheat porridge)",
+  "country": "Russia",
+  "category": "Side",
+  "tags": [
+   "Russian",
+   "buckwheat",
+   "grain"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "roasted buckwheat groats"
+   },
+   {
+    "measure": "500 ml",
+    "name": "water or light stock"
+   },
+   {
+    "measure": "30 g",
+    "name": "butter"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped (optional)"
+   },
+   {
+    "measure": "200 g",
+    "name": "mushrooms, sliced (optional)"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Rinse the buckwheat in a sieve and pick out any dark husks.",
+   "Toast the groats in a dry pan for 2 to 3 minutes, stirring, to deepen their flavour.",
+   "If using, fry the onion and mushrooms in half of the butter until golden and set aside.",
+   "Bring the water and salt to a boil in a pot, add the buckwheat, stir once, then cover and cook on very low heat for 15 minutes without lifting the lid.",
+   "Remove from the heat and let the pot stand, covered and wrapped in a towel, for 10 minutes.",
+   "Fluff with a fork, stir in the remaining butter and the fried onions and mushrooms, and serve as a side or a hearty meal."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kasha",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-kissel-russian-berry-fruit-pudding-drink",
+  "title": "Kissel (Russian berry fruit pudding drink)",
+  "country": "Russia",
+  "category": "Dessert",
+  "tags": [
+   "Russian",
+   "berries",
+   "drink"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "fresh or frozen berries (cranberries, raspberries or blackcurrants)"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "100 g",
+    "name": "sugar, to taste"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "potato starch (or cornflour)"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "cold water for the starch"
+   }
+  ],
+  "steps": [
+   "Bring the water to a boil in a saucepan, add the berries and simmer for 5 minutes.",
+   "Strain the liquid through a sieve, pressing the berries to extract their juice, and return the liquid to the pan.",
+   "Add the sugar and bring back to a gentle simmer, stirring until dissolved.",
+   "Dissolve the starch in the cold water and stir it well.",
+   "Pour the starch slowly into the simmering liquid while stirring constantly, and cook for 1 to 2 minutes until it thickens.",
+   "Pour into glasses and serve warm as a drink or chilled as a jelly-like dessert, with a dusting of sugar on top to stop a skin forming."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kissel",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-medovik-russian-honey-layer-cake",
+  "title": "Medovik (Russian honey layer cake)",
+  "country": "Russia",
+  "category": "Dessert",
+  "tags": [
+   "Russian",
+   "cake",
+   "honey"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "3 tbsp",
+    "name": "honey"
+   },
+   {
+    "measure": "100 g",
+    "name": "butter"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking soda"
+   },
+   {
+    "measure": "400 g",
+    "name": "plain flour, plus more as needed"
+   },
+   {
+    "measure": "600 g",
+    "name": "sour cream (at least 20% fat)"
+   },
+   {
+    "measure": "150 g",
+    "name": "icing sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "50 g",
+    "name": "walnuts, finely chopped"
+   }
+  ],
+  "steps": [
+   "Melt the butter with the honey and sugar in a large pan over a gentle heat, stirring until the sugar dissolves.",
+   "Whisk in the baking soda off the heat; the mixture will foam and lighten, then stir in the eggs quickly so they do not scramble.",
+   "Add the flour gradually and mix to a soft, workable dough; it will be slightly sticky.",
+   "Divide the dough into 8 equal pieces, roll each into a thin round on baking paper and bake one at a time at 180 C (350 F) for 4 to 5 minutes until deep golden.",
+   "While each layer is still warm, trim it into a neat round and keep the trimmings, which are crushed later for the topping.",
+   "Whisk the sour cream with the icing sugar and vanilla until smooth and thick.",
+   "Sandwich the cooled layers together with the cream, spreading it on the top and sides too.",
+   "Press crushed trimmings and chopped walnuts over the cake and refrigerate for at least 8 hours so the layers soften before slicing."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medovik",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-okroshka-cold-russian-soup-with-vegetables-and-kefir",
+  "title": "Okroshka (cold Russian soup with vegetables and kefir)",
+  "country": "Russia",
+  "category": "Starter",
+  "tags": [
+   "Russian",
+   "cold soup",
+   "summer"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "medium potatoes, boiled and diced"
+   },
+   {
+    "measure": "4",
+    "name": "eggs, hard-boiled and chopped"
+   },
+   {
+    "measure": "4",
+    "name": "cucumbers, diced"
+   },
+   {
+    "measure": "8",
+    "name": "radishes, diced"
+   },
+   {
+    "measure": "250 g",
+    "name": "cooked ham, boiled beef or doctor's sausage, diced"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "spring onions, chopped"
+   },
+   {
+    "measure": "1 small bunch",
+    "name": "dill, chopped"
+   },
+   {
+    "measure": "1 litre",
+    "name": "kefir or kvass (or kefir thinned with sparkling water)"
+   },
+   {
+    "measure": "250 ml",
+    "name": "cold sparkling water, if using kefir"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   },
+   {
+    "measure": "",
+    "name": "sour cream to serve"
+   }
+  ],
+  "steps": [
+   "Chop the spring onions and dill with a pinch of salt and press them against the bowl with a spoon to release their juices.",
+   "Add the potatoes, eggs, cucumbers, radishes and meat to the bowl.",
+   "If using kefir, whisk it with the sparkling water until smooth and pourable; if using kvass, use it as it is.",
+   "Pour the liquid over the chopped ingredients and stir well.",
+   "Season with salt and chill the soup for at least 30 minutes.",
+   "Serve in cold bowls with a spoonful of sour cream on top."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Okroshka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-oladyi-russian-thick-yoghurt-pancakes",
+  "title": "Oladyi (Russian thick yoghurt pancakes)",
+  "country": "Russia",
+  "category": "Breakfast",
+  "tags": [
+   "Russian",
+   "pancakes",
+   "breakfast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 ml",
+    "name": "kefir or buttermilk"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "200 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "baking soda"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "sunflower oil for frying"
+   },
+   {
+    "measure": "",
+    "name": "sour cream, jam or honey to serve"
+   }
+  ],
+  "steps": [
+   "Whisk the kefir with the egg, sugar and salt in a bowl.",
+   "Sift in the flour and baking soda and stir until you have a thick batter that falls from the spoon in a ribbon; leave it for 10 minutes to rise slightly.",
+   "Heat a little oil in a frying pan over medium heat.",
+   "Drop in spoonfuls of the batter, spacing them apart, and fry for 2 to 3 minutes until golden underneath and bubbles appear on top.",
+   "Flip and cook for another 2 minutes until cooked through and fluffy.",
+   "Serve warm with sour cream, jam or honey."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Oladyi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-pelmeni-russian-meat-dumplings",
+  "title": "Pelmeni (Russian meat dumplings)",
+  "country": "Russia",
+  "category": "Pork",
+  "tags": [
+   "Russian",
+   "dumplings",
+   "Siberian"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "plain flour, plus extra for dusting"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "120 ml",
+    "name": "cold water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt, plus more for the filling"
+   },
+   {
+    "measure": "250 g",
+    "name": "minced pork"
+   },
+   {
+    "measure": "250 g",
+    "name": "minced beef"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, finely grated"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "cold water or milk for the filling"
+   },
+   {
+    "measure": "",
+    "name": "black pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "sour cream, butter, vinegar or fresh dill to serve"
+   }
+  ],
+  "steps": [
+   "Mix the flour and salt in a bowl, add the egg and the cold water and bring everything together into a firm dough, kneading for about 8 minutes until smooth.",
+   "Wrap the dough and leave it to rest for 30 minutes so it becomes easy to roll.",
+   "Combine both minces with the grated onion, salt, pepper and the cold water or milk, and mix well until the filling is soft and sticky.",
+   "Roll the dough out thinly on a floured surface and cut out rounds about 5 cm across with a glass or cutter.",
+   "Put a small spoonful of filling in the middle of each round, fold it over into a half moon, press the edges firmly together, then pinch the two corners towards each other to make the classic ear shape.",
+   "Lay the pelmeni on a floured tray without touching each other; they can be frozen at this point.",
+   "Bring a large pot of salted water to the boil, add the pelmeni and stir gently once so they do not stick.",
+   "Cook until they float and then for 5 to 7 more minutes, until the filling is cooked through, and lift them out with a slotted spoon.",
+   "Serve hot with sour cream, a little butter, a splash of vinegar or chopped dill."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pelmeni",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-pirozhki-baked-russian-buns-with-potato-and-onion-filling",
+  "title": "Pirozhki (baked Russian buns with potato and onion filling)",
+  "country": "Russia",
+  "category": "Starter",
+  "tags": [
+   "Russian",
+   "baked",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant dry yeast"
+   },
+   {
+    "measure": "250 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "60 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "1",
+    "name": "egg, plus 1 yolk to glaze"
+   },
+   {
+    "measure": "600 g",
+    "name": "potatoes, peeled"
+   },
+   {
+    "measure": "2",
+    "name": "onions, finely chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sunflower oil or butter"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Stir the yeast and sugar into the warm milk and leave for 10 minutes until foamy.",
+   "Mix the flour and salt, pour in the yeast milk, melted butter and the whole egg, and knead into a soft, slightly sticky dough for about 10 minutes.",
+   "Cover the dough and let it rise in a warm place for about an hour, until doubled.",
+   "Meanwhile, boil the potatoes until tender, drain them and mash them smoothly.",
+   "Fry the chopped onions in the oil or butter until golden, then stir them into the mash and season well; let the filling cool.",
+   "Divide the risen dough into about 16 pieces, flatten each into a round, put a spoonful of filling in the centre, pinch the edges shut and place the buns seam side down on a lined tray.",
+   "Cover and let them puff up for 20 minutes while the oven heats to 190 C (375 F).",
+   "Brush the buns with the beaten yolk and bake for 20 to 25 minutes until deep golden brown.",
+   "Serve warm or at room temperature."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pirozhki",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-pozharsky-cutlets-russian-minced-chicken-cutlets-with-butter",
+  "title": "Pozharsky cutlets (Russian minced chicken cutlets with butter)",
+  "country": "Russia",
+  "category": "Chicken",
+  "tags": [
+   "Russian",
+   "cutlets",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "chicken breast or thigh meat, minced"
+   },
+   {
+    "measure": "80 g",
+    "name": "cold butter, diced"
+   },
+   {
+    "measure": "2 slices",
+    "name": "white bread, crusts removed"
+   },
+   {
+    "measure": "100 ml",
+    "name": "milk or cream"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten"
+   },
+   {
+    "measure": "100 g",
+    "name": "fresh breadcrumbs"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "sunflower oil for frying"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Soak the bread in the milk for a few minutes, then squeeze it out lightly.",
+   "Mix the minced chicken with the soaked bread, salt, pepper and the cold butter cut into small pieces, working it briefly so the butter stays in small chunks.",
+   "Chill the mixture for 30 minutes so it firms up.",
+   "With wet hands, shape the mixture into oval cutlets about 2 cm thick.",
+   "Dip each cutlet in the beaten egg, then press it into the breadcrumbs.",
+   "Heat the oil in a wide frying pan over medium heat and fry the cutlets for 4 to 5 minutes on each side until deep golden.",
+   "Finish them for 8 to 10 minutes in a 180 C (350 F) oven if they are thick, until cooked through, and serve with mashed potatoes or buckwheat."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pozharsky_cutlet",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-selyodka-pod-shuboy-russian-layered-herring-salad-herring-under-a-fur-coat",
+  "title": "Selyodka pod shuboy (Russian layered herring salad, herring under a fur coat)",
+  "country": "Russia",
+  "category": "Seafood",
+  "tags": [
+   "Russian",
+   "salad",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2",
+    "name": "salted or pickled herring fillets (about 300 g), diced"
+   },
+   {
+    "measure": "3",
+    "name": "medium potatoes, boiled and grated"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, boiled and grated"
+   },
+   {
+    "measure": "2",
+    "name": "medium beetroots, boiled and grated"
+   },
+   {
+    "measure": "3",
+    "name": "eggs, hard-boiled and grated"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "200 g",
+    "name": "mayonnaise"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Rinse the onion under hot water to soften it and spread it over the base of a serving dish, followed by the diced herring.",
+   "Make a layer of the grated potatoes, lightly season with salt and spread with a thin layer of mayonnaise.",
+   "Add the grated carrots, then another thin coating of mayonnaise.",
+   "Spread the grated eggs over the carrots and coat with more mayonnaise.",
+   "Cover the whole salad with the grated beetroot, pressing it down lightly and smoothing the top.",
+   "Coat the top and sides generously with the remaining mayonnaise to make the fur coat.",
+   "Chill for at least 4 hours or overnight so the layers soften together, then serve in slices."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dressed_herring",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-solyanka-thick-sour-russian-meat-soup",
+  "title": "Solyanka (thick sour Russian meat soup)",
+  "country": "Russia",
+  "category": "Starter",
+  "tags": [
+   "Russian",
+   "soup",
+   "sour"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.5 litres",
+    "name": "beef stock"
+   },
+   {
+    "measure": "200 g",
+    "name": "cooked beef or ham, diced"
+   },
+   {
+    "measure": "200 g",
+    "name": "smoked sausage, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "3",
+    "name": "salted or dill pickles, diced"
+   },
+   {
+    "measure": "100 ml",
+    "name": "pickle brine"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "capers"
+   },
+   {
+    "measure": "12",
+    "name": "green olives, halved"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sunflower oil or butter"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "",
+    "name": "sour cream, lemon slices and dill to serve"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a large pot and fry the onions over medium heat until soft and golden.",
+   "Stir in the tomato paste and cook for 2 minutes, then add the diced pickles and fry briefly.",
+   "Add the sausage and diced meat and cook for a few minutes until lightly coloured.",
+   "Pour in the stock and the pickle brine, add the bay leaves and simmer gently for 20 minutes.",
+   "Add the capers and olives and cook for another 5 minutes; taste and adjust with pepper, a little salt only if needed, and more brine for a sharper taste.",
+   "Ladle the soup into bowls and top each with a spoonful of sour cream, a slice of lemon and chopped dill."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Solyanka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-vatrushka-russian-curd-cheese-buns",
+  "title": "Vatrushka (Russian curd cheese buns)",
+  "country": "Russia",
+  "category": "Dessert",
+  "tags": [
+   "Russian",
+   "pastry",
+   "baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "450 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant dry yeast"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "60 g",
+    "name": "sugar, plus 3 tbsp for the filling"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "60 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "2",
+    "name": "eggs (1 for the dough, 1 for the filling)"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk, to glaze"
+   },
+   {
+    "measure": "400 g",
+    "name": "tvorog, farmer's cheese or dry cottage cheese"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "50 g",
+    "name": "raisins (optional)"
+   }
+  ],
+  "steps": [
+   "Mix the yeast with the warm milk and 1 tablespoon of the sugar and leave until foamy, about 10 minutes.",
+   "Stir in the remaining dough sugar, salt, melted butter and 1 egg, add the flour and knead to a soft dough; cover and let it rise for an hour until doubled.",
+   "For the filling, beat the tvorog with 1 egg, 3 tablespoons sugar and the vanilla until smooth, then mix in the raisins if using.",
+   "Divide the dough into 10 pieces and shape each into a ball; place them on a lined tray.",
+   "Press a wide hollow into the centre of each, leaving a raised rim, and fill with a spoonful of the cheese mixture.",
+   "Cover and let the buns rise for 20 minutes while the oven heats to 190 C (375 F).",
+   "Brush the rims with beaten yolk and bake for 20 minutes until golden brown.",
+   "Cool slightly before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vatrushka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-russia-vinegret-russian-beetroot-and-potato-salad",
+  "title": "Vinegret (Russian beetroot and potato salad)",
+  "country": "Russia",
+  "category": "Vegan",
+  "tags": [
+   "Russian",
+   "salad",
+   "beetroot"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "3",
+    "name": "medium beetroots"
+   },
+   {
+    "measure": "3",
+    "name": "medium potatoes"
+   },
+   {
+    "measure": "2",
+    "name": "carrots"
+   },
+   {
+    "measure": "3",
+    "name": "dill pickles, diced"
+   },
+   {
+    "measure": "150 g",
+    "name": "sauerkraut, squeezed dry"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "sunflower oil"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Boil the beetroots in their skins for 45 to 60 minutes until a knife slides in easily; boil the potatoes and carrots in a separate pan until just tender.",
+   "Cool all the vegetables completely, then peel them and cut into small even cubes.",
+   "Put the chopped onion in a bowl and cover it with boiling water for 1 minute, then drain, to soften its sharpness.",
+   "Toss the beetroot first with 2 tablespoons of the oil in a large bowl so that it does not stain the other vegetables.",
+   "Add the potatoes, carrots, pickles, sauerkraut and onion with the remaining oil.",
+   "Season, mix gently and chill for an hour before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vinegret",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
