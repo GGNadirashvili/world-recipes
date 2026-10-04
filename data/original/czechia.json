@@ -1,0 +1,835 @@
+[
+ {
+  "id": "original-czechia-cesnecka-czech-garlic-soup-with-potatoes-and-croutons",
+  "title": "Česnečka (Czech garlic soup with potatoes and croutons)",
+  "country": "Czechia",
+  "category": "Starter",
+  "tags": [
+   "Czech",
+   "soup",
+   "garlic"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 L",
+    "name": "beef or vegetable stock"
+   },
+   {
+    "measure": "8 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "300 g",
+    "name": "potatoes, diced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried marjoram"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "caraway seeds"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter or lard"
+   },
+   {
+    "measure": "3 slices",
+    "name": "stale bread, cubed"
+   },
+   {
+    "measure": "50 g",
+    "name": "grated cheese (optional)"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Bring the stock to a boil with the diced potatoes, marjoram and caraway and cook for about 12 minutes until the potatoes are nearly tender.",
+   "Meanwhile, fry the bread cubes in the butter until crisp and golden, and set them aside.",
+   "Add about two thirds of the crushed garlic to the soup and simmer for 3 minutes.",
+   "Season with salt and pepper, then stir in the remaining raw garlic off the heat for a sharper, fresher flavour.",
+   "Serve hot, topped with croutons and a little grated cheese."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/%C4%8Cesne%C4%8Dka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-fried-christmas-carp-with-czech-potato-salad",
+  "title": "Fried Christmas carp with Czech potato salad",
+  "country": "Czechia",
+  "category": "Seafood",
+  "tags": [
+   "Czech",
+   "Christmas",
+   "fried fish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "carp fillets or steaks, cut into 4 portions (or any firm freshwater fish)"
+   },
+   {
+    "measure": "60 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2",
+    "name": "eggs, beaten"
+   },
+   {
+    "measure": "120 g",
+    "name": "breadcrumbs"
+   },
+   {
+    "measure": "",
+    "name": "lard or oil for frying"
+   },
+   {
+    "measure": "1",
+    "name": "lemon, in wedges"
+   },
+   {
+    "measure": "800 g",
+    "name": "waxy potatoes"
+   },
+   {
+    "measure": "2",
+    "name": "carrots"
+   },
+   {
+    "measure": "100 g",
+    "name": "frozen peas"
+   },
+   {
+    "measure": "4",
+    "name": "pickled gherkins, diced"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "3",
+    "name": "hard-boiled eggs, chopped"
+   },
+   {
+    "measure": "150 g",
+    "name": "mayonnaise"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sour cream"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "mustard"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "For the salad, boil the potatoes and carrots in their skins until tender, boil the peas for 3 minutes, then peel and dice everything once cool.",
+   "Mix the diced vegetables with the gherkins, onion, chopped eggs, mayonnaise, sour cream and mustard, season with salt and pepper and chill for at least an hour.",
+   "Check the fish carefully for small bones, season it with salt and a squeeze of lemon, and let it sit for 15 minutes.",
+   "Coat the pieces in flour, then egg, then breadcrumbs.",
+   "Heat the fat in a wide pan to about 170 C and fry the fish for 4 to 5 minutes per side until deep golden and cooked through.",
+   "Drain on paper towels and serve hot with the cold potato salad and lemon wedges."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Christmas_carp",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-kolace-czech-sweet-yeast-pastries-filled-with-quark-and-plum-jam",
+  "title": "Koláče (Czech sweet yeast pastries filled with quark and plum jam)",
+  "country": "Czechia",
+  "category": "Dessert",
+  "tags": [
+   "Czech",
+   "pastry",
+   "yeast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "dried yeast"
+   },
+   {
+    "measure": "250 ml",
+    "name": "lukewarm milk"
+   },
+   {
+    "measure": "60 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "80 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "2",
+    "name": "egg yolks"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt and the zest of half a lemon"
+   },
+   {
+    "measure": "250 g",
+    "name": "quark or farmer's cheese"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk, for the quark filling"
+   },
+   {
+    "measure": "40 g",
+    "name": "sugar, for the quark filling"
+   },
+   {
+    "measure": "150 g",
+    "name": "thick plum jam"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten, for brushing"
+   }
+  ],
+  "steps": [
+   "Stir the yeast and a spoon of the sugar into the warm milk and let it foam for 10 minutes.",
+   "Combine with the flour, remaining sugar, egg yolks, butter, salt and lemon zest and knead into a smooth dough. Cover and let rise for 1 hour.",
+   "Mix the quark with its egg yolk and sugar until smooth for the first filling. Keep the plum jam for the second.",
+   "Divide the dough into 16 balls, set them on lined trays and flatten them to discs about 7 cm wide, pressing a deep hollow into the middle of each and leaving a raised rim. Let rise for 20 minutes.",
+   "Fill half the hollows with quark filling and half with jam, then brush the exposed rims with beaten egg.",
+   "Bake at 190 C for about 15 to 18 minutes until golden. Cool on a rack."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kolach_(cake)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-kulajda-south-bohemian-creamy-potato-soup-with-dill-mushrooms-and-poached-egg",
+  "title": "Kulajda (South Bohemian creamy potato soup with dill, mushrooms and poached egg)",
+  "country": "Czechia",
+  "category": "Starter",
+  "tags": [
+   "Czech",
+   "soup",
+   "dill"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.2 L",
+    "name": "water or vegetable stock"
+   },
+   {
+    "measure": "500 g",
+    "name": "potatoes, peeled and diced"
+   },
+   {
+    "measure": "20 g",
+    "name": "dried porcini or other dried mushrooms (or 200 g fresh mushrooms)"
+   },
+   {
+    "measure": "1",
+    "name": "bay leaf"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "caraway seeds"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "plain flour"
+   },
+   {
+    "measure": "250 ml",
+    "name": "cream or sour cream"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vinegar"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "fresh dill, chopped"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Rinse the dried mushrooms and soak them in a little hot water for 15 minutes, then chop them and keep the soaking liquid.",
+   "Bring the water, potatoes, mushrooms with their strained liquid, bay leaf, caraway and salt to a boil and simmer for 15 to 20 minutes until the potatoes are tender.",
+   "Whisk the flour into the cream until smooth, then stir it into the soup and simmer for a further 5 minutes.",
+   "Stir in the vinegar and most of the dill, taste, and adjust the sweet-sour balance and salt.",
+   "Poach the eggs in a separate pan of simmering water with a splash of vinegar for 3 to 4 minutes, so the yolks stay soft.",
+   "Ladle the soup into bowls, set a poached egg in each and sprinkle with the remaining dill."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kulajda",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-nakladany-hermelin-pickled-czech-camembert-style-cheese-in-oil-with-onion-and-spices",
+  "title": "Nakládaný hermelín (pickled Czech camembert-style cheese in oil with onion and spices)",
+  "country": "Czechia",
+  "category": "Starter",
+  "tags": [
+   "Czech",
+   "cheese",
+   "pub snack"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "Hermelín cheeses or small camemberts, about 120 g each"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced into rings"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "fresh red chilli, sliced"
+   },
+   {
+    "measure": "8",
+    "name": "black peppercorns"
+   },
+   {
+    "measure": "6",
+    "name": "allspice berries"
+   },
+   {
+    "measure": "3",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sweet paprika"
+   },
+   {
+    "measure": "400 ml",
+    "name": "neutral oil"
+   },
+   {
+    "measure": "",
+    "name": "rye bread and fresh onion, to serve"
+   }
+  ],
+  "steps": [
+   "Cut each cheese in half horizontally, so each round yields two discs.",
+   "Pack a clean jar with layers of cheese, onion rings, garlic, chilli, peppercorns, allspice and bay leaves.",
+   "Sprinkle paprika over the layers and press them down lightly.",
+   "Pour in enough oil to cover the cheese completely, tapping the jar to release air bubbles.",
+   "Close the jar and keep it in the refrigerator for at least 5 days, up to 2 weeks, keeping everything under the oil.",
+   "Serve the cheese with some of the marinated onion, rye bread and cold beer."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hermel%C3%ADn",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-oblozene-chlebicky-czech-open-faced-sandwiches-with-ham-egg-and-salad",
+  "title": "Obložené chlebíčky (Czech open-faced sandwiches with ham, egg and salad)",
+  "country": "Czechia",
+  "category": "Starter",
+  "tags": [
+   "Czech",
+   "sandwich",
+   "party food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "8 slices",
+    "name": "white bread or baguette, about 1 cm thick"
+   },
+   {
+    "measure": "80 g",
+    "name": "soft butter"
+   },
+   {
+    "measure": "4",
+    "name": "eggs, hard-boiled"
+   },
+   {
+    "measure": "150 g",
+    "name": "cooked ham, thinly sliced"
+   },
+   {
+    "measure": "150 g",
+    "name": "potato salad or diced boiled vegetables mixed with mayonnaise"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "mayonnaise"
+   },
+   {
+    "measure": "1",
+    "name": "large tomato, sliced"
+   },
+   {
+    "measure": "4",
+    "name": "pickled gherkins, sliced"
+   },
+   {
+    "measure": "100 g",
+    "name": "cheese, thinly sliced"
+   },
+   {
+    "measure": "",
+    "name": "radishes, parsley, cress or cocktail onions to garnish"
+   }
+  ],
+  "steps": [
+   "Butter the slices of bread right to the edges, which stops the toppings making them soggy.",
+   "Divide the bread into groups of toppings. For the first, spread potato salad and lay ham on top, then add gherkin slices.",
+   "For the second, arrange egg slices over the buttered bread, add a dab of mayonnaise and a slice of tomato.",
+   "For the third, top the bread with cheese slices, then ham rolled into little cones and a spoonful of salad.",
+   "Garnish each sandwich with radish, parsley or cress.",
+   "Chill, lightly covered, for up to an hour before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chleb%C3%AD%C4%8Dek",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-smazeny-syr-czech-fried-breaded-cheese-with-tartar-sauce",
+  "title": "Smažený sýr (Czech fried breaded cheese with tartar sauce)",
+  "country": "Czechia",
+  "category": "Vegetarian",
+  "tags": [
+   "Czech",
+   "fried",
+   "cheese"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4 slices",
+    "name": "firm cheese such as Edam or Gouda, about 1.5 cm thick and 120 g each"
+   },
+   {
+    "measure": "60 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2",
+    "name": "eggs, beaten"
+   },
+   {
+    "measure": "120 g",
+    "name": "fine breadcrumbs"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying, about 1.5 cm deep"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "tartar sauce"
+   },
+   {
+    "measure": "600 g",
+    "name": "boiled potatoes or chips, to serve"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Chill the cheese slices well, then dip each in flour, shake off the excess, then coat in beaten egg.",
+   "Press the cheese firmly into the breadcrumbs, coating all sides evenly.",
+   "For a thicker crust that does not leak, dip again in egg and breadcrumbs, then chill for 15 minutes.",
+   "Heat the oil in a wide pan to about 170 C.",
+   "Fry the cheese slices for 2 to 3 minutes per side until deep golden and crisp. Do not let them stay longer or the cheese will burst through.",
+   "Drain on paper towels, season lightly and serve straight away with tartar sauce and boiled potatoes or chips."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sma%C5%BEen%C3%BD_s%C3%BDr",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-svickova-na-smetane-czech-braised-beef-in-root-vegetable-cream-sauce-with-bread-dumplings",
+  "title": "Svíčková na smetaně (Czech braised beef in root-vegetable cream sauce with bread dumplings)",
+  "country": "Czechia",
+  "category": "Beef",
+  "tags": [
+   "Czech",
+   "braised",
+   "creamy"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "beef sirloin or topside, in one piece"
+   },
+   {
+    "measure": "60 g",
+    "name": "smoked bacon, cut into strips (optional, for larding)"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "parsnip or parsley root, chopped"
+   },
+   {
+    "measure": "100 g",
+    "name": "celeriac, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "lard or butter"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "6",
+    "name": "peppercorns"
+   },
+   {
+    "measure": "4",
+    "name": "allspice berries"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "white wine vinegar"
+   },
+   {
+    "measure": "500 ml",
+    "name": "water or beef stock"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "flour"
+   },
+   {
+    "measure": "250 ml",
+    "name": "cream (about 20 percent fat)"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "",
+    "name": "lemon juice, cranberry sauce and whipped cream to serve"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   },
+   {
+    "measure": "8 slices",
+    "name": "bread dumplings (see Vepřo knedlo zelo), to serve"
+   }
+  ],
+  "steps": [
+   "Make a few slits in the beef and push the bacon strips into them, then season the meat with salt.",
+   "Brown the beef on all sides in the lard in a heavy casserole and lift it out.",
+   "Fry the carrots, parsnip, celeriac and onion in the same pot for 5 minutes, then add the bay leaves, peppercorns, allspice, vinegar and water.",
+   "Return the beef, cover and cook very gently on the hob or in a 170 C oven for about 1.5 to 2 hours, turning the meat now and then, until tender.",
+   "Take the meat out and keep it warm. Discard the bay leaves, then purée the vegetables and cooking liquid until smooth.",
+   "Whisk the flour into the cream, stir it into the purée and simmer for 5 minutes. Add the sugar and a squeeze of lemon, and season with salt to get a balanced sweet-sour sauce.",
+   "Slice the beef, spoon plenty of sauce over it and serve with dumplings, a dollop of whipped cream, a spoonful of cranberry sauce and a lemon slice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sv%C3%AD%C4%8Dkov%C3%A1",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-vanocka-czech-braided-christmas-bread-with-raisins-and-almonds",
+  "title": "Vánočka (Czech braided Christmas bread with raisins and almonds)",
+  "country": "Czechia",
+  "category": "Dessert",
+  "tags": [
+   "Czech",
+   "Christmas",
+   "bread"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "dried yeast"
+   },
+   {
+    "measure": "200 ml",
+    "name": "lukewarm milk"
+   },
+   {
+    "measure": "70 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "70 g",
+    "name": "butter, melted and cooled"
+   },
+   {
+    "measure": "2",
+    "name": "egg yolks"
+   },
+   {
+    "measure": "1",
+    "name": "whole egg"
+   },
+   {
+    "measure": "1",
+    "name": "lemon, zest only"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "nutmeg and 1 tsp salt"
+   },
+   {
+    "measure": "80 g",
+    "name": "raisins"
+   },
+   {
+    "measure": "50 g",
+    "name": "flaked almonds"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten, for brushing"
+   }
+  ],
+  "steps": [
+   "Stir the yeast with a spoon of the sugar into the warm milk and leave it for 10 minutes until it foams.",
+   "Mix the flour, remaining sugar, salt, nutmeg and lemon zest, then add the yeast milk, egg yolks, whole egg and butter and knead for about 10 minutes into a smooth, elastic dough.",
+   "Knead in the raisins, cover and let the dough rise in a warm place for about 1 hour until doubled.",
+   "Divide the dough into 9 pieces and roll each into a strand. Plait 4 of the strands into a loaf for the base, plait 3 strands for the middle layer and twist the last 2 for the top.",
+   "Stack the three plaits on a lined tray with the biggest at the bottom, pressing them together gently. Let rise for another 30 minutes.",
+   "Brush with beaten egg, scatter on the almonds and bake at 180 C for 40 to 45 minutes, covering with foil if it browns too fast. Cool on a rack before slicing."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/V%C3%A1no%C4%8Dka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-vepro-knedlo-zelo-czech-roast-pork-with-bread-dumplings-and-sauerkraut",
+  "title": "Vepřo knedlo zelo (Czech roast pork with bread dumplings and sauerkraut)",
+  "country": "Czechia",
+  "category": "Pork",
+  "tags": [
+   "Czech",
+   "roast",
+   "dumplings"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "pork shoulder or neck, with some fat"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "caraway seeds"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water or stock"
+   },
+   {
+    "measure": "600 g",
+    "name": "sauerkraut, drained"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped (for the cabbage)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lard or oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "400 g",
+    "name": "plain flour (for the dumplings)"
+   },
+   {
+    "measure": "7 g",
+    "name": "dried yeast"
+   },
+   {
+    "measure": "250 ml",
+    "name": "lukewarm milk"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "150 g",
+    "name": "stale white bread, cubed and toasted in butter"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Rub the pork with salt, crushed garlic and half the caraway. Place it in a roasting tin on the sliced onion with the water.",
+   "Roast at 180 C for about 1.5 to 2 hours, basting with the juices, until the meat is tender and the top is browned. Rest it under foil.",
+   "For the dumplings, mix the flour, yeast and 1 tsp salt, add the milk and egg and knead into a soft dough. Fold in the toasted bread cubes, cover and let rise for 30 to 40 minutes.",
+   "Shape the dough into two thick rolls, let them rest 15 minutes, then lower them into a large pot of simmering salted water. Cover and cook for about 20 minutes, turning once.",
+   "Lift out the dumplings, prick them to release steam and slice with a piece of thread or a sharp knife.",
+   "Fry the chopped onion in the lard until golden, add the sauerkraut, the remaining caraway, the sugar and a splash of water, and cook gently for 20 to 30 minutes.",
+   "Slice the pork and serve with the dumplings, the sauerkraut and the roasting juices."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vep%C5%99o_knedlo_zelo",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-czechia-zemlovka-czech-baked-bread-roll-pudding-with-apples",
+  "title": "Žemlovka (Czech baked bread-roll pudding with apples)",
+  "country": "Czechia",
+  "category": "Dessert",
+  "tags": [
+   "Czech",
+   "baked",
+   "apple"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "6",
+    "name": "stale white bread rolls, thinly sliced (about 300 g)"
+   },
+   {
+    "measure": "400 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "3",
+    "name": "eggs"
+   },
+   {
+    "measure": "50 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "600 g",
+    "name": "tart apples, peeled and grated or thinly sliced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "cinnamon"
+   },
+   {
+    "measure": "50 g",
+    "name": "raisins"
+   },
+   {
+    "measure": "30 g",
+    "name": "butter"
+   },
+   {
+    "measure": "",
+    "name": "icing sugar to serve"
+   }
+  ],
+  "steps": [
+   "Whisk the eggs, sugar and vanilla into the warm milk.",
+   "Heat the oven to 180 C and butter a baking dish. Soak the bread slices in the milk mixture for a few minutes until soft.",
+   "Mix the apples with the cinnamon and raisins.",
+   "Layer half the soaked bread in the dish, cover with the apple mixture, then finish with the remaining bread.",
+   "Pour over any leftover milk mixture and dot the top with butter.",
+   "Bake for 35 to 40 minutes until golden and set. Dust with icing sugar and serve warm, with vanilla sauce if you like."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/%C5%BDemlovka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

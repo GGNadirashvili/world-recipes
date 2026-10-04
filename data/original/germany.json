@@ -1,0 +1,747 @@
+[
+ {
+  "id": "original-germany-christstollen-german-christmas-fruit-bread-with-marzipan",
+  "title": "Christstollen (German Christmas fruit bread with marzipan)",
+  "country": "Germany",
+  "category": "Dessert",
+  "tags": [
+   "German",
+   "Christmas",
+   "baking"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "dried yeast"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "80 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "200 g",
+    "name": "soft butter, plus 100 g melted for brushing"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "200 g",
+    "name": "raisins"
+   },
+   {
+    "measure": "80 g",
+    "name": "candied lemon and orange peel"
+   },
+   {
+    "measure": "80 g",
+    "name": "chopped almonds"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "rum"
+   },
+   {
+    "measure": "1",
+    "name": "lemon, zest only"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "mixed cinnamon, cardamom and mace"
+   },
+   {
+    "measure": "150 g",
+    "name": "marzipan"
+   },
+   {
+    "measure": "",
+    "name": "icing sugar for dusting"
+   }
+  ],
+  "steps": [
+   "Soak the raisins and candied peel in the rum for at least an hour, ideally overnight.",
+   "Stir the yeast and a spoonful of the sugar into the warm milk and leave for 10 minutes until foamy.",
+   "Mix the flour, remaining sugar, spices, lemon zest, soft butter, egg and the yeast milk, and knead into a smooth dough. Cover and let rise for 1 hour.",
+   "Knead in the soaked fruit, any remaining rum and the almonds, then let the dough rest for 20 minutes.",
+   "Roll the dough into an oval about 25 by 30 cm. Shape the marzipan into a log and lay it along the centre, then fold one long side over and press lightly to make the classic stollen shape.",
+   "Place on a lined tray, let rise for 30 minutes, then bake at 180 C for 50 to 60 minutes until deep golden.",
+   "Brush generously with melted butter while hot, dust thickly with icing sugar, then cool, wrap well and rest for several days before slicing."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stollen",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-germany-currywurst-berlin-sausage-with-spiced-curry-ketchup-sauce",
+  "title": "Currywurst (Berlin sausage with spiced curry-ketchup sauce)",
+  "country": "Germany",
+  "category": "Pork",
+  "tags": [
+   "German",
+   "Berlin",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "pork bratwurst or similar fresh sausages"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "200 ml",
+    "name": "tomato ketchup or passata"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "brown sugar"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "mild curry powder"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sweet paprika"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "Worcestershire sauce or vinegar"
+   },
+   {
+    "measure": "",
+    "name": "chips or bread rolls, to serve"
+   }
+  ],
+  "steps": [
+   "Soften the onion in the oil over medium heat for about 5 minutes.",
+   "Stir in the tomato paste and half the curry powder and paprika and cook for a minute until fragrant.",
+   "Add the ketchup, water, sugar and Worcestershire sauce and simmer for 10 to 15 minutes until thick and glossy, then season and blend smooth if you prefer.",
+   "Pan-fry or grill the sausages for 10 to 12 minutes, turning, until browned and cooked through.",
+   "Slice the sausages into thick rounds, pour the hot sauce over them and dust with the remaining curry powder.",
+   "Serve immediately with chips or a bread roll."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Currywurst",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-germany-gaisburger-marsch-swabian-beef-stew-with-potatoes-and-spaetzle",
+  "title": "Gaisburger Marsch (Swabian beef stew with potatoes and spaetzle)",
+  "country": "Germany",
+  "category": "Beef",
+  "tags": [
+   "German",
+   "Swabian",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "beef brisket or shin on the bone"
+   },
+   {
+    "measure": "1",
+    "name": "onion, halved"
+   },
+   {
+    "measure": "2",
+    "name": "carrots"
+   },
+   {
+    "measure": "1",
+    "name": "leek"
+   },
+   {
+    "measure": "150 g",
+    "name": "celeriac"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "400 g",
+    "name": "waxy potatoes, peeled and cubed"
+   },
+   {
+    "measure": "300 g",
+    "name": "fresh spaetzle (store-bought, or 250 g flour, 2 eggs and about 100 ml water)"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced and fried in butter until golden"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped chives"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Put the beef in a large pot with 2 litres of cold water, bring slowly to a boil and skim off the foam.",
+   "Add the halved onion, one carrot, half the leek, the celeriac, bay leaves and salt, then simmer gently for about 2 hours until the meat is tender.",
+   "Lift out the meat and cut it into bite-size pieces. Strain the broth and discard the soft vegetables.",
+   "Dice the second carrot and the remaining leek, and cook them with the potatoes in the strained broth for 15 minutes until tender.",
+   "If making your own spaetzle, beat the flour, eggs, water and salt into a thick elastic batter, then press it through a spaetzle press or scrape it from a board into simmering salted water. Cook until they float, then lift them out.",
+   "Add the meat and spaetzle to the pot to heat through and adjust the seasoning.",
+   "Ladle into deep bowls and top with the golden fried onions and chives."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gaisburger_Marsch",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-germany-kasespatzle-swabian-and-allgau-cheese-noodles-with-fried-onions",
+  "title": "Käsespätzle (Swabian and Allgäu cheese noodles with fried onions)",
+  "country": "Germany",
+  "category": "Vegetarian",
+  "tags": [
+   "German",
+   "Allgäu",
+   "cheese"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "200 ml",
+    "name": "water or milk"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "freshly grated nutmeg"
+   },
+   {
+    "measure": "250 g",
+    "name": "Emmental or mountain cheese, grated"
+   },
+   {
+    "measure": "3",
+    "name": "onions, thinly sliced"
+   },
+   {
+    "measure": "50 g",
+    "name": "butter"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped chives"
+   }
+  ],
+  "steps": [
+   "Beat the flour, eggs, water, salt and nutmeg into a thick, elastic batter that falls slowly from a spoon, and let it rest for 15 minutes.",
+   "Bring a large pot of salted water to a boil. Press the batter through a spaetzle press or scrape thin strips from a wet board into the water.",
+   "Cook in batches until the spaetzle float, then lift them out with a slotted spoon.",
+   "Fry the sliced onions in half of the butter over medium heat for 15 to 20 minutes until deep golden and sweet.",
+   "In a warm ovenproof dish, layer the spaetzle with the grated cheese and keep the layers warm in a low oven until the cheese melts. Stir the layers through once.",
+   "Top with the fried onions, the remaining butter and the chives, and serve straight from the dish, with a green salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/K%C3%A4sesp%C3%A4tzle",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-germany-konigsberger-klopse-poached-meatballs-in-creamy-caper-sauce",
+  "title": "Königsberger Klopse (poached meatballs in creamy caper sauce)",
+  "country": "Germany",
+  "category": "Beef",
+  "tags": [
+   "German",
+   "meatballs",
+   "Prussian"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "minced meat, half beef and half pork"
+   },
+   {
+    "measure": "1",
+    "name": "stale bread roll, soaked in milk and squeezed out"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "2",
+    "name": "anchovy fillets, finely chopped"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "1 L",
+    "name": "beef or vegetable stock"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "30 g",
+    "name": "butter"
+   },
+   {
+    "measure": "30 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "capers, drained"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "cream"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk"
+   },
+   {
+    "measure": "",
+    "name": "salt, pepper and nutmeg to taste"
+   }
+  ],
+  "steps": [
+   "Mix the minced meat with the squeezed bread, onion, anchovies, egg, salt, pepper and a little nutmeg until the mixture is evenly combined and slightly sticky.",
+   "Bring the stock to a gentle simmer with the bay leaves. Shape the meat mixture into 8 to 12 balls with wet hands.",
+   "Lower the meatballs into the stock and poach them gently, never at a hard boil, for about 15 to 20 minutes until they float and are cooked through.",
+   "Lift out the meatballs and keep them warm, then strain the stock and measure out about 500 ml.",
+   "Melt the butter in a saucepan, stir in the flour and cook for a minute without browning, then whisk in the hot stock gradually and simmer for 5 minutes.",
+   "Stir the egg yolk into the cream, add a spoonful of hot sauce to it, then whisk it back into the pan off the heat. Add the capers and lemon juice and season.",
+   "Return the meatballs to the sauce to heat through and serve with boiled potatoes or rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/K%C3%B6nigsberger_Klopse",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-germany-maultaschen-swabian-filled-pasta-pockets-with-spinach-and-meat-in-broth",
+  "title": "Maultaschen (Swabian filled pasta pockets with spinach and meat in broth)",
+  "country": "Germany",
+  "category": "Pasta",
+  "tags": [
+   "German",
+   "Swabian",
+   "pasta"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "3",
+    "name": "eggs"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "250 g",
+    "name": "minced pork or mixed pork and beef"
+   },
+   {
+    "measure": "200 g",
+    "name": "spinach, blanched, squeezed dry and chopped"
+   },
+   {
+    "measure": "1",
+    "name": "stale bread roll, soaked in milk and squeezed"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped and softened in butter"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped parsley"
+   },
+   {
+    "measure": "1",
+    "name": "egg for the filling"
+   },
+   {
+    "measure": "1.5 L",
+    "name": "beef or vegetable broth"
+   },
+   {
+    "measure": "",
+    "name": "salt, pepper and nutmeg to taste"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced and fried in butter, to serve"
+   }
+  ],
+  "steps": [
+   "Knead the flour, 3 eggs, oil, a pinch of salt and a little water into a smooth, firm dough. Wrap and rest it for 30 minutes.",
+   "For the filling, mix the minced meat, spinach, soaked bread, softened onion, parsley and the filling egg. Season well with salt, pepper and nutmeg.",
+   "Roll the dough out thinly into long sheets, about 12 cm wide, and spread the filling in a thin even layer over one half of each sheet.",
+   "Fold the empty half over the filling, press down, and mark and cut the strip into rectangles about 8 cm long. Press the edges to seal.",
+   "Bring the broth to a gentle simmer and cook the Maultaschen for about 15 minutes until they float and are cooked through.",
+   "Serve the pockets in the hot broth sprinkled with chives, or slice and pan-fry them in butter with scrambled egg, topped with fried onions."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maultasche",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-germany-reibekuchen-rhenish-crisp-potato-pancakes-with-apple-sauce",
+  "title": "Reibekuchen (Rhenish crisp potato pancakes with apple sauce)",
+  "country": "Germany",
+  "category": "Side",
+  "tags": [
+   "German",
+   "potato",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "floury potatoes, peeled"
+   },
+   {
+    "measure": "1",
+    "name": "onion"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "freshly ground pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "oil for shallow frying"
+   },
+   {
+    "measure": "250 g",
+    "name": "apple sauce, to serve"
+   }
+  ],
+  "steps": [
+   "Grate the potatoes and onion on the coarse side of a box grater into a bowl.",
+   "Tip the mixture into a clean tea towel and squeeze out as much liquid as you can. Let the drained liquid stand for a minute and pour off the water, keeping the starch that settles at the bottom.",
+   "Return the potato to the bowl and mix in the starch, eggs, flour, salt and pepper.",
+   "Heat about 1 cm of oil in a large frying pan over medium-high heat.",
+   "Spoon in portions of the batter, flatten them to thin discs and fry for 3 to 4 minutes per side until deep golden and crisp at the edges.",
+   "Drain on paper towels and keep warm in a low oven while you fry the rest. Serve hot with apple sauce, or with smoked salmon or dark bread and butter."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Reibekuchen",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-germany-sauerbraten-rhenish-pot-roast-marinated-in-vinegar-and-spices",
+  "title": "Sauerbraten (Rhenish pot roast marinated in vinegar and spices)",
+  "country": "Germany",
+  "category": "Beef",
+  "tags": [
+   "German",
+   "roast",
+   "marinated"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.2 kg",
+    "name": "beef roast such as topside or bottom round"
+   },
+   {
+    "measure": "300 ml",
+    "name": "red wine vinegar"
+   },
+   {
+    "measure": "400 ml",
+    "name": "water"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, sliced"
+   },
+   {
+    "measure": "2 sticks",
+    "name": "celery, sliced"
+   },
+   {
+    "measure": "3",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "5",
+    "name": "cloves"
+   },
+   {
+    "measure": "8",
+    "name": "juniper berries"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "black peppercorns"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lard or neutral oil"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "raisins"
+   },
+   {
+    "measure": "4",
+    "name": "gingersnap biscuits, crumbled (or 1 tbsp sugar plus 1 tbsp flour)"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Bring the vinegar, water, onions, carrot, celery, bay leaves, cloves, juniper and peppercorns to a boil, then let the marinade cool completely.",
+   "Place the beef in a deep non-metal bowl, pour the cold marinade over it so the meat is mostly covered, and refrigerate for 2 to 3 days, turning the meat once a day.",
+   "Lift the meat out, pat it very dry and strain the marinade, keeping both the liquid and the vegetables.",
+   "Season the beef with salt and pepper and brown it on all sides in hot lard in a heavy casserole, then take it out and brown the marinade vegetables in the same pot.",
+   "Return the meat, add about 500 ml of the strained marinade and the raisins, cover and simmer very gently, or cook in a 160 C oven, for about 2 to 2.5 hours until tender.",
+   "Remove the meat and keep it warm. Strain the sauce, bring it to a simmer and stir in the crumbled gingersnaps until it thickens and turns slightly sweet and tangy. Adjust with salt, pepper and a pinch of sugar or splash of marinade.",
+   "Slice the roast against the grain and serve with the sauce, potato dumplings or boiled potatoes and red cabbage."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sauerbraten",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-germany-schweinshaxe-bavarian-roast-pork-knuckle-with-crackling",
+  "title": "Schweinshaxe (Bavarian roast pork knuckle with crackling)",
+  "country": "Germany",
+  "category": "Pork",
+  "tags": [
+   "German",
+   "Bavarian",
+   "roast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2",
+    "name": "raw pork hocks (knuckles), about 1 kg each"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "caraway seeds"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, quartered"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, chopped"
+   },
+   {
+    "measure": "1 stick",
+    "name": "celery, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "500 ml",
+    "name": "dark beer"
+   },
+   {
+    "measure": "250 ml",
+    "name": "stock"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "cornflour mixed with water, to thicken (optional)"
+   }
+  ],
+  "steps": [
+   "Score the skin of each hock in a diamond pattern with a sharp knife, cutting through the skin but not into the meat.",
+   "Rub the hocks all over with salt, crushed garlic and ground caraway, working the seasoning into the cuts.",
+   "Heat the oven to 160 C. Scatter the onion, carrot, celery and bay leaves in a roasting tin, set the hocks on top and pour in the stock.",
+   "Roast for about 1.5 hours, basting with a little beer every 20 minutes or so, until the meat starts to pull away from the bone.",
+   "Raise the oven to 220 C, brush the skin with more beer and roast for 30 to 40 minutes until the crackling is blistered and crisp.",
+   "Rest the hocks for 10 minutes. Strain the roasting juices, simmer them for a few minutes and thicken lightly with the cornflour if you like.",
+   "Serve with potato dumplings or boiled potatoes, sauerkraut and the gravy."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Schweinshaxe",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-germany-zwiebelkuchen-german-onion-tart-with-bacon-and-caraway",
+  "title": "Zwiebelkuchen (German onion tart with bacon and caraway)",
+  "country": "Germany",
+  "category": "Starter",
+  "tags": [
+   "German",
+   "tart",
+   "onion"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "dried yeast (one sachet)"
+   },
+   {
+    "measure": "125 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "40 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "sugar and salt"
+   },
+   {
+    "measure": "1 kg",
+    "name": "onions, sliced"
+   },
+   {
+    "measure": "100 g",
+    "name": "smoked bacon, diced"
+   },
+   {
+    "measure": "200 g",
+    "name": "sour cream"
+   },
+   {
+    "measure": "3",
+    "name": "eggs"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "caraway seeds"
+   },
+   {
+    "measure": "",
+    "name": "salt, pepper and nutmeg to taste"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt, add the warm milk and melted butter and knead into a smooth dough. Cover and leave in a warm place for about 1 hour until doubled.",
+   "Fry the bacon in a large pan until the fat runs, add the onions and cook gently for 15 to 20 minutes until soft and translucent but not brown. Let them cool.",
+   "Whisk the sour cream with the eggs, caraway, salt, pepper and a little nutmeg, then fold in the onions and bacon.",
+   "Heat the oven to 200 C. Roll the dough out to fit a greased baking tray or 28 cm tart tin, pushing a slight rim up the edge.",
+   "Spread the onion filling over the dough and bake for 30 to 35 minutes until the custard is set and the top is golden.",
+   "Serve warm in squares, traditionally with new wine or cider in autumn."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Zwiebelkuchen",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
