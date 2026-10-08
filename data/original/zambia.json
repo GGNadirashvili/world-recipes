@@ -1,0 +1,63 @@
+[
+ {
+  "id": "original-zambia-samp-and-beans-zambian-cracked-maize-with-beans",
+  "title": "Samp and beans (Zambian cracked maize with beans)",
+  "country": "Zambia",
+  "category": "Vegetarian",
+  "tags": [
+   "Zambian",
+   "maize",
+   "beans"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "samp (dried cracked maize kernels; coarse hominy or cracked corn is a substitute)"
+   },
+   {
+    "measure": "200 g",
+    "name": "dried sugar beans or kidney beans, soaked overnight"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1 large",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "cooking oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "curry powder (optional)"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Rinse the samp and the soaked, drained beans and put both in a large heavy pot with the water.",
+   "Bring to the boil, then lower the heat, cover and simmer for about 1.5 to 2 hours, topping up with hot water whenever the pot looks dry, until the samp and beans are both tender.",
+   "While they simmer, heat the oil in a frying pan and soften the onion for about 5 minutes.",
+   "Add the tomatoes and the curry powder, if using, and cook for 8 minutes until it forms a thick, glossy sauce.",
+   "Stir the sauce into the samp and beans and simmer uncovered for 10 minutes so the flavours mingle and the liquid thickens.",
+   "Season with salt, then mash a few spoonfuls of the beans against the side of the pot to make it creamier.",
+   "Serve hot as a filling main dish, or alongside grilled meat or a leafy green relish."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Samp",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

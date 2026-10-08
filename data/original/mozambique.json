@@ -1,0 +1,197 @@
+[
+ {
+  "id": "original-mozambique-caril-de-amendoim-mozambican-chicken-and-peanut-curry",
+  "title": "Caril de amendoim (Mozambican chicken and peanut curry)",
+  "country": "Mozambique",
+  "category": "Chicken",
+  "tags": [
+   "Mozambican",
+   "peanut",
+   "curry"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "chicken pieces, bone-in"
+   },
+   {
+    "measure": "150 g",
+    "name": "roasted unsalted peanuts"
+   },
+   {
+    "measure": "400 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "300 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 large",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "cooking oil"
+   },
+   {
+    "measure": "1",
+    "name": "fresh chilli or 1/2 tsp piri-piri sauce"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Blend the peanuts with the water into a smooth, creamy milk and set it aside.",
+   "Season the chicken pieces with salt and brown them in the oil in a heavy pot for about 8 minutes, then remove and set aside.",
+   "In the same pot, fry the onion for 5 minutes, then add the garlic, tomatoes and chilli and cook until the tomatoes soften.",
+   "Return the chicken to the pot and pour in the peanut milk and the coconut milk.",
+   "Bring to a gentle simmer, partly cover and cook for about 40 minutes, stirring from time to time, until the chicken is cooked through and the sauce is thick and velvety.",
+   "Taste and adjust the salt and heat; if the sauce gets too thick, loosen it with a little hot water.",
+   "Serve hot with white rice or xima."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Peanut_curry",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-mozambique-frango-piri-piri-mozambican-grilled-piri-piri-chicken",
+  "title": "Frango piri-piri (Mozambican grilled piri-piri chicken)",
+  "country": "Mozambique",
+  "category": "Chicken",
+  "tags": [
+   "Mozambican",
+   "grilled",
+   "spicy"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.5 kg",
+    "name": "whole chicken, spatchcocked"
+   },
+   {
+    "measure": "6",
+    "name": "small red chillies (bird's eye or piri-piri), chopped"
+   },
+   {
+    "measure": "5 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "60 ml",
+    "name": "olive oil"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "paprika"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Blend the chillies, garlic, olive oil, lemon juice, paprika, oregano and salt into a loose, fiery paste.",
+   "Slash the thickest parts of the chicken skin and rub about two thirds of the paste all over the bird, keeping the rest for serving.",
+   "Cover and marinate in the refrigerator for at least 4 hours, ideally overnight.",
+   "Bring the chicken to room temperature for 30 minutes and heat the oven to 220 C, or prepare a grill with medium coals.",
+   "Roast skin side up for about 45 to 55 minutes, brushing with the marinade juices halfway, until the skin is blistered and the thickest part of the thigh reaches 74 C.",
+   "If grilling, cook over indirect heat for about 40 minutes, then finish skin side down over direct heat for a few minutes to char it lightly.",
+   "Rest for 10 minutes, cut into pieces and serve with the reserved piri-piri paste, chips or rice and a green salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Piri_piri",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-mozambique-matapa-mozambican-greens-stewed-with-peanuts-and-coconut",
+  "title": "Matapa (Mozambican greens stewed with peanuts and coconut)",
+  "country": "Mozambique",
+  "category": "Vegetarian",
+  "tags": [
+   "Mozambican",
+   "greens",
+   "peanut"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "cassava leaves, finely chopped (frozen is fine; spinach or collard greens are substitutes)"
+   },
+   {
+    "measure": "100 g",
+    "name": "roasted unsalted peanuts, ground"
+   },
+   {
+    "measure": "400 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "1 large",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "250 g",
+    "name": "peeled raw shrimp (optional)"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "cooking oil"
+   },
+   {
+    "measure": "",
+    "name": "salt and chilli flakes to taste"
+   }
+  ],
+  "steps": [
+   "If using frozen cassava leaves, thaw them; if using spinach or collards, wash and chop them very finely.",
+   "Put the greens in a pot with a splash of water, cover and cook over medium heat for 20 to 30 minutes until very tender; cassava leaves need the longer time. Drain off any excess liquid.",
+   "Heat the oil in a second pot and fry the onion for 5 minutes until soft, then add the garlic and tomatoes and cook for another 5 minutes.",
+   "Add the cooked greens and the ground peanuts and stir well.",
+   "Pour in the coconut milk, season with salt and a pinch of chilli flakes, and simmer gently for about 20 minutes, stirring often, until thick and creamy.",
+   "If using shrimp, stir them in for the last 4 to 5 minutes, just until they turn pink and opaque.",
+   "Serve hot over white rice or beside xima, the thick maize porridge."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Matapa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

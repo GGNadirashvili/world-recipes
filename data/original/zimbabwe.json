@@ -1,0 +1,126 @@
+[
+ {
+  "id": "original-zimbabwe-delele-zimbabwean-slippery-okra-relish",
+  "title": "Delele (Zimbabwean slippery okra relish)",
+  "country": "Zimbabwe",
+  "category": "Vegetarian",
+  "tags": [
+   "Zimbabwean",
+   "okra",
+   "relish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "fresh okra, trimmed"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "bicarbonate of soda (baking soda)"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 medium",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "cooking oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "smooth peanut butter (optional, for richness)"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Wash the okra, cut off the stalk ends and chop the pods very finely, almost to a paste, because the stickiness is what the dish is known for.",
+   "Bring the water to a boil in a medium pot and stir in the bicarbonate of soda.",
+   "Add the chopped okra and simmer gently for 8 to 10 minutes, stirring now and then, until it turns bright green, soft and slippery.",
+   "While the okra cooks, heat the oil in a separate pan and fry the onion for about 5 minutes until soft and golden.",
+   "Add the tomatoes to the onion and cook for another 5 minutes until they break down into a thick sauce.",
+   "Tip the tomato and onion mixture into the okra, add the peanut butter if using, and stir well.",
+   "Simmer for 5 more minutes, season with salt and add a splash of water if it becomes too thick.",
+   "Serve hot as a relish beside sadza or any thick maize porridge, scooping it up with small balls of porridge."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Delele",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-zimbabwe-kapenta-with-tomato-and-onion-zimbabwean-fried-dried-sardines",
+  "title": "Kapenta with tomato and onion (Zimbabwean fried dried sardines)",
+  "country": "Zimbabwe",
+  "category": "Seafood",
+  "tags": [
+   "Zimbabwean",
+   "fish",
+   "relish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "150 g",
+    "name": "dried kapenta (small dried freshwater sardines; dried anchovies are a substitute)"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "cooking oil"
+   },
+   {
+    "measure": "2 medium",
+    "name": "onions, sliced"
+   },
+   {
+    "measure": "3",
+    "name": "ripe tomatoes, chopped"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "roasted ground peanuts (groundnut powder)"
+   },
+   {
+    "measure": "1",
+    "name": "fresh green chilli, sliced (optional)"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Rinse the dried kapenta briefly in cold water, then soak for 10 minutes so the fish soften slightly, and drain well.",
+   "Pat the fish dry with a clean cloth so they fry rather than steam.",
+   "Heat half of the oil in a frying pan over medium heat and fry the fish for 3 to 4 minutes until lightly crisp, then lift them out onto a plate.",
+   "Add the remaining oil to the pan and fry the onions for 5 minutes until soft and just starting to brown, adding the garlic and chilli for the last minute.",
+   "Stir in the tomatoes and cook for about 8 minutes until they collapse into a thick sauce.",
+   "Return the kapenta to the pan, sprinkle over the ground peanuts and stir gently so the fish are coated.",
+   "Add a splash of water and simmer for 3 to 4 minutes, tasting before adding salt because the fish are already salty.",
+   "Serve hot with sadza and a side of cooked greens."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kapenta",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
