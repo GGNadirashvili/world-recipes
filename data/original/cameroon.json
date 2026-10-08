@@ -1,0 +1,211 @@
+[
+ {
+  "id": "original-cameroon-achu-soup-cameroonian-yellow-soup-with-pounded-cocoyam",
+  "title": "Achu soup (Cameroonian yellow soup with pounded cocoyam)",
+  "country": "Cameroon",
+  "category": "Beef",
+  "tags": [
+   "Cameroonian",
+   "soup",
+   "cocoyam"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "taro (cocoyam), peeled"
+   },
+   {
+    "measure": "600 g",
+    "name": "beef, cut in chunks (a little tripe or cow skin is traditional)"
+   },
+   {
+    "measure": "120 ml",
+    "name": "red palm oil"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "kanwa (food-grade potash), or 1/2 tsp baking soda as a substitute"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ground njansang or ground pumpkin seeds (optional)"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground black pepper"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground chilli"
+   },
+   {
+    "measure": "1",
+    "name": "stock cube or 1 tsp salt"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, crushed"
+   }
+  ],
+  "steps": [
+   "Simmer the beef in the water with the garlic, half the pepper and the stock cube for about 1 hour until tender. Keep the broth.",
+   "Boil the taro in plenty of water for 30 to 40 minutes until very soft.",
+   "Drain the taro and pound or mash it with a heavy pestle or potato masher, adding a splash of hot water until you have a smooth, stretchy dough. Shape into balls and keep warm.",
+   "Dissolve the kanwa (or baking soda) in 3 tablespoons of warm water, let it settle and keep only the clear liquid.",
+   "Put the palm oil in a bowl and slowly beat in the clear liquid, a little at a time, until the oil turns thick, pale yellow and creamy.",
+   "Stir the yellow emulsion into the hot beef broth along with the chilli and ground seeds, and simmer for 5 minutes. Do not boil hard or it may split.",
+   "Serve the soup over the taro dough in wide bowls, with the beef on top."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Achu_(soup)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cameroon-koki-cameroonian-steamed-black-eyed-pea-pudding",
+  "title": "Koki (Cameroonian steamed black-eyed pea pudding)",
+  "country": "Cameroon",
+  "category": "Vegan",
+  "tags": [
+   "Cameroonian",
+   "black-eyed peas",
+   "steamed"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "dried black-eyed peas"
+   },
+   {
+    "measure": "100 ml",
+    "name": "red palm oil"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, roughly chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground chilli, or to taste"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "ground crayfish or 1 tsp mushroom powder (optional)"
+   },
+   {
+    "measure": "",
+    "name": "banana leaves or foil, for wrapping"
+   },
+   {
+    "measure": "4",
+    "name": "ripe or green plantains, to serve"
+   }
+  ],
+  "steps": [
+   "Soak the peas overnight in plenty of cold water, then rub them between your hands to loosen and rinse off the skins; drain.",
+   "Blend the peeled peas with the onion, chilli, salt and just enough cold water to make a thick, fluffy paste; it should hold a spoon upright.",
+   "Beat in the palm oil until evenly coloured.",
+   "Cut banana leaves into rectangles, soften over a flame or in hot water, and spoon about 1/2 cup of paste in the centre of each. Fold into tight parcels, or use foil.",
+   "Steam the parcels in a pot with a rack and a little water for 60 to 75 minutes until firm.",
+   "Boil or fry the plantains and serve them beside the unwrapped koki."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Koki_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cameroon-kondreh-cameroonian-goat-and-green-plantain-stew",
+  "title": "Kondreh (Cameroonian goat and green plantain stew)",
+  "country": "Cameroon",
+  "category": "Goat",
+  "tags": [
+   "Cameroonian",
+   "plantain",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "goat meat on the bone, cut in pieces (or lamb)"
+   },
+   {
+    "measure": "6",
+    "name": "green (unripe) plantains, peeled and cut in chunks"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "red palm oil"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1",
+    "name": "tomato, chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried thyme"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground black pepper"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground nutmeg"
+   },
+   {
+    "measure": "1",
+    "name": "scotch bonnet or other hot chilli, left whole"
+   },
+   {
+    "measure": "750 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Put the goat in a large heavy pot with the water, onion, garlic, thyme, bay leaves, salt and black pepper. Bring to a boil, skim, then simmer for 45 minutes.",
+   "Stir in the palm oil, tomato, nutmeg and whole chilli and continue cooking for 20 minutes.",
+   "Add the plantain pieces on top of the meat, pushing them down into the broth.",
+   "Cover and simmer for 25 to 30 minutes until the plantains are soft and the meat is tender; add a little water if the pot starts to dry.",
+   "Press a few plantain pieces against the side of the pot to thicken the sauce, remove the chilli and bay leaves, and taste for seasoning.",
+   "Serve hot, directly from the pot."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kondreh_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

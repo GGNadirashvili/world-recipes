@@ -1,0 +1,602 @@
+[
+ {
+  "id": "original-senegal-cafe-touba-senegalese-spiced-coffee-with-grains-of-selim",
+  "title": "Café Touba (Senegalese spiced coffee with grains of Selim)",
+  "country": "Senegal",
+  "category": "Miscellaneous",
+  "tags": [
+   "Senegalese",
+   "coffee",
+   "drink"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4 tbsp",
+    "name": "ground coffee, medium roast"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "grains of Selim (or 1/2 tsp cloves with 1/2 tsp black pepper)"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground ginger or a small piece of fresh ginger, bruised"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "sugar or evaporated milk, to taste"
+   }
+  ],
+  "steps": [
+   "Grind the coffee together with the Selim grains, or the cloves and pepper if substituting, to make a fine spiced powder.",
+   "Bring the water to a boil in a pot or coffee pot.",
+   "Add the spiced coffee and ginger, lower the heat and let it steep for 5 minutes without boiling vigorously.",
+   "Strain through a fine cloth or paper filter into cups.",
+   "Serve hot and sweetened with sugar, and with milk if you like."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_touba",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-senegal-caldou-senegalese-lemony-fish-and-vegetable-broth",
+  "title": "Caldou (Senegalese lemony fish and vegetable broth)",
+  "country": "Senegal",
+  "category": "Seafood",
+  "tags": [
+   "Senegalese",
+   "fish",
+   "broth"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "firm white fish steaks, such as snapper or sea bream"
+   },
+   {
+    "measure": "3",
+    "name": "onions, sliced"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, sliced thick"
+   },
+   {
+    "measure": "300 g",
+    "name": "cassava or potato, in chunks"
+   },
+   {
+    "measure": "1",
+    "name": "sweet potato, in chunks"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water or light fish stock"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tamarind paste, or juice of 2 limes"
+   },
+   {
+    "measure": "1",
+    "name": "hot chilli, left whole"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "cooked rice, to serve"
+   }
+  ],
+  "steps": [
+   "Rub the fish with salt, pepper and half the crushed garlic and let it sit while you make the broth.",
+   "Heat the oil in a wide pot and cook the onions for 8 minutes over medium heat until translucent and just starting to colour.",
+   "Add the remaining garlic, tomatoes and tomato paste and cook for 5 minutes, stirring.",
+   "Pour in the water, add the carrots, cassava, sweet potato and the whole chilli, and simmer for 15 minutes until the vegetables are nearly tender.",
+   "Stir in the tamarind or lime juice, then slide in the fish. Cover and simmer very gently for 8 to 10 minutes, just until the fish flakes.",
+   "Taste and adjust the salt and sourness. Serve the fish and vegetables in shallow bowls with plenty of broth, with rice on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Caldou",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-senegal-mafe-senegalese-peanut-stew-with-beef",
+  "title": "Mafé (Senegalese peanut stew with beef)",
+  "country": "Senegal",
+  "category": "Beef",
+  "tags": [
+   "Senegalese",
+   "peanut",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "700 g",
+    "name": "beef stewing meat (or lamb), cubed"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "5 tbsp",
+    "name": "smooth natural peanut butter, unsweetened"
+   },
+   {
+    "measure": "750 ml",
+    "name": "hot water or beef stock"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, in chunks"
+   },
+   {
+    "measure": "2",
+    "name": "sweet potatoes or potatoes, in chunks"
+   },
+   {
+    "measure": "1/4",
+    "name": "small cabbage, in wedges"
+   },
+   {
+    "measure": "1",
+    "name": "scotch bonnet or other hot chilli, left whole"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "cooked rice, to serve"
+   }
+  ],
+  "steps": [
+   "Season the beef with salt and pepper. Brown it in the hot oil in a large pot, working in batches, and set aside.",
+   "Cook the onions in the same pot for about 6 minutes until soft and golden, then add the garlic and tomato paste and stir for 2 minutes.",
+   "Whisk the peanut butter with a ladle of the hot water until smooth, then stir it into the pot together with the remaining water.",
+   "Return the beef, add the whole chilli, cover and simmer gently for 1 hour, stirring now and then so the peanut butter does not catch on the bottom.",
+   "Add the carrots and sweet potatoes and simmer for 15 minutes, then add the cabbage and cook another 10 to 15 minutes until everything is tender.",
+   "Let the stew cook down until the sauce is thick and a layer of reddish oil rises to the surface. Remove the chilli (or mash a little into the sauce for more heat).",
+   "Serve over plain white rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Peanut_stew",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-senegal-sombi-senegalese-coconut-rice-pudding",
+  "title": "Sombi (Senegalese coconut rice pudding)",
+  "country": "Senegal",
+  "category": "Dessert",
+  "tags": [
+   "Senegalese",
+   "coconut",
+   "rice pudding"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "short-grain rice"
+   },
+   {
+    "measure": "400 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "500 ml",
+    "name": "water"
+   },
+   {
+    "measure": "100 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "grated nutmeg"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "50 g",
+    "name": "grated coconut or raisins (optional)"
+   }
+  ],
+  "steps": [
+   "Rinse the rice well in several changes of water until the water runs nearly clear.",
+   "Put the rice in a saucepan with the water and salt, bring to a boil, then cover and cook over low heat for 15 minutes until the grains are soft.",
+   "Pour in the coconut milk and sugar and cook uncovered over low heat, stirring often, for 15 to 20 minutes until the pudding is creamy and thick.",
+   "Stir in the vanilla and nutmeg, and fold in the coconut or raisins if using.",
+   "Serve warm, or chill for a few hours and serve cold; it thickens as it cools, so loosen with a splash of milk if needed."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sombi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-senegal-soupe-kandia-senegalese-okra-and-palm-oil-soup",
+  "title": "Soupe kandia (Senegalese okra and palm oil soup)",
+  "country": "Senegal",
+  "category": "Starter",
+  "tags": [
+   "Senegalese",
+   "okra",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "okra, trimmed and sliced"
+   },
+   {
+    "measure": "300 g",
+    "name": "beef or goat meat, cubed"
+   },
+   {
+    "measure": "150 g",
+    "name": "smoked fish, flaked (or smoked mackerel or smoked sausage)"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "red palm oil"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "1.2 litres",
+    "name": "water or stock"
+   },
+   {
+    "measure": "1",
+    "name": "scotch bonnet or other hot chilli, left whole"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "cooked rice, to serve"
+   }
+  ],
+  "steps": [
+   "Put the beef in a pot with the water, half the onion, the garlic and a little salt. Bring to a boil and simmer for about 45 minutes until the meat is almost tender.",
+   "Meanwhile, heat the palm oil in a separate pan and cook the remaining onion until soft. Stir in the tomato paste and cook 3 minutes.",
+   "Tip the onion mixture into the pot of meat and add the smoked fish and whole chilli.",
+   "Stir in the sliced okra and simmer, partly covered, for 15 to 20 minutes until the okra is soft and has thickened the soup.",
+   "Taste for salt and add more water if the soup is too thick; it should coat a spoon but still pour.",
+   "Remove the chilli and serve the soup hot with rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Soupe_kandia",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-senegal-tapalapa-senegalese-baguette-style-bread",
+  "title": "Tapalapa (Senegalese baguette-style bread)",
+  "country": "Senegal",
+  "category": "Side",
+  "tags": [
+   "Senegalese",
+   "bread",
+   "baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "strong white bread flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "fast-acting dry yeast"
+   },
+   {
+    "measure": "1.5 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "330 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "vegetable oil"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, salt and sugar in a large bowl, then add the warm water and oil and stir to a shaggy dough.",
+   "Knead on a lightly floured surface for 10 minutes until the dough is smooth and elastic.",
+   "Cover and leave in a warm place for 1 to 1.5 hours until doubled in size.",
+   "Heat the oven to 230 C and put an empty tray on the bottom shelf to heat.",
+   "Divide the dough into two, shape each into a short, fat loaf and place on a floured baking sheet. Cover and let rise for 30 minutes.",
+   "Slash the tops, slide the sheet in the oven and pour a cup of water in the hot tray for steam. Bake for 25 to 30 minutes until deep golden and hollow-sounding when tapped.",
+   "Cool slightly, then serve with beans, eggs, or a stew."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tapalapa_(bread)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-senegal-thiakry-senegalese-millet-couscous-with-sweet-yoghurt",
+  "title": "Thiakry (Senegalese millet couscous with sweet yoghurt)",
+  "country": "Senegal",
+  "category": "Dessert",
+  "tags": [
+   "Senegalese",
+   "millet",
+   "sweet"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "millet couscous (or fine couscous), steamed"
+   },
+   {
+    "measure": "500 g",
+    "name": "plain thick yoghurt"
+   },
+   {
+    "measure": "200 ml",
+    "name": "evaporated milk or double cream"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "sugar, or to taste"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "freshly grated nutmeg"
+   },
+   {
+    "measure": "50 g",
+    "name": "raisins, soaked in warm water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "orange blossom water (optional)"
+   }
+  ],
+  "steps": [
+   "Steam or soak the millet couscous according to the package until it is fluffy and fully cooked, breaking up any lumps with a fork as it cools.",
+   "Let the couscous cool completely, as warm grains would thin the dairy.",
+   "In a large bowl whisk together the yoghurt, evaporated milk, sugar, vanilla, nutmeg and orange blossom water until smooth.",
+   "Drain the raisins and fold them in with the cooled couscous.",
+   "Cover and chill for at least 1 hour so the grains absorb some of the cream.",
+   "Stir again, adjusting the sweetness, and serve in bowls, cold."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chakery",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-senegal-thieboudienne-senegalese-red-rice-with-fish-and-vegetables",
+  "title": "Thieboudienne (Senegalese red rice with fish and vegetables)",
+  "country": "Senegal",
+  "category": "Seafood",
+  "tags": [
+   "Senegalese",
+   "rice",
+   "national dish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "firm white fish steaks or fillets, such as grouper, snapper or cod"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "flat-leaf parsley"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "1",
+    "name": "hot chilli or scotch bonnet (optional)"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "120 ml",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "1 litre",
+    "name": "fish stock or water"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, cut in chunks"
+   },
+   {
+    "measure": "200 g",
+    "name": "cassava or sweet potato, cut in chunks"
+   },
+   {
+    "measure": "1/4",
+    "name": "small white cabbage, cut in wedges"
+   },
+   {
+    "measure": "1",
+    "name": "aubergine, cut in chunks"
+   },
+   {
+    "measure": "400 g",
+    "name": "broken or long-grain rice, rinsed"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tamarind paste or juice of 1 lime"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Chop the parsley, garlic and chilli together with a little salt and pepper to make a coarse green paste. Cut slits in the fish and push some of the paste into each one, keeping the rest for the sauce.",
+   "Heat the oil in a large heavy pot and fry the fish for about 3 minutes per side until lightly golden. Lift it out onto a plate.",
+   "In the same oil cook the onion for 5 minutes, then stir in the tomato paste and chopped tomatoes and fry for 10 minutes until the oil separates and the sauce darkens.",
+   "Add the remaining herb paste and the stock, bring to a boil, then add the carrots, cassava, cabbage and aubergine. Simmer for 20 to 25 minutes until the vegetables are tender, then remove them and keep warm with the fish.",
+   "Stir in the tamarind or lime juice and taste the broth for salt. Measure out enough of the broth to cook the rice, about 700 ml, and top it up with water if needed.",
+   "Add the rinsed rice to the broth in the pot, cover tightly and cook over low heat for 20 minutes until the rice has absorbed the liquid and turned a rich orange-red.",
+   "Fluff the rice, spoon it onto a large platter, and arrange the fish and vegetables on top. Serve hot with lime wedges."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thieboudienne",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-senegal-thiere-senegalese-millet-couscous-with-sweetened-milk",
+  "title": "Thiéré (Senegalese millet couscous with sweetened milk)",
+  "country": "Senegal",
+  "category": "Breakfast",
+  "tags": [
+   "Senegalese",
+   "millet",
+   "porridge"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "millet couscous"
+   },
+   {
+    "measure": "500 ml",
+    "name": "whole milk, or fermented milk or plain yoghurt thinned with milk"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "sugar, or to taste"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter or oil"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "vanilla or grated nutmeg (optional)"
+   }
+  ],
+  "steps": [
+   "Tip the dry couscous into a bowl, sprinkle with a little salt and about 100 ml warm water, then rub the grains between your fingers to separate them.",
+   "Steam the grains in a steamer lined with muslin, or in a sieve over simmering water, for 15 minutes.",
+   "Return the grains to the bowl, break up lumps, sprinkle with a little more water and the butter, then steam again for 15 minutes until soft and fluffy.",
+   "While the couscous steams, stir the sugar and any flavouring into the cold milk until dissolved.",
+   "Fluff the hot couscous with a fork and serve in bowls with the sweet milk poured over, either hot or chilled."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thiere",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

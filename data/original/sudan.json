@@ -1,0 +1,322 @@
+[
+ {
+  "id": "original-sudan-karkadeh-sudanese-hibiscus-tea",
+  "title": "Karkadeh (Sudanese hibiscus tea)",
+  "country": "Sudan",
+  "category": "Miscellaneous",
+  "tags": [
+   "Sudanese",
+   "hibiscus",
+   "drink"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "60 g",
+    "name": "dried hibiscus flowers"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "100 g",
+    "name": "sugar, or to taste"
+   },
+   {
+    "measure": "1",
+    "name": "piece fresh ginger, sliced (optional)"
+   },
+   {
+    "measure": "",
+    "name": "ice and lemon, to serve"
+   }
+  ],
+  "steps": [
+   "Rinse the hibiscus flowers and put them in a pot with the water and ginger.",
+   "Bring to a boil, then lower the heat and simmer for 10 minutes.",
+   "Remove from heat, add the sugar, and stir until dissolved.",
+   "Strain, cool, and chill for several hours.",
+   "Serve over ice with lemon."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hibiscus_tea",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sudan-lugaimat-sudanese-fried-dough-balls-in-syrup",
+  "title": "Lugaimat (Sudanese fried dough balls in syrup)",
+  "country": "Sudan",
+  "category": "Dessert",
+  "tags": [
+   "Sudanese",
+   "fried",
+   "sweet"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "instant yeast"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "300 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "",
+    "name": "oil for deep frying"
+   },
+   {
+    "measure": "200 g",
+    "name": "sugar, for the syrup"
+   },
+   {
+    "measure": "150 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract or rose water"
+   }
+  ],
+  "steps": [
+   "Whisk the flour, yeast, sugar and salt with the warm water to a thick, sticky batter, and rest for 1 hour until bubbly.",
+   "For the syrup, boil the sugar and water for 8 minutes with lemon juice, then add the vanilla and cool.",
+   "Heat the oil to 170 C.",
+   "Drop in balls of batter using two spoons and fry for 3 to 4 minutes until golden.",
+   "Drain, dip in the syrup or pour it over, and serve warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lokma",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sudan-mullah-tagalia-sudanese-red-minced-beef-sauce",
+  "title": "Mullah tagalia (Sudanese red minced beef sauce)",
+  "country": "Sudan",
+  "category": "Beef",
+  "tags": [
+   "Sudanese",
+   "stew",
+   "Ramadan"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "minced beef"
+   },
+   {
+    "measure": "2",
+    "name": "onions, finely chopped"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground coriander"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "paprika or mild chilli powder"
+   },
+   {
+    "measure": "300 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Fry the onions in the oil for 8 minutes until golden.",
+   "Add the garlic, tomato paste, and spices and cook for 3 minutes.",
+   "Add the mince, breaking it up, and fry until browned.",
+   "Pour in the water, bring to a simmer, and cook uncovered for 25 to 30 minutes until thick and the oil rises to the surface.",
+   "Season and serve with bread, rice or asida."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tagalia",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sudan-sudanese-basbousa-semolina-cake-with-syrup",
+  "title": "Sudanese basbousa (semolina cake with syrup)",
+  "country": "Sudan",
+  "category": "Dessert",
+  "tags": [
+   "Sudanese",
+   "semolina",
+   "cake"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "fine semolina"
+   },
+   {
+    "measure": "100 g",
+    "name": "desiccated coconut"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "200 g",
+    "name": "plain yoghurt"
+   },
+   {
+    "measure": "120 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "12",
+    "name": "blanched almonds"
+   },
+   {
+    "measure": "250 g",
+    "name": "sugar, for syrup"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 C and grease a baking tin.",
+   "Mix the semolina, coconut, sugar and baking powder, then stir in the yoghurt, butter and vanilla.",
+   "Rest for 15 minutes, then spread in the tin and cut into diamonds, pressing an almond on each.",
+   "Bake for 30 to 35 minutes until golden.",
+   "Meanwhile boil the syrup ingredients for 10 minutes and cool.",
+   "Pour the cold syrup over the hot cake, rest, and serve."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Basbousa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-sudan-tamiya-sudanese-falafel",
+  "title": "Tamiya (Sudanese falafel)",
+  "country": "Sudan",
+  "category": "Vegan",
+  "tags": [
+   "Sudanese",
+   "chickpeas",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "dried chickpeas, soaked overnight"
+   },
+   {
+    "measure": "1",
+    "name": "onion, roughly chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "fresh parsley"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "fresh coriander"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground coriander"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "bicarbonate of soda"
+   },
+   {
+    "measure": "",
+    "name": "oil for deep frying"
+   }
+  ],
+  "steps": [
+   "Drain the soaked chickpeas and blend them in a food processor with the onion, garlic, herbs and spices to a coarse, grainy paste.",
+   "Rest the mixture for 30 minutes, then stir in the bicarbonate of soda.",
+   "Form into small patties or balls.",
+   "Heat the oil to 180 C and fry in batches for 3 to 4 minutes until deep golden brown.",
+   "Drain on paper and serve in bread with salad and tahini."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Falafel",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

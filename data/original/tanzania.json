@@ -1,0 +1,365 @@
+[
+ {
+  "id": "original-tanzania-chipsi-mayai-tanzanian-chips-omelette",
+  "title": "Chipsi mayai (Tanzanian chips omelette)",
+  "country": "Tanzania",
+  "category": "Vegetarian",
+  "tags": [
+   "Tanzanian",
+   "street food",
+   "eggs"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "potatoes, peeled and cut in thin fries"
+   },
+   {
+    "measure": "6",
+    "name": "eggs"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "1",
+    "name": "small tomato, chopped (optional)"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying, plus 2 tbsp for the omelette"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper, to taste"
+   },
+   {
+    "measure": "",
+    "name": "kachumbari (tomato and onion salad) and hot sauce, to serve"
+   }
+  ],
+  "steps": [
+   "Deep-fry or oven-bake the fries until golden and tender; drain and season lightly.",
+   "Beat the eggs with the onion, tomato, salt and pepper.",
+   "Heat the 2 tablespoons of oil in a large non-stick pan over medium heat.",
+   "Tip in the fries, spread them out, and pour the eggs over, tilting the pan.",
+   "Cook for 3 minutes until the base is set, then flip using a plate and cook the other side 2 to 3 minutes until golden.",
+   "Cut into wedges and serve with kachumbari and hot sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chipsi_mayai",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-tanzania-kuku-paka-tanzanian-coconut-chicken-curry",
+  "title": "Kuku paka (Tanzanian coconut chicken curry)",
+  "country": "Tanzania",
+  "category": "Chicken",
+  "tags": [
+   "Tanzanian",
+   "coconut",
+   "curry"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "chicken pieces, bone-in"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "grated fresh ginger"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "curry powder"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "400 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "1",
+    "name": "green chilli, slit"
+   },
+   {
+    "measure": "1 handful",
+    "name": "fresh coriander, chopped"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken with the lemon juice, half the garlic, ginger, salt, and half the curry powder for 30 minutes.",
+   "Grill or pan-sear the chicken until charred on the outside; it does not need to cook through.",
+   "Heat the oil in a pot, cook the onion for 6 minutes, then add the remaining garlic, ginger, curry powder, turmeric and cumin and stir for 1 minute.",
+   "Add the tomatoes and cook until saucy.",
+   "Pour in the coconut milk and chilli, add the chicken, and simmer gently for 25 minutes until cooked through and the sauce is thick.",
+   "Scatter with coriander and serve with rice or chapati."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kuku_paka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-tanzania-mandazi-tanzanian-cardamom-and-coconut-fried-dough",
+  "title": "Mandazi (Tanzanian cardamom and coconut fried dough)",
+  "country": "Tanzania",
+  "category": "Breakfast",
+  "tags": [
+   "Tanzanian",
+   "fried",
+   "coconut"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "60 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "200 ml",
+    "name": "coconut milk, or milk"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "melted butter or oil"
+   },
+   {
+    "measure": "",
+    "name": "oil for deep frying"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder, sugar, cardamom and salt.",
+   "Whisk the coconut milk, egg and butter, then pour into the dry ingredients and knead into a soft, smooth dough.",
+   "Cover and rest for 30 minutes.",
+   "Roll out to about 1 cm thick and cut into triangles or squares.",
+   "Fry in oil at about 170 C for 2 to 3 minutes per side until puffed and golden.",
+   "Drain and serve warm with tea."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mandazi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-tanzania-mtori-tanzanian-green-banana-and-beef-soup",
+  "title": "Mtori (Tanzanian green banana and beef soup)",
+  "country": "Tanzania",
+  "category": "Beef",
+  "tags": [
+   "Tanzanian",
+   "banana",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "beef on the bone, in pieces"
+   },
+   {
+    "measure": "6",
+    "name": "green cooking bananas or green plantains, peeled and cut up"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, peeled and chunked (optional)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "100 ml",
+    "name": "milk (optional)"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Cook the beef in the water with half the onion and salt for 45 to 60 minutes until tender.",
+   "Fry the remaining onion in the oil, add the tomatoes and cook to a thick sauce; add to the pot.",
+   "Add the bananas (and potatoes if using) and simmer for 25 to 30 minutes until falling apart.",
+   "Take out the meat, mash the bananas in the broth with a masher, or blend until the stew is thick and smooth.",
+   "Return the beef, stir in the milk, and simmer for 5 more minutes.",
+   "Taste and season, then serve hot."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mtori",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-tanzania-sukuma-wiki-east-african-braised-collard-greens",
+  "title": "Sukuma wiki (East African braised collard greens)",
+  "country": "Tanzania",
+  "category": "Vegan",
+  "tags": [
+   "Tanzanian",
+   "greens",
+   "side"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "collard greens or kale, stems removed, thinly sliced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Heat the oil and fry the onion for 5 minutes until soft.",
+   "Add the garlic and tomatoes and cook until they break down.",
+   "Add the greens in batches, stirring so they wilt.",
+   "Pour in the water, add salt, cover, and cook over medium heat for 10 minutes.",
+   "Uncover and cook off any liquid, then serve with ugali or rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sukuma_wiki",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-tanzania-ugali-tanzanian-stiff-maize-meal-porridge",
+  "title": "Ugali (Tanzanian stiff maize meal porridge)",
+  "country": "Tanzania",
+  "category": "Side",
+  "tags": [
+   "Tanzanian",
+   "maize",
+   "staple"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "white maize flour (cornmeal)"
+   },
+   {
+    "measure": "900 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt (optional)"
+   }
+  ],
+  "steps": [
+   "Bring 600 ml of the water to a boil in a heavy saucepan with the salt.",
+   "Mix the flour with the remaining water to a smooth paste and stir into the boiling water to form a loose porridge.",
+   "Cook over medium heat for 5 minutes, stirring.",
+   "Add the remaining flour a handful at a time, beating with a wooden spoon, until the mixture is thick and pulls away from the pot.",
+   "Cover and cook on low for 5 minutes, then stir vigorously for 3 minutes more.",
+   "Shape into a mound with a wet spoon and serve hot with stew or greens, eaten by hand."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ugali",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
