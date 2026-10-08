@@ -1,0 +1,363 @@
+[
+ {
+  "id": "original-greece-fasolada-greek-white-bean-soup",
+  "title": "Fasolada (Greek white bean soup)",
+  "country": "Greece",
+  "category": "Starter",
+  "tags": [
+   "Greek",
+   "soup",
+   "bean"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "dried white beans (haricot or cannellini), soaked overnight"
+   },
+   {
+    "measure": "80 ml",
+    "name": "extra virgin olive oil, plus more to serve"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, sliced"
+   },
+   {
+    "measure": "2 stalks",
+    "name": "celery, sliced"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "400 g",
+    "name": "canned chopped tomatoes"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "chopped parsley to serve"
+   }
+  ],
+  "steps": [
+   "Drain the soaked beans, put them in a large pot with plenty of fresh water and boil for 10 minutes. Drain again and discard the water, which helps make the beans easier to digest.",
+   "In the same pot, warm half of the olive oil and cook the onion, carrot and celery for about 5 minutes until they begin to soften, then add the garlic for a minute.",
+   "Stir in the tomato paste, then add the beans, chopped tomatoes, bay leaves and oregano, and cover with about 1.5 litres of hot water.",
+   "Bring to a boil, then lower the heat and simmer, partly covered, for 1 to 1.5 hours until the beans are completely tender and the broth is thick.",
+   "Season with salt and pepper only near the end, add the remaining olive oil and simmer a few minutes more; mash a few beans against the side of the pot if you want a thicker soup.",
+   "Serve hot with parsley, a thread of olive oil, olives, feta and crusty bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fasolada",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-greece-kleftiko-greek-slow-roasted-lamb-with-potatoes",
+  "title": "Kleftiko (Greek slow-roasted lamb with potatoes)",
+  "country": "Greece",
+  "category": "Lamb",
+  "tags": [
+   "Greek",
+   "roast",
+   "slow-cooked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.2 kg",
+    "name": "lamb shoulder or leg, on the bone, cut into large pieces"
+   },
+   {
+    "measure": "800 g",
+    "name": "potatoes, cut into wedges"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, cut into thick wedges"
+   },
+   {
+    "measure": "6 cloves",
+    "name": "garlic, lightly crushed"
+   },
+   {
+    "measure": "1",
+    "name": "red or green bell pepper, cut into chunks"
+   },
+   {
+    "measure": "1",
+    "name": "lemon, juice and zest"
+   },
+   {
+    "measure": "80 ml",
+    "name": "olive oil"
+   },
+   {
+    "measure": "100 ml",
+    "name": "dry white wine"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "3",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "150 g",
+    "name": "kefalotyri or feta, cut into slabs (optional)"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Mix the olive oil, lemon juice and zest, wine, oregano, plenty of salt and pepper and half of the garlic. Rub this over the lamb and marinate for at least 4 hours, ideally overnight.",
+   "Heat the oven to 160 C (140 C fan). Lay a large sheet of baking paper over a deep roasting tin, with enough overhang to fold over the top later.",
+   "Spread the potatoes, onion, pepper, remaining garlic and bay leaves on the paper, season, and place the lamb on top. Pour over the marinade.",
+   "Add the cheese slabs if using, then fold the paper up over the food and wrap it into a tight parcel, covering with foil if you do not have enough paper.",
+   "Roast for about 3 to 3.5 hours, until the lamb is falling off the bone and the potatoes have soaked up the juices.",
+   "Open the parcel for the last 20 minutes at 200 C so the top browns lightly. Serve straight from the tin with a salad and lemon wedges."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kleftiko",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-greece-melomakarona-greek-honey-and-walnut-christmas-cookies",
+  "title": "Melomakarona (Greek honey and walnut Christmas cookies)",
+  "country": "Greece",
+  "category": "Dessert",
+  "tags": [
+   "Greek",
+   "Christmas",
+   "honey"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "100 g",
+    "name": "fine semolina"
+   },
+   {
+    "measure": "150 ml",
+    "name": "olive oil"
+   },
+   {
+    "measure": "100 ml",
+    "name": "fresh orange juice"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "orange zest"
+   },
+   {
+    "measure": "50 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "brandy"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cinnamon"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cloves"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "baking soda"
+   },
+   {
+    "measure": "250 g",
+    "name": "honey, for the syrup"
+   },
+   {
+    "measure": "200 ml",
+    "name": "water, for the syrup"
+   },
+   {
+    "measure": "100 g",
+    "name": "chopped walnuts to finish"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 C (160 C fan). Whisk the olive oil, sugar, orange juice, zest and brandy together until the sugar dissolves.",
+   "Mix the flour, semolina, cinnamon, cloves, baking powder and baking soda, then add to the wet mixture and fold gently into a soft dough. Do not overwork it or the cookies will be tough.",
+   "Shape the dough into small oval cookies about 6 cm long and place them on lined trays, pressing the tops lightly with a fork.",
+   "Bake for 20 to 25 minutes until golden, then cool on a rack.",
+   "Meanwhile boil the honey with the water for 5 minutes and skim off the foam, then keep it warm over low heat.",
+   "Dip the cooled cookies into the warm syrup for about 30 seconds each, turn them once, and lift them onto a rack to drain.",
+   "Sprinkle with the chopped walnuts while still sticky and leave to set. They taste better after a day."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Melomakarono",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-greece-skordalia-greek-garlic-and-potato-dip",
+  "title": "Skordalia (Greek garlic and potato dip)",
+  "country": "Greece",
+  "category": "Side",
+  "tags": [
+   "Greek",
+   "dip",
+   "garlic"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "floury potatoes, peeled and cut into chunks"
+   },
+   {
+    "measure": "5 cloves",
+    "name": "garlic, crushed to a paste with salt"
+   },
+   {
+    "measure": "120 ml",
+    "name": "extra virgin olive oil"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "white wine vinegar or lemon juice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt, or to taste"
+   },
+   {
+    "measure": "",
+    "name": "white pepper to taste"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in salted water for about 20 minutes, until completely soft. Drain well and let the steam escape for a couple of minutes.",
+   "While they are still warm, pass the potatoes through a ricer or mash them very thoroughly in a bowl. A food processor makes the mix gluey, so avoid it.",
+   "Crush the garlic with a little salt to a smooth paste and stir it into the potatoes.",
+   "Beat in the olive oil in a thin stream, a little at a time, as if making mayonnaise, until the mixture is creamy and glossy.",
+   "Add the vinegar or lemon juice, then taste and adjust the garlic, salt and acidity. Thin with a spoonful of warm water if it is too stiff.",
+   "Serve at room temperature with fried or roasted fish, beetroot, or fried courgette and aubergine slices."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Skordalia",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-greece-spanakorizo-greek-spinach-and-rice",
+  "title": "Spanakorizo (Greek spinach and rice)",
+  "country": "Greece",
+  "category": "Vegetarian",
+  "tags": [
+   "Greek",
+   "vegetarian",
+   "rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "fresh spinach, washed and roughly chopped (or 500 g frozen)"
+   },
+   {
+    "measure": "200 g",
+    "name": "long-grain rice"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, finely chopped"
+   },
+   {
+    "measure": "4",
+    "name": "spring onions, sliced"
+   },
+   {
+    "measure": "80 ml",
+    "name": "olive oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "fresh dill, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "fresh mint, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "lemon, juiced"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   },
+   {
+    "measure": "",
+    "name": "feta to serve"
+   }
+  ],
+  "steps": [
+   "Warm the olive oil in a wide pot and cook the onion and spring onions gently for about 8 minutes, until soft and golden.",
+   "Stir in the tomato paste and cook for a minute, then add the spinach in batches, letting each batch wilt before adding the next.",
+   "Cook the spinach for about 5 minutes, until most of its liquid has come out.",
+   "Add the rice, season with salt and pepper and pour in about 400 ml of hot water. Stir once and bring to a boil.",
+   "Cover, reduce the heat to low and cook for 15 to 18 minutes until the rice is tender and the liquid is absorbed; add a splash more hot water if it dries out too soon.",
+   "Stir in the dill, mint and lemon juice, rest for 5 minutes, and serve warm or at room temperature with feta and an extra drizzle of olive oil."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Spanakorizo",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
