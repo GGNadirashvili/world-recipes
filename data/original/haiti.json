@@ -1,0 +1,865 @@
+[
+ {
+  "id": "original-haiti-akasan-haitian-spiced-cornmeal-drink",
+  "title": "Akasan (Haitian spiced cornmeal drink)",
+  "country": "Haiti",
+  "category": "Breakfast",
+  "tags": [
+   "Haitian",
+   "corn",
+   "warm drink"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "120 g",
+    "name": "fine cornmeal"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "star anise"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "400 ml",
+    "name": "evaporated milk or sweetened condensed milk"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "sugar, or to taste"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "ground nutmeg"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Mix the cornmeal with 250 ml of cold water until smooth.",
+   "Bring the remaining water to a boil in a pot with the star anise, cinnamon and a pinch of salt and simmer for 5 minutes.",
+   "Whisk in the cornmeal slurry slowly and cook over medium heat, stirring constantly, for 10 to 15 minutes until thickened and the raw corn taste is gone.",
+   "Remove the spices, then stir in the milk, sugar, vanilla and nutmeg and cook for 2 minutes more.",
+   "Thin with a little hot water if too thick; it should be pourable like a thin porridge.",
+   "Serve warm for breakfast, or chill and serve cold."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Akasan",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-akra-haitian-malanga-fritters",
+  "title": "Akra (Haitian malanga fritters)",
+  "country": "Haiti",
+  "category": "Vegan",
+  "tags": [
+   "Haitian",
+   "fritters",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "malanga (yautía) or taro root, peeled and finely grated"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2",
+    "name": "scallions, finely chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "chopped parsley"
+   },
+   {
+    "measure": "1/2",
+    "name": "scotch bonnet pepper, minced (optional)"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried thyme"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "vegetable oil for frying"
+   }
+  ],
+  "steps": [
+   "Wear gloves if you are sensitive and grate the malanga on the fine side of a box grater, squeezing out excess liquid in a clean cloth.",
+   "Mix the grated malanga with the garlic, scallions, parsley, scotch bonnet, thyme and salt.",
+   "Heat about 3 cm of oil to 175 C.",
+   "Drop heaped tablespoons of the mixture into the oil, flatten slightly and fry for 3 to 4 minutes per side until deep golden and cooked through.",
+   "Drain on paper towels and serve hot with pikliz."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fritay#Akra",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-bannann-peze-haitian-twice-fried-green-plantains",
+  "title": "Bannann peze (Haitian twice-fried green plantains)",
+  "country": "Haiti",
+  "category": "Side",
+  "tags": [
+   "Haitian",
+   "plantain",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "3",
+    "name": "green plantains, peeled and cut in 3 cm thick rounds"
+   },
+   {
+    "measure": "500 ml",
+    "name": "water"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, crushed"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "vegetable oil for frying"
+   }
+  ],
+  "steps": [
+   "Mix the water, garlic and salt in a bowl to make a brine and set it aside.",
+   "Heat 5 cm of oil to 160 C and fry the plantain rounds for 3 to 4 minutes until pale golden and tender.",
+   "Lift them out and, using the bottom of a heavy glass or a plantain press, flatten each round into a disc about 5 mm thick.",
+   "Dip each disc briefly into the brine and shake off the excess.",
+   "Return the discs to oil heated to 180 C and fry for 2 to 3 minutes per side until deep golden and crisp.",
+   "Drain on paper towels, sprinkle with a pinch of salt and serve hot with pikliz or alongside griot."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fritay#Bannann_Peze",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-bouyon-haitian-beef-and-root-vegetable-soup",
+  "title": "Bouyon (Haitian beef and root vegetable soup)",
+  "country": "Haiti",
+  "category": "Beef",
+  "tags": [
+   "Haitian",
+   "soup",
+   "Sunday"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "beef (shin or stew meat), cubed"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "epis (Haitian seasoning)"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, cubed"
+   },
+   {
+    "measure": "1",
+    "name": "sweet potato or yam, cubed"
+   },
+   {
+    "measure": "1",
+    "name": "green plantain, peeled and sliced"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, sliced"
+   },
+   {
+    "measure": "200 g",
+    "name": "spinach or other greens"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 sprigs",
+    "name": "fresh thyme"
+   },
+   {
+    "measure": "1",
+    "name": "whole scotch bonnet pepper"
+   },
+   {
+    "measure": "100 g",
+    "name": "flour, for dumplings"
+   },
+   {
+    "measure": "2.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Marinate the beef in the epis for 30 minutes, then simmer in the water with the onion and thyme for 1 hour.",
+   "Add the potatoes, sweet potato, plantain and carrots with the whole scotch bonnet and 1 teaspoon of salt, and cook for 15 minutes.",
+   "Mix the flour with 3 tablespoons of water and a pinch of salt into a stiff dough, roll small pieces into short fingers and drop them into the soup.",
+   "Simmer for 10 minutes until the dumplings and vegetables are tender.",
+   "Stir in the spinach, cook for 2 minutes and taste for salt.",
+   "Remove the pepper and serve hot in deep bowls."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bouillon_(soup)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-diri-djondjon-haitian-black-mushroom-rice",
+  "title": "Diri djondjon (Haitian black mushroom rice)",
+  "country": "Haiti",
+  "category": "Vegan",
+  "tags": [
+   "Haitian",
+   "rice",
+   "mushrooms"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "20 g",
+    "name": "dried djon djon mushrooms, or dried black trumpet or porcini mushrooms"
+   },
+   {
+    "measure": "300 g",
+    "name": "long-grain rice"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "3",
+    "name": "scallions, sliced"
+   },
+   {
+    "measure": "3 sprigs",
+    "name": "fresh thyme"
+   },
+   {
+    "measure": "150 g",
+    "name": "lima beans or peas, fresh or frozen"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1",
+    "name": "whole scotch bonnet pepper (optional)"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Put the dried mushrooms in a pot with 700 ml of water and simmer for 15 minutes until the water turns almost black, then strain and keep the liquid, discarding or finely chopping the mushrooms.",
+   "Heat the oil in a heavy pot and cook the onion, garlic, scallions and thyme for 5 minutes.",
+   "Add the rice and stir for 2 minutes, then pour in 600 ml of the black mushroom liquid, adding water if needed, and add the lima beans, salt and scotch bonnet.",
+   "Bring to a boil, cover and cook over the lowest heat for 20 minutes until the liquid is absorbed.",
+   "Rest for 5 minutes, remove the thyme stems and pepper, fluff with a fork and serve with griot or fish."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Diri_djondjon",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-epis-haitian-green-seasoning-base",
+  "title": "Epis (Haitian green seasoning base)",
+  "country": "Haiti",
+  "category": "Side",
+  "tags": [
+   "Haitian",
+   "seasoning",
+   "sauce"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1",
+    "name": "green bell pepper, chopped"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "scallions, chopped"
+   },
+   {
+    "measure": "10 cloves",
+    "name": "garlic, peeled"
+   },
+   {
+    "measure": "1 bunch",
+    "name": "parsley"
+   },
+   {
+    "measure": "2 sprigs",
+    "name": "fresh thyme, leaves only"
+   },
+   {
+    "measure": "1",
+    "name": "scotch bonnet or habanero, seeded (optional)"
+   },
+   {
+    "measure": "2",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "olive or vegetable oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Put the bell pepper, scallions, garlic, parsley, thyme leaves and scotch bonnet in a food processor.",
+   "Add the lime juice, oil and salt.",
+   "Pulse until the mixture forms a coarse, wet paste; add a spoonful of water if needed to help it blend.",
+   "Taste and adjust the salt and lime.",
+   "Store in a clean jar in the refrigerator for up to 2 weeks, with a thin layer of oil on top, and use as a marinade or flavor base for meats, rice, soups and stews."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Epis",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-griot-haitian-fried-marinated-pork",
+  "title": "Griot (Haitian fried marinated pork)",
+  "country": "Haiti",
+  "category": "Pork",
+  "tags": [
+   "Haitian",
+   "fried",
+   "citrus"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "pork shoulder, cut into 4 cm cubes"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "epis (Haitian seasoning)"
+   },
+   {
+    "measure": "3",
+    "name": "sour oranges, juiced, or 2 oranges and 2 limes, juiced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "whole scotch bonnet pepper"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried thyme"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "vegetable oil for frying"
+   }
+  ],
+  "steps": [
+   "Marinate the pork with the epis, citrus juice, onion, thyme and salt for at least 4 hours, or overnight in the refrigerator.",
+   "Put the pork and marinade in a heavy pot with the whole scotch bonnet and 250 ml of water.",
+   "Bring to a boil, then simmer partly covered for 50 to 60 minutes until the pork is tender and the liquid has almost evaporated.",
+   "Lift the pork out and drain well, keeping the onion if you like.",
+   "Heat about 1 cm of oil in a wide skillet over medium-high heat and fry the pork in batches for 5 to 8 minutes, turning, until deeply browned and crisp at the edges.",
+   "Serve hot with pikliz, fried plantains and rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Griot_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-haitian-patties-pate-spiced-beef-puff-pastry-turnovers",
+  "title": "Haitian patties (pate, spiced beef puff pastry turnovers)",
+  "country": "Haiti",
+  "category": "Beef",
+  "tags": [
+   "Haitian",
+   "pastry",
+   "snack"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 sheets",
+    "name": "ready-made puff pastry, thawed"
+   },
+   {
+    "measure": "400 g",
+    "name": "ground beef"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "epis (Haitian seasoning)"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "dry breadcrumbs"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried thyme"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten, for glazing"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a skillet and cook the onion for 3 minutes, then add the beef and brown for 8 minutes, breaking it into small pieces.",
+   "Stir in the epis, tomato paste, thyme, salt and pepper and cook for 5 minutes.",
+   "Add the breadcrumbs and a splash of water and cook until the mixture is moist but not wet. Cool completely.",
+   "Heat the oven to 200 C. Cut each pastry sheet into 4 squares to get 8 squares.",
+   "Put a spoonful of filling on one half of each square, fold over to form a triangle or rectangle and press the edges with a fork to seal.",
+   "Brush with beaten egg and bake for 20 to 25 minutes until puffed and golden. Serve warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_patty",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-haitian-spaghetti-haitian-breakfast-pasta-with-sausage",
+  "title": "Haitian spaghetti (Haitian breakfast pasta with sausage)",
+  "country": "Haiti",
+  "category": "Pasta",
+  "tags": [
+   "Haitian",
+   "pasta",
+   "breakfast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "spaghetti"
+   },
+   {
+    "measure": "4",
+    "name": "hot dogs or smoked sausages, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "bell pepper, sliced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "epis (Haitian seasoning)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "1",
+    "name": "scotch bonnet pepper, whole or minced (optional)"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Cook the spaghetti in plenty of salted water until al dente, drain and save a cup of the cooking water.",
+   "Heat the oil in a large skillet and fry the sausage slices for 4 to 5 minutes until browned, then add the onion and pepper.",
+   "Add the epis and tomato paste and cook for 3 minutes, stirring, until the paste turns darker.",
+   "Stir in about 120 ml of the pasta water to make a sauce, adding the scotch bonnet if you like it hot.",
+   "Add the pasta and butter and toss for 2 minutes until every strand is coated and orange-red.",
+   "Serve warm, traditionally for breakfast with bread and fried eggs or avocado."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_spaghetti",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-marinad-haitian-herb-fritters",
+  "title": "Marinad (Haitian herb fritters)",
+  "country": "Haiti",
+  "category": "Starter",
+  "tags": [
+   "Haitian",
+   "fritters",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "epis (Haitian seasoning)"
+   },
+   {
+    "measure": "2",
+    "name": "scallions, finely chopped"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "180 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "vegetable oil for deep frying"
+   }
+  ],
+  "steps": [
+   "Mix the flour, baking powder and salt in a bowl.",
+   "Beat the egg with the epis and scallions and stir into the flour with the water to make a thick, spoonable batter.",
+   "Rest the batter for 15 minutes.",
+   "Heat 5 cm of oil to 175 C.",
+   "Drop spoonfuls of the batter into the oil and fry for 3 to 4 minutes, turning, until crisp, puffy and golden brown.",
+   "Drain on paper towels and serve warm with pikliz."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fritay#Marinad",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-pikliz-haitian-spicy-pickled-cabbage",
+  "title": "Pikliz (Haitian spicy pickled cabbage)",
+  "country": "Haiti",
+  "category": "Vegan",
+  "tags": [
+   "Haitian",
+   "pickle",
+   "spicy"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "white cabbage, finely shredded"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, grated"
+   },
+   {
+    "measure": "1",
+    "name": "onion, thinly sliced"
+   },
+   {
+    "measure": "1",
+    "name": "red bell pepper, thinly sliced"
+   },
+   {
+    "measure": "2",
+    "name": "scotch bonnet peppers, thinly sliced (wear gloves)"
+   },
+   {
+    "measure": "4",
+    "name": "whole cloves"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "whole black peppercorns"
+   },
+   {
+    "measure": "250 ml",
+    "name": "white vinegar"
+   },
+   {
+    "measure": "2",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Combine the cabbage, carrots, onion, bell pepper and scotch bonnets in a large bowl and toss with the salt.",
+   "Pack the vegetables tightly into a clean glass jar, adding the cloves and peppercorns between the layers.",
+   "Mix the vinegar and lime juice and pour over the vegetables until completely covered.",
+   "Seal and refrigerate for at least 24 hours, ideally 2 to 3 days.",
+   "Serve as a condiment with fried meats such as griot, fried plantains, fritters and rice. Keep refrigerated for up to 3 weeks."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pikliz",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-soup-joumou-haitian-pumpkin-and-beef-soup",
+  "title": "Soup joumou (Haitian pumpkin and beef soup)",
+  "country": "Haiti",
+  "category": "Beef",
+  "tags": [
+   "Haitian",
+   "soup",
+   "New Year"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "beef stew meat with bone, cubed"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "epis (Haitian seasoning)"
+   },
+   {
+    "measure": "1 kg",
+    "name": "pumpkin or calabaza, peeled and cubed"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "potatoes, cubed"
+   },
+   {
+    "measure": "1",
+    "name": "turnip, cubed"
+   },
+   {
+    "measure": "200 g",
+    "name": "cabbage, shredded"
+   },
+   {
+    "measure": "150 g",
+    "name": "rigatoni or other short pasta"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "celery sticks, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "whole scotch bonnet pepper"
+   },
+   {
+    "measure": "3",
+    "name": "cloves"
+   },
+   {
+    "measure": "3 sprigs",
+    "name": "fresh thyme"
+   },
+   {
+    "measure": "2.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "lime, juiced"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Wash the beef with the lime juice and cold water, then marinate with the epis, salt and pepper for at least 1 hour.",
+   "Brown the beef in a large pot, add the water and simmer, covered, for 1 hour.",
+   "Meanwhile boil half the pumpkin in water until soft, then blend it until smooth and keep it aside.",
+   "Add the remaining pumpkin, carrots, potatoes, turnip, onion, celery, thyme, cloves and scotch bonnet to the pot, then stir in the pumpkin puree. Simmer for 25 minutes.",
+   "Add the cabbage and pasta and cook for another 12 to 15 minutes until the pasta is tender; add water if the soup is too thick.",
+   "Remove the whole pepper, taste for salt and serve piping hot with bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Soup_joumou",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-haiti-tchaka-haitian-hominy-bean-and-pork-stew",
+  "title": "Tchaka (Haitian hominy, bean and pork stew)",
+  "country": "Haiti",
+  "category": "Pork",
+  "tags": [
+   "Haitian",
+   "stew",
+   "hominy"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "canned hominy, drained and rinsed"
+   },
+   {
+    "measure": "200 g",
+    "name": "dried red kidney beans, soaked overnight"
+   },
+   {
+    "measure": "500 g",
+    "name": "pork shoulder, cubed"
+   },
+   {
+    "measure": "300 g",
+    "name": "pumpkin, peeled and cubed"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "epis (Haitian seasoning)"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 sprigs",
+    "name": "fresh thyme"
+   },
+   {
+    "measure": "1",
+    "name": "whole scotch bonnet pepper"
+   },
+   {
+    "measure": "2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Season the pork with the epis, salt and pepper and leave to marinate for at least 30 minutes.",
+   "Put the soaked kidney beans in a large pot with the water and boil for 30 minutes.",
+   "Add the pork, onion, thyme and scotch bonnet and simmer, covered, for 45 minutes.",
+   "Stir in the hominy and pumpkin and continue to simmer for 30 to 40 minutes until the beans and pork are soft and the pumpkin has partly dissolved to thicken the stew.",
+   "Remove the scotch bonnet, taste for salt and serve hot in bowls."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tchaka",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

@@ -1,0 +1,712 @@
+[
+ {
+  "id": "original-dominican-republic-bizcocho-dominicano-dominican-meringue-frosted-cake",
+  "title": "Bizcocho dominicano (Dominican meringue-frosted cake)",
+  "country": "Dominican Republic",
+  "category": "Dessert",
+  "tags": [
+   "Dominican",
+   "cake",
+   "celebration"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "250 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "200 g",
+    "name": "butter, softened"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "200 ml",
+    "name": "whole milk"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "lime zest"
+   },
+   {
+    "measure": "200 g",
+    "name": "pineapple jam"
+   },
+   {
+    "measure": "3",
+    "name": "egg whites, for the frosting"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar, for the frosting"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 175 C and grease and line two 20 cm round cake tins.",
+   "Cream the butter and sugar until pale, then beat in the eggs one at a time with the vanilla and lime zest.",
+   "Sift in the flour and baking powder and fold in alternately with the milk until just smooth.",
+   "Divide the batter between the tins and bake for 25 to 30 minutes until a skewer comes out clean. Cool completely.",
+   "For the frosting, whisk the egg whites and sugar in a heatproof bowl over simmering water until the sugar dissolves, then beat off the heat until stiff and glossy.",
+   "Sandwich the layers with pineapple jam and cover the cake with meringue frosting."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bizcocho_dominicano",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-casabe-dominican-cassava-flatbread",
+  "title": "Casabe (Dominican cassava flatbread)",
+  "country": "Dominican Republic",
+  "category": "Vegan",
+  "tags": [
+   "Dominican",
+   "cassava",
+   "Taino"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "yuca (sweet cassava), peeled"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "oil or a dry griddle, for cooking"
+   }
+  ],
+  "steps": [
+   "Grate the peeled yuca finely, using ordinary sweet cassava from the grocery store, never bitter cassava.",
+   "Wrap the pulp in a clean cloth and squeeze out as much liquid as you can, pressing under a heavy weight for 30 minutes if possible.",
+   "Rub the dry pulp between your fingers to break up lumps and mix in the salt.",
+   "Heat a large dry cast-iron skillet over medium heat. Spread a layer of pulp about 5 mm thick and 20 cm across and pat it firm with a spatula.",
+   "Cook for 6 to 8 minutes until the underside is set and lightly golden, then flip carefully and cook the other side for 4 to 5 minutes until crisp. Cassava must always be well cooked.",
+   "Cool on a rack and serve as a crisp cracker with stews, fish or garlic sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Casabe",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-chapea-dominican-bean-stew-with-sausage-and-plantain",
+  "title": "Chapea (Dominican bean stew with sausage and plantain)",
+  "country": "Dominican Republic",
+  "category": "Pork",
+  "tags": [
+   "Dominican",
+   "beans",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "dried white or red kidney beans, soaked overnight"
+   },
+   {
+    "measure": "200 g",
+    "name": "longaniza or chorizo, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "green plantains, peeled and diced"
+   },
+   {
+    "measure": "100 g",
+    "name": "long-grain rice"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped cilantro"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Drain the beans, cover with fresh water in a large pot and simmer for 1 hour until nearly tender.",
+   "In a skillet, cook the sausage in the oil until browned, then add the onion and garlic and cook for 5 minutes.",
+   "Stir in the tomato paste and oregano and add the mixture to the beans with 1 teaspoon of salt.",
+   "Add the plantains and enough hot water so everything is covered by about 2 cm. Simmer for 15 minutes.",
+   "Rinse the rice, stir it in and cook for another 15 to 20 minutes until the rice and plantains are tender and the stew is thick.",
+   "Stir in the cilantro and serve hot in bowls."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chapea",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-chimichurri-burger-dominican-street-burger-with-cabbage-and-sauce",
+  "title": "Chimichurri burger (Dominican street burger with cabbage and sauce)",
+  "country": "Dominican Republic",
+  "category": "Beef",
+  "tags": [
+   "Dominican",
+   "burger",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "ground beef"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "4",
+    "name": "soft burger buns"
+   },
+   {
+    "measure": "150 g",
+    "name": "white cabbage, finely shredded"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, sliced"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "mayonnaise"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "ketchup"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "white vinegar"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "chopped cilantro"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Mix the beef with half the garlic, half the oregano, 1 teaspoon of salt and pepper, shape into 4 thin patties and chill for 15 minutes.",
+   "Make the chimichurri sauce by stirring together the mayonnaise, ketchup, vinegar, cilantro, remaining garlic and remaining oregano.",
+   "Toss the shredded cabbage with a pinch of salt and a spoonful of the sauce.",
+   "Heat the oil in a large skillet or griddle over medium-high heat and cook the patties for 3 to 4 minutes per side until cooked through.",
+   "Toast the buns on the griddle.",
+   "Assemble the burgers with sauce on both buns, patty, tomato slices and a generous pile of cabbage."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chimichurri_burger",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-mangu-dominican-mashed-green-plantains-with-pickled-onions",
+  "title": "Mangú (Dominican mashed green plantains with pickled onions)",
+  "country": "Dominican Republic",
+  "category": "Breakfast",
+  "tags": [
+   "Dominican",
+   "plantain",
+   "breakfast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "green plantains, peeled and cut into chunks"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "butter or vegetable oil"
+   },
+   {
+    "measure": "2",
+    "name": "red onions, sliced into thin rings"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "white or cider vinegar"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "200 g",
+    "name": "Dominican-style fried salami or queso frito, sliced"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Make the pickled onions first: put the onion rings in a bowl, add the vinegar, a pinch of salt and a splash of hot water and leave for at least 20 minutes.",
+   "Boil the plantain chunks in salted water for 15 to 20 minutes until completely soft.",
+   "Drain the plantains but keep about 150 ml of the cooking water.",
+   "Mash the plantains with the butter, adding the reserved water a little at a time, until you have a smooth, thick mash. Season with salt.",
+   "Fry the eggs and fry the salami or cheese in a skillet until browned.",
+   "Serve the mangú in mounds topped with the pickled onions, with the eggs, salami and cheese alongside."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mangú",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-morir-sonando-dominican-orange-and-milk-shake",
+  "title": "Morir sonando (Dominican orange and milk shake)",
+  "country": "Dominican Republic",
+  "category": "Miscellaneous",
+  "tags": [
+   "Dominican",
+   "drink",
+   "orange"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 ml",
+    "name": "freshly squeezed orange juice"
+   },
+   {
+    "measure": "300 ml",
+    "name": "cold milk or evaporated milk"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "",
+    "name": "crushed ice, to serve"
+   }
+  ],
+  "steps": [
+   "Chill the orange juice and the milk thoroughly.",
+   "Stir the sugar into the orange juice until dissolved.",
+   "Fill 4 tall glasses with crushed ice.",
+   "Pour the juice about halfway into each glass, then slowly add the milk while stirring gently; it will thicken slightly.",
+   "Serve immediately, before it separates too much."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Morir_soñando",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-moro-de-guandules-dominican-rice-and-pigeon-peas",
+  "title": "Moro de guandules (Dominican rice and pigeon peas)",
+  "country": "Dominican Republic",
+  "category": "Side",
+  "tags": [
+   "Dominican",
+   "rice",
+   "pigeon peas"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "long-grain rice"
+   },
+   {
+    "measure": "400 g",
+    "name": "cooked pigeon peas (guandules), canned or fresh"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "1",
+    "name": "green bell pepper, finely chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "chopped cilantro"
+   },
+   {
+    "measure": "500 ml",
+    "name": "water or vegetable stock"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a heavy pot and cook the onion, pepper and garlic for 5 minutes until soft.",
+   "Stir in the tomato paste and oregano and cook for 2 minutes until the paste darkens slightly.",
+   "Add the pigeon peas along with their liquid, the water and 1 1/2 teaspoons of salt and bring to a boil.",
+   "Rinse the rice, stir it in with the cilantro and boil uncovered until the liquid reaches the level of the rice.",
+   "Reduce the heat to the lowest setting, cover tightly and cook for 20 minutes without stirring.",
+   "Fluff with a fork, taste for salt and serve with stewed meat or chicken."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Moro_de_guandules",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-pastelon-dominican-sweet-plantain-and-beef-casserole",
+  "title": "Pastelon (Dominican sweet plantain and beef casserole)",
+  "country": "Dominican Republic",
+  "category": "Beef",
+  "tags": [
+   "Dominican",
+   "plantain",
+   "baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "very ripe plantains, peeled and sliced lengthwise"
+   },
+   {
+    "measure": "500 g",
+    "name": "ground beef"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "1",
+    "name": "green bell pepper, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "50 g",
+    "name": "pimiento-stuffed green olives, sliced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "200 g",
+    "name": "mozzarella or mild cheese, grated"
+   },
+   {
+    "measure": "3",
+    "name": "eggs, beaten"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 190 C and grease a 20 x 30 cm baking dish.",
+   "Fry the plantain slices in hot oil for 2 to 3 minutes per side until golden and soft. Drain on paper towels.",
+   "In a skillet, brown the beef with the onion, pepper and garlic for 10 minutes. Stir in the tomato paste, olives, oregano, salt and pepper and cook for 5 minutes more.",
+   "Make a layer of plantain in the baking dish, then half of the meat, half of the cheese, then repeat with plantain, the rest of the meat and a final plantain layer.",
+   "Pour the beaten eggs over the top and sprinkle with the remaining cheese.",
+   "Bake for 25 to 30 minutes until set and golden. Rest 10 minutes before cutting into squares."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pastelón",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-queso-frito-dominican-fried-cheese",
+  "title": "Queso frito (Dominican fried cheese)",
+  "country": "Dominican Republic",
+  "category": "Vegetarian",
+  "tags": [
+   "Dominican",
+   "cheese",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "frying cheese (queso de freír, halloumi or paneer), sliced 1 cm thick"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1",
+    "name": "lime, cut in wedges"
+   },
+   {
+    "measure": "",
+    "name": "fried green or ripe plantain or mangú, to serve"
+   }
+  ],
+  "steps": [
+   "Pat the cheese slices very dry with paper towels so they do not splatter.",
+   "Heat the oil in a non-stick skillet over medium-high heat.",
+   "Fry the slices for 2 to 3 minutes per side until deeply golden with a crisp crust. Do not move them while they cook.",
+   "Drain briefly on paper towels.",
+   "Serve hot with lime wedges, alongside mangú, fried plantain or as part of a Dominican breakfast."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Queso_frito",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-sancocho-dominicano-dominican-three-meat-root-vegetable-stew",
+  "title": "Sancocho dominicano (Dominican three-meat root vegetable stew)",
+  "country": "Dominican Republic",
+  "category": "Beef",
+  "tags": [
+   "Dominican",
+   "stew",
+   "celebration"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "beef stew meat, cubed"
+   },
+   {
+    "measure": "400 g",
+    "name": "chicken thighs, bone-in"
+   },
+   {
+    "measure": "300 g",
+    "name": "pork ribs or shoulder, cut into pieces"
+   },
+   {
+    "measure": "1",
+    "name": "green plantain, peeled and sliced"
+   },
+   {
+    "measure": "400 g",
+    "name": "yuca, peeled and cut into chunks"
+   },
+   {
+    "measure": "300 g",
+    "name": "pumpkin or calabaza, peeled and cubed"
+   },
+   {
+    "measure": "2",
+    "name": "ears of corn, cut into thirds"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1",
+    "name": "green bell pepper, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "chopped cilantro"
+   },
+   {
+    "measure": "2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Season the beef, chicken and pork with salt, pepper, oregano and half the garlic and leave for 30 minutes.",
+   "Heat the oil in a large pot, brown the meats in batches, then add the onion, pepper and remaining garlic and cook for 5 minutes.",
+   "Add the water and bring to a boil, skimming off any foam. Simmer covered for 1 hour.",
+   "Add the yuca, plantain and corn and simmer for 20 minutes, then add the pumpkin and cook for another 20 minutes until all the vegetables are soft and the pumpkin melts into the broth.",
+   "Add the cilantro and taste for salt.",
+   "Serve hot in deep bowls with white rice and slices of avocado."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sancocho",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-dominican-republic-yaroa-dominican-loaded-fries-with-beef-and-cheese",
+  "title": "Yaroa (Dominican loaded fries with beef and cheese)",
+  "country": "Dominican Republic",
+  "category": "Beef",
+  "tags": [
+   "Dominican",
+   "street food",
+   "fries"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "potatoes, cut in fries"
+   },
+   {
+    "measure": "400 g",
+    "name": "ground beef"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "200 g",
+    "name": "cheddar or mozzarella, grated"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "mayonnaise"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "ketchup"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Fry the potatoes in hot oil until golden and crisp. Drain, season with salt and keep warm.",
+   "In a skillet, brown the beef with the onion and garlic over medium-high heat for 8 to 10 minutes.",
+   "Stir in the oregano, tomato paste, salt and pepper and cook for 3 more minutes.",
+   "Spread the fries on a large heatproof dish, cover with the meat and then the grated cheese.",
+   "Place under a hot grill for 2 to 3 minutes until the cheese melts.",
+   "Drizzle with mayonnaise and ketchup and serve at once."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yaroa",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

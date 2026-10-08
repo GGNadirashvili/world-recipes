@@ -1,0 +1,586 @@
+[
+ {
+  "id": "original-cuba-bistec-de-palomilla-cuban-thin-garlic-lime-steak",
+  "title": "Bistec de palomilla (Cuban thin garlic-lime steak)",
+  "country": "Cuba",
+  "category": "Beef",
+  "tags": [
+   "Cuban",
+   "steak",
+   "quick"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "top sirloin or round steak, cut into 4 thin steaks"
+   },
+   {
+    "measure": "5 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "3",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced into rings"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped parsley"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Pound the steaks between sheets of plastic wrap until they are about 5 mm thick.",
+   "Mix the garlic, lime juice, a good pinch of salt and plenty of pepper, rub over the steaks and marinate for 30 minutes to 1 hour in the refrigerator.",
+   "Scatter the onion rings over the steaks for the last 15 minutes of marinating.",
+   "Heat the oil in a large skillet over high heat. Lift the steaks out of the marinade, shake off the onion and sear for about 1 to 2 minutes per side, working in batches so the pan stays hot.",
+   "Move the steaks to a plate. Add the onions and a splash of the marinade to the skillet and cook for 3 to 4 minutes until soft.",
+   "Spoon the onions over the steaks, scatter with parsley and serve with rice, black beans and fried plantain."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bistec_de_palomilla",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cuba-bistec-de-toronja-cuban-breaded-grapefruit-pith-steak",
+  "title": "Bistec de toronja (Cuban breaded grapefruit-pith steak)",
+  "country": "Cuba",
+  "category": "Vegetarian",
+  "tags": [
+   "Cuban",
+   "grapefruit",
+   "Special Period"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2",
+    "name": "large grapefruits, with thick white pith"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "100 g",
+    "name": "flour"
+   },
+   {
+    "measure": "2",
+    "name": "eggs, beaten"
+   },
+   {
+    "measure": "100 g",
+    "name": "dry breadcrumbs"
+   },
+   {
+    "measure": "150 ml",
+    "name": "vegetable oil for frying"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper to taste"
+   }
+  ],
+  "steps": [
+   "Peel the grapefruits, keeping as much of the thick white pith as you can, and eat or save the fruit for another use. Cut the peel into flat pieces about 1 cm thick, with the zest trimmed off.",
+   "Boil the pith in plenty of water for 10 minutes, drain, then boil in fresh water for another 10 minutes to remove the bitterness. Squeeze out as much liquid as possible.",
+   "Marinate the pieces in the garlic, lime juice, oregano, salt and pepper for 20 to 30 minutes.",
+   "Set out three plates with the flour, the beaten eggs and the breadcrumbs. Dredge each piece in flour, dip in egg and coat in crumbs.",
+   "Heat the oil in a large skillet over medium-high heat and fry the pieces for 2 to 3 minutes per side until golden and crisp.",
+   "Drain on paper towels and serve hot, in the spirit of a thin steak, with rice and beans."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bistec_de_toronja",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cuba-cafe-cubano-cuban-sweet-espresso",
+  "title": "Cafe cubano (Cuban sweet espresso)",
+  "country": "Cuba",
+  "category": "Miscellaneous",
+  "tags": [
+   "Cuban",
+   "coffee",
+   "drink"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4 tbsp",
+    "name": "finely ground dark-roast espresso coffee"
+   },
+   {
+    "measure": "200 ml",
+    "name": "cold water"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "sugar, preferably white or demerara"
+   }
+  ],
+  "steps": [
+   "Fill the bottom of a stovetop moka pot with cold water to just below the valve and fill the filter basket with the coffee, levelling it without tamping.",
+   "Screw the pot together and place it over medium-low heat with the lid open so you can watch it.",
+   "Put the sugar in a small heatproof jug or cup.",
+   "When the first few drops of coffee start to come out, pour the first tablespoon or so onto the sugar and whisk vigorously with a spoon for about a minute until it turns into a thick, pale, creamy foam, the espumita.",
+   "Let the rest of the coffee finish brewing, then pour it into the jug and stir gently so the foam spreads through the coffee.",
+   "Pour into small cups, topping each with some of the foam, and serve immediately."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cuban_espresso",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cuba-cuban-bread-pan-cubano-soft-white-loaf",
+  "title": "Cuban bread (Pan cubano, soft white loaf)",
+  "country": "Cuba",
+  "category": "Side",
+  "tags": [
+   "Cuban",
+   "bread",
+   "baking"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "bread flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "instant dry yeast"
+   },
+   {
+    "measure": "10 g",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "300 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lard or vegetable shortening, softened"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, salt and sugar in a large bowl. Add the water and lard and stir until a shaggy dough forms.",
+   "Knead on a lightly floured surface for 10 minutes until smooth and elastic, then place in an oiled bowl, cover and let rise for 1 to 1 1/2 hours until doubled.",
+   "Divide the dough in two, press each piece into a rectangle and roll it up tightly into a long loaf with a seam underneath. Place on a baking tray, cover and let rise for 40 minutes.",
+   "Heat the oven to 220 C and put an empty pan on the bottom shelf.",
+   "Slash each loaf lengthwise with a sharp knife, pour a cup of hot water into the empty pan to make steam and bake the loaves for 25 to 30 minutes until golden.",
+   "Cool on a rack. The bread is best eaten the day it is baked, and it makes the best Cuban sandwiches."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cuban_bread",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cuba-frita-cubana-cuban-style-spiced-burger-with-shoestring-potatoes",
+  "title": "Frita cubana (Cuban-style spiced burger with shoestring potatoes)",
+  "country": "Cuba",
+  "category": "Beef",
+  "tags": [
+   "Cuban",
+   "burger",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "ground beef"
+   },
+   {
+    "measure": "250 g",
+    "name": "ground pork"
+   },
+   {
+    "measure": "1",
+    "name": "onion, grated"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sweet paprika"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "4",
+    "name": "soft hamburger rolls"
+   },
+   {
+    "measure": "80 g",
+    "name": "shoestring potato sticks (papitas fritas)"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "ketchup"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "hot sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "white vinegar"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Mix the beef, pork, grated onion, garlic, half the paprika, the cumin and 1 1/2 teaspoons of salt gently with your hands, taking care not to overwork the meat.",
+   "Shape into 4 patties slightly wider than the rolls and refrigerate for 15 minutes.",
+   "Stir the ketchup, remaining paprika, hot sauce and vinegar together in a small pan, warm for 3 minutes over low heat and set aside.",
+   "Cook the patties on a hot, lightly oiled griddle or skillet for 4 to 5 minutes per side until cooked through.",
+   "Toast the rolls on the cut side.",
+   "Place a patty on each roll, spoon over the sauce and pile a generous handful of shoestring potatoes on top before closing the sandwich."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Frita",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cuba-medianoche-cuban-midnight-pressed-sandwich",
+  "title": "Medianoche (Cuban midnight pressed sandwich)",
+  "country": "Cuba",
+  "category": "Pork",
+  "tags": [
+   "Cuban",
+   "sandwich",
+   "pressed"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "soft, slightly sweet egg rolls (brioche or challah rolls work), split"
+   },
+   {
+    "measure": "300 g",
+    "name": "roast pork, thinly sliced"
+   },
+   {
+    "measure": "200 g",
+    "name": "sliced cooked ham"
+   },
+   {
+    "measure": "200 g",
+    "name": "Swiss cheese, sliced"
+   },
+   {
+    "measure": "16",
+    "name": "dill pickle slices"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "yellow mustard"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "butter, softened"
+   }
+  ],
+  "steps": [
+   "Preheat a heavy skillet or griddle over medium heat and prepare something heavy and flat, such as a second skillet, to press the sandwiches.",
+   "Spread the cut sides of the rolls lightly with mustard.",
+   "Layer the bottom halves with ham, roast pork, Swiss cheese and the pickle slices, then close the sandwiches.",
+   "Spread the softened butter over the outsides of the rolls.",
+   "Place the sandwiches in the hot skillet and press down firmly with the second skillet. Toast for 3 to 4 minutes per side until the bread is golden and the cheese has melted.",
+   "Cut each sandwich in half diagonally and serve hot."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medianoche",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cuba-moros-y-cristianos-cuban-black-beans-and-rice",
+  "title": "Moros y Cristianos (Cuban black beans and rice)",
+  "country": "Cuba",
+  "category": "Side",
+  "tags": [
+   "Cuban",
+   "rice",
+   "beans"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "dried black beans, soaked overnight and drained"
+   },
+   {
+    "measure": "1",
+    "name": "green bell pepper, half left whole and half finely chopped"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "300 g",
+    "name": "long-grain white rice"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "white vinegar"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Put the soaked beans in a large pot with about 1.2 litres of fresh water, the whole half pepper and the bay leaves. Bring to a boil, then simmer partly covered for 1 to 1 1/2 hours until the beans are tender but not falling apart.",
+   "Heat the olive oil in a wide, heavy pot and cook the chopped onion and pepper over medium heat until soft, about 6 minutes. Add the garlic, cumin and oregano and stir for a minute.",
+   "Lift the whole pepper and bay leaves out of the beans. Scoop the beans into the sofrito pot with a slotted spoon and measure out 600 ml of the dark cooking liquid, topping up with water if there is not enough.",
+   "Add the liquid, the vinegar and 1 1/2 teaspoons of salt to the pot and bring it to a boil. Stir in the rice and boil uncovered until the liquid has dropped level with the rice.",
+   "Turn the heat to the lowest setting, cover tightly and cook for 18 to 20 minutes without stirring, until the rice is tender.",
+   "Rest the pot off the heat for 5 minutes, fluff gently with a fork so the beans and rice stay mixed, taste for salt and serve."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Moros_y_Cristianos_(dish)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cuba-pastelitos-de-guayaba-y-queso-cuban-guava-and-cheese-pastries",
+  "title": "Pastelitos de guayaba y queso (Cuban guava and cheese pastries)",
+  "country": "Cuba",
+  "category": "Dessert",
+  "tags": [
+   "Cuban",
+   "pastry",
+   "guava"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2 sheets",
+    "name": "ready-made puff pastry (about 500 g in total), thawed"
+   },
+   {
+    "measure": "150 g",
+    "name": "guava paste, cut into small strips"
+   },
+   {
+    "measure": "150 g",
+    "name": "cream cheese, softened"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten with 1 tbsp water"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "flour, for dusting"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 C and line a baking tray with parchment paper.",
+   "On a lightly floured surface, cut each pastry sheet into 6 squares to give 12 squares in total.",
+   "Spread a teaspoon or two of cream cheese on half of each square, leaving a border, and lay a strip of guava paste on top.",
+   "Brush the border with the beaten egg, fold the pastry over the filling into a triangle or rectangle and press the edges to seal. Crimp with a fork.",
+   "Place the pastries on the tray, brush the tops with egg wash and sprinkle with sugar. Cut a small slit in each to let steam escape.",
+   "Bake for 18 to 22 minutes until puffed and deep golden. Cool for 10 minutes, since the filling is very hot, and serve warm or at room temperature."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cuban_pastry",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cuba-vaca-frita-cuban-crispy-shredded-flank-steak",
+  "title": "Vaca frita (Cuban crispy shredded flank steak)",
+  "country": "Cuba",
+  "category": "Beef",
+  "tags": [
+   "Cuban",
+   "crispy",
+   "citrus"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "beef flank steak, in 2 or 3 pieces"
+   },
+   {
+    "measure": "1",
+    "name": "onion, halved, plus 2 more onions, thinly sliced"
+   },
+   {
+    "measure": "1",
+    "name": "bay leaf"
+   },
+   {
+    "measure": "6 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "4",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Put the flank steak, the halved onion and the bay leaf in a pot, cover with water and add a generous teaspoon of salt. Simmer gently for about 1 1/2 hours until the meat is very tender.",
+   "Let the steak cool in its broth for 15 minutes, then lift it out and pull it into thin shreds along the grain, discarding any large pieces of fat.",
+   "Toss the shreds with half the garlic, the juice of 3 limes, the cumin, black pepper and a pinch of salt. Leave to marinate for at least 30 minutes.",
+   "Heat 2 tablespoons of oil in a skillet and cook the sliced onions with a pinch of salt over medium heat until soft and golden, about 12 minutes. Stir in the remaining garlic for the last minute and set aside.",
+   "Heat the remaining oil in a large heavy skillet over medium-high heat. Add the beef in a single layer, pressing it down, and let it sit without stirring until browned and crisp underneath, 4 to 5 minutes. Turn and crisp the other side in batches if needed.",
+   "Return the onions to the pan, add the last lime juice, toss for a minute and serve with white rice and black beans."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vaca_frita",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cuba-yuca-con-mojo-cuban-cassava-with-garlic-citrus-sauce",
+  "title": "Yuca con mojo (Cuban cassava with garlic-citrus sauce)",
+  "country": "Cuba",
+  "category": "Vegan",
+  "tags": [
+   "Cuban",
+   "cassava",
+   "garlic"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "yuca (cassava), peeled, cut into chunks and any woody core removed"
+   },
+   {
+    "measure": "6 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "80 ml",
+    "name": "olive oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, thinly sliced"
+   },
+   {
+    "measure": "120 ml",
+    "name": "sour orange juice, or 80 ml orange juice mixed with 40 ml lime juice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Put the yuca in a pot, cover with cold water, add 1 tablespoon of salt and bring to a boil. Simmer for 20 to 30 minutes until fork-tender and slightly translucent.",
+   "Drain the yuca well and keep it warm in a serving bowl.",
+   "Warm the olive oil in a small saucepan over low heat and cook the sliced onion for 5 minutes until soft but not coloured.",
+   "Add the garlic and cumin and cook for 30 to 60 seconds, just until fragrant, taking care that the garlic does not brown.",
+   "Pour in the citrus juice and a pinch of salt and let it bubble for a minute.",
+   "Pour the hot mojo over the yuca, toss gently and let it soak in for a few minutes before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yuca_con_mojo",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
