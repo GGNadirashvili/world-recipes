@@ -1,0 +1,852 @@
+[
+ {
+  "id": "original-guatemala-chirmol-guatemalan-roasted-tomato-salsa",
+  "title": "Chirmol (Guatemalan roasted tomato salsa)",
+  "country": "Guatemala",
+  "category": "Side",
+  "tags": [
+   "Guatemalan",
+   "salsa",
+   "sauce"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "ripe tomatoes"
+   },
+   {
+    "measure": "1/2",
+    "name": "onion"
+   },
+   {
+    "measure": "1/2",
+    "name": "green bell pepper"
+   },
+   {
+    "measure": "1",
+    "name": "fresh chile, optional"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "chopped cilantro or fresh mint"
+   },
+   {
+    "measure": "2",
+    "name": "limes, juiced"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper to taste"
+   }
+  ],
+  "steps": [
+   "Roast the tomatoes on a hot dry pan or over a flame until the skins split and char in places, then let them cool.",
+   "Peel off the loosest skin if you like, then chop the tomatoes into small cubes, keeping their juices.",
+   "Dice the onion, bell pepper and chile finely and combine with the tomatoes.",
+   "Stir in the cilantro or mint, lime juice, salt and pepper.",
+   "Let the salsa stand for 15 minutes before serving with grilled meat, tortillas or beans."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chimol",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-chuchitos-guatemalan-small-firm-corn-husk-tamales",
+  "title": "Chuchitos (Guatemalan small firm corn husk tamales)",
+  "country": "Guatemala",
+  "category": "Chicken",
+  "tags": [
+   "Guatemalan",
+   "tamale",
+   "snack"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "450 g",
+    "name": "masa harina (corn flour for tamales)"
+   },
+   {
+    "measure": "60 g",
+    "name": "lard or butter"
+   },
+   {
+    "measure": "600 ml",
+    "name": "warm chicken broth"
+   },
+   {
+    "measure": "500 g",
+    "name": "chicken thighs, boneless, cut in small pieces"
+   },
+   {
+    "measure": "500 g",
+    "name": "ripe tomatoes"
+   },
+   {
+    "measure": "2",
+    "name": "dried guajillo chiles, seeded"
+   },
+   {
+    "measure": "1",
+    "name": "small onion"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "20",
+    "name": "dried corn husks, soaked in hot water until pliable"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Blend the tomatoes, soaked guajillo chiles, onion and garlic into a smooth sauce, cook it with a little oil for 15 minutes and season with salt.",
+   "Add the chicken pieces to the sauce and simmer for 10 minutes so the flavour gets in without the meat falling apart.",
+   "Work the masa harina with the lard and salt, then add the warm broth gradually, kneading until you have a firm dough, firmer than for ordinary tamales.",
+   "Spread about 2 tablespoons of dough in the middle of a soaked husk, press a piece of chicken with a spoon of sauce into the centre, and cover with a little more dough.",
+   "Fold the husk around the filling into a small bundle and tie the ends with strips of husk or string.",
+   "Steam in a covered pot for about 1 hour, until the dough feels firm and releases from the husk.",
+   "Serve hot with extra tomato sauce spooned on top."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tamale",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-fiambre-guatemalan-all-saints-day-cold-salad",
+  "title": "Fiambre (Guatemalan All Saints' Day cold salad)",
+  "country": "Guatemala",
+  "category": "Miscellaneous",
+  "tags": [
+   "Guatemalan",
+   "salad",
+   "festive"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "cooked chicken, shredded"
+   },
+   {
+    "measure": "150 g",
+    "name": "ham, diced"
+   },
+   {
+    "measure": "150 g",
+    "name": "salami or other cured sausage, sliced"
+   },
+   {
+    "measure": "100 g",
+    "name": "cooked chorizo, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "cooked beets, diced"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, diced and boiled"
+   },
+   {
+    "measure": "100 g",
+    "name": "green beans, boiled and chopped"
+   },
+   {
+    "measure": "150 g",
+    "name": "cauliflower florets, boiled"
+   },
+   {
+    "measure": "100 g",
+    "name": "pickled baby corn"
+   },
+   {
+    "measure": "1",
+    "name": "red onion, thinly sliced"
+   },
+   {
+    "measure": "100 g",
+    "name": "hearts of palm or artichoke hearts, sliced"
+   },
+   {
+    "measure": "50 g",
+    "name": "olives and 2 tbsp capers"
+   },
+   {
+    "measure": "100 g",
+    "name": "queso fresco or mild white cheese, grated"
+   },
+   {
+    "measure": "3",
+    "name": "hard-boiled eggs, sliced"
+   },
+   {
+    "measure": "250 ml",
+    "name": "white vinegar"
+   },
+   {
+    "measure": "120 ml",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "mustard"
+   },
+   {
+    "measure": "",
+    "name": "salt, pepper and a bay leaf"
+   }
+  ],
+  "steps": [
+   "Boil the carrots, green beans and cauliflower in salted water until just tender, then drain and cool completely. Keep the beets separate so they do not stain everything red.",
+   "Bring the vinegar, 250 ml of water, sugar, salt, bay leaf and a few peppercorns to a boil, then simmer for 5 minutes and let the brine cool.",
+   "Whisk the oil and mustard into the cooled brine to make a tangy escabeche dressing.",
+   "Pour a little dressing over the beets and a little over the cooked vegetables in separate bowls, and leave the sliced onion to soak in some of it.",
+   "Combine the chicken, ham, salami, chorizo, vegetables, baby corn, hearts of palm, olives and capers on a large platter or in a wide bowl.",
+   "Pour over the remaining dressing, mix gently, and chill for at least 4 hours or overnight so the flavours meld.",
+   "Before serving, scatter the grated cheese and egg slices over the top and arrange the beets as a ring of colour."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fiambre",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-garnachas-guatemalan-fried-tortillas-with-chicken-and-pickled-onion",
+  "title": "Garnachas (Guatemalan fried tortillas with chicken and pickled onion)",
+  "country": "Guatemala",
+  "category": "Starter",
+  "tags": [
+   "Guatemalan",
+   "snack",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "masa harina (corn flour for tortillas)"
+   },
+   {
+    "measure": "300 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "400 g",
+    "name": "cooked shredded chicken"
+   },
+   {
+    "measure": "3",
+    "name": "ripe tomatoes"
+   },
+   {
+    "measure": "1/2",
+    "name": "onion"
+   },
+   {
+    "measure": "1 clove",
+    "name": "garlic"
+   },
+   {
+    "measure": "1",
+    "name": "red onion, thinly sliced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "white vinegar"
+   },
+   {
+    "measure": "100 g",
+    "name": "grated dry white cheese such as queso seco or feta"
+   },
+   {
+    "measure": "",
+    "name": "oil for shallow frying"
+   }
+  ],
+  "steps": [
+   "Soak the sliced red onion in the vinegar with a pinch of salt and sugar for at least 30 minutes until bright pink and tangy.",
+   "Blend the tomatoes, half onion and garlic with a splash of water, then cook this sauce with a little oil for 10 minutes until thick. Fold in the chicken and season with salt.",
+   "Mix the masa harina, salt and warm water into a soft dough and rest it for 10 minutes. Form golf-ball-sized balls and press each into a thick round about 6 cm wide with a slightly raised rim.",
+   "Cook the rounds on a hot dry griddle for 1 to 2 minutes per side until set, then shallow-fry in 1 cm of hot oil until golden and crisp at the edges.",
+   "Drain on paper towels, spoon the chicken sauce onto each garnacha and top with pickled onion and grated cheese.",
+   "Serve straight away while the bases are still crunchy."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Garnacha_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-hilachas-guatemalan-shredded-beef-in-tomato-sauce",
+  "title": "Hilachas (Guatemalan shredded beef in tomato sauce)",
+  "country": "Guatemala",
+  "category": "Beef",
+  "tags": [
+   "Guatemalan",
+   "stew",
+   "beef"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "beef brisket or chuck, in 2 pieces"
+   },
+   {
+    "measure": "600 g",
+    "name": "ripe tomatoes"
+   },
+   {
+    "measure": "150 g",
+    "name": "tomatillos, husked"
+   },
+   {
+    "measure": "3",
+    "name": "dried guajillo chiles, seeded"
+   },
+   {
+    "measure": "1",
+    "name": "onion, quartered"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "1",
+    "name": "red bell pepper"
+   },
+   {
+    "measure": "500 g",
+    "name": "waxy potatoes, cut in cubes"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, diced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "vegetable oil"
+   },
+   {
+    "measure": "",
+    "name": "salt and a pinch of dried oregano"
+   }
+  ],
+  "steps": [
+   "Simmer the beef in plenty of salted water with a quarter of the onion and a clove of garlic for about 1.5 hours, until it shreds easily. Reserve 500 ml of the broth.",
+   "Meanwhile roast the tomatoes, tomatillos, bell pepper and remaining onion and garlic on a hot dry pan until the skins blacken in places.",
+   "Soak the toasted guajillo chiles in hot water for 15 minutes, then blend with the roasted vegetables and about 250 ml of broth into a smooth sauce.",
+   "Shred the cooled beef with two forks into thin strands, the hilachas or rags that give the dish its name.",
+   "Heat the oil, pour in the sauce and fry it for 5 minutes, stirring, until it darkens and thickens slightly.",
+   "Add the shredded beef, potatoes, carrots, oregano and the rest of the reserved broth. Simmer for 20 to 25 minutes until the vegetables are tender and the sauce clings to the meat.",
+   "Season with salt and serve with white rice and warm tortillas."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hilachas",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-kak-ik-guatemalan-spiced-turkey-soup",
+  "title": "Kak'ik (Guatemalan spiced turkey soup)",
+  "country": "Guatemala",
+  "category": "Chicken",
+  "tags": [
+   "Guatemalan",
+   "soup",
+   "Maya"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.2 kg",
+    "name": "turkey legs or thighs, bone-in (chicken thighs work as a substitute)"
+   },
+   {
+    "measure": "4",
+    "name": "ripe tomatoes"
+   },
+   {
+    "measure": "4",
+    "name": "dried guajillo chiles, seeded"
+   },
+   {
+    "measure": "1",
+    "name": "dried chipotle or smoky dried chile (stands in for chile cobanero)"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, halved"
+   },
+   {
+    "measure": "5 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "annatto (achiote) paste or 1 tsp annatto seeds ground"
+   },
+   {
+    "measure": "1 large bunch",
+    "name": "fresh cilantro"
+   },
+   {
+    "measure": "3 sprigs",
+    "name": "fresh mint"
+   },
+   {
+    "measure": "2 litres",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Put the turkey in a large pot with the water, half the onion, two garlic cloves and a good pinch of salt. Bring to a boil, skim off the foam, then simmer for about 1 hour until the meat is tender.",
+   "Meanwhile roast the tomatoes, remaining onion and remaining garlic on a dry griddle until blackened in places.",
+   "Toast the dried chiles in a dry pan for a few seconds per side, then soak them in hot water for 15 minutes.",
+   "Blend the roasted vegetables, drained chiles and annatto with a ladleful of the turkey broth until smooth.",
+   "Lift the turkey from the pot, then pour the blended mixture through a sieve back into the broth, pressing out the liquid.",
+   "Return the turkey to the pot, add most of the cilantro and the mint, and simmer gently for 20 minutes so the herbs perfume the broth, which should be deep red and fiery.",
+   "Taste and adjust the salt, then serve in deep bowls with the turkey pieces, rice and warm tamales or tortillas alongside."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kak%27ik",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-paches-guatemalan-potato-tamales",
+  "title": "Paches (Guatemalan potato tamales)",
+  "country": "Guatemala",
+  "category": "Pork",
+  "tags": [
+   "Guatemalan",
+   "tamale",
+   "potato"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "floury potatoes, peeled"
+   },
+   {
+    "measure": "150 g",
+    "name": "all-purpose flour"
+   },
+   {
+    "measure": "60 g",
+    "name": "lard or butter"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "annatto (achiote) paste"
+   },
+   {
+    "measure": "400 g",
+    "name": "pork shoulder, cut in small pieces"
+   },
+   {
+    "measure": "3",
+    "name": "ripe tomatoes"
+   },
+   {
+    "measure": "2",
+    "name": "dried guajillo chiles, seeded"
+   },
+   {
+    "measure": "1/2",
+    "name": "onion"
+   },
+   {
+    "measure": "1",
+    "name": "red bell pepper"
+   },
+   {
+    "measure": "10",
+    "name": "squares of banana leaf, softened over a flame"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in salted water until very soft, drain well and mash until completely smooth and still warm.",
+   "Knead in the flour, lard, annatto and salt, adding a splash of broth or water only if needed, to make a soft but workable dough.",
+   "Simmer the pork in salted water for 40 minutes, then blend the tomatoes, soaked guajillo chiles, onion and bell pepper into a sauce and cook it down with the meat until thick.",
+   "Spread a portion of the potato dough on a banana leaf square, spoon a little of the pork filling in the centre and fold the leaf over into a flat parcel, tying with string.",
+   "Steam or simmer the parcels for about 45 minutes until firm, then rest briefly before unwrapping.",
+   "Serve with the remaining sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tamale",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-pepian-guatemalan-roasted-spice-and-meat-stew",
+  "title": "Pepián (Guatemalan roasted spice and meat stew)",
+  "country": "Guatemala",
+  "category": "Chicken",
+  "tags": [
+   "Guatemalan",
+   "stew",
+   "national dish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.2 kg",
+    "name": "chicken pieces, bone-in (or beef chuck cubes)"
+   },
+   {
+    "measure": "80 g",
+    "name": "raw pumpkin seeds (pepitas)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sesame seeds"
+   },
+   {
+    "measure": "3",
+    "name": "dried guajillo chiles, seeded"
+   },
+   {
+    "measure": "2",
+    "name": "dried pasilla chiles, seeded"
+   },
+   {
+    "measure": "4",
+    "name": "ripe tomatoes"
+   },
+   {
+    "measure": "200 g",
+    "name": "tomatillos, husked"
+   },
+   {
+    "measure": "1",
+    "name": "large onion, quartered"
+   },
+   {
+    "measure": "5 cloves",
+    "name": "garlic, unpeeled"
+   },
+   {
+    "measure": "1",
+    "name": "small cinnamon stick"
+   },
+   {
+    "measure": "4",
+    "name": "whole cloves"
+   },
+   {
+    "measure": "1",
+    "name": "corn tortilla, charred"
+   },
+   {
+    "measure": "500 g",
+    "name": "potatoes, peeled and cut in chunks"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, sliced thickly"
+   },
+   {
+    "measure": "150 g",
+    "name": "green beans"
+   },
+   {
+    "measure": "1.2 litres",
+    "name": "water or chicken stock"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Toast the pumpkin seeds in a dry pan over medium heat, stirring, until they puff and turn lightly golden, then tip them out and toast the sesame seeds for a minute until fragrant.",
+   "Char the tomatoes, tomatillos, onion and unpeeled garlic on a hot dry griddle or under a grill until blackened in spots, then peel the garlic.",
+   "Toast the dried chiles briefly for about 20 seconds per side so they stay red rather than burnt, then soak them in hot water for 15 minutes to soften.",
+   "Blend the seeds, chiles, charred vegetables, cinnamon, cloves and the charred tortilla with about 500 ml of the stock until completely smooth, then strain if you want a fine sauce.",
+   "Season the chicken with salt and brown it in a heavy pot with a little oil. Pour in the blended recado and fry it, stirring, for 5 minutes until it darkens and thickens.",
+   "Add the remaining stock, bring to a simmer and cook, partly covered, for 25 minutes.",
+   "Add the potatoes, carrots and green beans and simmer for another 20 to 25 minutes until the chicken is tender and the sauce coats a spoon. Adjust the salt.",
+   "Serve hot with white rice and warm tortillas or tamalitos."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pepi%C3%A1n",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-rellenitos-de-platano-guatemalan-sweet-plantain-and-bean-fritters",
+  "title": "Rellenitos de plátano (Guatemalan sweet plantain and bean fritters)",
+  "country": "Guatemala",
+  "category": "Dessert",
+  "tags": [
+   "Guatemalan",
+   "plantain",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "very ripe plantains, peeled and cut in chunks"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "400 g",
+    "name": "cooked black beans (a can works)"
+   },
+   {
+    "measure": "60 g",
+    "name": "dark chocolate or Guatemalan tablet chocolate"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground cinnamon"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "flour for dusting"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "",
+    "name": "powdered sugar or honey to finish"
+   }
+  ],
+  "steps": [
+   "Boil the plantain chunks with the cinnamon stick in water for about 15 minutes until very soft, then drain and mash into a smooth paste while still warm.",
+   "Drain the beans well and mash or pulse them into a thick puree, cooking it in a dry pan with the sugar and ground cinnamon until it holds together as a paste.",
+   "Melt the chocolate with a spoonful of water and stir it into the bean paste, then let it cool until easy to handle.",
+   "With floured hands take a golf-ball portion of plantain, flatten it in your palm, put a teaspoon of bean filling in the middle and fold the plantain around it into an oval.",
+   "Heat about 3 cm of oil to medium-high and fry the rellenitos in batches for 3 to 4 minutes, turning, until deep golden and crisp.",
+   "Drain on paper towels and dust with powdered sugar or drizzle with honey. Serve warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rellenitos_de_pl%C3%A1tano",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-subanik-guatemalan-ceremonial-three-meat-chile-stew",
+  "title": "Subanik (Guatemalan ceremonial three-meat chile stew)",
+  "country": "Guatemala",
+  "category": "Pork",
+  "tags": [
+   "Guatemalan",
+   "Maya",
+   "stew"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "chicken pieces, bone-in"
+   },
+   {
+    "measure": "300 g",
+    "name": "pork shoulder, cubed"
+   },
+   {
+    "measure": "300 g",
+    "name": "beef chuck, cubed"
+   },
+   {
+    "measure": "4",
+    "name": "dried guajillo chiles, seeded"
+   },
+   {
+    "measure": "2",
+    "name": "dried pasilla chiles, seeded"
+   },
+   {
+    "measure": "400 g",
+    "name": "ripe tomatoes"
+   },
+   {
+    "measure": "200 g",
+    "name": "tomatillos"
+   },
+   {
+    "measure": "1",
+    "name": "onion"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "40 g",
+    "name": "raw pumpkin seeds"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sesame seeds"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "annatto (achiote) paste"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "3",
+    "name": "banana leaves, to line the pot (or foil)"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Toast the pumpkin seeds and sesame seeds in a dry pan until golden, and roast the tomatoes, tomatillos, onion and garlic until blackened in spots.",
+   "Soak the toasted dried chiles in hot water for 15 minutes, then blend them with the roasted vegetables, seeds, annatto and cinnamon into a thick recado with a little of the soaking liquid.",
+   "Season the meats with salt and sear them in batches in a heavy pot until lightly browned.",
+   "Line a clean heavy pot with banana leaves, tuck in the meats and pour the recado over them with 400 ml of water.",
+   "Fold the leaves over the top, cover tightly and cook over low heat for about 1.5 to 2 hours, stirring only once or twice, until all three meats are very tender and the sauce is thick and glossy.",
+   "Taste for salt and serve with rice and tamales."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Subanik",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-guatemala-tamales-colorados-guatemalan-red-pork-tamales",
+  "title": "Tamales colorados (Guatemalan red pork tamales)",
+  "country": "Guatemala",
+  "category": "Pork",
+  "tags": [
+   "Guatemalan",
+   "tamale",
+   "Christmas"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "masa harina (corn flour for tamales)"
+   },
+   {
+    "measure": "150 g",
+    "name": "lard or butter"
+   },
+   {
+    "measure": "700 ml",
+    "name": "warm pork or chicken broth"
+   },
+   {
+    "measure": "600 g",
+    "name": "pork shoulder, cut in small cubes"
+   },
+   {
+    "measure": "500 g",
+    "name": "ripe tomatoes"
+   },
+   {
+    "measure": "4",
+    "name": "dried guajillo chiles, seeded"
+   },
+   {
+    "measure": "1",
+    "name": "red bell pepper"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "annatto (achiote) paste"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sesame seeds"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "raw pumpkin seeds"
+   },
+   {
+    "measure": "12",
+    "name": "squares of banana leaf, softened over a flame, plus parchment squares"
+   },
+   {
+    "measure": "50 g",
+    "name": "olives, capers or raisins for the filling"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Simmer the pork in salted water for 40 minutes until just tender, and keep the broth for the dough.",
+   "Roast the tomatoes, bell pepper and toasted sesame and pumpkin seeds, soak the toasted chiles, then blend everything with the annatto into a thick red sauce.",
+   "Cook the sauce in a pan with a little fat for 10 minutes, add the pork, season with salt and simmer until the mixture is thick and not runny.",
+   "Beat the lard until fluffy, add the masa harina, then gradually beat in the warm broth and a tablespoon of the red sauce until you have a soft spreadable dough that floats a small piece in cold water. Season generously.",
+   "Lay a banana leaf square on a parchment square, spread about 3 tablespoons of dough in the centre, add a spoon of the pork sauce and a couple of olives or capers, and fold into a neat rectangular parcel, tying with string.",
+   "Steam the tamales upright or stacked in a pot with a rack for about 1.5 hours, topping up the water as needed, until the dough pulls away cleanly from the leaf.",
+   "Rest the tamales for 10 minutes before unwrapping and serve warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tamale",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

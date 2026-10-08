@@ -1,0 +1,504 @@
+[
+ {
+  "id": "original-uruguay-asado-uruguayan-wood-fired-beef-barbecue",
+  "title": "Asado (Uruguayan wood-fired beef barbecue)",
+  "country": "Uruguay",
+  "category": "Beef",
+  "tags": [
+   "Uruguayan",
+   "barbecue",
+   "grill"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.5 kg",
+    "name": "beef short ribs (tira de asado), cut across the bone in strips"
+   },
+   {
+    "measure": "4",
+    "name": "fresh pork or beef sausages (chorizos)"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "coarse salt"
+   },
+   {
+    "measure": "2",
+    "name": "lemons, in wedges"
+   },
+   {
+    "measure": "2 kg",
+    "name": "hardwood lump charcoal or wood for embers"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, diced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, diced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "white vinegar and 2 tbsp oil for a salsa criolla"
+   }
+  ],
+  "steps": [
+   "Light the wood or charcoal about 45 minutes ahead, in one side of the grill, and let it burn down to glowing grey embers rather than flames.",
+   "Take the meat out of the fridge 30 minutes before cooking and salt it generously with the coarse salt just before it goes on the grill.",
+   "Set the grill rack about 20 cm above a small bed of embers, shovelling more embers beneath as needed so the heat stays gentle.",
+   "Place the short ribs bone side down first and cook for 45 minutes to 1 hour, then turn and cook the other side for another 30 minutes until browned and tender.",
+   "Add the sausages for the last 30 minutes, turning until evenly browned and cooked through.",
+   "Mix the tomato, onion, vinegar, oil and a little salt into a fresh salsa criolla and let it stand while the meat cooks.",
+   "Rest the meat for 5 minutes, then carve and serve with lemon wedges, the salsa and bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Asado",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-uruguay-budin-de-pan-uruguayan-caramel-bread-pudding",
+  "title": "Budín de pan (Uruguayan caramel bread pudding)",
+  "country": "Uruguay",
+  "category": "Dessert",
+  "tags": [
+   "Uruguayan",
+   "pudding",
+   "caramel"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "stale white bread, torn"
+   },
+   {
+    "measure": "750 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "3",
+    "name": "eggs"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar, for the pudding"
+   },
+   {
+    "measure": "150 g",
+    "name": "sugar, for the caramel"
+   },
+   {
+    "measure": "60 g",
+    "name": "raisins"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "1",
+    "name": "lemon, zest only"
+   }
+  ],
+  "steps": [
+   "Soak the torn bread in the milk for 30 minutes until soft, then squeeze lightly and mash with a fork.",
+   "Heat the oven to 180 C. Melt the caramel sugar in a small pan over medium heat, without stirring, until it is a deep amber, then pour it into a 22 cm loaf or ring mould and tilt to coat the base and sides.",
+   "Beat the eggs with the pudding sugar, vanilla and zest, then mix thoroughly into the bread with the raisins.",
+   "Pour the mixture into the caramelised mould and set it in a roasting dish. Pour hot water into the dish to come halfway up the mould.",
+   "Bake for 50 minutes to 1 hour until set and a knife comes out clean.",
+   "Cool completely, run a knife around the edge and turn the pudding out so the caramel runs over it. Serve at room temperature or chilled, optionally with dulce de leche."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bread_pudding",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-uruguay-capeletis-a-la-caruso-cappelletti-in-uruguayan-cream-ham-and-mushroom-sauce",
+  "title": "Capeletis a la Caruso (cappelletti in Uruguayan cream, ham and mushroom sauce)",
+  "country": "Uruguay",
+  "category": "Pasta",
+  "tags": [
+   "Uruguayan",
+   "pasta",
+   "cream sauce"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "fresh meat- or cheese-filled cappelletti (capeletis)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "1",
+    "name": "small onion, finely chopped"
+   },
+   {
+    "measure": "200 g",
+    "name": "mushrooms, sliced"
+   },
+   {
+    "measure": "100 g",
+    "name": "cooked ham, diced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "flour"
+   },
+   {
+    "measure": "300 ml",
+    "name": "heavy cream"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "beef bouillon paste or stock concentrate"
+   },
+   {
+    "measure": "30 g",
+    "name": "walnuts, chopped"
+   },
+   {
+    "measure": "40 g",
+    "name": "grated parmesan or similar hard cheese"
+   },
+   {
+    "measure": "",
+    "name": "nutmeg, salt and pepper"
+   }
+  ],
+  "steps": [
+   "Melt the butter in a wide pan and cook the onion for 3 minutes until soft.",
+   "Add the mushrooms and cook for 5 to 6 minutes until the liquid has evaporated and they begin to brown, then stir in the ham.",
+   "Sprinkle with flour and stir for a minute, then pour in the cream, stirring, with the bouillon paste.",
+   "Simmer gently for 5 minutes until the sauce thickens, then add the walnuts, a pinch of nutmeg and pepper and taste for salt.",
+   "Cook the cappelletti in plenty of salted boiling water according to the package, usually 3 to 5 minutes, and drain.",
+   "Toss the pasta with the sauce for a minute so it is well coated, and serve with grated cheese on top."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Caruso_sauce",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-uruguay-churros-rellenos-uruguayan-churros-filled-with-dulce-de-leche",
+  "title": "Churros rellenos (Uruguayan churros filled with dulce de leche)",
+  "country": "Uruguay",
+  "category": "Dessert",
+  "tags": [
+   "Uruguayan",
+   "fried",
+   "dulce de leche"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "50 g",
+    "name": "butter"
+   },
+   {
+    "measure": "150 g",
+    "name": "all-purpose flour"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "sugar, for coating"
+   },
+   {
+    "measure": "300 g",
+    "name": "dulce de leche"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying"
+   }
+  ],
+  "steps": [
+   "Bring the water, butter and salt to a boil in a saucepan, then tip in the flour all at once and stir vigorously until a smooth dough forms and pulls away from the sides.",
+   "Cool the dough for 5 minutes, then beat in the egg until glossy and smooth.",
+   "Spoon the dough into a piping bag with a large star nozzle.",
+   "Heat 5 cm of oil to about 175 C. Pipe 12 cm lengths into the oil, cutting them off with scissors, and fry in batches for 3 to 4 minutes, turning, until deep golden.",
+   "Drain on paper towels and roll in the sugar while still warm.",
+   "Fill a piping bag fitted with a narrow nozzle with the dulce de leche and push the tip into the end of each churro to fill it. Serve warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Churro",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-uruguay-dulce-de-batata-uruguayan-sweet-potato-jelly",
+  "title": "Dulce de batata (Uruguayan sweet potato jelly)",
+  "country": "Uruguay",
+  "category": "Dessert",
+  "tags": [
+   "Uruguayan",
+   "sweet potato",
+   "preserve"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "700 g",
+    "name": "orange-fleshed sweet potatoes, peeled and cubed"
+   },
+   {
+    "measure": "400 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "150 ml",
+    "name": "water"
+   },
+   {
+    "measure": "2 strips",
+    "name": "orange peel"
+   },
+   {
+    "measure": "1",
+    "name": "cinnamon stick"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice"
+   }
+  ],
+  "steps": [
+   "Boil the sweet potato cubes in water until completely soft, about 15 minutes, drain and puree until very smooth.",
+   "Heat the sugar with the 150 ml of water, orange peel and cinnamon until the sugar dissolves, then simmer for 5 minutes to make a syrup.",
+   "Remove the peel and cinnamon and stir the sweet potato puree into the syrup.",
+   "Cook over low heat, stirring constantly with a wooden spoon, for 30 to 40 minutes, until the mixture is thick enough that you can see the bottom of the pot when you drag the spoon across it.",
+   "Stir in the vanilla and lemon juice, then pour into a lined dish or mould and smooth the top.",
+   "Cool completely and chill until firm, then cut into slices and serve with fresh cheese or on its own."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dulce_de_batata",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-uruguay-matambre-relleno-uruguayan-stuffed-rolled-flank-steak",
+  "title": "Matambre relleno (Uruguayan stuffed rolled flank steak)",
+  "country": "Uruguay",
+  "category": "Beef",
+  "tags": [
+   "Uruguayan",
+   "beef",
+   "roulade"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "flank steak, butterflied to an even thin sheet (matambre)"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, cooked until just tender and sliced lengthwise"
+   },
+   {
+    "measure": "4",
+    "name": "eggs, hard-boiled and peeled"
+   },
+   {
+    "measure": "150 g",
+    "name": "spinach, blanched and squeezed dry"
+   },
+   {
+    "measure": "1",
+    "name": "roasted red pepper, in strips"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "chopped parsley"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "500 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "",
+    "name": "salt and black pepper"
+   }
+  ],
+  "steps": [
+   "Lay the flank steak flat, pound it to an even thickness and rub it with garlic, parsley, oregano, salt and pepper.",
+   "Spread the spinach over the meat, leaving a 2 cm border, and arrange the carrot sticks, roasted pepper strips and whole eggs in lines along the length.",
+   "Roll the meat up tightly like a roulade and tie it securely with kitchen string at 3 cm intervals, or sew the seam.",
+   "Put the roll in a snug pot, add the milk and enough water to nearly cover, and simmer very gently for 1.5 hours.",
+   "Lift out the matambre, place it in a baking dish and roast at 200 C for 20 minutes to brown the surface.",
+   "Cool completely, ideally pressed under a weight in the fridge for several hours, then cut into 1 cm slices to show the spiral of stuffing.",
+   "Serve cold with salad or mayonnaise, or warm with the cooking juices."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Matambre",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-uruguay-pamplona-uruguayan-stuffed-chicken-roll-for-the-grill",
+  "title": "Pamplona (Uruguayan stuffed chicken roll for the grill)",
+  "country": "Uruguay",
+  "category": "Chicken",
+  "tags": [
+   "Uruguayan",
+   "grilled",
+   "stuffed"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "large chicken breast fillets (about 600 g), butterflied and pounded thin"
+   },
+   {
+    "measure": "150 g",
+    "name": "cooked ham, in slices"
+   },
+   {
+    "measure": "150 g",
+    "name": "mozzarella or other melting cheese, in sticks"
+   },
+   {
+    "measure": "1",
+    "name": "roasted red pepper, in strips"
+   },
+   {
+    "measure": "8",
+    "name": "slices of bacon"
+   },
+   {
+    "measure": "2 cloves",
+    "name": "garlic, minced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried oregano"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "",
+    "name": "salt and pepper"
+   }
+  ],
+  "steps": [
+   "Season the flattened chicken with salt, pepper, garlic and oregano.",
+   "Lay slices of ham on each fillet and place a stick of cheese and a strip of roasted pepper along one edge.",
+   "Roll each fillet up tightly into a thick log, tucking in the sides so the cheese stays inside.",
+   "Wrap each roll with two slices of bacon and tie with string or secure with toothpicks.",
+   "Brush with olive oil and cook over medium-low coals or on a grill pan for about 30 to 35 minutes, turning often, until the bacon is crisp and the chicken registers 74 C inside. Alternatively bake at 200 C for 30 to 35 minutes.",
+   "Rest for 5 minutes, remove the string and cut into thick slices to serve with salad or fries."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pamplona_(dish)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-uruguay-pasta-frola-uruguayan-jam-tart-with-lattice-top",
+  "title": "Pasta frola (Uruguayan jam tart with lattice top)",
+  "country": "Uruguay",
+  "category": "Dessert",
+  "tags": [
+   "Uruguayan",
+   "tart",
+   "afternoon tea"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "all-purpose flour"
+   },
+   {
+    "measure": "150 g",
+    "name": "cold butter, cubed"
+   },
+   {
+    "measure": "100 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "2",
+    "name": "eggs (1 whole, 1 yolk)"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1",
+    "name": "lemon, zest only"
+   },
+   {
+    "measure": "400 g",
+    "name": "quince paste, dulce de batata or thick jam, softened"
+   },
+   {
+    "measure": "",
+    "name": "pinch of salt"
+   }
+  ],
+  "steps": [
+   "Rub the butter into the flour, sugar, baking powder, zest and salt until it looks like fine crumbs.",
+   "Add the egg and yolk and bring together into a smooth dough without overworking. Wrap and chill for 30 minutes.",
+   "Heat the oven to 180 C. Roll out two-thirds of the dough and line a 24 cm tart tin, pressing it up the sides, and prick the base.",
+   "Warm the quince paste or jam briefly with a splash of water so it spreads, then spread it evenly over the dough.",
+   "Roll out the remaining dough, cut into strips and lay them over the filling in a lattice, pressing the ends onto the rim.",
+   "Bake for 35 to 40 minutes until golden brown. Cool in the tin before unmoulding and serve with mate or coffee."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pastafrola",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
