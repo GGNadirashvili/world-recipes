@@ -1,0 +1,724 @@
+[
+ {
+  "id": "original-ireland-bacon-and-cabbage-with-parsley-sauce",
+  "title": "Bacon and cabbage with parsley sauce",
+  "country": "Ireland",
+  "category": "Pork",
+  "tags": [
+   "Irish",
+   "boiled dinner",
+   "bacon"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.2 kg",
+    "name": "unsmoked bacon or gammon joint"
+   },
+   {
+    "measure": "1",
+    "name": "savoy cabbage, cored and cut into wedges"
+   },
+   {
+    "measure": "600 g",
+    "name": "floury potatoes, peeled"
+   },
+   {
+    "measure": "2",
+    "name": "carrots, peeled"
+   },
+   {
+    "measure": "1",
+    "name": "onion, halved"
+   },
+   {
+    "measure": "30 g",
+    "name": "butter"
+   },
+   {
+    "measure": "30 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "400 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "chopped parsley"
+   },
+   {
+    "measure": "to taste",
+    "name": "salt and black pepper"
+   }
+  ],
+  "steps": [
+   "If the bacon is very salty, soak it in cold water for several hours or overnight, then drain.",
+   "Put the joint in a large pot with the onion and carrots, cover with fresh cold water and bring to the boil. Skim off the foam, then reduce to a gentle simmer.",
+   "Simmer for about 20 minutes per 500 g plus another 20 minutes, until the meat is tender.",
+   "Add the potatoes to the pot for the last 25 minutes, and the cabbage wedges for the last 10 minutes.",
+   "For the sauce, melt the butter, stir in the flour and cook for 1 minute, then whisk in the milk and simmer until thick. Stir in the parsley and season with pepper.",
+   "Lift out the joint, rest it for 10 minutes and slice. Serve with the cabbage, potatoes, carrots and sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bacon_and_cabbage",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-barmbrack-tea-soaked-fruit-loaf",
+  "title": "Barmbrack (tea-soaked fruit loaf)",
+  "country": "Ireland",
+  "category": "Side",
+  "tags": [
+   "Irish",
+   "bread",
+   "fruit"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "mixed dried fruit (raisins, sultanas, currants)"
+   },
+   {
+    "measure": "250 ml",
+    "name": "strong hot black tea"
+   },
+   {
+    "measure": "150 g",
+    "name": "brown sugar"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten"
+   },
+   {
+    "measure": "300 g",
+    "name": "self-raising flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "mixed spice"
+   },
+   {
+    "measure": "to serve",
+    "name": "butter"
+   }
+  ],
+  "steps": [
+   "Put the dried fruit and sugar in a bowl, pour over the hot tea, stir, cover and leave to soak overnight.",
+   "Heat the oven to 150 degrees C and line a 900 g loaf tin.",
+   "Stir the beaten egg into the soaked fruit mixture.",
+   "Fold in the flour and mixed spice until just combined, without overmixing.",
+   "Spoon the batter into the tin and level the top.",
+   "Bake for about 1 hour 15 minutes, until a skewer comes out clean. Cool on a rack and serve sliced and buttered."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Barmbrack",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-carrageen-moss-pudding-set-milk-dessert",
+  "title": "Carrageen moss pudding (set milk dessert)",
+  "country": "Ireland",
+  "category": "Dessert",
+  "tags": [
+   "Irish",
+   "pudding",
+   "seaweed"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "10 g",
+    "name": "dried carrageen moss (or 1/2 tsp agar powder as a substitute)"
+   },
+   {
+    "measure": "750 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1",
+    "name": "egg, separated"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "to serve",
+    "name": "stewed fruit or berries"
+   }
+  ],
+  "steps": [
+   "Soak the carrageen moss in cold water for 10 minutes, then drain and rinse it.",
+   "Put the moss and milk in a saucepan and bring slowly to a simmer. Cook gently for 15 to 20 minutes, until the milk has thickened slightly and the moss is soft and gelatinous. If using agar, simmer for 2 minutes instead.",
+   "Strain the milk into a bowl, pressing out the thick jelly from the moss, and stir in the sugar and vanilla.",
+   "Beat the egg yolk into the mixture and whisk the egg white to soft peaks. Fold the whites in.",
+   "Pour into small dishes and chill for at least 3 hours until set.",
+   "Serve cold with stewed fruit or berries."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carrageen_pudding",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-chicken-fillet-roll-irish-deli-counter-crispy-chicken-roll",
+  "title": "Chicken fillet roll (Irish deli-counter crispy chicken roll)",
+  "country": "Ireland",
+  "category": "Chicken",
+  "tags": [
+   "Irish",
+   "sandwich",
+   "fried"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "chicken breast fillets, halved horizontally to make thin cutlets"
+   },
+   {
+    "measure": "80 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2",
+    "name": "eggs, beaten"
+   },
+   {
+    "measure": "100 g",
+    "name": "breadcrumbs"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "300 ml",
+    "name": "oil, for shallow frying"
+   },
+   {
+    "measure": "4",
+    "name": "white rolls"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "mayonnaise"
+   },
+   {
+    "measure": "4",
+    "name": "lettuce leaves"
+   },
+   {
+    "measure": "60 g",
+    "name": "grated cheddar"
+   },
+   {
+    "measure": "to serve",
+    "name": "coleslaw or fries (optional)"
+   }
+  ],
+  "steps": [
+   "Season the flour with the salt and pepper. Pound the chicken lightly so it is an even thickness.",
+   "Coat each piece in flour, dip in egg and press into the breadcrumbs.",
+   "Heat the oil in a deep frying pan to medium-high heat and fry the chicken for 4 to 5 minutes per side until golden and cooked through.",
+   "Drain on paper towels.",
+   "Split the rolls and spread with mayonnaise, then add lettuce, grated cheese and the hot chicken.",
+   "Close the rolls and serve, with coleslaw or fries if you like."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chicken_fillet_roll",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-crubeens-boiled-and-breaded-pig-s-trotters",
+  "title": "Crubeens (boiled and breaded pig's trotters)",
+  "country": "Ireland",
+  "category": "Pork",
+  "tags": [
+   "Irish",
+   "pork",
+   "traditional"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "pig's trotters, split lengthways"
+   },
+   {
+    "measure": "1",
+    "name": "onion, halved"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, peeled"
+   },
+   {
+    "measure": "2",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "6",
+    "name": "peppercorns"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "60 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2",
+    "name": "eggs, beaten"
+   },
+   {
+    "measure": "100 g",
+    "name": "breadcrumbs"
+   },
+   {
+    "measure": "300 ml",
+    "name": "oil, for frying"
+   }
+  ],
+  "steps": [
+   "Scrub the trotters well and put them in a large pot with the onion, carrot, bay leaves, peppercorns and salt.",
+   "Cover with cold water, bring to a boil, skim, then simmer gently for 2 1/2 to 3 hours until the meat is tender and nearly falling from the bone.",
+   "Lift out the trotters carefully and cool them, then chill for at least 2 hours so they firm up.",
+   "Dust the trotters in flour, dip in beaten egg and roll in breadcrumbs.",
+   "Heat the oil to about 170 degrees C and fry the trotters for 5 to 6 minutes until golden and crisp and heated through.",
+   "Drain on paper towels and serve hot with mustard and bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crubeens",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-goody-bread-boiled-in-sweet-spiced-milk",
+  "title": "Goody (bread boiled in sweet spiced milk)",
+  "country": "Ireland",
+  "category": "Dessert",
+  "tags": [
+   "Irish",
+   "comfort food",
+   "milk pudding"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "stale white bread, torn"
+   },
+   {
+    "measure": "500 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "nutmeg or mixed spice"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter"
+   }
+  ],
+  "steps": [
+   "Warm the milk in a saucepan with the sugar and spice until just below boiling.",
+   "Drop in the torn bread and press it down into the milk.",
+   "Simmer gently, stirring and mashing, for 5 to 8 minutes until the bread has broken down into a soft, spoonable pudding.",
+   "Stir in the butter and serve warm in bowls, with a little extra sugar sprinkled on top."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Goody_(food)",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-irish-breakfast-roll-sausage-bacon-and-egg-in-a-crusty-roll",
+  "title": "Irish breakfast roll (sausage, bacon and egg in a crusty roll)",
+  "country": "Ireland",
+  "category": "Breakfast",
+  "tags": [
+   "Irish",
+   "sandwich",
+   "breakfast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "soft white or crusty rolls"
+   },
+   {
+    "measure": "4",
+    "name": "pork sausages"
+   },
+   {
+    "measure": "8 rashers",
+    "name": "back bacon"
+   },
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "4 slices",
+    "name": "white or black pudding (optional)"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "to taste",
+    "name": "brown sauce or ketchup"
+   }
+  ],
+  "steps": [
+   "Fry or grill the sausages for 12 to 15 minutes, turning, until cooked through and browned.",
+   "Add the bacon rashers to the pan or grill for the last 5 minutes until crisp at the edges.",
+   "Fry the pudding slices, if using, for 2 minutes per side.",
+   "Fry the eggs in a little butter to your preferred doneness.",
+   "Split the rolls and butter them, then slice the sausages lengthways.",
+   "Fill each roll with sausages, bacon, pudding and an egg, add sauce and serve hot."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Breakfast_roll",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-irish-coffee-hot-coffee-with-whiskey-and-cream",
+  "title": "Irish coffee (hot coffee with whiskey and cream)",
+  "country": "Ireland",
+  "category": "Miscellaneous",
+  "tags": [
+   "Irish",
+   "drink",
+   "whiskey"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 ml",
+    "name": "strong hot black coffee"
+   },
+   {
+    "measure": "4 tsp",
+    "name": "brown sugar"
+   },
+   {
+    "measure": "120 ml",
+    "name": "Irish whiskey"
+   },
+   {
+    "measure": "120 ml",
+    "name": "double cream, lightly whipped"
+   }
+  ],
+  "steps": [
+   "Warm four stemmed glasses or mugs with hot water, then empty them.",
+   "Divide the sugar between the glasses and pour in the hot coffee, stirring until the sugar dissolves.",
+   "Add the whiskey to each and stir.",
+   "Lightly whip the cream so it is thick but still pourable.",
+   "Pour the cream gently over the back of a spoon so it floats on top of the coffee.",
+   "Serve immediately without stirring, drinking the coffee through the cream."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Irish_coffee",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-irish-salmon-pie-poached-salmon-in-cream-sauce-under-mashed-potato",
+  "title": "Irish salmon pie (poached salmon in cream sauce under mashed potato)",
+  "country": "Ireland",
+  "category": "Seafood",
+  "tags": [
+   "Irish",
+   "salmon",
+   "pie"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "salmon fillet, skinned"
+   },
+   {
+    "measure": "500 ml",
+    "name": "milk, for poaching"
+   },
+   {
+    "measure": "1",
+    "name": "bay leaf"
+   },
+   {
+    "measure": "30 g",
+    "name": "butter"
+   },
+   {
+    "measure": "30 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped dill or parsley"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "800 g",
+    "name": "potatoes"
+   },
+   {
+    "measure": "50 g",
+    "name": "butter, for the mash"
+   },
+   {
+    "measure": "50 ml",
+    "name": "milk, for the mash"
+   },
+   {
+    "measure": "to taste",
+    "name": "salt and pepper"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 degrees C. Boil the potatoes in salted water until tender.",
+   "Poach the salmon in the milk with the bay leaf for 8 minutes until just cooked. Lift out, flake the fish and keep the milk.",
+   "Melt the 30 g butter, stir in the flour and cook for 1 minute, then whisk in the strained poaching milk and simmer until you have a thick sauce.",
+   "Fold in the flaked salmon, herbs and lemon juice and season. Spoon into a baking dish.",
+   "Mash the potatoes with the remaining butter and milk and season to taste, then spread over the salmon and rough up the surface with a fork.",
+   "Bake for 25 to 30 minutes until bubbling and golden on top."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Salmon_pie",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-nettle-soup-spring-soup-of-young-nettles-and-potato",
+  "title": "Nettle soup (spring soup of young nettles and potato)",
+  "country": "Ireland",
+  "category": "Starter",
+  "tags": [
+   "Irish",
+   "soup",
+   "foraged"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "150 g",
+    "name": "young nettle tops, picked with gloves (or spinach)"
+   },
+   {
+    "measure": "30 g",
+    "name": "butter"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "leek, sliced"
+   },
+   {
+    "measure": "300 g",
+    "name": "potatoes, peeled and diced"
+   },
+   {
+    "measure": "750 ml",
+    "name": "vegetable stock"
+   },
+   {
+    "measure": "100 ml",
+    "name": "cream"
+   },
+   {
+    "measure": "to taste",
+    "name": "salt, pepper and nutmeg"
+   }
+  ],
+  "steps": [
+   "Wearing gloves, wash the nettle tops and remove any thick stalks.",
+   "Melt the butter in a large pot and soften the onion and leek for 8 minutes without browning.",
+   "Add the potatoes and stock, bring to a boil and simmer for 15 minutes until tender.",
+   "Add the nettles and cook for 3 to 4 minutes. Boiling removes the sting.",
+   "Blend until smooth, then stir in the cream and season with salt, pepper and a little nutmeg.",
+   "Reheat gently without boiling and serve with brown bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nettle_soup",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-potato-farls-griddle-fried-potato-bread-triangles",
+  "title": "Potato farls (griddle-fried potato bread triangles)",
+  "country": "Ireland",
+  "category": "Side",
+  "tags": [
+   "Irish",
+   "potato",
+   "griddle"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "floury potatoes, peeled and cut up"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "melted butter"
+   },
+   {
+    "measure": "120 g",
+    "name": "plain flour, plus extra for dusting"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "butter, for frying"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in salted water until tender, drain well and mash until completely smooth.",
+   "Stir in the melted butter and salt, then work in the flour to form a soft dough. Do not overwork it.",
+   "Turn out onto a floured surface and roll or pat into a round about 1 cm thick.",
+   "Cut the round into four triangular quarters.",
+   "Heat a dry non-stick frying pan or griddle over medium heat and cook the farls for 3 to 4 minutes per side until lightly browned.",
+   "Serve warm with butter, or fry in butter alongside bacon and eggs for breakfast."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Farl",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-ireland-spice-bag-dublin-takeaway-crispy-chicken-chips-and-peppers",
+  "title": "Spice bag (Dublin takeaway crispy chicken, chips and peppers)",
+  "country": "Ireland",
+  "category": "Chicken",
+  "tags": [
+   "Irish",
+   "takeaway",
+   "spiced"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "chicken breast, cut into strips"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "cornflour"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "Chinese five spice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "chilli powder"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "600 g",
+    "name": "chips (fries), oven-baked"
+   },
+   {
+    "measure": "1",
+    "name": "red pepper, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "green pepper, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "fresh red chillies, sliced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "to serve",
+    "name": "curry sauce or sweet chilli sauce"
+   }
+  ],
+  "steps": [
+   "Mix the cornflour with half the five spice, chilli powder and salt, then toss the chicken strips in the mixture until coated.",
+   "Heat 2 tablespoons of the oil in a large frying pan and fry the chicken for 6 to 8 minutes until crisp and cooked through. Remove and set aside.",
+   "Wipe out the pan, heat the remaining oil and stir-fry the peppers, onion and chillies over high heat for 4 to 5 minutes until just softened.",
+   "Return the chicken and tip in the hot chips.",
+   "Sprinkle over the remaining spice mix and toss everything together.",
+   "Serve in a paper bag or bowl with curry sauce or sweet chilli sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Spice_bag",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

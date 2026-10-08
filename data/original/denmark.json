@@ -1,0 +1,776 @@
+[
+ {
+  "id": "original-denmark-blefl-sk-fried-pork-belly-with-apples-and-thyme",
+  "title": "Æbleflæsk (fried pork belly with apples and thyme)",
+  "country": "Denmark",
+  "category": "Pork",
+  "tags": [
+   "Danish",
+   "pork belly",
+   "apples"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "salted or streaky pork belly, cut into small cubes"
+   },
+   {
+    "measure": "3",
+    "name": "tart apples, peeled and diced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "dried thyme"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water"
+   },
+   {
+    "measure": "to serve",
+    "name": "dark rye bread"
+   }
+  ],
+  "steps": [
+   "Fry the pork cubes in a large dry pan over medium heat for 10 to 12 minutes until they release their fat and turn golden.",
+   "Add the onion and cook for 3 minutes.",
+   "Stir in the apples, sugar, thyme and water.",
+   "Cover and simmer gently for 10 to 15 minutes until the apples are soft and the mixture has thickened.",
+   "Serve warm or cold on dark rye bread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Æbleflæsk",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-b-fsandwich-danish-beef-patty-sandwich-with-remoulade-and-crispy-onions",
+  "title": "Bøfsandwich (Danish beef patty sandwich with remoulade and crispy onions)",
+  "country": "Denmark",
+  "category": "Beef",
+  "tags": [
+   "Danish",
+   "sandwich",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "minced beef"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "4",
+    "name": "soft rolls or white bread buns"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "remoulade"
+   },
+   {
+    "measure": "8 slices",
+    "name": "dill pickle"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "crispy fried onions"
+   },
+   {
+    "measure": "to taste",
+    "name": "ketchup and mustard"
+   }
+  ],
+  "steps": [
+   "Mix the beef with the egg, salt and pepper until just combined and shape into four flat patties.",
+   "Heat the oil in a frying pan over medium-high heat and cook the patties for 4 to 5 minutes per side until browned and cooked through.",
+   "Split and lightly toast the rolls.",
+   "Spread the remoulade on both sides, then layer on the patty, pickle slices, ketchup and mustard.",
+   "Top with crispy onions and serve warm."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bøfsandwich",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-br-ndende-k-rlighed-burning-love-mash-with-bacon-and-onions",
+  "title": "Brændende kærlighed (burning love: mash with bacon and onions)",
+  "country": "Denmark",
+  "category": "Pork",
+  "tags": [
+   "Danish",
+   "potato",
+   "comfort food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "potatoes, peeled and cut up"
+   },
+   {
+    "measure": "100 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "50 g",
+    "name": "butter"
+   },
+   {
+    "measure": "200 g",
+    "name": "bacon, diced"
+   },
+   {
+    "measure": "2",
+    "name": "onions, sliced"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "nutmeg"
+   },
+   {
+    "measure": "to taste",
+    "name": "salt and pepper"
+   },
+   {
+    "measure": "to serve",
+    "name": "pickled beetroot"
+   }
+  ],
+  "steps": [
+   "Boil the potatoes in salted water for 20 minutes until tender, drain and mash with the butter and warm milk until smooth.",
+   "Season with nutmeg, salt and pepper and keep warm.",
+   "Fry the bacon in a dry pan for 5 minutes until crisp, then lift it out, leaving the fat behind.",
+   "Cook the onions in the bacon fat for 10 minutes until soft and golden.",
+   "Pile the mash onto plates, make a well in the middle and top with the bacon and onions with their fat.",
+   "Serve with pickled beetroot on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brændende_kærlighed",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-fl-skesteg-danish-roast-pork-with-crackling",
+  "title": "Flæskesteg (Danish roast pork with crackling)",
+  "country": "Denmark",
+  "category": "Pork",
+  "tags": [
+   "Danish",
+   "roast",
+   "Christmas"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1.5 kg",
+    "name": "pork loin or shoulder roast with the rind on"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "4",
+    "name": "bay leaves"
+   },
+   {
+    "measure": "300 ml",
+    "name": "water"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "plain flour"
+   },
+   {
+    "measure": "100 ml",
+    "name": "cream"
+   },
+   {
+    "measure": "to serve",
+    "name": "boiled potatoes and red cabbage"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 degrees C. Score the rind in thin parallel lines about 1 cm apart, taking care not to cut into the meat.",
+   "Rub the salt into the rind and the pepper over the meat, then tuck the bay leaves into the cuts.",
+   "Place the roast rind side up in a roasting tin and pour the water into the tin, not over the meat.",
+   "Roast for about 1 hour 30 minutes until the internal temperature reaches 70 degrees C.",
+   "Raise the oven to 250 degrees C, or use the grill, and roast for another 10 to 15 minutes until the rind blisters and turns crisp, watching it closely.",
+   "Rest the meat for 15 minutes. Meanwhile pour the pan juices into a saucepan, whisk in the flour, then the cream, and simmer to make the gravy.",
+   "Slice and serve with the gravy, potatoes and red cabbage."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flæskesteg",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-j-dekager-danish-cinnamon-sugar-butter-cookies",
+  "title": "Jødekager (Danish cinnamon-sugar butter cookies)",
+  "country": "Denmark",
+  "category": "Dessert",
+  "tags": [
+   "Danish",
+   "Christmas",
+   "biscuits"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "125 g",
+    "name": "cold butter, diced"
+   },
+   {
+    "measure": "75 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1",
+    "name": "egg yolk"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten, for brushing"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar, for the topping"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "cinnamon"
+   },
+   {
+    "measure": "30 g",
+    "name": "chopped almonds"
+   }
+  ],
+  "steps": [
+   "Rub the butter into the flour and sugar until crumbly, then mix in the yolk to form a dough. Chill for 30 minutes.",
+   "Heat the oven to 190 degrees C. Roll the dough to 3 mm thick and cut into rounds about 5 cm across.",
+   "Place the rounds on a lined tray and brush with beaten egg.",
+   "Mix the topping sugar, cinnamon and almonds and sprinkle over each cookie.",
+   "Bake for 8 to 10 minutes until pale golden at the edges. Cool on a rack."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jødekager",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-klenat-twisted-fried-pastry-knots",
+  "title": "Klenät (twisted fried pastry knots)",
+  "country": "Denmark",
+  "category": "Dessert",
+  "tags": [
+   "Danish",
+   "fried",
+   "Christmas"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "70 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "100 g",
+    "name": "cold butter, diced"
+   },
+   {
+    "measure": "3",
+    "name": "egg yolks"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice or cognac"
+   },
+   {
+    "measure": "500 ml",
+    "name": "oil, for deep frying"
+   },
+   {
+    "measure": "to serve",
+    "name": "icing sugar"
+   }
+  ],
+  "steps": [
+   "Rub the cold butter into the flour and sugar until crumbly.",
+   "Add the egg yolks and lemon juice and knead briefly into a firm dough. Wrap and chill for 1 hour.",
+   "Roll the dough out to about 4 mm thick and cut into strips about 3 cm wide and 8 cm long.",
+   "Make a lengthwise slit in the middle of each strip and pull one end through the slit to form a knot.",
+   "Heat the oil to 170 degrees C and fry the knots in batches for 2 to 3 minutes, turning once, until golden.",
+   "Drain on paper towels and dust with icing sugar once cool."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Klenät",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-koldskal-chilled-buttermilk-soup-with-vanilla-and-lemon",
+  "title": "Koldskål (chilled buttermilk soup with vanilla and lemon)",
+  "country": "Denmark",
+  "category": "Dessert",
+  "tags": [
+   "Danish",
+   "summer",
+   "cold soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 litre",
+    "name": "buttermilk"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "vanilla sugar or vanilla extract"
+   },
+   {
+    "measure": "1",
+    "name": "lemon, zest only"
+   },
+   {
+    "measure": "to serve",
+    "name": "crisp shortbread biscuits"
+   },
+   {
+    "measure": "to serve",
+    "name": "fresh strawberries, sliced"
+   }
+  ],
+  "steps": [
+   "Stir the buttermilk, sugar, vanilla and lemon zest together in a large bowl until the sugar is dissolved.",
+   "Chill for at least 1 hour so that the flavours blend.",
+   "Pour into bowls and add sliced strawberries.",
+   "Serve very cold with the biscuits crumbled on top or served alongside."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Buttermilk_koldskål",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-kransekage-almond-ring-cake-tower",
+  "title": "Kransekage (almond ring cake tower)",
+  "country": "Denmark",
+  "category": "Dessert",
+  "tags": [
+   "Danish",
+   "celebration",
+   "almond"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "ground almonds"
+   },
+   {
+    "measure": "250 g",
+    "name": "icing sugar"
+   },
+   {
+    "measure": "1 to 2",
+    "name": "egg whites"
+   },
+   {
+    "measure": "1",
+    "name": "egg white, for the icing"
+   },
+   {
+    "measure": "150 g",
+    "name": "icing sugar, for the icing"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "lemon juice"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 180 degrees C and grease six ring-shaped tins or line a tray with baking paper.",
+   "Mix the ground almonds and icing sugar and add enough egg white to bring them to a stiff marzipan-like dough. Chill for 30 minutes.",
+   "Roll the dough into ropes about 1 cm thick and fit them into rings of graduated sizes, joining the ends.",
+   "Bake for 12 to 15 minutes until pale golden and slightly firm. Cool completely.",
+   "Mix the egg white, icing sugar and lemon juice into a thick icing and pipe zigzag lines over each ring.",
+   "Stack the rings, largest on the bottom, into a tower and serve in slices."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kransekage",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-millionb-f-danish-beef-in-tomato-sauce",
+  "title": "Millionbøf (Danish beef in tomato sauce)",
+  "country": "Denmark",
+  "category": "Beef",
+  "tags": [
+   "Danish",
+   "ground beef",
+   "family dinner"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "minced beef"
+   },
+   {
+    "measure": "2",
+    "name": "onions, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "red pepper, diced"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tomato paste"
+   },
+   {
+    "measure": "400 g",
+    "name": "tinned crushed tomatoes"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sweet paprika"
+   },
+   {
+    "measure": "150 ml",
+    "name": "beef stock"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "to taste",
+    "name": "salt and pepper"
+   },
+   {
+    "measure": "to serve",
+    "name": "mashed potatoes, rice or pasta"
+   }
+  ],
+  "steps": [
+   "Heat the oil in a large pan and brown the beef over high heat, breaking it into small crumbs.",
+   "Add the onions and pepper and cook for 5 minutes until soft.",
+   "Stir in the flour, tomato paste and paprika and cook for 1 minute.",
+   "Add the crushed tomatoes and stock and simmer for 25 minutes, stirring occasionally, until thick.",
+   "Season to taste and serve over mashed potatoes, rice or pasta."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Millionbøf",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-risalamande-danish-rice-pudding-with-whipped-cream-and-cherry-sauce",
+  "title": "Risalamande (Danish rice pudding with whipped cream and cherry sauce)",
+  "country": "Denmark",
+  "category": "Dessert",
+  "tags": [
+   "Danish",
+   "Christmas",
+   "rice pudding"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "100 g",
+    "name": "short-grain pudding rice"
+   },
+   {
+    "measure": "500 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "1",
+    "name": "vanilla pod, split"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "50 g",
+    "name": "blanched almonds, chopped"
+   },
+   {
+    "measure": "300 ml",
+    "name": "whipping cream"
+   },
+   {
+    "measure": "400 g",
+    "name": "sour cherries, tinned or jarred"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar, for the sauce"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "cornflour"
+   }
+  ],
+  "steps": [
+   "Simmer the rice with the milk, vanilla pod and sugar over low heat for 35 to 40 minutes, stirring now and then, until thick and creamy.",
+   "Remove the vanilla pod and cool the rice completely in the fridge.",
+   "Whip the cream to soft peaks and fold it into the cold rice along with the chopped almonds.",
+   "For the sauce, heat the cherries and their juice with the sugar, stir in the cornflour mixed with a little cold water and simmer for 2 minutes until glossy.",
+   "Serve the pudding in bowls with the warm or cooled cherry sauce spooned over."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Risalamande",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-r-dgr-d-med-fl-de-danish-red-berry-pudding-with-cream",
+  "title": "Rødgrød med fløde (Danish red berry pudding with cream)",
+  "country": "Denmark",
+  "category": "Dessert",
+  "tags": [
+   "Danish",
+   "summer",
+   "berries"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "mixed red berries (strawberries, raspberries, redcurrants)"
+   },
+   {
+    "measure": "500 ml",
+    "name": "water"
+   },
+   {
+    "measure": "100 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "potato starch or cornflour"
+   },
+   {
+    "measure": "to serve",
+    "name": "cold single cream"
+   }
+  ],
+  "steps": [
+   "Put the berries, water and sugar in a saucepan and bring to a simmer. Cook for 10 minutes until the fruit is soft.",
+   "Stir the starch with a little cold water to make a smooth paste.",
+   "Pour the paste slowly into the simmering fruit, stirring constantly, and cook for a minute or two until thick and glossy.",
+   "Pour into a serving bowl and cool, sprinkling a little sugar on top to stop a skin forming.",
+   "Chill until cold and serve with cold cream poured over."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rødgrød",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-stegt-fl-sk-med-persillesovs-fried-pork-belly-with-parsley-sauce",
+  "title": "Stegt flæsk med persillesovs (fried pork belly with parsley sauce)",
+  "country": "Denmark",
+  "category": "Pork",
+  "tags": [
+   "Danish",
+   "pork belly",
+   "national dish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "pork belly, sliced about 5 mm thick"
+   },
+   {
+    "measure": "to taste",
+    "name": "salt and pepper"
+   },
+   {
+    "measure": "1 kg",
+    "name": "potatoes"
+   },
+   {
+    "measure": "40 g",
+    "name": "butter"
+   },
+   {
+    "measure": "40 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "500 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "1 large bunch",
+    "name": "parsley, finely chopped"
+   }
+  ],
+  "steps": [
+   "Peel the potatoes and boil them in salted water for 20 minutes until tender.",
+   "Meanwhile heat a large dry frying pan over medium heat and lay in the pork slices without overlapping, working in batches.",
+   "Fry for 5 to 6 minutes per side until deep golden and crisp, seasoning with salt and pepper. Keep warm in a low oven.",
+   "For the sauce, melt the butter, stir in the flour and cook for 1 minute, then whisk in the milk and simmer for 5 minutes until thick.",
+   "Stir in the parsley and season to taste.",
+   "Serve the crisp pork with the potatoes and plenty of parsley sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Stegt_flæsk",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-denmark-tebirkes-poppy-seed-pastry-with-remonce",
+  "title": "Tebirkes (poppy seed pastry with remonce)",
+  "country": "Denmark",
+  "category": "Breakfast",
+  "tags": [
+   "Danish",
+   "pastry",
+   "breakfast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "7 g",
+    "name": "dried yeast"
+   },
+   {
+    "measure": "30 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "150 ml",
+    "name": "warm milk"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "150 g",
+    "name": "cold butter, for layering"
+   },
+   {
+    "measure": "60 g",
+    "name": "soft butter, for the remonce"
+   },
+   {
+    "measure": "60 g",
+    "name": "sugar, for the remonce"
+   },
+   {
+    "measure": "40 g",
+    "name": "marzipan, grated"
+   },
+   {
+    "measure": "1",
+    "name": "egg, beaten, for glazing"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "poppy seeds"
+   }
+  ],
+  "steps": [
+   "Mix the flour, yeast, sugar and salt, then add the milk and egg and knead into a smooth dough. Chill for 30 minutes.",
+   "Roll out the dough into a rectangle and place the cold butter, flattened between baking paper into a slab, on two-thirds of it. Fold into a letter fold, turn and roll out again, then fold again. Chill for 30 minutes.",
+   "Beat together the remonce: the soft butter, sugar and grated marzipan.",
+   "Roll the dough out thinly, spread with the remonce and cut into 8 squares or triangles.",
+   "Fold each piece in half to enclose the filling, place on a lined tray and let rise for 40 minutes.",
+   "Heat the oven to 200 degrees C. Brush with beaten egg and sprinkle generously with poppy seeds.",
+   "Bake for 15 to 18 minutes until golden and puffed."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tebirkes",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

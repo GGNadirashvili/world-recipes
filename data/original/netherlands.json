@@ -1,0 +1,322 @@
+[
+ {
+  "id": "original-netherlands-bossche-bol-chocolate-covered-choux-ball-filled-with-whipped-cream",
+  "title": "Bossche bol (chocolate-covered choux ball filled with whipped cream)",
+  "country": "Netherlands",
+  "category": "Dessert",
+  "tags": [
+   "Dutch",
+   "pastry",
+   "choux"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "125 ml",
+    "name": "water"
+   },
+   {
+    "measure": "60 g",
+    "name": "butter"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "75 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "2",
+    "name": "eggs, lightly beaten"
+   },
+   {
+    "measure": "300 ml",
+    "name": "whipping cream"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "icing sugar"
+   },
+   {
+    "measure": "200 g",
+    "name": "dark chocolate"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "neutral oil"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 200 degrees C and line a tray with baking paper.",
+   "Bring the water, butter and salt to a boil in a saucepan, then tip in the flour all at once and beat vigorously until the dough pulls away from the pan in a smooth ball.",
+   "Cook the dough for another minute, then let it cool for 5 minutes.",
+   "Beat in the eggs a little at a time until you have a glossy dough that falls slowly from the spoon. You may not need all the egg.",
+   "Spoon or pipe six large mounds onto the tray, spaced well apart. Bake for 15 minutes, then lower the oven to 180 degrees C and bake for 20 to 25 minutes more until deep golden. Do not open the oven early.",
+   "Let the buns cool completely, then slice them in half horizontally.",
+   "Whip the cream with the icing sugar until it holds stiff peaks and fill the bottom halves generously, then replace the lids.",
+   "Melt the chocolate with the oil and spread or dip it over each bun until entirely covered. Let the chocolate set before serving."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bossche_bol",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-netherlands-kibbeling-battered-deep-fried-cod-chunks-with-remoulade",
+  "title": "Kibbeling (battered deep-fried cod chunks with remoulade)",
+  "country": "Netherlands",
+  "category": "Seafood",
+  "tags": [
+   "Dutch",
+   "street food",
+   "fried fish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "skinless cod fillet, cut into bite-sized chunks"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "paprika"
+   },
+   {
+    "measure": "150 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "baking powder"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "200 ml",
+    "name": "cold beer or sparkling water"
+   },
+   {
+    "measure": "500 ml",
+    "name": "sunflower oil, for frying"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "mayonnaise"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "finely chopped pickled gherkin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "capers, chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "chopped parsley"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "lemon juice"
+   }
+  ],
+  "steps": [
+   "Pat the cod pieces dry and toss them with half the salt and the paprika.",
+   "Make the batter by whisking the flour, baking powder and remaining salt with the egg, then slowly pouring in the cold beer until the batter is smooth and thick enough to coat a spoon.",
+   "Stir the mayonnaise, gherkin, capers, parsley and lemon juice together to make a quick remoulade and chill it.",
+   "Heat the oil in a deep, heavy pan to about 180 degrees C.",
+   "Dip the fish pieces in the batter a few at a time, let the excess drip off, and lower them into the hot oil. Do not crowd the pan.",
+   "Fry for 3 to 4 minutes, turning once, until deep golden and cooked through. Drain on paper towels.",
+   "Serve immediately in a paper cone or on a plate with the remoulade and lemon wedges."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kibbeling",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-netherlands-pannenkoeken-large-thin-dutch-pancakes",
+  "title": "Pannenkoeken (large thin Dutch pancakes)",
+  "country": "Netherlands",
+  "category": "Breakfast",
+  "tags": [
+   "Dutch",
+   "pancake",
+   "brunch"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "2",
+    "name": "eggs"
+   },
+   {
+    "measure": "500 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter, for frying"
+   },
+   {
+    "measure": "to taste",
+    "name": "dark treacle syrup (stroop) or icing sugar, to serve"
+   }
+  ],
+  "steps": [
+   "Whisk the flour and salt together in a large bowl and make a well in the middle.",
+   "Crack the eggs into the well and pour in about a third of the milk. Whisk, drawing in the flour from the sides, until the batter is thick and smooth.",
+   "Whisk in the remaining milk a little at a time, so no lumps form, until the batter is the consistency of single cream. Let it rest for 20 minutes.",
+   "Melt a small knob of butter in a wide non-stick frying pan over medium heat and swirl it around.",
+   "Pour in a ladleful of batter and tilt the pan so it spreads right to the edge in a thin, even layer.",
+   "Cook for about 2 minutes until the surface is set and the underside is golden, then flip and cook the other side for another minute.",
+   "Slide the pancake onto a plate and repeat with the remaining batter, adding butter as needed. Serve warm, drizzled with syrup or dusted with icing sugar."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pannenkoek",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-netherlands-tompouce-puff-pastry-slice-with-pastry-cream-and-pink-icing",
+  "title": "Tompouce (puff pastry slice with pastry cream and pink icing)",
+  "country": "Netherlands",
+  "category": "Dessert",
+  "tags": [
+   "Dutch",
+   "pastry",
+   "puff pastry"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 sheet (about 275 g)",
+    "name": "ready-rolled puff pastry"
+   },
+   {
+    "measure": "400 ml",
+    "name": "milk"
+   },
+   {
+    "measure": "4",
+    "name": "egg yolks"
+   },
+   {
+    "measure": "70 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "30 g",
+    "name": "cornflour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "150 g",
+    "name": "icing sugar"
+   },
+   {
+    "measure": "2 to 3 tbsp",
+    "name": "water"
+   },
+   {
+    "measure": "1 drop",
+    "name": "pink food colouring"
+   }
+  ],
+  "steps": [
+   "Heat the oven to 220 degrees C. Cut the pastry into eight equal rectangles, place them on a lined tray, cover with a second tray or baking paper and a weight, and bake for about 15 minutes until crisp and golden.",
+   "To make the pastry cream, heat the milk in a saucepan until just steaming. Whisk the yolks, sugar and cornflour in a bowl until pale.",
+   "Pour the hot milk slowly over the yolk mixture, whisking, then return everything to the pan and cook over medium heat, stirring constantly, until thick. Stir in the vanilla.",
+   "Pour the cream into a bowl, press cling film onto the surface and chill until completely cold.",
+   "Mix the icing sugar with enough water to make a thick, spreadable glaze and tint it pink.",
+   "Spread the glaze over four of the pastry rectangles and let it set.",
+   "Spread or pipe the cold cream over the four plain rectangles and cover each with an iced one. Serve the same day."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tompouce",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-netherlands-uitsmijter-open-faced-ham-cheese-and-fried-egg-sandwich",
+  "title": "Uitsmijter (open-faced ham, cheese and fried egg sandwich)",
+  "country": "Netherlands",
+  "category": "Breakfast",
+  "tags": [
+   "Dutch",
+   "sandwich",
+   "eggs"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4 slices",
+    "name": "farmhouse white or brown bread"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "soft butter, plus extra for frying"
+   },
+   {
+    "measure": "4 slices",
+    "name": "boiled ham"
+   },
+   {
+    "measure": "4 slices",
+    "name": "Gouda cheese"
+   },
+   {
+    "measure": "8",
+    "name": "eggs"
+   },
+   {
+    "measure": "to taste",
+    "name": "salt and black pepper"
+   },
+   {
+    "measure": "to serve",
+    "name": "sliced pickles and tomato"
+   }
+  ],
+  "steps": [
+   "Butter the bread slices lightly on one side and lay them, buttered side up, on plates.",
+   "Fold or lay a slice of ham over each piece of bread and top with a slice of Gouda.",
+   "Melt a little butter in a large frying pan over medium heat and fry the eggs sunny-side up, two per sandwich, until the whites are set and the yolks are still runny.",
+   "While the eggs cook, put the cheese-topped bread briefly under a hot grill if you want the cheese slightly softened.",
+   "Slide two fried eggs onto each sandwich, season with salt and pepper and serve with pickles and tomato."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Uitsmijter",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
