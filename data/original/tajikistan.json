@@ -1,0 +1,120 @@
+[
+ {
+  "id": "original-tajikistan-qurutob-tajik-dried-cheese-broth-over-flatbread-with-fresh-vegetables",
+  "title": "Qurutob (Tajik dried-cheese broth over flatbread with fresh vegetables)",
+  "country": "Tajikistan",
+  "category": "Vegetarian",
+  "tags": [
+   "Tajik",
+   "national dish",
+   "communal"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "200 g",
+    "name": "qurut (dried salty yoghurt cheese balls), or substitute 200 g very dry feta blended with 150 g thick plain yoghurt"
+   },
+   {
+    "measure": "300 ml",
+    "name": "warm water"
+   },
+   {
+    "measure": "4",
+    "name": "thin flatbreads or lavash, or fried layered flatbread (fatir)"
+   },
+   {
+    "measure": "3",
+    "name": "tomatoes, chopped"
+   },
+   {
+    "measure": "1",
+    "name": "cucumber, diced"
+   },
+   {
+    "measure": "2",
+    "name": "onions, thinly sliced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped dill and coriander"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "sunflower or vegetable oil"
+   },
+   {
+    "measure": "1",
+    "name": "small hot green chilli, sliced, optional"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Crush the qurut and soak it in the warm water until it softens, then mash or blend it into a smooth, tangy, salty liquid and taste for salt.",
+   "Tear the flatbreads into large pieces and arrange them in a deep shallow bowl or platter.",
+   "Spoon the cheese liquid slowly over the bread until it is moist but not soggy.",
+   "Heat the oil and fry half of the onions until golden and soft.",
+   "Spread the tomatoes, cucumber, herbs and the raw onions over the bread, and add the chilli if you like.",
+   "Pour the hot onion oil over the top, and serve straight away, eating from the shared dish."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qurutob",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-tajikistan-shakarap-tajik-tomato-and-onion-salad-served-with-pilaf",
+  "title": "Shakarap (Tajik tomato and onion salad served with pilaf)",
+  "country": "Tajikistan",
+  "category": "Side",
+  "tags": [
+   "Tajik",
+   "salad",
+   "Central Asian"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "firm ripe tomatoes"
+   },
+   {
+    "measure": "2",
+    "name": "red or sweet onions"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped dill or coriander, optional"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice or vinegar, optional"
+   }
+  ],
+  "steps": [
+   "Slice the tomatoes and onions as thinly as possible, using a very sharp knife.",
+   "Put the onion slices in a bowl, sprinkle with the salt and rub gently to soften them, then pour off any liquid.",
+   "Add the tomatoes, pepper and lemon juice or vinegar if you like, and toss lightly.",
+   "Leave for 10 minutes so the juices mix, scatter with herbs and serve beside pilaf or grilled meat."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shakarap",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

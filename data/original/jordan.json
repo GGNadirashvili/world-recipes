@@ -1,0 +1,485 @@
+[
+ {
+  "id": "original-jordan-makmoura-irbid-style-layered-chicken-and-onion-pie-in-wholewheat-dough",
+  "title": "Makmoura (Irbid-style layered chicken and onion pie in wholewheat dough)",
+  "country": "Jordan",
+  "category": "Chicken",
+  "tags": [
+   "Jordanian",
+   "northern Jordan",
+   "baked"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "wholewheat flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt, for the dough"
+   },
+   {
+    "measure": "6 tbsp",
+    "name": "olive oil, plus more for brushing"
+   },
+   {
+    "measure": "1 kg",
+    "name": "chicken thighs, bone-in"
+   },
+   {
+    "measure": "1 kg",
+    "name": "onions, finely chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "ground sumac"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground allspice"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "salt, for the filling"
+   },
+   {
+    "measure": "40 g",
+    "name": "pine nuts, optional"
+   },
+   {
+    "measure": "200 ml",
+    "name": "hot chicken broth"
+   }
+  ],
+  "steps": [
+   "Knead the flour with the dough salt, 3 tablespoons of the olive oil and about 250 ml warm water into a soft dough and rest it, covered, for 30 minutes.",
+   "Simmer the chicken in water for 25 minutes until nearly cooked, then drain, keeping some broth, and pull the meat off the bones in large pieces.",
+   "Mix the onions with the sumac, cumin, allspice, salt and remaining oil, and squeeze and stir them until they soften and release their juice.",
+   "Roll the dough into thin sheets and line an oiled deep baking dish with one sheet, letting the edges hang over.",
+   "Spread a layer of the onion mix and some chicken over it, cover with another sheet brushed with oil, and repeat until everything is used, finishing with onions.",
+   "Fold the overhanging dough over the top, brush with oil, and pour over the hot broth around the edges.",
+   "Cover tightly with foil and bake at 170 C for about 1 hour 30 minutes, then uncover and bake 15 minutes more to crisp the top.",
+   "Let it rest briefly, then cut into triangles and serve with yoghurt or a fresh salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Makmoura",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-jordan-mansaf-jordanian-lamb-in-dried-yoghurt-sauce-with-rice",
+  "title": "Mansaf (Jordanian lamb in dried-yoghurt sauce with rice)",
+  "country": "Jordan",
+  "category": "Lamb",
+  "tags": [
+   "Jordanian",
+   "festive",
+   "national dish"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "bone-in lamb shoulder, cut into large pieces"
+   },
+   {
+    "measure": "150 g",
+    "name": "jameed (dried fermented yoghurt), or substitute 800 g thick full-fat plain yoghurt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "cornflour, only if using yoghurt"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "salt, plus more to taste"
+   },
+   {
+    "measure": "1",
+    "name": "onion, halved"
+   },
+   {
+    "measure": "400 g",
+    "name": "short- or medium-grain rice"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "ghee or butter"
+   },
+   {
+    "measure": "50 g",
+    "name": "pine nuts"
+   },
+   {
+    "measure": "50 g",
+    "name": "blanched almonds"
+   },
+   {
+    "measure": "2",
+    "name": "thin flatbreads, such as shrak or lavash"
+   },
+   {
+    "measure": "",
+    "name": "chopped parsley to garnish"
+   }
+  ],
+  "steps": [
+   "Cover the lamb with water in a large pot, bring to a boil, skim off the foam, then add the onion and half the salt and simmer gently for about 1 hour until the meat is tender.",
+   "If using jameed, soak it in warm water until soft, then blend with some of the lamb broth into a smooth sauce. If using yoghurt, whisk it thoroughly with the cornflour and a ladle of cooled broth so that it will not curdle.",
+   "Strain the lamb broth into a clean pot, return the lamb to it and stir in the jameed sauce or the yoghurt mixture, always stirring in the same direction.",
+   "Heat the sauce very gently and simmer uncovered for 30 to 40 minutes, stirring now and then, until it thickens slightly and the lamb is falling off the bone. Never let it boil hard.",
+   "Meanwhile rinse the rice and cook it in salted water with the turmeric until fluffy, then stir through 1 tablespoon of the ghee.",
+   "Fry the pine nuts and almonds separately in the remaining ghee until golden, and drain them.",
+   "Lay the flatbread on a large platter, pile the rice on top, then arrange the lamb over the rice and scatter with the nuts and parsley.",
+   "Serve the hot yoghurt sauce in a bowl alongside to spoon over each portion."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mansaf",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-jordan-maqluba-upside-down-chicken-rice-and-fried-vegetable-pot",
+  "title": "Maqluba (upside-down chicken, rice and fried vegetable pot)",
+  "country": "Jordan",
+  "category": "Chicken",
+  "tags": [
+   "Levantine",
+   "Jordanian",
+   "one-pot"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "chicken thighs and drumsticks"
+   },
+   {
+    "measure": "2",
+    "name": "eggplants, sliced into thick rounds"
+   },
+   {
+    "measure": "1 small",
+    "name": "cauliflower, cut into large florets"
+   },
+   {
+    "measure": "2",
+    "name": "tomatoes, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "onion, quartered"
+   },
+   {
+    "measure": "2 cups",
+    "name": "long-grain or basmati rice, rinsed"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "baharat or allspice mix"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "3 cups",
+    "name": "hot chicken stock"
+   },
+   {
+    "measure": "",
+    "name": "oil for frying"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "40 g",
+    "name": "toasted pine nuts or almonds"
+   }
+  ],
+  "steps": [
+   "Simmer the chicken in water with the onion, half the salt and a pinch of baharat for 30 minutes, then lift out the pieces and keep 3 cups of the broth.",
+   "Salt the eggplant slices, leave them for 15 minutes, pat dry, then fry the eggplant and the cauliflower in hot oil until golden and drain on paper.",
+   "Brown the chicken pieces quickly in a little oil and set them aside.",
+   "Line the bottom of a heavy pot with the tomato slices, then arrange the chicken, then the eggplant and cauliflower in neat layers.",
+   "Mix the rice with the remaining baharat, the turmeric and salt, spread it evenly over the vegetables and pour the hot stock over so it just covers the rice.",
+   "Bring to a boil, cover, and cook on very low heat for 35 to 40 minutes until the rice is tender, then rest off the heat for 10 minutes.",
+   "Run a knife around the edge, put a large platter over the pot and turn it over in one firm motion, leaving the pot in place for a minute.",
+   "Lift the pot away, scatter with the toasted nuts and serve with salad and yoghurt."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maqluba",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-jordan-mfarakeh-levantine-potato-and-egg-scramble-with-cumin",
+  "title": "Mfarakeh (Levantine potato and egg scramble with cumin)",
+  "country": "Jordan",
+  "category": "Breakfast",
+  "tags": [
+   "Levantine",
+   "Jordanian",
+   "brunch"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "potatoes"
+   },
+   {
+    "measure": "6",
+    "name": "eggs"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "ghee or butter"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "black pepper"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "chopped fresh coriander"
+   },
+   {
+    "measure": "",
+    "name": "flatbread to serve"
+   }
+  ],
+  "steps": [
+   "Boil the whole potatoes in salted water until just tender, then drain, cool slightly, peel and crush or chop them into small pieces.",
+   "Melt the ghee in a frying pan over medium heat and fry the potatoes with the cumin for 5 minutes until lightly golden.",
+   "Beat the eggs with the salt and pepper and pour them over the potatoes.",
+   "Stir gently until the egg is just set, or leave it undisturbed to form a thick omelette and flip it once.",
+   "Scatter with coriander and serve hot with flatbread."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mfarakeh",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-jordan-mujaddara-lentils-and-rice-with-caramelised-onions",
+  "title": "Mujaddara (lentils and rice with caramelised onions)",
+  "country": "Jordan",
+  "category": "Vegan",
+  "tags": [
+   "Levantine",
+   "Jordanian",
+   "comfort food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 cup",
+    "name": "brown or green lentils, rinsed"
+   },
+   {
+    "measure": "3/4 cup",
+    "name": "long-grain rice, rinsed"
+   },
+   {
+    "measure": "4",
+    "name": "large onions, thinly sliced"
+   },
+   {
+    "measure": "6 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "2 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "3 cups",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "cucumber and tomato salad to serve"
+   }
+  ],
+  "steps": [
+   "Cover the lentils with plenty of water, bring to a boil and simmer for 15 minutes until partly tender, then drain.",
+   "Meanwhile fry the onions in the oil over medium-high heat, stirring often, for 25 to 30 minutes until deep brown and crisp at the edges, then lift out half and set aside for topping.",
+   "Add the cumin to the oil left with the remaining onions, then stir in the lentils, rice, salt and 3 cups of fresh water.",
+   "Bring to a boil, cover, reduce the heat to low and cook for 20 minutes until the water is absorbed.",
+   "Rest covered for 10 minutes, fluff with a fork, top with the reserved onions and serve warm or at room temperature with salad."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mujaddara",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-jordan-qalayet-bandora-levantine-sauteed-tomatoes-with-onion-and-chilli",
+  "title": "Qalayet Bandora (Levantine sautéed tomatoes with onion and chilli)",
+  "country": "Jordan",
+  "category": "Vegan",
+  "tags": [
+   "Jordanian",
+   "Levantine",
+   "quick"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 kg",
+    "name": "ripe tomatoes, cut into chunks"
+   },
+   {
+    "measure": "2",
+    "name": "onions, finely diced"
+   },
+   {
+    "measure": "2",
+    "name": "hot green chillies, finely chopped"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "olive oil"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, chopped, optional"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "30 g",
+    "name": "toasted pine nuts, optional"
+   },
+   {
+    "measure": "",
+    "name": "warm pita bread to serve"
+   }
+  ],
+  "steps": [
+   "Heat the olive oil in a wide frying pan over medium heat.",
+   "Cook the onions for 6 to 8 minutes until soft and translucent, adding the garlic for the last minute if you use it.",
+   "Stir in the chillies and fry for another minute.",
+   "Add the tomatoes and salt and cook, stirring now and then, for 15 to 20 minutes until the juices reduce and the mixture is thick but still moist.",
+   "Taste for salt, scatter with pine nuts if using, and serve warm with pita for scooping."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Qalayet_bandora",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-jordan-warbat-filo-pastry-with-semolina-custard-and-lemon-syrup",
+  "title": "Warbat (filo pastry with semolina custard and lemon syrup)",
+  "country": "Jordan",
+  "category": "Dessert",
+  "tags": [
+   "Levantine",
+   "Jordanian",
+   "celebration"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "12",
+    "name": "sheets of filo pastry"
+   },
+   {
+    "measure": "100 g",
+    "name": "butter, melted"
+   },
+   {
+    "measure": "750 ml",
+    "name": "whole milk"
+   },
+   {
+    "measure": "80 g",
+    "name": "fine semolina"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "cornflour"
+   },
+   {
+    "measure": "100 g",
+    "name": "sugar, for the custard"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "vanilla extract"
+   },
+   {
+    "measure": "300 g",
+    "name": "sugar, for the syrup"
+   },
+   {
+    "measure": "200 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "lemon juice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "rose water"
+   },
+   {
+    "measure": "30 g",
+    "name": "ground pistachios, to finish"
+   }
+  ],
+  "steps": [
+   "Make the syrup by boiling the syrup sugar with the water for 8 minutes, then stir in the lemon juice and rose water and let it cool completely.",
+   "For the custard, whisk the milk with the semolina, cornflour and custard sugar in a pan and cook over medium heat, stirring all the time, until thick, then stir in the vanilla and cool until warm.",
+   "Brush a baking dish with butter and lay in 6 filo sheets, brushing each with butter.",
+   "Spread the custard evenly over the pastry and cover with the remaining 6 sheets, again brushed with butter, and brush the top generously.",
+   "Cut into squares or diamonds through the top layers and bake at 180 C for 30 to 35 minutes until deep golden.",
+   "Pour the cooled syrup over the pastry the moment it comes out of the oven, let it soak in, and finish with the ground pistachios."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Warbat",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

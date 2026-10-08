@@ -1,0 +1,70 @@
+[
+ {
+  "id": "original-united-arab-emirates-balaleet-emirati-sweet-saffron-vermicelli-with-omelette",
+  "title": "Balaleet (Emirati sweet saffron vermicelli with omelette)",
+  "country": "United Arab Emirates",
+  "category": "Breakfast",
+  "tags": [
+   "Emirati",
+   "Eid breakfast",
+   "sweet and savoury"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "fine vermicelli noodles"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "ghee or butter"
+   },
+   {
+    "measure": "4 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cardamom"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "saffron threads"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "rose water"
+   },
+   {
+    "measure": "500 ml",
+    "name": "hot water"
+   },
+   {
+    "measure": "5",
+    "name": "eggs"
+   },
+   {
+    "measure": "1/4 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil, for the omelette"
+   }
+  ],
+  "steps": [
+   "Steep the saffron in 3 tablespoons of hot water for 10 minutes.",
+   "Melt the ghee in a wide pan and fry the vermicelli, stirring, until it turns golden brown.",
+   "Pour in the hot water, sugar, cardamom and saffron liquid and stir well.",
+   "Cover and cook on low heat for 8 to 10 minutes until the noodles are soft and the liquid has been absorbed, then stir in the rose water.",
+   "Beat the eggs with the salt and cook them in the oil as one thin, flat omelette.",
+   "Pile the vermicelli on a plate, lay the omelette over the top, and serve warm, tearing off pieces of omelette to scoop up the noodles."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Balaleet",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

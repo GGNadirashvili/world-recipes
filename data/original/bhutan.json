@@ -1,0 +1,247 @@
+[
+ {
+  "id": "original-bhutan-ema-datshi-bhutanese-chilli-and-cheese-stew",
+  "title": "Ema Datshi (Bhutanese chilli and cheese stew)",
+  "country": "Bhutan",
+  "category": "Vegetarian",
+  "tags": [
+   "Bhutanese",
+   "national dish",
+   "spicy"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "large mild green chillies, slit lengthwise"
+   },
+   {
+    "measure": "200 g",
+    "name": "soft fresh cheese such as farmer's cheese or crumbled feta, and a little mild cheddar"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "tomato, chopped"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, sliced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter or oil"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste, if the cheese is not salty"
+   }
+  ],
+  "steps": [
+   "Put the chillies, onion, tomato, garlic, butter and water in a pot.",
+   "Bring to a boil, then cover and simmer for about 10 minutes until the chillies are tender.",
+   "Crumble in the cheese and stir gently.",
+   "Cook for 5 to 7 minutes more until the cheese melts into a thick, creamy sauce and the oil is shining on the surface.",
+   "Taste and adjust the salt, and serve hot with plenty of steamed rice (traditionally red rice)."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ema_datshi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bhutan-hoentay-bhutanese-buckwheat-dumplings-with-greens-and-cheese",
+  "title": "Hoentay (Bhutanese buckwheat dumplings with greens and cheese)",
+  "country": "Bhutan",
+  "category": "Vegetarian",
+  "tags": [
+   "Bhutanese",
+   "Haa valley",
+   "dumplings"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "buckwheat flour"
+   },
+   {
+    "measure": "1/2 tsp",
+    "name": "salt, for the dough"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm water, as needed"
+   },
+   {
+    "measure": "300 g",
+    "name": "spinach or turnip greens, chopped"
+   },
+   {
+    "measure": "150 g",
+    "name": "cottage cheese or farmer's cheese"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter"
+   },
+   {
+    "measure": "1",
+    "name": "onion, finely chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "grated ginger"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "chilli powder"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Mix the buckwheat flour with the salt, then add the warm water a little at a time and knead into a smooth, firm dough, adding a spoonful of plain flour if it cracks. Rest it for 20 minutes.",
+   "Melt the butter in a pan and fry the onion and ginger until soft.",
+   "Add the greens and cook until wilted and dry, then take off the heat and stir in the cheese, chilli powder and salt.",
+   "Roll the dough into thin rounds about 8 cm wide, and put a spoonful of filling in the middle of each.",
+   "Fold the dough over and pleat or pinch the edges tightly to seal.",
+   "Steam the dumplings in a lightly oiled steamer for 12 to 15 minutes and serve hot with chilli sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hoentay",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bhutan-kewa-datshi-bhutanese-potatoes-in-cheese-sauce",
+  "title": "Kewa Datshi (Bhutanese potatoes in cheese sauce)",
+  "country": "Bhutan",
+  "category": "Vegetarian",
+  "tags": [
+   "Bhutanese",
+   "comfort food",
+   "mild"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "potatoes, peeled and sliced thin"
+   },
+   {
+    "measure": "200 g",
+    "name": "soft fresh cheese such as farmer's cheese or crumbled feta"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "2",
+    "name": "green chillies, slit"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter or oil"
+   },
+   {
+    "measure": "200 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "tomato, chopped"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Put the potatoes, onion, chillies and butter in a pot with the water and a little salt.",
+   "Bring to a boil, cover and cook for 10 to 12 minutes until the potatoes are nearly tender.",
+   "Stir in the tomato, then crumble in the cheese.",
+   "Simmer, stirring gently, for about 5 minutes until the cheese has melted into a creamy sauce that coats the potatoes.",
+   "Serve hot with rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ema_datshi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-bhutan-shamu-datshi-bhutanese-mushrooms-in-cheese-sauce",
+  "title": "Shamu Datshi (Bhutanese mushrooms in cheese sauce)",
+  "country": "Bhutan",
+  "category": "Vegetarian",
+  "tags": [
+   "Bhutanese",
+   "mushroom",
+   "mild"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "button or oyster mushrooms, sliced"
+   },
+   {
+    "measure": "200 g",
+    "name": "soft fresh cheese such as farmer's cheese or crumbled feta"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "2",
+    "name": "green chillies, slit"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "butter or oil"
+   },
+   {
+    "measure": "150 ml",
+    "name": "water"
+   },
+   {
+    "measure": "",
+    "name": "salt to taste"
+   }
+  ],
+  "steps": [
+   "Heat the butter in a pot and soften the onion and garlic for 3 minutes.",
+   "Add the mushrooms and chillies and cook for about 5 minutes until they release their juices.",
+   "Pour in the water, bring to a simmer and cook for 5 minutes.",
+   "Crumble in the cheese and stir gently until it melts into a thick sauce, about 5 minutes more.",
+   "Season to taste and serve hot with steamed rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ema_datshi",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
