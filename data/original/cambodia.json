@@ -1,0 +1,949 @@
+[
+ {
+  "id": "original-cambodia-bai-pong-moan-khmer-egg-and-rice",
+  "title": "Bai pong moan (Khmer egg and rice)",
+  "country": "Cambodia",
+  "category": "Breakfast",
+  "tags": [
+   "Cambodian",
+   "egg",
+   "rice",
+   "quick"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "eggs"
+   },
+   {
+    "measure": "600 g",
+    "name": "cooked jasmine rice, warm"
+   },
+   {
+    "measure": "3",
+    "name": "spring onions, thinly sliced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "soy sauce or fish sauce"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "white pepper"
+   },
+   {
+    "measure": "1 handful",
+    "name": "coriander, chopped"
+   },
+   {
+    "measure": "",
+    "name": "chilli sauce, to serve"
+   }
+  ],
+  "steps": [
+   "Beat the eggs with half of the spring onions, a splash of soy sauce and the pepper.",
+   "Heat the oil in a wide pan over medium heat and pour in the eggs, tilting the pan so they spread thinly.",
+   "Cook for about 2 minutes until the underside is crisp and golden, then fold the omelette in half and cook for another minute.",
+   "Divide the warm rice into four bowls and slice the omelette over it.",
+   "Season with the remaining soy sauce or fish sauce, then top with the rest of the spring onions and coriander. Serve with chilli sauce."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bai_pong_moan",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-cha-huoy-teuk-jelly-dessert-with-coconut-cream-and-shaved-ice",
+  "title": "Cha huoy teuk (jelly dessert with coconut cream and shaved ice)",
+  "country": "Cambodia",
+  "category": "Dessert",
+  "tags": [
+   "Cambodian",
+   "jelly",
+   "iced",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "8 g",
+    "name": "agar powder"
+   },
+   {
+    "measure": "100 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "pandan extract or vanilla (optional)"
+   },
+   {
+    "measure": "100 g",
+    "name": "mung beans, cooked until soft and sweetened lightly"
+   },
+   {
+    "measure": "50 g",
+    "name": "tapioca pearls, cooked"
+   },
+   {
+    "measure": "200 ml",
+    "name": "coconut cream"
+   },
+   {
+    "measure": "100 g",
+    "name": "palm sugar, simmered with 100 ml water into a syrup"
+   },
+   {
+    "measure": "400 g",
+    "name": "shaved ice"
+   }
+  ],
+  "steps": [
+   "Whisk the agar into the cold water, bring to a boil, and simmer for 3 minutes until fully dissolved. Stir in the sugar and pandan extract.",
+   "Pour into a shallow tray and chill until firm, then cut into small cubes. Repeat with different colours if you like.",
+   "Cook the mung beans in water until soft, drain, and toss with a spoon of sugar. Cook the tapioca pearls separately until clear.",
+   "Spoon the jelly, mung beans and tapioca into four tall glasses.",
+   "Top with shaved ice, drizzle with coconut cream and palm sugar syrup, and serve right away with a long spoon."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cha_huoy_teuk",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-cha-kroeung-beef-stir-fried-with-lemongrass-paste",
+  "title": "Cha kroeung (beef stir-fried with lemongrass paste)",
+  "country": "Cambodia",
+  "category": "Beef",
+  "tags": [
+   "Cambodian",
+   "stir-fry",
+   "kroeung",
+   "lemongrass"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "beef sirloin, thinly sliced"
+   },
+   {
+    "measure": "3 stalks",
+    "name": "lemongrass, tender parts only, chopped"
+   },
+   {
+    "measure": "3 cm",
+    "name": "galangal"
+   },
+   {
+    "measure": "2 cm",
+    "name": "fresh turmeric (or 1 tsp ground)"
+   },
+   {
+    "measure": "3",
+    "name": "kaffir lime leaves"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "3",
+    "name": "shallots"
+   },
+   {
+    "measure": "1.5 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "palm sugar"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "1",
+    "name": "red bell pepper, sliced"
+   },
+   {
+    "measure": "100 g",
+    "name": "long beans, in short lengths"
+   },
+   {
+    "measure": "",
+    "name": "Thai basil leaves and kaffir lime leaf, to garnish"
+   }
+  ],
+  "steps": [
+   "Pound or blend the lemongrass, galangal, turmeric, lime leaves, 2 cloves of garlic and the shallots into a rough yellow paste (kroeung).",
+   "Mix half of the paste with the beef and 1 tbsp of the fish sauce and marinate for 30 minutes.",
+   "Blanch the long beans in boiling water for 1 minute and drain.",
+   "Heat 2 tbsp oil in a wok until very hot and sear the beef in two batches for about 2 minutes each, then remove.",
+   "Fry the remaining paste, the last clove of garlic and the onion in the remaining oil for 2 minutes, then add the pepper and beans and stir-fry briefly.",
+   "Return the beef with the palm sugar and remaining fish sauce, toss over high heat for 1 minute, and finish with basil. Serve with steamed rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cha_kroeung",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-chek-ktis-banana-and-tapioca-pearls-in-coconut-milk",
+  "title": "Chek ktis (banana and tapioca pearls in coconut milk)",
+  "country": "Cambodia",
+  "category": "Dessert",
+  "tags": [
+   "Cambodian",
+   "banana",
+   "coconut",
+   "sweet"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4",
+    "name": "small ripe bananas, cut into chunks"
+   },
+   {
+    "measure": "60 g",
+    "name": "small tapioca pearls"
+   },
+   {
+    "measure": "400 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "150 ml",
+    "name": "water"
+   },
+   {
+    "measure": "60 g",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "1",
+    "name": "pandan leaf, knotted (optional)"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "toasted sesame seeds"
+   }
+  ],
+  "steps": [
+   "Boil the tapioca pearls in plenty of water for 10 to 12 minutes until mostly translucent, then drain and rinse.",
+   "Heat the coconut milk, water, sugar, salt and the pandan leaf in a pot until the sugar dissolves, and simmer gently for 5 minutes.",
+   "Add the bananas and the tapioca and cook for 5 minutes, until the pearls are clear and the banana is tender but not collapsing.",
+   "Remove the pandan leaf and taste, adding a little more sugar or salt if needed.",
+   "Serve warm or chilled, sprinkled with sesame seeds."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chek_ktis",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-chha-kh-nhei-chicken-stir-fried-with-ginger-and-black-pepper",
+  "title": "Chha kh'nhei (chicken stir-fried with ginger and black pepper)",
+  "country": "Cambodia",
+  "category": "Chicken",
+  "tags": [
+   "Cambodian",
+   "stir-fry",
+   "ginger"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "boneless chicken thighs, in bite-sized pieces"
+   },
+   {
+    "measure": "60 g",
+    "name": "fresh ginger, cut into matchsticks"
+   },
+   {
+    "measure": "1",
+    "name": "onion, sliced"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oyster sauce"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "coarsely ground black pepper"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "6",
+    "name": "dried wood ear mushrooms, soaked and torn (optional)"
+   },
+   {
+    "measure": "3",
+    "name": "spring onions, in short lengths"
+   }
+  ],
+  "steps": [
+   "Marinate the chicken with half the fish sauce, half the black pepper and the sugar for 15 minutes.",
+   "Heat the oil in a wok and fry the garlic for 30 seconds until fragrant, then add the ginger and cook for a minute.",
+   "Add the chicken and stir-fry over high heat for 5 to 6 minutes until browned and nearly cooked.",
+   "Add the onion and mushrooms with the oyster sauce, the remaining fish sauce and 3 tbsp water, and cook for 3 more minutes.",
+   "Stir in the spring onions and the rest of the pepper, then serve straight away with steamed rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chha_kh'nhei",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-chha-trob-charred-eggplant-with-minced-pork-and-fermented-soybeans",
+  "title": "Chha trob (charred eggplant with minced pork and fermented soybeans)",
+  "country": "Cambodia",
+  "category": "Pork",
+  "tags": [
+   "Cambodian",
+   "eggplant",
+   "stir-fry"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "3",
+    "name": "long Asian eggplants"
+   },
+   {
+    "measure": "250 g",
+    "name": "minced pork"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "fermented soybean paste (or yellow bean sauce)"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oyster sauce"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "2",
+    "name": "spring onions, sliced"
+   },
+   {
+    "measure": "",
+    "name": "black pepper and steamed rice, to serve"
+   }
+  ],
+  "steps": [
+   "Char the whole eggplants over a gas flame, on a grill or under a very hot oven grill, turning, until the skin is blackened and the flesh is soft, about 10 minutes.",
+   "Cool them slightly, peel off the skin, and halve or slice the flesh lengthwise.",
+   "Heat the oil in a wok and fry the garlic for 30 seconds, then add the pork and stir-fry over high heat until browned and cooked through.",
+   "Stir in the soybean paste, oyster sauce, sugar and 3 tbsp water and cook for 2 minutes until it becomes a thick, glossy sauce.",
+   "Arrange the eggplant on a plate, spoon the pork mixture over it, and top with spring onions and black pepper. Serve with rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chha_trob",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-kampot-pepper-crab-crab-with-fresh-green-peppercorns",
+  "title": "Kampot pepper crab (crab with fresh green peppercorns)",
+  "country": "Cambodia",
+  "category": "Seafood",
+  "tags": [
+   "Cambodian",
+   "crab",
+   "Kampot",
+   "pepper"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2",
+    "name": "medium crabs (about 1.2 kg in total), cleaned and cut into pieces"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "fresh green peppercorns (or 1.5 tbsp coarsely crushed black pepper)"
+   },
+   {
+    "measure": "5 cloves",
+    "name": "garlic, chopped"
+   },
+   {
+    "measure": "3",
+    "name": "shallots, sliced"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1.5 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oyster sauce"
+   },
+   {
+    "measure": "3",
+    "name": "spring onions, in short lengths"
+   },
+   {
+    "measure": "",
+    "name": "lime juice, salt and pepper dipping sauce, to serve"
+   }
+  ],
+  "steps": [
+   "Crack the crab claws lightly so the flavours get in, and pat the pieces dry.",
+   "Heat the oil in a large wok and fry the garlic and shallots for 1 minute until fragrant.",
+   "Add the crab pieces and stir-fry over high heat for 3 minutes until the shells turn bright red.",
+   "Add the green peppercorns, fish sauce, oyster sauce, sugar and 4 tbsp water, cover, and cook for 6 to 8 minutes, tossing once or twice, until the crab is cooked through.",
+   "Uncover for the last minute to reduce the sauce, add the spring onions, and serve with steamed rice and a dish of lime juice mixed with salt and pepper."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kampot_pepper_crab",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-kuyteav-phnom-penh-pork-noodle-soup",
+  "title": "Kuyteav (Phnom Penh pork noodle soup)",
+  "country": "Cambodia",
+  "category": "Pasta",
+  "tags": [
+   "Cambodian",
+   "noodles",
+   "soup",
+   "breakfast"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "800 g",
+    "name": "pork bones"
+   },
+   {
+    "measure": "2.5 litres",
+    "name": "water"
+   },
+   {
+    "measure": "1",
+    "name": "onion, halved"
+   },
+   {
+    "measure": "150 g",
+    "name": "daikon radish, in chunks"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "rock sugar or sugar"
+   },
+   {
+    "measure": "300 g",
+    "name": "thin rice noodles"
+   },
+   {
+    "measure": "250 g",
+    "name": "pork loin, thinly sliced"
+   },
+   {
+    "measure": "150 g",
+    "name": "minced pork, rolled into small balls"
+   },
+   {
+    "measure": "3",
+    "name": "spring onions, sliced"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, sliced and fried until golden"
+   },
+   {
+    "measure": "100 g",
+    "name": "bean sprouts"
+   },
+   {
+    "measure": "",
+    "name": "lime wedges, fresh herbs and chilli to serve"
+   }
+  ],
+  "steps": [
+   "Blanch the pork bones in boiling water for 5 minutes, drain and rinse them, then return them to a clean pot with the 2.5 litres of fresh water, the onion and the daikon.",
+   "Simmer gently for 1.5 hours, skimming off any scum, then season the broth with fish sauce and sugar and strain it.",
+   "Soak the rice noodles in warm water for 15 minutes, then cook them briefly in boiling water until tender and divide among four bowls.",
+   "Drop the pork meatballs into the simmering broth for 4 minutes, adding the sliced pork for the final minute until just cooked through.",
+   "Ladle the hot broth, pork and meatballs over the noodles.",
+   "Top with spring onions, fried garlic and bean sprouts, and serve with lime, herbs and chilli at the table."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kuyteav",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-nataing-pork-and-coconut-dipping-curry-with-rice-crackers",
+  "title": "Nataing (pork and coconut dipping curry with rice crackers)",
+  "country": "Cambodia",
+  "category": "Pork",
+  "tags": [
+   "Cambodian",
+   "dip",
+   "coconut",
+   "peanuts"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "minced pork"
+   },
+   {
+    "measure": "400 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "3",
+    "name": "shallots"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "5",
+    "name": "dried red chillies, soaked"
+   },
+   {
+    "measure": "2 stalks",
+    "name": "lemongrass, sliced"
+   },
+   {
+    "measure": "2 cm",
+    "name": "galangal"
+   },
+   {
+    "measure": "60 g",
+    "name": "roasted peanuts, coarsely crushed"
+   },
+   {
+    "measure": "1.5 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "palm sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "tamarind paste"
+   },
+   {
+    "measure": "",
+    "name": "rice crackers, cucumber and raw vegetables, to serve"
+   }
+  ],
+  "steps": [
+   "Blend the shallots, garlic, chillies, lemongrass and galangal into a thick paste.",
+   "Fry the paste in 1 tbsp of the thick top of the coconut milk for 3 minutes, until the oil separates.",
+   "Add the pork and break it up with a spoon, cooking for 5 minutes until no longer pink.",
+   "Pour in the remaining coconut milk, fish sauce, palm sugar and tamarind, and simmer for 10 to 12 minutes, stirring, until thick and reduced to a spoonable dip.",
+   "Stir in the peanuts and serve warm with rice crackers, cucumber slices and fresh vegetables for dipping."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nataing",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-nhoam-svay-green-mango-salad-with-dried-shrimp",
+  "title": "Nhoam svay (green mango salad with dried shrimp)",
+  "country": "Cambodia",
+  "category": "Starter",
+  "tags": [
+   "Cambodian",
+   "salad",
+   "mango",
+   "refreshing"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "2",
+    "name": "firm green mangoes, peeled and cut into matchsticks"
+   },
+   {
+    "measure": "1",
+    "name": "carrot, shredded"
+   },
+   {
+    "measure": "40 g",
+    "name": "dried shrimp, soaked in warm water for 10 minutes and chopped"
+   },
+   {
+    "measure": "1",
+    "name": "small red onion, thinly sliced"
+   },
+   {
+    "measure": "1",
+    "name": "red chilli, sliced"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "roasted peanuts, crushed"
+   },
+   {
+    "measure": "1 handful",
+    "name": "mint and coriander leaves"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lime juice"
+   },
+   {
+    "measure": "1.5 tbsp",
+    "name": "fish sauce"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "palm sugar"
+   },
+   {
+    "measure": "1 clove",
+    "name": "garlic, minced"
+   }
+  ],
+  "steps": [
+   "Whisk the lime juice, fish sauce, palm sugar and garlic until the sugar dissolves, and adjust for a balance of sour, salty and sweet.",
+   "Toss the mango, carrot and onion together in a large bowl.",
+   "Toast the soaked dried shrimp in a dry pan for 2 minutes until fragrant and slightly crisp.",
+   "Pour the dressing over the vegetables and toss well, then fold in the shrimp, chilli and herbs.",
+   "Scatter with crushed peanuts and serve immediately as a starter or alongside rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nhoam_svay",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-num-kom-steamed-rice-cakes-with-coconut-filling",
+  "title": "Num kom (steamed rice cakes with coconut filling)",
+  "country": "Cambodia",
+  "category": "Dessert",
+  "tags": [
+   "Cambodian",
+   "steamed",
+   "banana leaf",
+   "festival"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "250 g",
+    "name": "glutinous rice flour"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm water, plus a little more if needed"
+   },
+   {
+    "measure": "100 g",
+    "name": "freshly grated coconut (or frozen, thawed)"
+   },
+   {
+    "measure": "60 g",
+    "name": "palm sugar, finely chopped"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "toasted sesame seeds"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "12",
+    "name": "banana leaf pieces, about 20 cm square"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "oil, for brushing"
+   }
+  ],
+  "steps": [
+   "Mix the rice flour with the warm water and salt and knead into a soft, smooth dough that does not stick to your fingers.",
+   "Combine the coconut, palm sugar and sesame seeds for the filling.",
+   "Divide the dough into 12 balls, flatten each one, spoon on a little filling and seal it inside.",
+   "Soften the banana leaves over a flame, brush with oil, and wrap each ball in a pyramid-shaped parcel, tucking the ends under.",
+   "Steam the parcels over boiling water for 25 minutes until the dough is chewy and translucent.",
+   "Let them cool slightly and serve in their leaves, warm or at room temperature."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Num_kom",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-samlar-kako-cambodian-stirring-stew-with-roasted-rice",
+  "title": "Samlar kako (Cambodian stirring stew with roasted rice)",
+  "country": "Cambodia",
+  "category": "Chicken",
+  "tags": [
+   "Cambodian",
+   "stew",
+   "kroeung",
+   "roasted rice"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "chicken pieces on the bone"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "green kroeung paste (lemongrass, galangal, kaffir lime leaf, garlic, shallot and turmeric)"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "rice, dry-toasted until deep golden and ground (roasted rice powder)"
+   },
+   {
+    "measure": "1 litre",
+    "name": "water"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "fish sauce, plus 1 tsp prahok if you can find it"
+   },
+   {
+    "measure": "150 g",
+    "name": "pumpkin or butternut squash, cubed"
+   },
+   {
+    "measure": "2",
+    "name": "small Asian eggplants, quartered"
+   },
+   {
+    "measure": "100 g",
+    "name": "long beans, in short lengths"
+   },
+   {
+    "measure": "100 g",
+    "name": "water spinach or morning glory, chopped"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "palm sugar"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "lime juice"
+   },
+   {
+    "measure": "1 handful",
+    "name": "Thai basil and sawtooth coriander (or mint)"
+   }
+  ],
+  "steps": [
+   "Pound or blend the kroeung ingredients into a green paste and fry 3 tbsp of it in a little oil in a heavy pot for 2 minutes until fragrant.",
+   "Add the chicken and brown it lightly, then pour in the water and bring to a boil. Simmer gently for 20 minutes.",
+   "Stir in the fish sauce, the optional prahok and the palm sugar, then add the pumpkin and eggplants and simmer for 10 minutes.",
+   "Add the long beans and water spinach and cook for 5 minutes more.",
+   "Sprinkle in the roasted rice powder a spoonful at a time, stirring constantly, until the soup thickens slightly and tastes nutty.",
+   "Finish with lime juice and the fresh herbs, taste for seasoning, and serve with steamed rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Samlar_kako",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-cambodia-saraman-curry-beef-and-peanut-coconut-curry",
+  "title": "Saraman curry (beef and peanut coconut curry)",
+  "country": "Cambodia",
+  "category": "Beef",
+  "tags": [
+   "Cambodian",
+   "curry",
+   "coconut",
+   "peanuts"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "beef chuck, cut into cubes"
+   },
+   {
+    "measure": "400 ml",
+    "name": "coconut milk"
+   },
+   {
+    "measure": "200 ml",
+    "name": "water"
+   },
+   {
+    "measure": "6",
+    "name": "dried red chillies, soaked"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "coriander seeds"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "cumin seeds"
+   },
+   {
+    "measure": "1",
+    "name": "star anise"
+   },
+   {
+    "measure": "3",
+    "name": "cloves"
+   },
+   {
+    "measure": "1 stick",
+    "name": "cinnamon"
+   },
+   {
+    "measure": "3",
+    "name": "cardamom pods"
+   },
+   {
+    "measure": "2 stalks",
+    "name": "lemongrass, sliced"
+   },
+   {
+    "measure": "3 cm",
+    "name": "galangal"
+   },
+   {
+    "measure": "4",
+    "name": "shallots"
+   },
+   {
+    "measure": "4 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "3",
+    "name": "kaffir lime leaves"
+   },
+   {
+    "measure": "300 g",
+    "name": "potatoes, in chunks"
+   },
+   {
+    "measure": "60 g",
+    "name": "roasted peanuts"
+   },
+   {
+    "measure": "1.5 tbsp",
+    "name": "tamarind paste"
+   },
+   {
+    "measure": "1.5 tbsp",
+    "name": "palm sugar"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "fish sauce"
+   }
+  ],
+  "steps": [
+   "Dry-toast the coriander, cumin, star anise, cloves, cinnamon and cardamom until fragrant, then grind them to a powder.",
+   "Pound or blend the chillies, lemongrass, galangal, shallots, garlic and 1 lime leaf with the ground spices into a smooth paste.",
+   "Fry the paste in the thick top of the coconut milk for 5 minutes until fragrant and the oil separates.",
+   "Add the beef and brown it for 5 minutes, then pour in the rest of the coconut milk and the water and simmer, covered, for 1 hour 15 minutes until the beef is nearly tender.",
+   "Add the potatoes, peanuts, tamarind, palm sugar, fish sauce and the remaining lime leaves, and simmer for 25 minutes until the potatoes are tender and the sauce is thick.",
+   "Taste for balance and serve with steamed rice."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Saraman_curry",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]

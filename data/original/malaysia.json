@@ -1,0 +1,608 @@
+[
+ {
+  "id": "original-malaysia-cendol-shaved-ice-with-pandan-jellies-coconut-milk-and-palm-sugar",
+  "title": "Cendol (shaved ice with pandan jellies, coconut milk and palm sugar)",
+  "country": "Malaysia",
+  "category": "Dessert",
+  "tags": [
+   "Malaysian",
+   "iced",
+   "pandan",
+   "coconut"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "10",
+    "name": "pandan leaves, chopped"
+   },
+   {
+    "measure": "400 ml",
+    "name": "water, for the pandan juice"
+   },
+   {
+    "measure": "60 g",
+    "name": "rice flour"
+   },
+   {
+    "measure": "30 g",
+    "name": "mung bean or tapioca starch"
+   },
+   {
+    "measure": "1 pinch",
+    "name": "salt"
+   },
+   {
+    "measure": "150 g",
+    "name": "palm sugar (gula melaka), chopped"
+   },
+   {
+    "measure": "100 ml",
+    "name": "water, for the syrup"
+   },
+   {
+    "measure": "300 ml",
+    "name": "coconut milk, with a pinch of salt"
+   },
+   {
+    "measure": "500 g",
+    "name": "shaved ice"
+   },
+   {
+    "measure": "",
+    "name": "cooked red beans or sweetcorn, optional"
+   }
+  ],
+  "steps": [
+   "Blend the pandan leaves with the water, strain, and press out all the green juice. You need about 300 ml.",
+   "Whisk the rice flour, starch and salt into the pandan juice, then cook over low heat, stirring constantly, until it thickens to a thick, glossy paste.",
+   "Press the hot mixture through a colander with large holes straight into a bowl of iced water, so it falls in short green droplets. Leave to set for 5 minutes, then drain.",
+   "Melt the palm sugar with the water over low heat and strain it into a clean pan, simmering for a few minutes until syrupy. Cool.",
+   "Pile shaved ice into four bowls, add the cendol jellies and any beans or corn, then pour over the coconut milk and drizzle generously with palm sugar syrup.",
+   "Serve immediately, before the ice melts."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cendol",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-malaysia-chicken-satay-grilled-skewers-with-peanut-sauce",
+  "title": "Chicken satay (grilled skewers with peanut sauce)",
+  "country": "Malaysia",
+  "category": "Chicken",
+  "tags": [
+   "Malaysian",
+   "grilled",
+   "skewers",
+   "street food"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "600 g",
+    "name": "boneless chicken thighs, cut into small strips"
+   },
+   {
+    "measure": "2 stalks",
+    "name": "lemongrass, finely sliced"
+   },
+   {
+    "measure": "4",
+    "name": "shallots"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "2 cm",
+    "name": "fresh galangal or ginger"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground coriander"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground cumin"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "oil, divided"
+   },
+   {
+    "measure": "20",
+    "name": "bamboo skewers, soaked in water for 30 minutes"
+   },
+   {
+    "measure": "150 g",
+    "name": "roasted unsalted peanuts"
+   },
+   {
+    "measure": "5",
+    "name": "dried chillies, soaked in hot water until soft"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tamarind paste (or lime juice)"
+   },
+   {
+    "measure": "250 ml",
+    "name": "water"
+   }
+  ],
+  "steps": [
+   "Blend the lemongrass, 2 shallots, 2 cloves of garlic and the galangal into a paste, then mix with the turmeric, coriander, cumin, 1 tbsp sugar, salt and 1 tbsp oil. Coat the chicken and marinate for at least 2 hours.",
+   "Thread the chicken tightly onto the soaked skewers.",
+   "For the sauce, grind the peanuts coarsely, and blend the soaked chillies with the remaining shallots and garlic into a paste.",
+   "Fry the chilli paste in the remaining oil for 4 minutes until fragrant and the oil separates. Add the water, peanuts, tamarind and remaining sugar, and simmer for 10 minutes until thick, adding salt to taste.",
+   "Grill the skewers over medium-high charcoal or in a hot grill pan for 3 to 4 minutes per side, brushing with a little oil, until browned and cooked through.",
+   "Serve hot with the peanut sauce, cucumber and onion wedges."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Satay",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-malaysia-nasi-dagang-coconut-rice-with-tuna-curry-terengganu-style",
+  "title": "Nasi dagang (coconut rice with tuna curry, Terengganu style)",
+  "country": "Malaysia",
+  "category": "Seafood",
+  "tags": [
+   "Malaysian",
+   "Terengganu",
+   "rice",
+   "curry"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "300 g",
+    "name": "long-grain rice"
+   },
+   {
+    "measure": "100 g",
+    "name": "glutinous rice"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "fenugreek seeds"
+   },
+   {
+    "measure": "400 ml",
+    "name": "thick coconut milk, divided"
+   },
+   {
+    "measure": "3",
+    "name": "shallots, sliced"
+   },
+   {
+    "measure": "2 cm",
+    "name": "ginger, sliced"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt, divided"
+   },
+   {
+    "measure": "500 g",
+    "name": "tuna steaks, cut into chunks"
+   },
+   {
+    "measure": "6",
+    "name": "dried chillies, soaked and drained"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "2 stalks",
+    "name": "lemongrass"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "tamarind pulp soaked in 100 ml hot water, strained"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "",
+    "name": "cucumber and pickled vegetables (acar), to serve"
+   }
+  ],
+  "steps": [
+   "Wash both kinds of rice and soak them for 2 hours with the fenugreek seeds, then drain.",
+   "Steam the rice with 200 ml of the coconut milk, the shallots, ginger and half the salt until tender, about 30 minutes, fluffing once halfway.",
+   "Blend the chillies, garlic, 1 stalk lemongrass and turmeric into a paste and fry in the oil for 5 minutes until fragrant.",
+   "Add the remaining coconut milk, the other lemongrass stalk bruised, 150 ml water, the tamarind liquid, sugar and remaining salt, and bring to a gentle simmer.",
+   "Add the tuna and cook for 8 to 10 minutes until just done, without letting the coconut milk boil hard.",
+   "Serve the coconut rice with the tuna curry and cool cucumber and acar on the side."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nasi_dagang",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-malaysia-nasi-kerabu-blue-herb-rice-from-kelantan",
+  "title": "Nasi kerabu (blue herb rice from Kelantan)",
+  "country": "Malaysia",
+  "category": "Side",
+  "tags": [
+   "Malaysian",
+   "Kelantan",
+   "rice",
+   "herbs"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "long-grain or jasmine rice"
+   },
+   {
+    "measure": "12",
+    "name": "dried butterfly pea flowers"
+   },
+   {
+    "measure": "1 stalk",
+    "name": "lemongrass, bruised"
+   },
+   {
+    "measure": "3",
+    "name": "kaffir lime leaves"
+   },
+   {
+    "measure": "6 tbsp",
+    "name": "fresh grated coconut, dry-toasted until golden and ground (kerisik)"
+   },
+   {
+    "measure": "2 handfuls",
+    "name": "mixed fresh herbs, finely sliced (mint, coriander, basil; Vietnamese coriander if you can find it)"
+   },
+   {
+    "measure": "100 g",
+    "name": "long beans, finely sliced"
+   },
+   {
+    "measure": "100 g",
+    "name": "bean sprouts"
+   },
+   {
+    "measure": "1",
+    "name": "cucumber, finely sliced"
+   },
+   {
+    "measure": "1",
+    "name": "small red onion, finely sliced"
+   },
+   {
+    "measure": "",
+    "name": "fried or grilled fish, salted egg and sambal, to serve"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   }
+  ],
+  "steps": [
+   "Steep the dried butterfly pea flowers in 600 ml of hot water for 10 minutes until deep blue, then strain, pressing the flowers.",
+   "Rinse the rice and cook it in the blue water with the lemongrass, kaffir lime leaves and salt until tender and fluffy, then fluff with a fork.",
+   "Toast the grated coconut in a dry pan, stirring constantly, until golden, then pound or grind it to a coarse powder.",
+   "Prepare the raw vegetables and herbs, slicing them as finely as you can.",
+   "Mound the blue rice on each plate and surround it with piles of the herbs, long beans, sprouts, cucumber and onion.",
+   "Add a piece of grilled fish, half a salted egg and a spoonful of sambal, sprinkle with the toasted coconut, and toss everything together at the table."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nasi_kerabu",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-malaysia-otak-otak-spiced-fish-cakes-grilled-in-banana-leaf",
+  "title": "Otak-otak (spiced fish cakes grilled in banana leaf)",
+  "country": "Malaysia",
+  "category": "Seafood",
+  "tags": [
+   "Malaysian",
+   "grilled",
+   "fish",
+   "banana leaf"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "firm white fish fillet or mackerel, minced"
+   },
+   {
+    "measure": "8",
+    "name": "dried chillies, soaked and drained"
+   },
+   {
+    "measure": "4",
+    "name": "shallots"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic"
+   },
+   {
+    "measure": "2 stalks",
+    "name": "lemongrass, sliced"
+   },
+   {
+    "measure": "2 cm",
+    "name": "galangal"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "ground turmeric"
+   },
+   {
+    "measure": "200 ml",
+    "name": "thick coconut milk"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "rice flour"
+   },
+   {
+    "measure": "2",
+    "name": "kaffir lime leaves, finely shredded"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "",
+    "name": "banana leaves, softened over a flame, and toothpicks"
+   }
+  ],
+  "steps": [
+   "Blend the chillies, shallots, garlic, lemongrass, galangal and turmeric into a smooth paste.",
+   "Mix the fish with the paste, coconut milk, egg, rice flour, lime leaves, sugar and salt, and beat vigorously until the mixture is sticky and cohesive.",
+   "Cut the banana leaves into 20 cm rectangles and soften them briefly over a gas flame or in hot water so they do not tear.",
+   "Spoon 3 tbsp of the mixture onto each leaf and fold into a neat flat packet, securing the ends with toothpicks.",
+   "Grill the packets over medium coals or in a hot pan for 4 to 5 minutes per side until the leaf is charred and the filling is firm.",
+   "Serve hot, opening the leaf to eat the soft, fragrant fish cake straight from it."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Otak-otak",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-malaysia-pan-mee-hand-torn-noodles-in-anchovy-broth",
+  "title": "Pan mee (hand-torn noodles in anchovy broth)",
+  "country": "Malaysia",
+  "category": "Pasta",
+  "tags": [
+   "Malaysian",
+   "Hakka",
+   "noodles",
+   "soup"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "400 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "150 ml",
+    "name": "water"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "50 g",
+    "name": "dried anchovies (ikan bilis), heads and guts removed"
+   },
+   {
+    "measure": "1.5 litres",
+    "name": "water for the broth"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "light soy sauce"
+   },
+   {
+    "measure": "200 g",
+    "name": "minced pork"
+   },
+   {
+    "measure": "100 g",
+    "name": "fresh mushrooms, sliced"
+   },
+   {
+    "measure": "3 cloves",
+    "name": "garlic, sliced"
+   },
+   {
+    "measure": "150 g",
+    "name": "leafy greens such as sweet potato leaves or spinach"
+   },
+   {
+    "measure": "2 tbsp",
+    "name": "oil"
+   },
+   {
+    "measure": "4",
+    "name": "eggs, to poach"
+   },
+   {
+    "measure": "",
+    "name": "chilli flakes fried in oil, to serve"
+   }
+  ],
+  "steps": [
+   "Mix the flour, egg, water and salt into a smooth dough, knead for 5 minutes, cover and rest for 30 minutes.",
+   "Toast half of the anchovies in a dry pan, then simmer them with the other half in the water for 25 minutes. Strain and season with soy sauce.",
+   "Fry the remaining anchovies in a little oil until crisp and set aside, then use the same oil to fry the garlic until golden.",
+   "Stir-fry the pork with the mushrooms for 5 minutes, adding a splash of soy sauce.",
+   "Flatten pieces of the dough with your fingers and tear them into thin, irregular strips straight into the simmering broth. Cook for 3 minutes, adding the greens in the last minute.",
+   "Poach the eggs in the broth, then serve the noodles topped with pork, mushrooms, crispy anchovies, garlic oil and chilli flakes."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pan_mee",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-malaysia-roti-canai-malaysian-flaky-flatbread",
+  "title": "Roti canai (Malaysian flaky flatbread)",
+  "country": "Malaysia",
+  "category": "Breakfast",
+  "tags": [
+   "Malaysian",
+   "flatbread",
+   "mamak"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "500 g",
+    "name": "plain flour"
+   },
+   {
+    "measure": "1 tsp",
+    "name": "salt"
+   },
+   {
+    "measure": "1 tbsp",
+    "name": "sugar"
+   },
+   {
+    "measure": "1",
+    "name": "egg"
+   },
+   {
+    "measure": "200 ml",
+    "name": "warm milk or water, plus a little more if needed"
+   },
+   {
+    "measure": "5 tbsp",
+    "name": "ghee or oil, divided"
+   },
+   {
+    "measure": "",
+    "name": "oil for coating the dough balls"
+   },
+   {
+    "measure": "",
+    "name": "dhal or chicken curry, to serve"
+   }
+  ],
+  "steps": [
+   "Stir the flour, salt and sugar together, then work in the egg, the milk and 1 tbsp of the ghee until a soft, slightly tacky dough forms. Knead for 8 minutes until smooth and stretchy.",
+   "Divide the dough into 6 balls, roll each in oil until well coated, and leave them in a covered, oiled container to rest for at least 2 hours so the gluten relaxes.",
+   "On an oiled work surface, flatten one ball with oiled fingers, then stretch it outward, slapping and pulling until it is paper-thin and almost see-through.",
+   "Brush the sheet with ghee, then fold in the sides and ends to make a small square, or twist the sheet into a rope and coil it into a spiral. Rest the shaped pieces for 10 minutes.",
+   "Flatten each piece a little, then cook on a medium-hot greased griddle for 2 minutes per side until golden and crisp at the edges.",
+   "Hold the hot roti between your hands and push the edges together a few times to crumple and open up the layers. Serve at once with dhal or curry."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Roti_canai",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ },
+ {
+  "id": "original-malaysia-teh-tarik-malaysian-pulled-milk-tea",
+  "title": "Teh tarik (Malaysian pulled milk tea)",
+  "country": "Malaysia",
+  "category": "Miscellaneous",
+  "tags": [
+   "Malaysian",
+   "tea",
+   "drink",
+   "mamak"
+  ],
+  "image": "",
+  "ingredients": [
+   {
+    "measure": "4 tbsp",
+    "name": "strong loose black tea (or 4 tea bags)"
+   },
+   {
+    "measure": "750 ml",
+    "name": "boiling water"
+   },
+   {
+    "measure": "6 tbsp",
+    "name": "sweetened condensed milk, or to taste"
+   },
+   {
+    "measure": "3 tbsp",
+    "name": "evaporated milk"
+   }
+  ],
+  "steps": [
+   "Pour the boiling water over the tea and steep for 5 minutes, then strain into a jug.",
+   "Divide the condensed milk and evaporated milk between two heatproof cups or jugs.",
+   "Pour the hot tea over the milk and stir to dissolve.",
+   "Holding one jug high and the other low, pour the tea back and forth between them in a long stream about six times. The pouring cools the tea slightly and creates a thick froth.",
+   "Serve in glasses while hot and frothy."
+  ],
+  "source": {
+   "name": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Teh_tarik",
+   "linkLabel": "About this dish on Wikipedia",
+   "note": "Original write-up of a traditional preparation, made for World Recipes. Quantities are approximate; adjust to taste."
+  }
+ }
+]
